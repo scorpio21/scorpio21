@@ -1,0 +1,14 @@
+{
+  "name": "update-readme",
+  "version": "1.0.0",
+  "description": "Script para actualizar el README con datos de los proyectos",
+  "main": "update-readme.js",
+  "scripts": {
+    "start": "node update-readme.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "author": "scorpio21",
+  "license": "MIT"
+}

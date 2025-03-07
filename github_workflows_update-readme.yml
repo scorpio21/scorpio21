@@ -1,0 +1,34 @@
+name: Actualizar README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install axios
+
+      - name: Run script to update README
+        run: node update-readme.js
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "Actualizar proyectos en README"
+          git push origin main
