@@ -13,13 +13,12 @@
 
 ## 🌱 Actualmente estoy aprendiendo
 
-- [Tecnología 1](#)
-- [Tecnología 2](#)
+- [PHP](#)
+- [VISUAL BASIC](#)
 
 ## 📫 Cómo contactarme
 
-- **Correo**: [tu-email@example.com](mailto:tu-email@example.com)
-- **LinkedIn**: [tu-linkedin](https://www.linkedin.com/in/tu-linkedin)
+- **Correo**: [sonscorpio@gmail.com](mailto:sonscorpio@gmail.com)
 
 ---
 
