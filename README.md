@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🌟 Bienvenido a Mi GitHub
 
-<!--
-**scorpio21/scorpio21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy [scorpio21](https://github.com/scorpio21), un apasionado desarrollador. Aquí puedes encontrar información sobre mis proyectos.
 
-Here are some ideas to get you started:
+## 🚀 Proyectos Destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Aquí se insertarán automáticamente los datos de los proyectos -->
+
+## 📫 Contacto
+
+- **Correo**: [tu-email@example.com](mailto:tu-email@example.com)
+- **LinkedIn**: [tu-linkedin](https://www.linkedin.com/in/tu-linkedin)
+
+¡Gracias por visitar mi perfil!
