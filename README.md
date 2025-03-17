@@ -1,25 +1,24 @@
-# 👋 Hola, soy Scorpio21
+# 🌟 Bienvenido a Mi GitHub
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador con interés en diversas tecnologías y proyectos.
+¡Hola! Soy [scorpio21](https://github.com/scorpio21), un apasionado desarrollador. Aquí puedes encontrar información sobre mis proyectos.
 
 ## 🚀 Proyectos Destacados
 
-<!-- Aquí se insertarán automáticamente los datos de los proyectos -->
-<!-- Puedes añadir información manualmente o usar un script automatizado -->
+- [ao-cliente](https://github.com/scorpio21/ao-cliente): Client for Argentum Online
+- [ao-server](https://github.com/scorpio21/ao-server): Server for Argentum Online
+- [Aodrag-Server-7.0](https://github.com/scorpio21/Aodrag-Server-7.0): null
+- [Aomania-php](https://github.com/scorpio21/Aomania-php): Utilidades aomania
+- [AoSpain1.0](https://github.com/scorpio21/AoSpain1.0): null
+- [Aoyind](https://github.com/scorpio21/Aoyind): null
+- [calculador](https://github.com/scorpio21/calculador): calculador aomania
+- [Editor-de-Objetos.dat](https://github.com/scorpio21/Editor-de-Objetos.dat): Editor de Objetos.dat
+- [fbalpha](https://github.com/scorpio21/fbalpha): Don't use, we moved to a new repository :
+- [inifile](https://github.com/scorpio21/inifile): null
+- [scorpio21](https://github.com/scorpio21/scorpio21): null
 
-## 📊 Estadísticas de GitHub
+## 📫 Contacto
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=scorpio21&show_icons=true&theme=dark)
-
-## 🌱 Actualmente estoy aprendiendo
-
-- [PHP](#)
-- [VISUAL BASIC](#)
-
-## 📫 Cómo contactarme
-
-- **Correo**: [sonscorpio@gmail.com](mailto:sonscorpio@gmail.com)
-
----
+- **Correo**: [tu-email@example.com](mailto:tu-email@example.com)
+- **LinkedIn**: [tu-linkedin](https://www.linkedin.com/in/tu-linkedin)
 
 ¡Gracias por visitar mi perfil!
