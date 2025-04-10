@@ -1,72 +1,105 @@
-import random
 import requests
+import random
 from datetime import datetime
 
-# Lista de frases
-frases = [
-    "¡No campees, enfrentá como gamer!",
-    "Ganás experiencia hasta cuando perdés.",
-    "Respawneá con más ganas.",
-    "¿Lag? Nah, habilidad pura.",
-    "Un día sin bugs es un milagro.",
-    "Guardá antes de probar algo loco.",
-    "Jugá como si fuera tu última vida.",
-    "AFK solo si es urgente 😎",
-    "Todo gamer sabe: primero looteás, después pensás.",
-    "Subí de nivel hasta en la vida real."
-]
+# Obtener Pokémon aleatorio
+pokemon_id = random.randint(1, 898)
+pokemon_url = f"https://pokeapi.co/api/v2/pokemon/{pokemon_id}"
+species_url = f"https://pokeapi.co/api/v2/pokemon-species/{pokemon_id}"
 
-# Elegir frase y Pokémon aleatorio
-frase = random.choice(frases)
-pokemon_number = random.randint(1, 649)  # Hasta generación 5 con animaciones
+pokemon_data = requests.get(pokemon_url).json()
+species_data = requests.get(species_url).json()
 
-# Obtener datos del Pokémon desde la PokéAPI
-pokemon_data = requests.get(f"https://pokeapi.co/api/v2/pokemon/{pokemon_number}").json()
-pokemon_name = pokemon_data['name'].capitalize()
-pokemon_types = [t['type']['name'].capitalize() for t in pokemon_data['types']]
-pokemon_types_str = ', '.join(pokemon_types)
+nombre = species_data['names'][5]['name']  # Nombre en español
+
+tipos = pokemon_data['types']
 
 # URL del GIF animado del Pokémon
-pokemon_url = f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/{pokemon_number}.gif"
+pokemon_img_url = (
+    f"https://projectpokemon.org/images/normal-sprite/{pokemon_data['name'].capitalize()}.gif"
+)
 
-# Descargar GIF
-output_path = "output/pokemon.gif"
-response = requests.get(pokemon_url)
-if response.status_code == 200:
-    with open(output_path, "wb") as f:
-        f.write(response.content)
-else:
-    print(f"No se pudo descargar el GIF del Pokémon #{pokemon_number}")
+# Traducciones de tipos al español
+tipos_traducidos = {
+    "normal": "Normal",
+    "fire": "Fuego",
+    "water": "Agua",
+    "electric": "Eléctrico",
+    "grass": "Planta",
+    "ice": "Hielo",
+    "fighting": "Lucha",
+    "poison": "Veneno",
+    "ground": "Tierra",
+    "flying": "Volador",
+    "psychic": "Psíquico",
+    "bug": "Bicho",
+    "rock": "Roca",
+    "ghost": "Fantasma",
+    "dragon": "Dragón",
+    "dark": "Siniestro",
+    "steel": "Acero",
+    "fairy": "Hada"
+}
 
-# Actualizar README
+# Traducciones de forma (shape) al español
+formas_traducidas = {
+    "ball": "Esférica",
+    "squiggle": "Serpenteante",
+    "fish": "Pez",
+    "arms": "Con brazos",
+    "blob": "Amorfa",
+    "upright": "Bípeda",
+    "quadruped": "Cuadrúpeda",
+    "wings": "Con alas",
+    "tentacles": "Tentáculos",
+    "heads": "Con cabezas múltiples",
+    "humanoid": "Humanoide",
+    "bug-wings": "Con alas de insecto",
+    "armor": "Con armadura"
+}
+
+# Traducción de tipos al español
+tipos_es = ", ".join([tipos_traducidos.get(t["type"]["name"], t["type"]["name"].capitalize()) for t in tipos])
+
+# Traducción de clase (forma)
+clase_en = species_data["shape"]["name"]
+clase = formas_traducidas.get(clase_en, clase_en.capitalize())
+
+# Frases gamer aleatorias
+frases = [
+    "¡Demasiado pro para ser verdad!",
+    "¡Este Pokémon no necesita masterball!",
+    "Lag no cuenta si ganás igual.",
+    "AFK pero con estilo.",
+    "¡Atrápalos todos... menos los bugs!",
+    "Level up sin esfuerzo, como debe ser.",
+    "GG EZ."
+]
+frase_gamer = random.choice(frases)
+
+# Bloque Pokémon del día
+pokemon_info_block = f"""<!-- POKEMON_INFO -->
+## 🐱‍🔋 Pokémon del día
+
+| Imagen | Nombre | Tipo(s) | Clase |
+|:------:|:------:|:-------:|:-----:|
+| ![Pokémon del día]({pokemon_img_url}) | **{nombre}** | {tipos_es} | {clase} |
+<!-- END_POKEMON_INFO -->"""
+
+# Bloque Frase gamer del día
+frase_block = f"""<!-- FRASE_GAMER -->
+> 🎮 *{frase_gamer}*
+<!-- END_FRASE_GAMER -->"""
+
+# Leer README.md
 with open("README.md", "r", encoding="utf-8") as f:
     contenido = f.read()
 
-# Actualizar la sección del Pokémon
-pokemon_section = f"""
-### 🐱‍👤 Pokémon del día
+# Reemplazar bloques
+contenido = contenido.split("<!-- POKEMON_INFO -->")[0] + pokemon_info_block + contenido.split("<!-- END_POKEMON_INFO -->")[1].split("<!-- FRASE_GAMER -->")[0] + frase_block + contenido.split("<!-- END_FRASE_GAMER -->")[1]
 
-![Pokémon del día](https://raw.githubusercontent.com/scorpio21/scorpio21/main/output/pokemon.gif)
-
-**Nombre:** {pokemon_name}  
-**Tipo(s):** {pokemon_types_str}
-"""
-contenido = contenido.split("<!-- POKEMON_INFO -->")[0] + \
-    f"<!-- POKEMON_INFO -->\n{pokemon_section}\n<!-- /POKEMON_INFO -->" + \
-    contenido.split("<!-- /POKEMON_INFO -->")[1]
-
-# Actualizar la frase gamer
-contenido = contenido.split("<!-- FRASE_GAMER -->")[0] + \
-    f"<!-- FRASE_GAMER -->\n🕹️ {frase}\n<!-- /FRASE_GAMER -->" + \
-    contenido.split("<!-- /FRASE_GAMER -->")[1]
-
-# Actualizar la marca de tiempo
-ahora = datetime.now().isoformat()
-contenido = "\n".join([
-    line if not line.strip().startswith("<!-- Última actualización:") else f"<!-- Última actualización: {ahora} -->"
-    for line in contenido.splitlines()
-])
-
-# Escribir cambios
+# Guardar cambios
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(contenido)
+
+print("✅ README.md actualizado correctamente.")
