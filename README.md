@@ -10,9 +10,14 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ### 🐱‍👤 Pokémon del día
 
 <!-- POKEMON_INFO -->
-| Imagen | Nombre | Tipo |
-|:-:|:-:|:-:|
-| ![Pokémon del día](https://raw.githubusercontent.com/scorpio21/scorpio21/main/output/pokemon.gif) | **Jigglypuff** | Normal, Fairy |
+
+### 🐱‍👤 Pokémon del día
+
+![Pokémon del día](https://raw.githubusercontent.com/scorpio21/scorpio21/main/output/pokemon.gif)
+
+**Nombre:** Empoleon  
+**Tipo(s):** Water, Steel
+
 <!-- /POKEMON_INFO -->
 
 
@@ -21,7 +26,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ### 🎮 Frase gamer del día
 
 <!-- FRASE_GAMER -->
-🕹️ AFK solo si es urgente 😎
+🕹️ Guardá antes de probar algo loco.
 <!-- /FRASE_GAMER -->
 
 > *(Actualizada automáticamente con GitHub Actions)*
@@ -83,4 +88,4 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scorpio21&show_icons=true&theme=tokyonight)
 
-<!-- Última actualización: 2025-04-10T22:24:45.313043 -->
+<!-- Última actualización: 2025-04-10T23:02:46.618464 -->
