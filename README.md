@@ -16,7 +16,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ### 🎮 Frase gamer del día
 
 <!-- FRASE_GAMER -->
-🕹️ Cargando frase gamer del día...
+🕹️ ¡No campees, enfrentá como gamer!
 <!-- /FRASE_GAMER -->
 
 > *(Actualizada automáticamente con GitHub Actions)*
@@ -78,4 +78,4 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scorpio21&show_icons=true&theme=tokyonight)
 
-<!-- Última actualización: 2025-04-10T11:39:43.167828 -->
+<!-- Última actualización: 2025-04-10T14:24:58.182441 -->
