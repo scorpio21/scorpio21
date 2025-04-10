@@ -1,105 +1,83 @@
 import requests
 import random
-from datetime import datetime
+import re
 
-# Obtener Pokémon aleatorio
-pokemon_id = random.randint(1, 898)
-pokemon_url = f"https://pokeapi.co/api/v2/pokemon/{pokemon_id}"
-species_url = f"https://pokeapi.co/api/v2/pokemon-species/{pokemon_id}"
+def obtener_pokemon_aleatorio():
+    pokemon_id = random.randint(1, 898)
+    url = f"https://pokeapi.co/api/v2/pokemon/{pokemon_id}"
+    respuesta = requests.get(url)
+    datos = respuesta.json()
 
-pokemon_data = requests.get(pokemon_url).json()
-species_data = requests.get(species_url).json()
+    nombre = datos["name"].capitalize()
+    tipos = [t["type"]["name"].capitalize() for t in datos["types"]]
+    tipos_es = ", ".join([traducir_tipo(t) for t in tipos])
+    clase = obtener_clase_pokemon(pokemon_id)
 
-nombre = species_data['names'][5]['name']  # Nombre en español
+    sprite_url = datos["sprites"]["versions"]["generation-v"]["black-white"]["animated"]["front_default"]
+    if sprite_url is None:
+        sprite_url = datos["sprites"]["front_default"]
 
-tipos = pokemon_data['types']
+    return nombre, tipos_es, clase, sprite_url
 
-# URL del GIF animado del Pokémon
-pokemon_img_url = (
-    f"https://projectpokemon.org/images/normal-sprite/{pokemon_data['name'].capitalize()}.gif"
-)
+def traducir_tipo(tipo):
+    traducciones = {
+        "Normal": "Normal", "Fire": "Fuego", "Water": "Agua", "Electric": "Eléctrico",
+        "Grass": "Planta", "Ice": "Hielo", "Fighting": "Lucha", "Poison": "Veneno",
+        "Ground": "Tierra", "Flying": "Volador", "Psychic": "Psíquico", "Bug": "Bicho",
+        "Rock": "Roca", "Ghost": "Fantasma", "Dragon": "Dragón", "Dark": "Siniestro",
+        "Steel": "Acero", "Fairy": "Hada"
+    }
+    return traducciones.get(tipo, tipo)
 
-# Traducciones de tipos al español
-tipos_traducidos = {
-    "normal": "Normal",
-    "fire": "Fuego",
-    "water": "Agua",
-    "electric": "Eléctrico",
-    "grass": "Planta",
-    "ice": "Hielo",
-    "fighting": "Lucha",
-    "poison": "Veneno",
-    "ground": "Tierra",
-    "flying": "Volador",
-    "psychic": "Psíquico",
-    "bug": "Bicho",
-    "rock": "Roca",
-    "ghost": "Fantasma",
-    "dragon": "Dragón",
-    "dark": "Siniestro",
-    "steel": "Acero",
-    "fairy": "Hada"
-}
+def obtener_clase_pokemon(pokemon_id):
+    url = f"https://pokeapi.co/api/v2/pokemon-species/{pokemon_id}"
+    respuesta = requests.get(url)
+    datos = respuesta.json()
+    for entry in datos["genera"]:
+        if entry["language"]["name"] == "es":
+            return entry["genus"]
+    return "Desconocida"
 
-# Traducciones de forma (shape) al español
-formas_traducidas = {
-    "ball": "Esférica",
-    "squiggle": "Serpenteante",
-    "fish": "Pez",
-    "arms": "Con brazos",
-    "blob": "Amorfa",
-    "upright": "Bípeda",
-    "quadruped": "Cuadrúpeda",
-    "wings": "Con alas",
-    "tentacles": "Tentáculos",
-    "heads": "Con cabezas múltiples",
-    "humanoid": "Humanoide",
-    "bug-wings": "Con alas de insecto",
-    "armor": "Con armadura"
-}
+def obtener_frase_gamer():
+    frases = [
+        "¡No campees tanto, que pareces una tienda de campaña!",
+        "AFK pero en espíritu sigo presente.",
+        "Nivel bajo, pero moral alta.",
+        "Ese lag fue emocional.",
+        "Game over, pero con estilo.",
+        "¡Recargando... pero mi vida también!",
+        "No soy noob, estoy en fase de aprendizaje."
+    ]
+    return random.choice(frases)
 
-# Traducción de tipos al español
-tipos_es = ", ".join([tipos_traducidos.get(t["type"]["name"], t["type"]["name"].capitalize()) for t in tipos])
+# Obtener datos del Pokémon
+nombre, tipos_es, clase, imagen_url = obtener_pokemon_aleatorio()
+frase_gamer = obtener_frase_gamer()
 
-# Traducción de clase (forma)
-clase_en = species_data["shape"]["name"]
-clase = formas_traducidas.get(clase_en, clase_en.capitalize())
-
-# Frases gamer aleatorias
-frases = [
-    "¡Demasiado pro para ser verdad!",
-    "¡Este Pokémon no necesita masterball!",
-    "Lag no cuenta si ganás igual.",
-    "AFK pero con estilo.",
-    "¡Atrápalos todos... menos los bugs!",
-    "Level up sin esfuerzo, como debe ser.",
-    "GG EZ."
-]
-frase_gamer = random.choice(frases)
-
-# Bloque Pokémon del día
-pokemon_info_block = f"""<!-- POKEMON_INFO -->
-## 🐱‍🔋 Pokémon del día
-
-| Imagen | Nombre | Tipo(s) | Clase |
-|:------:|:------:|:-------:|:-----:|
-| ![Pokémon del día]({pokemon_img_url}) | **{nombre}** | {tipos_es} | {clase} |
-<!-- END_POKEMON_INFO -->"""
-
-# Bloque Frase gamer del día
-frase_block = f"""<!-- FRASE_GAMER -->
-> 🎮 *{frase_gamer}*
-<!-- END_FRASE_GAMER -->"""
-
-# Leer README.md
+# Leer README
 with open("README.md", "r", encoding="utf-8") as f:
     contenido = f.read()
 
-# Reemplazar bloques
-contenido = contenido.split("<!-- POKEMON_INFO -->")[0] + pokemon_info_block + contenido.split("<!-- END_POKEMON_INFO -->")[1].split("<!-- FRASE_GAMER -->")[0] + frase_block + contenido.split("<!-- END_FRASE_GAMER -->")[1]
+# Bloque del Pokémon del día
+pokemon_info_block = f"""<!-- POKEMON_INFO -->
+## 🐱‍👤 Pokémon del día
 
-# Guardar cambios
+| Imagen | Nombre | Tipo(s) | Clase |
+|:------:|:------:|:-------:|:-----:|
+| ![Pokémon del día]({imagen_url}) | **{nombre}** | {tipos_es} | {clase} |
+<!-- END_POKEMON_INFO -->"""
+
+# Bloque de la frase gamer del día
+frase_gamer_block = f"""<!-- FRASE_GAMER -->
+## 🎮 Frase gamer del día
+
+🗯️ *{frase_gamer}*
+<!-- END_FRASE_GAMER -->"""
+
+# Reemplazo en el contenido
+contenido = re.sub(r"<!-- POKEMON_INFO -->.*<!-- END_POKEMON_INFO -->", pokemon_info_block, contenido, flags=re.DOTALL)
+contenido = re.sub(r"<!-- FRASE_GAMER -->.*<!-- END_FRASE_GAMER -->", frase_gamer_block, contenido, flags=re.DOTALL)
+
+# Guardar README actualizado
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(contenido)
-
-print("✅ README.md actualizado correctamente.")
