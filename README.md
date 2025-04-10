@@ -7,19 +7,12 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 ---
 
-### 🐱‍👤 Pokémon del día
+pokemon_info_block = f"""<!-- POKEMON_INFO -->
+## 🐱‍👤 Pokémon del día
 
-<!-- POKEMON_INFO -->
-
-### 🐱‍👤 Pokémon del día
-
-![Pokémon del día](https://raw.githubusercontent.com/scorpio21/scorpio21/main/output/pokemon.gif)
-
-**Nombre:** Pachirisu  
-**Tipo(s):** Electric
-
-<!-- /POKEMON_INFO -->
-
+| ![Pokémon del día]({pokemon_img_url}) | **{nombre}** | {tipos} |
+|:-------------------------------------:|:------------:|:--------:|
+<!-- END_POKEMON_INFO -->"""
 
 ---
 
