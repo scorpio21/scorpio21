@@ -9,7 +9,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 <!-- POKEMON_INFO -->
 <!-- Este bloque será reemplazado automáticamente por el script -->
-<!-- END_POKEMON_INFO -->
+<!-- /POKEMON_INFO -->
 
 ---
 
