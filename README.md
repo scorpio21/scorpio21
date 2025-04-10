@@ -7,12 +7,9 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 ---
 
-pokemon_info_block = f"""<!-- POKEMON_INFO -->
-## 🐱‍👤 Pokémon del día
-
-| ![Pokémon del día]({pokemon_img_url}) | **{nombre}** | {tipos} |
-|:-------------------------------------:|:------------:|:--------:|
-<!-- END_POKEMON_INFO -->"""
+<!-- POKEMON_INFO -->
+<!-- Este bloque será reemplazado automáticamente por el script -->
+<!-- END_POKEMON_INFO -->
 
 ---
 
