@@ -9,7 +9,10 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 ### 🐱‍👤 Pokémon del día
 
-![Pokémon del día](https://raw.githubusercontent.com/scorpio21/scorpio21/main/output/pokemon.gif)
+<!-- POKEMON_INFO -->
+| ![Pokémon del día](https://raw.githubusercontent.com/scorpio21/scorpio21/main/output/pokemon.gif) | Nombre | Tipo |
+|:-:|:-:|:-:|
+<!-- /POKEMON_INFO -->
 
 ---
 
