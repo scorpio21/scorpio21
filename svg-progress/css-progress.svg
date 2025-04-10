@@ -1,1 +1,17 @@
-<svg>CSS</svg>
+<svg width="100%" height="20" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #ddd; }
+    .fg { fill: #1572B6; }
+    .label { fill: #000; font-size: 12px; font-family: sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #444; }
+      .fg { fill: #1572B6; }
+      .label { fill: #fff; }
+    }
+  </style>
+  <rect class="bg" width="100%" height="20" rx="10" />
+  <rect class="fg" width="60%" height="20" rx="10">
+    <animate attributeName="width" from="0" to="60%" dur="1s" fill="freeze" />
+  </rect>
+  <text class="label" x="95%" y="15" text-anchor="end">60%</text>
+</svg>

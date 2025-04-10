@@ -1,0 +1,33 @@
+name: Actualizar Pokémon y Frase del Día
+
+on:
+  schedule:
+    - cron: '0 7 * * *'  # Todos los días a las 07:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Instalar dependencias
+        run: pip install -r scripts/requirements.txt
+
+      - name: Ejecutar script de actualización
+        run: python scripts/update_content.py
+
+      - name: Confirmar cambios y subir
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git commit -m "🔁 Pokémon y frase actualizados automáticamente"
+          git push
