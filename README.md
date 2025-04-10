@@ -64,7 +64,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 ## 📬 ¿Querés contactarme?
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonscorpio@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scorpio21/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scorpio21)
 
@@ -79,5 +79,3 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scorpio21&show_icons=true&theme=tokyonight)
 
 <!-- Última actualización: 2025-04-10T11:39:43.167828 -->
-
-<!-- Última actualización: 2025-04-10T11:52:53.666808 -->

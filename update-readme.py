@@ -1,4 +1,5 @@
 import random
+import requests
 from datetime import datetime
 
 frases = [
@@ -14,22 +15,36 @@ frases = [
     "Subí de nivel hasta en la vida real."
 ]
 
+# Elegir frase y Pokémon aleatorio
 frase = random.choice(frases)
-ahora = datetime.now().isoformat()
+pokemon_number = random.randint(1, 649)  # Hasta generación 5 con animaciones
+pokemon_url = f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/animated/{pokemon_number}.gif"
 
+# Descargar GIF
+output_path = "output/pokemon.gif"
+response = requests.get(pokemon_url)
+if response.status_code == 200:
+    with open(output_path, "wb") as f:
+        f.write(response.content)
+else:
+    print(f"No se pudo descargar el GIF del Pokémon #{pokemon_number}")
+
+# Actualizar README
 with open("README.md", "r", encoding="utf-8") as f:
     contenido = f.read()
 
-nuevo_contenido = contenido
-nuevo_contenido = nuevo_contenido.split("<!-- FRASE_GAMER -->")[0] + \
+# Actualizar la frase
+contenido = contenido.split("<!-- FRASE_GAMER -->")[0] + \
     f"<!-- FRASE_GAMER -->\n🕹️ {frase}\n<!-- /FRASE_GAMER -->" + \
     contenido.split("<!-- /FRASE_GAMER -->")[1]
 
-# Reemplaza la línea de última actualización si existe
-nuevo_contenido = "\n".join([
+# Actualizar la marca de tiempo
+ahora = datetime.now().isoformat()
+contenido = "\n".join([
     line if not line.strip().startswith("<!-- Última actualización:") else f"<!-- Última actualización: {ahora} -->"
-    for line in nuevo_contenido.splitlines()
+    for line in contenido.splitlines()
 ])
 
+# Escribir cambios
 with open("README.md", "w", encoding="utf-8") as f:
-    f.write(nuevo_contenido)
+    f.write(contenido)
