@@ -18,8 +18,20 @@ frases = [
 
 # Elegir Pokémon y frase aleatoria
 pokemon_id = random.randint(1, 649)
-pokemon_gif_url = f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/animated/{pokemon_id}.gif"
 pokemon_api_url = f"https://pokeapi.co/api/v2/pokemon/{pokemon_id}"
+response = requests.get(pokemon_api_url)
+
+if response.status_code == 200:
+    data = response.json()
+    nombre = data["name"].capitalize()
+    tipos = ", ".join([t["type"]["type"]["name"].capitalize() for t in data["types"]])
+    # Usamos el sprite frontal estático (siempre correcto)
+    pokemon_img_url = data["sprites"]["front_default"]
+else:
+    nombre = "Desconocido"
+    tipos = "???"
+    pokemon_img_url = ""
+
 frase = random.choice(frases)
 
 # Descargar GIF
