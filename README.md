@@ -15,8 +15,8 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 ![Pokémon del día](https://raw.githubusercontent.com/scorpio21/scorpio21/main/output/pokemon.gif)
 
-**Nombre:** Empoleon  
-**Tipo(s):** Water, Steel
+**Nombre:** Pachirisu  
+**Tipo(s):** Electric
 
 <!-- /POKEMON_INFO -->
 
@@ -26,7 +26,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ### 🎮 Frase gamer del día
 
 <!-- FRASE_GAMER -->
-🕹️ Guardá antes de probar algo loco.
+🕹️ AFK solo si es urgente 😎
 <!-- /FRASE_GAMER -->
 
 > *(Actualizada automáticamente con GitHub Actions)*
@@ -88,4 +88,4 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scorpio21&show_icons=true&theme=tokyonight)
 
-<!-- Última actualización: 2025-04-10T23:02:46.618464 -->
+<!-- Última actualización: 2025-04-10T23:14:07.565813 -->
