@@ -8,7 +8,14 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Este bloque será reemplazado automáticamente por el script -->
+
+### 🐱‍👤 Pokémon del día
+
+![Pokémon del día](https://raw.githubusercontent.com/scorpio21/scorpio21/main/output/pokemon.gif)
+
+**Nombre:** Whiscash  
+**Tipo(s):** Water, Ground
+
 <!-- /POKEMON_INFO -->
 
 ---
@@ -16,7 +23,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ### 🎮 Frase gamer del día
 
 <!-- FRASE_GAMER -->
-🕹️ AFK solo si es urgente 😎
+🕹️ Un día sin bugs es un milagro.
 <!-- /FRASE_GAMER -->
 
 > *(Actualizada automáticamente con GitHub Actions)*
@@ -78,4 +85,4 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scorpio21&show_icons=true&theme=tokyonight)
 
-<!-- Última actualización: 2025-04-10T23:14:07.565813 -->
+<!-- Última actualización: 2025-04-10T23:27:22.650318 -->
