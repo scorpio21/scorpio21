@@ -1,0 +1,30 @@
+name: Actualizar README cada día
+
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+      - name: Ejecutar scripts
+        run: |
+          python scripts/generar_frase.py
+          python scripts/generar_pokemon.py
+          python scripts/update_readme.py
+      - name: Subir cambios
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add .
+          git commit -m "Actualizar README con Pokémon y frase del día" || echo "Sin cambios"
+          git push
