@@ -10,9 +10,11 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ### 🐱‍👤 Pokémon del día
 
 <!-- POKEMON_INFO -->
-| ![Pokémon del día](https://raw.githubusercontent.com/scorpio21/scorpio21/main/output/pokemon.gif) | **Jigglypuff** | Normal, Fairy |
+| Imagen | Nombre | Tipo |
 |:-:|:-:|:-:|
+| ![Pokémon del día](https://raw.githubusercontent.com/scorpio21/scorpio21/main/output/pokemon.gif) | **Jigglypuff** | Normal, Fairy |
 <!-- /POKEMON_INFO -->
+
 
 ---
 
