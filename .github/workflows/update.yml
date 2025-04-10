@@ -28,6 +28,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/
-          git commit -m "🔁 Pokémon y frase actualizados automáticamente"
+          git add output/ README.md
+          git commit -m "🔁 Pokémon y frase actualizados automáticamente" || echo "Sin cambios"
           git push
