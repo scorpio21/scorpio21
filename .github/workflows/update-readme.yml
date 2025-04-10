@@ -15,7 +15,7 @@ jobs:
         with:
           python-version: "3.x"
       - name: Ejecutar script de actualización
-        run: python3 Update-Readme.py
+        run: python3 update-readme.py
       - name: Commit y Push
         run: |
           git config --global user.name 'github-actions'
