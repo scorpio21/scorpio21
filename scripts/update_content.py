@@ -39,7 +39,7 @@ else:
 frase = random.choice(frases)
 
 # Descargar GIF
-pokemon_gif_url = f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/{pokemon_id}.gif"
+pokemon_gif_url = "https://raw.githubusercontent.com/scorpio21/scorpio21/main/output/pokemon.gif"
 output_path = "output/pokemon.gif"
 gif_response = requests.get(pokemon_gif_url)
 if gif_response.status_code == 200:
