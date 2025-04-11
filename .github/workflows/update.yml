@@ -26,11 +26,10 @@ jobs:
       - name: 📝 Ejecutar script de actualización
         run: python scripts/update_content.py
 
-      - name: 🚧 Actualizar repositorio remoto
+      - name: 🚀 Subir cambios al repositorio
         run: |
-          git pull origin main --rebase   # Realiza un pull para obtener cambios remotos y evitar conflictos
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           git add README.md
           git commit -m "🔁 Actualización diaria automática: Pokémon y frase gamer" || echo "No hay cambios"
-          git push https://github.com/scorpio21/scorpio21.git ${{ secrets.GITHUB_TOKEN }}@main
+          git push
