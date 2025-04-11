@@ -129,7 +129,7 @@ frase_info_block = f"""<!-- FRASE_GAMER -->
 > "{frase_del_dia}"
 <!-- END_FRASE_GAMER -->"""
 
-# Imprimir para verificar el resultado
+# Verificar los bloques antes de escribirlos
 print(pokemon_info_block)
 print(frase_info_block)
 
