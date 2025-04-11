@@ -1,33 +1,28 @@
-name: Actualizar Pokémon y Frase del Día
+name: Update README
 
 on:
   schedule:
-    - cron: '0 7 * * *'  # Todos los días a las 07:00 UTC
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # Esto hará que el script se ejecute todos los días a medianoche
+  workflow_dispatch:  # Permite ejecutar manualmente desde GitHub Actions
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clonar repositorio
-        uses: actions/checkout@v3
+    - name: Check out the repository
+      uses: actions/checkout@v3
 
-      - name: Configurar Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'  # Puedes usar la versión de Python que prefieras
 
-      - name: Instalar dependencias
-        run: pip install -r requirements.txt
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install PyGithub requests
 
-      - name: Ejecutar script de actualización
-        run: python scripts/update_content.py
-
-      - name: Confirmar cambios y subir
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/ README.md
-          git commit -m "🔁 Pokémon y frase actualizados automáticamente" || echo "Sin cambios"
-          git push
+    - name: Run update_content.py
+      run: |
+        python scripts/update_content.py
