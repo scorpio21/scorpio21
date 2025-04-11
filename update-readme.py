@@ -121,7 +121,8 @@ Exeggutor y Venusaur comparten el tipo Planta, pero mientras Exeggutor es más c
 
 # Bloque de frase gamer en el README
 frase_info_block = f"""<!-- FRASE_GAMER -->
-## 💬 Frase gamer del día
+
+### 💬 Frase 🎮 del día
 > "{frase_del_dia}"
 <!-- END_FRASE_GAMER -->"""
 
