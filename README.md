@@ -11,7 +11,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 <!-- END_POKEMON_INFO -->
 
 <!-- FRASE_GAMER -->
-<!-- FRASE_GAMER_END -->
+<!-- END_FRASE_GAMER -->
 
 ---
 
