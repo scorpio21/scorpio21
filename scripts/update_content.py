@@ -32,9 +32,10 @@ else:
     tipos = "???"
     pokemon_img_url = ""
 
-frase = random.choice(frases)
+# URL del GIF animado (usa un enlace válido de un GIF de Pokémon aquí)
+pokemon_gif_url = f"https://raw.githubusercontent.com/scorpio21/scorpio21/main/output/{nombre.lower()}_gif.gif"
 
-# Descargar GIF
+# Descargar GIF animado
 output_path = "output/pokemon.gif"
 gif_response = requests.get(pokemon_gif_url)
 if gif_response.status_code == 200:
@@ -43,15 +44,8 @@ if gif_response.status_code == 200:
 else:
     print(f"❌ No se pudo descargar el GIF del Pokémon #{pokemon_id}")
 
-# Obtener datos del Pokémon desde la API
-response = requests.get(pokemon_api_url)
-if response.status_code == 200:
-    data = response.json()
-    nombre = data["name"].capitalize()
-    tipos = ", ".join([t["type"]["name"].capitalize() for t in data["types"]])
-else:
-    nombre = "Desconocido"
-    tipos = "???"
+# Elegir una frase aleatoria
+frase = random.choice(frases)
 
 # Leer README actual
 with open("README.md", "r", encoding="utf-8") as f:
@@ -73,10 +67,8 @@ contenido = contenido.split("<!-- FRASE_GAMER -->")[0] + \
 
 # Marcar hora de última actualización
 ahora = datetime.now().isoformat()
-contenido = "\n".join([
-    line if not line.strip().startswith("<!-- Última actualización:") else f"<!-- Última actualización: {ahora} -->"
-    for line in contenido.splitlines()
-])
+contenido = "\n".join([line if not line.strip().startswith("<!-- Última actualización:") else f"<!-- Última actualización: {ahora} -->"
+                      for line in contenido.splitlines()])
 
 # Guardar cambios
 with open("README.md", "w", encoding="utf-8") as f:
