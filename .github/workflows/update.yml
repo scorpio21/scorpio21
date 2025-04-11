@@ -1,4 +1,4 @@
-name: 🌀 Actualizar README con Pokémon y frase gamer
+name: 🌀 con token Actualizar README con Pokémon y frase gamer
 
 on:
   schedule:
@@ -25,6 +25,8 @@ jobs:
 
       - name: 📝 Ejecutar script de actualización
         run: python scripts/update_content.py
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Usar el token aquí
 
       - name: 🚀 Subir cambios al repositorio
         run: |
@@ -33,4 +35,5 @@ jobs:
           git add README.md
           git commit -m "🔁 Actualización diaria automática: Pokémon y frase gamer" || echo "No hay cambios"
           git push
-
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Usar el token aquí
