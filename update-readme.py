@@ -11,10 +11,13 @@ def get_pokemon_of_the_day():
     tipos = [tipo["type"]["name"] for tipo in data["types"]]
     tipos_es = [get_pokemon_type_translation(tipo) for tipo in tipos]  # Traducción de los tipos al español
     imagen = data["sprites"]["front_default"]
+    pokedex_num = data["id"]  # Número del Pokémon en la Pokédex
     clase = data["species"]["name"]
-    pokedex_num = data["id"]
-
-    return nombre, tipos_es, imagen, clase, pokedex_num
+    
+    # Estadísticas base
+    stats = {stat["stat"]["name"]: stat["base_stat"] for stat in data["stats"]}
+    
+    return nombre, tipos_es, imagen, pokedex_num, clase, stats
 
 # Función para traducir tipos de Pokémon al español
 def get_pokemon_type_translation(tipo):
@@ -42,7 +45,7 @@ def get_pokemon_type_translation(tipo):
     return traducciones.get(tipo, tipo)  # Si no encuentra la traducción, devuelve el nombre del tipo tal cual
 
 # Obtener el Pokémon del día
-nombre, tipos_es, pokemon_img_url, clase, pokedex_num = get_pokemon_of_the_day()
+nombre, tipos_es, pokemon_img_url, pokedex_num, clase, stats = get_pokemon_of_the_day()
 
 # Función para obtener la frase gamer del día
 def get_gamer_quote():
@@ -61,7 +64,7 @@ def get_gamer_quote():
 # Obtener la frase gamer del día
 frase_del_dia = get_gamer_quote()
 
-# Bloque de información de Pokémon en el README con la imagen dinámica
+# Bloque de información de Pokémon en el README
 pokemon_info_block = f"""<!-- POKEMON_INFO -->
 
 ### 🐱‍👤 Pokémon del día
@@ -88,10 +91,10 @@ pokemon_info_block = f"""<!-- POKEMON_INFO -->
 ---
 
 **Estadísticas base:**
-- **HP:** {random.randint(70, 150)}
-- **Ataque:** {random.randint(70, 130)}
-- **Defensa:** {random.randint(50, 110)}
-- **Velocidad:** {random.randint(30, 70)}
+- **HP:** {stats["hp"]}
+- **Ataque:** {stats["attack"]}
+- **Defensa:** {stats["defense"]}
+- **Velocidad:** {stats["speed"]}
 
 ---
 
