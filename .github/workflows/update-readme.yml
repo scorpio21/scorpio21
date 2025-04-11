@@ -1,32 +1,35 @@
-name: Actualizar Pokémon y Frase del día
+name: 🌀 Actualizar README con Pokémon y frase gamer
 
 on:
   schedule:
-    - cron: "0 6 * * *"  # Esto ejecuta el flujo todos los días a las 6:00 AM UTC.
-  workflow_dispatch:  # Esto permite ejecutar el flujo manualmente desde la interfaz de GitHub.
+    - cron: '0 12 * * *'  # Todos los días a las 12:00 UTC
+  workflow_dispatch:      # Permite ejecutarlo manualmente también
 
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - name: 📥 Clonar el repositorio
+        uses: actions/checkout@v3
 
-      - name: Instalar Python
-        uses: actions/setup-python@v5
+      - name: 🔧 Configurar Python
+        uses: actions/setup-python@v4
         with:
-          python-version: "3.x"
+          python-version: '3.x'
 
-      - name: Instalar dependencias
-        run: pip install beautifulsoup4 requests  # Instalando beautifulsoup4 para tu script
-
-      - name: Ejecutar script de actualización
-        run: python3 update-readme.py  # Ejecuta tu script que actualiza README.md
-
-      - name: Commit y Push
+      - name: 📦 Instalar dependencias
         run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'actions@github.com'
-          git add README.md output/pokemon.gif
-          git commit -m "🔁 Actualizo Pokémon y frase del día" || echo "Sin cambios"
-          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: 📝 Ejecutar script de actualización
+        run: python update_content.py
+
+      - name: 🚀 Subir cambios al repositorio
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add README.md
+          git commit -m "🔁 Actualización diaria automática: Pokémon y frase gamer" || echo "No hay cambios"
+          git push
