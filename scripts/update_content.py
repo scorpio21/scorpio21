@@ -1,94 +1,74 @@
 import os
+from github import Github
 import random
 import requests
-from github import Github
-from datetime import datetime
+from bs4 import BeautifulSoup
 
-# Obtener el token de la variable de entorno GH_TOKEN
-g = Github(os.getenv("GH_TOKEN"))
+# Usamos el token de GitHub
+token = os.getenv("GH_TOKEN")  # Asegúrate de que el token esté en los secretos de GitHub Actions
+g = Github(token)
 
-# Frases graciosas estilo gamer
-frases = [
-    "¡No campees, enfrentá como gamer!",
-    "Ganás experiencia hasta cuando perdés.",
-    "Respawneá con más ganas.",
-    "¿Lag? Nah, habilidad pura.",
-    "Un día sin bugs es un milagro.",
-    "Guardá antes de probar algo loco.",
-    "Jugá como si fuera tu última vida.",
-    "AFK solo si es urgente 😎",
-    "Todo gamer sabe: primero looteás, después pensás.",
-    "Subí de nivel hasta en la vida real."
-]
-
-# Elegir Pokémon aleatorio
-pokemon_id = random.randint(1, 649)
-pokemon_api_url = f"https://pokeapi.co/api/v2/pokemon/{pokemon_id}"
-response = requests.get(pokemon_api_url)
-
-if response.status_code == 200:
-    data = response.json()
-    nombre = data["name"].capitalize()
-    tipos = ", ".join([t["type"]["name"].capitalize() for t in data["types"] if "type" in t])
-    pokemon_img_url = data["sprites"]["front_default"]
-    clasificacion = data["species"]["name"].capitalize()
-    num_pokedex = data["id"]
-else:
-    nombre = "Desconocido"
-    tipos = "???"
-    pokemon_img_url = ""
-    clasificacion = "???"
-    num_pokedex = "???"
-
-# Descargar GIF del Pokémon
-pokemon_gif_url = f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/{pokemon_id}.gif"
-output_path = "output/pokemon.gif"
-gif_response = requests.get(pokemon_gif_url)
-if gif_response.status_code == 200:
-    with open(output_path, "wb") as f:
-        f.write(gif_response.content)
-else:
-    print(f"❌ No se pudo descargar el GIF del Pokémon #{pokemon_id}")
-
-# Elegir una frase aleatoria
-frase = random.choice(frases)
-
-# Leer README actual
+# Obtener el repositorio
 repo = g.get_repo("scorpio21/scorpio21")
-readme_file = repo.get_contents("README.md")
-contenido = readme_file.decoded_content.decode("utf-8")
+print(f"Repositorio: {repo.name}")  # Verificar el nombre del repositorio
 
-# Si no existen las etiquetas, agregarlas
-if "<!-- POKEMON_INFO -->" not in contenido:
-    contenido = contenido.split("<!-- END_POKEMON_INFO -->")[0] + "<!-- POKEMON_INFO -->\n<!-- END_POKEMON_INFO -->" + contenido.split("<!-- END_POKEMON_INFO -->")[1]
+try:
+    # Intentar obtener el archivo README.md
+    readme_file = repo.get_contents("README.md")
+    print(f"Archivo encontrado: {readme_file.name}")
+    contenido = readme_file.decoded_content.decode("utf-8")
+    print("Contenido del archivo cargado correctamente.")
+except Exception as e:
+    print(f"Error al obtener el archivo README.md: {str(e)}")
+    exit(1)  # Terminar el script si no se puede obtener el archivo
 
-# Actualizar bloque POKEMON_INFO con la nueva tabla
-bloque_pokemon = f"""<!-- POKEMON_INFO -->
-| Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
-|:-:|:-:|:-:|:-:|:-:|
-| ![Pokémon del día]({pokemon_gif_url}) | **{nombre}** | {tipos} | {clasificacion} | {num_pokedex} |
-<!-- END_POKEMON_INFO -->"""
+# Aquí deberías seguir con el código para obtener el Pokémon del día y la frase gamer
 
-contenido = contenido.split("<!-- POKEMON_INFO -->")[0] + bloque_pokemon + contenido.split("<!-- END_POKEMON_INFO -->")[1]
+# Obtener el Pokémon del día (ejemplo)
+pokemon_id = random.randint(1, 898)  # Número aleatorio para el Pokémon (puedes ajustar el rango)
+pokemon_url = f"https://pokeapi.co/api/v2/pokemon/{pokemon_id}"
 
-# Actualizar la frase gamer
-contenido = contenido.split("<!-- FRASE_GAMER -->")[0] + \
-    f"<!-- FRASE_GAMER -->\n🕹️ {frase}\n<!-- END_FRASE_GAMER -->" + \
-    contenido.split("<!-- END_FRASE_GAMER -->")[1]
+try:
+    response = requests.get(pokemon_url)
+    response.raise_for_status()
+    pokemon_data = response.json()
 
-# Marcar hora de última actualización
-ahora = datetime.now().isoformat()
-contenido = "\n".join([ 
-    line if not line.strip().startswith("<!-- Última actualización:") else f"<!-- Última actualización: {ahora} -->" 
-    for line in contenido.splitlines() 
-])
+    # Obtener los detalles del Pokémon
+    pokemon_name = pokemon_data["name"].capitalize()
+    pokemon_types = [type_data["type"]["name"] for type_data in pokemon_data["types"]]
+    pokemon_types_str = ", ".join(pokemon_types)
+    pokemon_image_url = pokemon_data["sprites"]["other"]["official-artwork"]["front_default"]
 
-# Subir cambios al repositorio
-repo.update_file(
-    path="README.md",
-    message="🔁 Actualización diaria automática: Pokémon y frase gamer",
-    content=contenido,
-    sha=readme_file.sha
-)
+    # Descargar el GIF del Pokémon
+    gif_response = requests.get(pokemon_image_url)
+    if gif_response.status_code != 200:
+        print(f"❌ No se pudo descargar el GIF del Pokémon #{pokemon_id}")
+        pokemon_image_url = ""  # Asigna una imagen vacía si no se puede descargar
+except Exception as e:
+    print(f"Error al obtener el Pokémon: {str(e)}")
+    pokemon_image_url = ""
 
-print("¡README actualizado con éxito!")
+# Aquí puedes actualizar la frase gamer (esto es solo un ejemplo)
+frase_gamer = "¡Atrévete a ser el mejor!"
+
+# Reemplazar el contenido en el README.md
+contenido = contenido.replace("<!-- POKEMON_INFO -->", f"""
+| Imagen | Nombre | Tipo(s) |
+|--------|--------|---------|
+| ![Pokémon]( {pokemon_image_url} ) | {pokemon_name} | {pokemon_types_str} |
+""")
+
+contenido = contenido.replace("<!-- FRASE_GAMER -->", f"**Frase gamer del día:** {frase_gamer}")
+
+# Subir el archivo actualizado al repositorio
+try:
+    repo.update_file(
+        path="README.md",
+        message="🔁 Actualización diaria automática: Pokémon y frase gamer",
+        content=contenido,
+        sha=readme_file.sha
+    )
+    print("README.md actualizado correctamente")
+except Exception as e:
+    print(f"Error al actualizar el archivo README.md: {str(e)}")
+    exit(1)  # Terminar el script si no se puede actualizar el archivo
