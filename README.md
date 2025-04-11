@@ -63,9 +63,6 @@ Exeggutor y Venusaur comparten el tipo Planta, pero mientras Exeggutor es más c
 
 <!-- END_POKEMON_INFO -->
 
-
-
-
 ---
 
 <!-- FRASE_GAMER -->
@@ -117,6 +114,16 @@ Exeggutor y Venusaur comparten el tipo Planta, pero mientras Exeggutor es más c
 
 ---
 
+### 📌 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías | Enlace |
+|---------|-------------|-------------|--------|
+| 🎮 **Argentum Online Revival** | Versión mejorada del clásico AO con nuevas funciones, correcciones de bugs y soporte para sistemas modernos. | ![VB6](https://img.shields.io/badge/-VB6-blueviolet) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff) | [🔗 Ver en GitHub](https://github.com/scorpio21/argentum-online-revival) |
+| 🧙 **AO Spell Editor** | Editor de hechizos para AO con interfaz intuitiva y exportación automática. | ![VB6](https://img.shields.io/badge/-VB6-blueviolet) ![XML](https://img.shields.io/badge/-XML-orange) | [🔗 Ver en GitHub](https://github.com/scorpio21/ao-spell-editor) |
+| 📊 **ZX Spectrum Game Extractor** | Script en Python para extraer juegos del archivo HTML del World of Spectrum y exportarlos a Excel. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) | [🔗 Ver en GitHub](https://github.com/scorpio21/zx-spectrum-extractor) |
+
+---
+
 ## 📬 ¿Querés contactarme?
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonscorpio@gmail.com)  
@@ -133,4 +140,4 @@ Exeggutor y Venusaur comparten el tipo Planta, pero mientras Exeggutor es más c
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scorpio21&show_icons=true&theme=tokyonight)
 
-<!-- Última actualización: 2025-04-10T23:27:22.650318 -->
+<!-- Última actualización: 2025-04-11 -->
