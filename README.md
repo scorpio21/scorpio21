@@ -16,7 +16,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 **Nombre:** Whiscash  
 **Tipo(s):** Water, Ground
 
-<!-- /POKEMON_INFO -->
+<!-- END_POKEMON_INFO -->
 
 ---
 
@@ -24,7 +24,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 <!-- FRASE_GAMER -->
 🕹️ Un día sin bugs es un milagro.
-<!-- /FRASE_GAMER -->
+<!-- END_FRASE_GAMER -->
 
 > *(Actualizada automáticamente con GitHub Actions)*
 
