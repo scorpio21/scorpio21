@@ -8,12 +8,61 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-## 🐱‍👤 Pokémon del día
 
-| Imagen | Nombre | Tipo(s) | Clase |
-|:------:|:------:|:-------:|:-----:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png) | **Swinub** | Hielo, Tierra | swinub |
+### 🐱‍👤 Pokémon del día
+
+| Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
+|:------:|:------:|:-------:|:-----:|:-----------------:|
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png) | **Exeggutor** | Planta, Psíquico | Exeggutor | 103 |
+
+**Curiosidad:**  
+Exeggutor es conocido por su alta capacidad de usar movimientos psíquicos. Además, su diseño está basado en un árbol tropical de la región de Alola.
+
+---
+
+**Movimientos especiales:**
+- **Psíquico**
+- **Hoja Afilada**
+- **Rayo Solar**
+
+---
+
+**Evolución:**  
+- **Exeggutor** → **Exeggutor (Alola)**
+
+---
+
+**Estadísticas base:**
+- **HP:** 95
+- **Ataque:** 105
+- **Defensa:** 85
+- **Velocidad:** 45
+
+---
+
+**Habilidad:** Clorofila
+
+---
+
+**Historia del día:**  
+"Hoy, Exeggutor se despertó con una extraña sensación. El sol de la mañana lo llenó de energía, y ahora está listo para enfrentar cualquier reto en su camino. ¡Cuidado, entrenadores!"
+
+---
+
+**¿Sabías que...?**  
+Exeggutor y Venusaur comparten el tipo Planta, pero mientras Exeggutor es más conocido por su poder psíquico, Venusaur tiene una increíble habilidad para las batallas de largo alcance con su ataque "Látigo Cepa".
+
+---
+
+**Pokémon Go:**
+- **CP máximo:** 3556
+- **Clase de combate:** 8
+- **Evento especial:** Exeggutor puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Exeggutor_(Pokémon))
+
 <!-- END_POKEMON_INFO -->
+
 
 ---
 
@@ -21,7 +70,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 <!-- FRASE_GAMER -->
 ## 💬 Frase gamer del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 > *(Actualizada automáticamente con GitHub Actions)*
