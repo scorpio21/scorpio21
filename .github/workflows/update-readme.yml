@@ -24,7 +24,7 @@ jobs:
           pip install -r requirements.txt  # Instalar dependencias desde requirements.txt
 
       - name: 📝 Ejecutar script de actualización
-        run: python update_content.py
+         run: python scripts/update_content.py
 
       - name: 🚀 Subir cambios al repositorio
         run: |
