@@ -8,11 +8,20 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-...
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/167.gif" alt="Spinarak" /></td>
+    <td>
+      <b>Pokémon del día:</b><br>
+      Nombre: Spinarak<br>
+      Tipo: Bug
+    </td>
+  </tr>
+</table>
 <!-- POKEMON_INFO_END -->
 
 <!-- FRASE_GAMER -->
-...
+🎮 Frase gamer del día: <i>¡Git gud!</i>
 <!-- FRASE_GAMER_END -->
 
 
