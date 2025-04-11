@@ -8,19 +8,14 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-| Imagen | Nombre | Tipo |
-|:-:|:-:|:-:|
-| ![Pokémon del día](https://raw.githubusercontent.com/scorpio21/scorpio21/main/output/pokemon.gif) | **Audino** | Normal |
-<!-- END_POKEMON_INFO -->
 
+<!-- END_POKEMON_INFO -->
 
 ---
 
 <!-- FRASE_GAMER -->
-🕹️ ¿Lag? Nah, habilidad pura.
-<!-- END_FRASE_GAMER -->
 
-> *(Actualizada automáticamente con GitHub Actions)*
+<!-- END_FRASE_GAMER -->
 
 ---
 
