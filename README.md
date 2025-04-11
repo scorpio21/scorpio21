@@ -8,13 +8,15 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-
+| Imagen | Nombre | Tipo |
+|:-:|:-:|:-:|
+| ![Pokémon del día](https://raw.githubusercontent.com/scorpio21/scorpio21/main/output/pokemon.gif) | **Dragonite** | Dragon, Flying |
 <!-- END_POKEMON_INFO -->
 
 ---
 
 <!-- FRASE_GAMER -->
-
+🕹️ Respawneá con más ganas.
 <!-- END_FRASE_GAMER -->
 
 ---
@@ -84,4 +86,4 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scorpio21&show_icons=true&theme=tokyonight)
 
-<!-- Última actualización: 2025-04-11T11:44:30.054179 -->
+<!-- Última actualización: 2025-04-11T11:52:29.762885 -->
