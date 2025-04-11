@@ -66,8 +66,6 @@ Exeggutor y Venusaur comparten el tipo Planta, pero mientras Exeggutor es más c
 
 ---
 
-### 🎮 Frase gamer del día
-
 <!-- FRASE_GAMER -->
 ## 💬 Frase gamer del día
 > "Solo hay una regla: ¡Ganar es lo único que importa!"
