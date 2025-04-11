@@ -10,13 +10,13 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 <!-- POKEMON_INFO -->
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:-:|:-:|:-:|:-:|:-:|
-| ![Pokémon del día](https://raw.githubusercontent.com/scorpio21/scorpio21/main/output/pokemon.gif) | **Cacturne** | Grass, Dark | Cacturne | 332 |
+| ![Pokémon del día](https://raw.githubusercontent.com/scorpio21/scorpio21/main/output/pokemon.gif) | **Scizor** | Bug, Steel | Bug, Steel | 212 |
 <!-- END_POKEMON_INFO -->
 
 ---
 
 <!-- FRASE_GAMER -->
-🕹️ Respawneá con más ganas.
+🕹️ ¿Lag? Nah, habilidad pura.
 <!-- END_FRASE_GAMER -->
 
 ---
@@ -86,4 +86,4 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scorpio21&show_icons=true&theme=tokyonight)
 
-<!-- Última actualización: 2025-04-11T12:12:20.836426 -->
+<!-- Última actualización: 2025-04-11T12:34:02.223425 -->
