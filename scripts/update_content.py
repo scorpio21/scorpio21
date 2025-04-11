@@ -25,10 +25,15 @@ if response.status_code == 200:
     data = response.json()
     nombre = data["name"].capitalize()
     tipos = ", ".join([t["type"]["name"].capitalize() for t in data["types"] if "type" in t])
+    # Agregar más información (Clase y número de Pokédex)
+    pokemon_clase = data["species"]["name"].capitalize()
+    numero_pokedex = data["id"]
     pokemon_img_url = data["sprites"]["front_default"]
 else:
     nombre = "Desconocido"
     tipos = "???"
+    pokemon_clase = "???"
+    numero_pokedex = "???"
     pokemon_img_url = ""
 
 frase = random.choice(frases)
@@ -53,9 +58,9 @@ if "<!-- POKEMON_INFO -->" not in contenido:
 
 # Actualizar bloque POKEMON_INFO con tabla bien formateada
 bloque_pokemon = f"""<!-- POKEMON_INFO -->
-| Imagen | Nombre | Tipo |
-|:-:|:-:|:-:|
-| ![Pokémon del día](https://raw.githubusercontent.com/scorpio21/scorpio21/main/output/pokemon.gif) | **{nombre}** | {tipos} |
+| Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
+|:-:|:-:|:-:|:-:|:-:|
+| ![Pokémon del día]({pokemon_gif_url}) | **{nombre}** | {tipos} | {pokemon_clase} | {numero_pokedex} |
 <!-- END_POKEMON_INFO -->"""
 
 contenido = contenido.split("<!-- POKEMON_INFO -->")[0] + bloque_pokemon + contenido.split("<!-- END_POKEMON_INFO -->")[1]
