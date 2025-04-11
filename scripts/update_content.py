@@ -24,7 +24,7 @@ response = requests.get(pokemon_api_url)
 if response.status_code == 200:
     data = response.json()
     nombre = data["name"].capitalize()
-    tipos = ", ".join([t["type"]["type"]["name"].capitalize() for t in data["types"]])
+    tipos = ", ".join([t["type"]["name"].capitalize() for t in data["types"] if "type" in t])
     # Usamos el sprite frontal estático (siempre correcto)
     pokemon_img_url = data["sprites"]["front_default"]
 else:
