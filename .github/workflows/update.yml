@@ -1,4 +1,4 @@
-name: 🌀 con token Actualizar README con Pokémon y frase gamer
+name: 🌀 Actualizar README con Pokémon y frase gamer
 
 on:
   schedule:
@@ -25,15 +25,12 @@ jobs:
 
       - name: 📝 Ejecutar script de actualización
         run: python scripts/update_content.py
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Usar el token aquí
 
-      - name: 🚀 Subir cambios al repositorio
+      - name: 🚧 Actualizar repositorio remoto
         run: |
+          git pull origin main --rebase   # Realiza un pull para obtener cambios remotos y evitar conflictos
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           git add README.md
           git commit -m "🔁 Actualización diaria automática: Pokémon y frase gamer" || echo "No hay cambios"
-          git push
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Usar el token aquí
+          git push https://github.com/scorpio21/scorpio21.git ${{ secrets.GITHUB_TOKEN }}@main
