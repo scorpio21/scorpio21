@@ -129,12 +129,10 @@ Rampardos es conocido por su capacidad para desarrollar habilidades que cambian 
 
 ---
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/scorpio21/count.svg" alt="Contador de visitas">
-</p>
-
----
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scorpio21&show_icons=true&theme=tokyonight)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=scorpio21&label=Visitas%20al%20perfil&color=27ae60&style=plastic" alt="Visitas al perfil" />
+</p>
 
 <!-- Última actualización: 2025-04-11T12:34:02.223425 -->
