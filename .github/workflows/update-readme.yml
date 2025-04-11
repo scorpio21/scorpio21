@@ -1,35 +1,37 @@
-name: 🌀 Actualizar README con Pokémon y frase gamer
+name: Actualizar README
 
 on:
   schedule:
-    - cron: '0 12 * * *'  # Todos los días a las 12:00 UTC
-  workflow_dispatch:      # Permite ejecutarlo manualmente también
+    - cron: '0 9 * * *'  # Ejecuta todos los días a las 9 AM (ajusta a tu horario)
+  workflow_dispatch:  # Permite ejecutar el flujo de trabajo manualmente desde GitHub
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Clonar el repositorio
-        uses: actions/checkout@v3
+    - name: Obtener el repositorio
+      uses: actions/checkout@v2
 
-      - name: 🔧 Configurar Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
+    - name: Configurar Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'  # Asegúrate de que sea la versión que necesitas
 
-      - name: 📦 Instalar dependencias
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+    - name: Instalar dependencias
+      run: |
+        pip install -r requirements.txt  # Instala las dependencias (si tienes un archivo requirements.txt)
 
-      - name: 📝 Ejecutar script de actualización
-        run: python scripts/update_content.py
-
-      - name: 🚀 Subir cambios al repositorio
-        run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
-          git add README.md
-          git commit -m "🔁 Actualización diaria automática: Pokémon y frase gamer" || echo "No hay cambios"
-          git push
+    - name: Ejecutar script para actualizar README
+      run: |
+        python update-readme.py  # Asegúrate de que el script esté en la raíz
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Usa un token de GitHub como secreto (más abajo)
+      
+    - name: Confirmar cambios en el repositorio
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add README.md
+        git commit -m "Actualización diaria del Pokémon y la frase gamer"
+        git push
