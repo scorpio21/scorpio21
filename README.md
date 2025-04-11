@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- POKEMON_INFO_END -->
+<!-- END_POKEMON_INFO -->
 
 <!-- FRASE_GAMER -->
 <!-- FRASE_GAMER_END -->
