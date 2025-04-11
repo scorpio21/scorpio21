@@ -8,16 +8,13 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-| Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
-|:-:|:-:|:-:|:-:|:-:|
-| ![Pokémon del día](https://raw.githubusercontent.com/scorpio21/scorpio21/main/output/pokemon.gif) | **Scizor** | Bug, Steel | Bug, Steel | 212 |
-<!-- END_POKEMON_INFO -->
-
----
+...
+<!-- POKEMON_INFO_END -->
 
 <!-- FRASE_GAMER -->
-🕹️ ¿Lag? Nah, habilidad pura.
-<!-- END_FRASE_GAMER -->
+...
+<!-- FRASE_GAMER_END -->
+
 
 ---
 
