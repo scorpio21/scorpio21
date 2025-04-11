@@ -17,17 +17,25 @@ def obtener_pokemon_aleatorio():
         print(f"❌ No se pudo obtener el Pokémon #{pokemon_id}")
         return None
     datos = respuesta.json()
+    
     nombre = datos["name"].capitalize()
-    tipo = datos["types"][0]["type"]["name"].capitalize()
+    tipo = ", ".join([t["type"]["name"].capitalize() for t in datos["types"]])
+    altura = datos["height"] / 10  # Altura en metros
+    peso = datos["weight"] / 10  # Peso en kg
+    habilidades = ", ".join([h["ability"]["name"].capitalize() for h in datos["abilities"]])
     imagen_url = datos["sprites"]["versions"]["generation-v"]["black-white"]["animated"]["front_default"]
     if not imagen_url:
         imagen_url = datos["sprites"]["front_default"]
     if not imagen_url:
         print(f"❌ No se pudo obtener imagen para {nombre}")
         return None
+    
     return {
         "nombre": nombre,
         "tipo": tipo,
+        "altura": altura,
+        "peso": peso,
+        "habilidades": habilidades,
         "imagen": imagen_url
     }
 
@@ -59,8 +67,11 @@ def actualizar_readme(pokemon, frase, token):
     <td><img src="{pokemon['imagen']}" alt="{pokemon['nombre']}" /></td>
     <td>
       <b>Pokémon del día:</b><br>
-      Nombre: {pokemon['nombre']}<br>
-      Tipo: {pokemon['tipo']}
+      🆔 Número: {pokemon['nombre']}<br>
+      🧬 Tipo(s): {pokemon['tipo']}<br>
+      📏 Altura: {pokemon['altura']} m<br>
+      ⚖️ Peso: {pokemon['peso']} kg<br>
+      🧠 Habilidades: {pokemon['habilidades']}<br>
     </td>
   </tr>
 </table>
