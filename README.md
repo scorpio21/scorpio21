@@ -10,18 +10,21 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 <!-- POKEMON_INFO -->
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/167.gif" alt="Spinarak" /></td>
+    <td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/32.gif" alt="Nidoran-m" /></td>
     <td>
       <b>Pokémon del día:</b><br>
-      Nombre: Spinarak<br>
-      Tipo: Bug
+      🆔 Número: Nidoran-m<br>
+      🧬 Tipo(s): Poison<br>
+      📏 Altura: 0.5 m<br>
+      ⚖️ Peso: 9.0 kg<br>
+      🧠 Habilidades: Poison-point, Rivalry, Hustle<br>
     </td>
   </tr>
 </table>
 <!-- POKEMON_INFO_END -->
 
 <!-- FRASE_GAMER -->
-🎮 Frase gamer del día: <i>¡Git gud!</i>
+🎮 Frase gamer del día: <i>¡Lag, no vale!</i>
 <!-- FRASE_GAMER_END -->
 
 
