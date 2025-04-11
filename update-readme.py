@@ -1,5 +1,4 @@
 import requests
-from bs4 import BeautifulSoup
 import random
 
 # Función para obtener el Pokémon del día
@@ -13,8 +12,9 @@ def get_pokemon_of_the_day():
     tipos_es = [get_pokemon_type_translation(tipo) for tipo in tipos]  # Traducción de los tipos al español
     imagen = data["sprites"]["front_default"]
     clase = data["species"]["name"]
+    pokedex_num = data["id"]
 
-    return nombre, tipos_es, imagen, clase
+    return nombre, tipos_es, imagen, clase, pokedex_num
 
 # Función para traducir tipos de Pokémon al español
 def get_pokemon_type_translation(tipo):
@@ -42,7 +42,7 @@ def get_pokemon_type_translation(tipo):
     return traducciones.get(tipo, tipo)  # Si no encuentra la traducción, devuelve el nombre del tipo tal cual
 
 # Obtener el Pokémon del día
-nombre, tipos_es, pokemon_img_url, clase = get_pokemon_of_the_day()
+nombre, tipos_es, pokemon_img_url, clase, pokedex_num = get_pokemon_of_the_day()
 
 # Función para obtener la frase gamer del día
 def get_gamer_quote():
@@ -61,60 +61,60 @@ def get_gamer_quote():
 # Obtener la frase gamer del día
 frase_del_dia = get_gamer_quote()
 
-# Bloque de información de Pokémon en el README
+# Bloque de información de Pokémon en el README con la imagen dinámica
 pokemon_info_block = f"""<!-- POKEMON_INFO -->
 
 ### 🐱‍👤 Pokémon del día
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png) | **Exeggutor** | Planta, Psíquico | Exeggutor | 103 |
+| ![Pokémon del día]({pokemon_img_url}) | **{nombre}** | {', '.join(tipos_es)} | {clase.capitalize()} | {pokedex_num} |
 
 **Curiosidad:**  
-Exeggutor es conocido por su alta capacidad de usar movimientos psíquicos. Además, su diseño está basado en un árbol tropical de la región de Alola.
+{nombre} es conocido por su habilidad para {random.choice(["usar ataques poderosos", "alcanzar altas velocidades", "dominar la batalla", "resistir ataques"]).lower()}.
 
 ---
 
 **Movimientos especiales:**
-- **Psíquico**
-- **Hoja Afilada**
-- **Rayo Solar**
+- **{random.choice(["Corte Psíquico", "Hoja Afilada", "Puño Fuego"])}**
+- **{random.choice(["Rayo Solar", "Ataque Psíquico", "Puño Trueno"])}**
+- **{random.choice(["Puño Trueno", "Puño Fuego"])}**
 
 ---
 
 **Evolución:**  
-- **Exeggutor** → **Exeggutor (Alola)**
+- **{nombre}** → **{nombre} (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 95
-- **Ataque:** 105
-- **Defensa:** 85
-- **Velocidad:** 45
+- **HP:** {random.randint(70, 150)}
+- **Ataque:** {random.randint(70, 130)}
+- **Defensa:** {random.randint(50, 110)}
+- **Velocidad:** {random.randint(30, 70)}
 
 ---
 
-**Habilidad:** Clorofila
+**Habilidad:** {random.choice(["Clorofila", "Ojo Compuesto", "Impunidad"])} 
 
 ---
 
 **Historia del día:**  
-"Hoy, Exeggutor se despertó con una extraña sensación. El sol de la mañana lo llenó de energía, y ahora está listo para enfrentar cualquier reto en su camino. ¡Cuidado, entrenadores!"
+"Hoy, {nombre} decidió {random.choice(['tomar un descanso', 'explorar un nuevo terreno', 'enfrentar su mayor desafío'])}. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Exeggutor y Venusaur comparten el tipo Planta, pero mientras Exeggutor es más conocido por su poder psíquico, Venusaur tiene una increíble habilidad para las batallas de largo alcance con su ataque "Látigo Cepa".
+{nombre} es conocido por su capacidad para {random.choice(['alcanza poderes muy altos', 'desarrollar habilidades que cambian las batallas', 'dominar varias tácticas en combate'])}.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3556
+- **CP máximo:** {random.randint(3000, 4000)}
 - **Clase de combate:** 8
-- **Evento especial:** Exeggutor puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** {nombre} puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Exeggutor_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/{nombre}_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 """
