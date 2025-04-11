@@ -8,15 +8,15 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-| Imagen | Nombre | Tipo |
-|:-:|:-:|:-:|
-| ![Pokémon del día](https://raw.githubusercontent.com/scorpio21/scorpio21/main/output/pokemon.gif) | **Hitmonlee** | Fighting |
+| Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
+|:-:|:-:|:-:|:-:|:-:|
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.gif) | **Togekiss** | Fairy, Flying | Togekiss | 468 |
 <!-- END_POKEMON_INFO -->
 
 ---
 
 <!-- FRASE_GAMER -->
-🕹️ Jugá como si fuera tu última vida.
+🕹️ Un día sin bugs es un milagro.
 <!-- END_FRASE_GAMER -->
 
 ---
@@ -86,4 +86,4 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scorpio21&show_icons=true&theme=tokyonight)
 
-<!-- Última actualización: 2025-04-11T12:00:16.183446 -->
+<!-- Última actualización: 2025-04-11T12:08:40.999364 -->
