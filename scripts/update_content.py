@@ -28,16 +28,16 @@ if response.status_code == 200:
     nombre = data["name"].capitalize()
     tipos = ", ".join([t["type"]["name"].capitalize() for t in data["types"] if "type" in t])
     pokemon_img_url = data["sprites"]["front_default"]
-    pokemon_clase = data["species"]["name"].capitalize()  # Esto es solo un ejemplo de clase
-    numero_pokedex = data["id"]
+    dex_number = data["id"]
+    pokemon_class = ', '.join([t["type"]["name"].capitalize() for t in data["types"]])
 else:
     nombre = "Desconocido"
     tipos = "???"
     pokemon_img_url = ""
-    pokemon_clase = "Desconocida"
-    numero_pokedex = "???"
+    dex_number = "???"
+    pokemon_class = "???"
 
-# Descargar el GIF del Pokémon
+# Descargar GIF
 pokemon_gif_url = f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/{pokemon_id}.gif"
 output_path = "output/pokemon.gif"
 gif_response = requests.get(pokemon_gif_url)
@@ -46,20 +46,6 @@ if gif_response.status_code == 200:
         f.write(gif_response.content)
 else:
     print(f"❌ No se pudo descargar el GIF del Pokémon #{pokemon_id}")
-
-# Subir el GIF a GitHub usando la API
-# Reemplaza con tu token de acceso personal de GitHub
-g = Github("tu_token_de_github")
-repo = g.get_repo("scorpio21/scorpio21")  # Asegúrate de que el nombre del repositorio esté bien
-
-# Subir el archivo GIF a la carpeta output
-with open(output_path, "rb") as f:
-    content = f.read()
-
-repo.create_file("output/pokemon.gif", "Actualizar GIF del Pokémon", content, branch="main")
-
-# Frase aleatoria
-frase = random.choice(frases)
 
 # Leer README actual
 with open("README.md", "r", encoding="utf-8") as f:
@@ -73,12 +59,13 @@ if "<!-- POKEMON_INFO -->" not in contenido:
 bloque_pokemon = f"""<!-- POKEMON_INFO -->
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:-:|:-:|:-:|:-:|:-:|
-| ![Pokémon del día](https://raw.githubusercontent.com/scorpio21/scorpio21/main/output/pokemon.gif) | **{nombre}** | {tipos} | {pokemon_clase} | {numero_pokedex} |
+| ![Pokémon del día](https://raw.githubusercontent.com/scorpio21/scorpio21/main/output/pokemon.gif) | **{nombre}** | {tipos} | {pokemon_class} | {dex_number} |
 <!-- END_POKEMON_INFO -->"""
 
 contenido = contenido.split("<!-- POKEMON_INFO -->")[0] + bloque_pokemon + contenido.split("<!-- END_POKEMON_INFO -->")[1]
 
 # Actualizar la frase gamer
+frase = random.choice(frases)
 contenido = contenido.split("<!-- FRASE_GAMER -->")[0] + \
     f"<!-- FRASE_GAMER -->\n🕹️ {frase}\n<!-- END_FRASE_GAMER -->" + \
     contenido.split("<!-- END_FRASE_GAMER -->")[1]
@@ -93,3 +80,15 @@ contenido = "\n".join([
 # Guardar cambios
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(contenido)
+
+# Autenticar y subir cambios a GitHub usando el token
+g = Github(os.getenv("GH_TOKEN"))
+repo = g.get_repo("scorpio21/scorpio21")  # Asegúrate de que el nombre del repositorio esté bien
+
+# Subir los cambios al repositorio
+repo.update_file(
+    path="README.md",
+    message="🔁 Actualización diaria automática: Pokémon y frase gamer",
+    content=contenido.encode('utf-8'),
+    sha=repo.get_contents("README.md").sha
+)
