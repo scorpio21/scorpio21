@@ -1,28 +1,36 @@
-name: Actualización automática
+name: 🌀 Actualizar README automáticamente
 
 on:
   schedule:
-    - cron: '0 12 * * *'  # Esto lo ejecutará todos los días a las 12:00 (ajústalo según lo necesites)
-  workflow_dispatch:  # Permite ejecutar el workflow manualmente desde la interfaz de GitHub
+    - cron: '0 7 * * *'  # Todos los días a las 7 AM UTC
+  workflow_dispatch:  # Permite ejecutarlo manualmente
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
-    - name: Check out the repository
-      uses: actions/checkout@v3
+      - name: Clonar repositorio
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v3
-      with:
-        python-version: 3.9  # Usa la versión de Python que prefieras
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install github
+      - name: Instalar dependencias
+        run: pip install PyGithub requests
 
-    - name: Run update script
-      run: python scripts/update_content.py
-      env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Usar el token de GitHub
+      - name: Ejecutar script de actualización
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python scripts/update_content.py
+
+      - name: Commit y push si hubo cambios
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add README.md
+          git diff --cached --quiet || git commit -m "🔁 Actualización diaria automática: Pokémon y frase gamer"
+          git pull --rebase
+          git push
