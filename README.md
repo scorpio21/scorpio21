@@ -65,12 +65,13 @@ Exeggutor y Venusaur comparten el tipo Planta, pero mientras Exeggutor es más c
 
 
 
+
 ---
 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 > *(Actualizada automáticamente con GitHub Actions)*
