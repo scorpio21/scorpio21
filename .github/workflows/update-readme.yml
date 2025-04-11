@@ -21,43 +21,7 @@ jobs:
       - name: 📦 Instalar dependencias
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4
-
-      - name: 📝 Ejecutar script de actualización
-        run: python update_content.py
-
-      - name: 🚀 Subir cambios al repositorio
-        run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
-          git add README.md
-          git commit -m "🔁 Actualización diaria automática: Pokémon y frase gamer" || echo "No hay cambios"
-          git push
-=======
-name: 🌀 Actualizar README con Pokémon y frase gamer
-
-on:
-  schedule:
-    - cron: '0 12 * * *'  # Todos los días a las 12:00 UTC
-  workflow_dispatch:      # Permite ejecutarlo manualmente también
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: 📥 Clonar el repositorio
-        uses: actions/checkout@v3
-
-      - name: 🔧 Configurar Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-
-      - name: 📦 Instalar dependencias
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests beautifulsoup4
+          pip install -r requirements.txt  # Instalar dependencias desde requirements.txt
 
       - name: 📝 Ejecutar script de actualización
         run: python update_content.py
