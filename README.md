@@ -8,14 +8,11 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
+## 🐱‍👤 Pokémon del día
 
-### 🐱‍👤 Pokémon del día
-
-![Pokémon del día](https://raw.githubusercontent.com/scorpio21/scorpio21/main/output/pokemon.gif)
-
-**Nombre:** Whiscash  
-**Tipo(s):** Water, Ground
-
+| Imagen | Nombre | Tipo(s) | Clase |
+|:------:|:------:|:-------:|:-----:|
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png) | **Swinub** | Hielo, Tierra | swinub |
 <!-- END_POKEMON_INFO -->
 
 ---
@@ -23,7 +20,8 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ### 🎮 Frase gamer del día
 
 <!-- FRASE_GAMER -->
-🕹️ Un día sin bugs es un milagro.
+## 💬 Frase gamer del día
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 > *(Actualizada automáticamente con GitHub Actions)*
