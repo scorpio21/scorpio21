@@ -2,8 +2,8 @@ name: Actualizar Pokémon y Frase del día
 
 on:
   schedule:
-    - cron: "0 6 * * *"
-  workflow_dispatch:
+    - cron: "0 6 * * *"  # Esto ejecuta el flujo todos los días a las 6:00 AM UTC.
+  workflow_dispatch:  # Esto permite ejecutar el flujo manualmente desde la interfaz de GitHub.
 
 jobs:
   update-readme:
@@ -18,10 +18,10 @@ jobs:
           python-version: "3.x"
 
       - name: Instalar dependencias
-        run: pip install requests
+        run: pip install beautifulsoup4 requests  # Instalando beautifulsoup4 para tu script
 
       - name: Ejecutar script de actualización
-        run: python3 update-readme.py
+        run: python3 update-readme.py  # Ejecuta tu script que actualiza README.md
 
       - name: Commit y Push
         run: |
