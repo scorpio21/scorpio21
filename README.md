@@ -8,9 +8,66 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
+
+### 🐱‍👤 Pokémon del día
+
+| Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
+|:------:|:------:|:-------:|:-----:|:-----------------:|
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/409.png) | **Rampardos** | Roca | Rampardos | 409 |
+
+**Curiosidad:**  
+Rampardos es conocido por su habilidad para alcanzar altas velocidades.
+
+---
+
+**Movimientos especiales:**
+- **Hoja Afilada**
+- **Ataque Psíquico**
+- **Puño Fuego**
+
+---
+
+**Evolución:**  
+- **Rampardos** → **Rampardos (Alola)**
+
+---
+
+**Estadísticas base:**
+- **HP:** 97
+- **Ataque:** 165
+- **Defensa:** 60
+- **Velocidad:** 58
+
+---
+
+**Habilidad:** Ojo Compuesto 
+
+---
+
+**Historia del día:**  
+"Hoy, Rampardos decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+
+---
+
+**¿Sabías que...?**  
+Rampardos es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+
+---
+
+**Pokémon Go:**
+- **CP máximo:** 3118
+- **Clase de combate:** 8
+- **Evento especial:** Rampardos puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Rampardos_(Pokémon))
+
 <!-- END_POKEMON_INFO -->
 
+
 <!-- FRASE_GAMER -->
+
+### 💬 Frase 🎮 del día
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
