@@ -8,15 +8,13 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-| Imagen | Nombre | Tipo |
-|:-:|:-:|:-:|
-| ![Pokémon del día](https://raw.githubusercontent.com/scorpio21/scorpio21/main/output/pokemon.gif) | **Dragonite** | Dragon, Flying |
+
 <!-- END_POKEMON_INFO -->
 
 ---
 
 <!-- FRASE_GAMER -->
-🕹️ Respawneá con más ganas.
+
 <!-- END_FRASE_GAMER -->
 
 ---
