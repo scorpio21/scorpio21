@@ -25,17 +25,16 @@ if response.status_code == 200:
     data = response.json()
     nombre = data["name"].capitalize()
     tipos = ", ".join([t["type"]["name"].capitalize() for t in data["types"] if "type" in t])
-    # Usamos el sprite frontal estático (siempre correcto)
     pokemon_img_url = data["sprites"]["front_default"]
 else:
     nombre = "Desconocido"
     tipos = "???"
     pokemon_img_url = ""
 
-# URL del GIF animado (usa un enlace válido de un GIF de Pokémon aquí)
-pokemon_gif_url = f"https://raw.githubusercontent.com/scorpio21/scorpio21/main/output/{nombre.lower()}_gif.gif"
+frase = random.choice(frases)
 
-# Descargar GIF animado
+# Descargar GIF
+pokemon_gif_url = f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/{pokemon_id}.gif"
 output_path = "output/pokemon.gif"
 gif_response = requests.get(pokemon_gif_url)
 if gif_response.status_code == 200:
@@ -44,31 +43,34 @@ if gif_response.status_code == 200:
 else:
     print(f"❌ No se pudo descargar el GIF del Pokémon #{pokemon_id}")
 
-# Elegir una frase aleatoria
-frase = random.choice(frases)
-
 # Leer README actual
 with open("README.md", "r", encoding="utf-8") as f:
     contenido = f.read()
+
+# Si no existen las etiquetas, agregarlas
+if "<!-- POKEMON_INFO -->" not in contenido:
+    contenido = contenido.split("<!-- END_POKEMON_INFO -->")[0] + "<!-- POKEMON_INFO -->\n<!-- END_POKEMON_INFO -->" + contenido.split("<!-- END_POKEMON_INFO -->")[1]
 
 # Actualizar bloque POKEMON_INFO con tabla bien formateada
 bloque_pokemon = f"""<!-- POKEMON_INFO -->
 | Imagen | Nombre | Tipo |
 |:-:|:-:|:-:|
 | ![Pokémon del día](https://raw.githubusercontent.com/scorpio21/scorpio21/main/output/pokemon.gif) | **{nombre}** | {tipos} |
-<!-- /POKEMON_INFO -->"""
+<!-- END_POKEMON_INFO -->"""
 
-contenido = contenido.split("<!-- POKEMON_INFO -->")[0] + bloque_pokemon + contenido.split("<!-- /POKEMON_INFO -->")[1]
+contenido = contenido.split("<!-- POKEMON_INFO -->")[0] + bloque_pokemon + contenido.split("<!-- END_POKEMON_INFO -->")[1]
 
 # Actualizar la frase gamer
 contenido = contenido.split("<!-- FRASE_GAMER -->")[0] + \
-    f"<!-- FRASE_GAMER -->\n🕹️ {frase}\n<!-- /FRASE_GAMER -->" + \
-    contenido.split("<!-- /FRASE_GAMER -->")[1]
+    f"<!-- FRASE_GAMER -->\n🕹️ {frase}\n<!-- END_FRASE_GAMER -->" + \
+    contenido.split("<!-- END_FRASE_GAMER -->")[1]
 
 # Marcar hora de última actualización
 ahora = datetime.now().isoformat()
-contenido = "\n".join([line if not line.strip().startswith("<!-- Última actualización:") else f"<!-- Última actualización: {ahora} -->"
-                      for line in contenido.splitlines()])
+contenido = "\n".join([ 
+    line if not line.strip().startswith("<!-- Última actualización:") else f"<!-- Última actualización: {ahora} -->" 
+    for line in contenido.splitlines() 
+])
 
 # Guardar cambios
 with open("README.md", "w", encoding="utf-8") as f:
