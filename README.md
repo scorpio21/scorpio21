@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/409.png) | **Rampardos** | Roca | Rampardos | 409 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/464.png) | **Rhyperior** | Tierra, Roca | Rhyperior | 464 |
 
 **Curiosidad:**  
-Rampardos es conocido por su habilidad para alcanzar altas velocidades.
+Rhyperior es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Ataque Psíquico**
+- **Corte Psíquico**
+- **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Rampardos** → **Rampardos (Alola)**
+- **Rhyperior** → **Rhyperior (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 97
-- **Ataque:** 165
-- **Defensa:** 60
-- **Velocidad:** 58
+- **HP:** 115
+- **Ataque:** 140
+- **Defensa:** 130
+- **Velocidad:** 40
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Rampardos decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Rhyperior decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Rampardos es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Rhyperior es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3118
+- **CP máximo:** 3753
 - **Clase de combate:** 8
-- **Evento especial:** Rampardos puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Rhyperior puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Rampardos_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Rhyperior_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 <!-- FRASE_GAMER -->
