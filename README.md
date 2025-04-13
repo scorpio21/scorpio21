@@ -13,62 +13,63 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/464.png) | **Rhyperior** | Tierra, Roca | Rhyperior | 464 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/851.png) | **Centiskorch** | Fuego, Bicho | Centiskorch | 851 |
 
 **Curiosidad:**  
-Rhyperior es conocido por su habilidad para alcanzar altas velocidades.
+Centiskorch es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Rayo Solar**
-- **Puño Fuego**
+- **Puño Trueno**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Rhyperior** → **Rhyperior (Alola)**
+- **Centiskorch** → **Centiskorch (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 115
-- **Ataque:** 140
-- **Defensa:** 130
-- **Velocidad:** 40
+- **HP:** 100
+- **Ataque:** 115
+- **Defensa:** 65
+- **Velocidad:** 65
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Rhyperior decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Centiskorch decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Rhyperior es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Centiskorch es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3753
+- **CP máximo:** 3442
 - **Clase de combate:** 8
-- **Evento especial:** Rhyperior puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Centiskorch puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Rhyperior_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Centiskorch_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
