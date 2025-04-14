@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/851.png) | **Centiskorch** | Fuego, Bicho | Centiskorch | 851 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/621.png) | **Druddigon** | Dragón | Druddigon | 621 |
 
 **Curiosidad:**  
-Centiskorch es conocido por su habilidad para usar ataques poderosos.
+Druddigon es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Puño Trueno**
-- **Puño Trueno**
+- **Puño Fuego**
+- **Rayo Solar**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Centiskorch** → **Centiskorch (Alola)**
+- **Druddigon** → **Druddigon (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 100
-- **Ataque:** 115
-- **Defensa:** 65
-- **Velocidad:** 65
+- **HP:** 77
+- **Ataque:** 120
+- **Defensa:** 90
+- **Velocidad:** 48
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Centiskorch decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Druddigon decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Centiskorch es conocido por su capacidad para dominar varias tácticas en combate.
+Druddigon es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3442
+- **CP máximo:** 3390
 - **Clase de combate:** 8
-- **Evento especial:** Centiskorch puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Druddigon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Centiskorch_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Druddigon_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -69,7 +70,7 @@ Centiskorch es conocido por su capacidad para dominar varias tácticas en combat
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
