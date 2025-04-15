@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/621.png) | **Druddigon** | Dragón | Druddigon | 621 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/610.png) | **Axew** | Dragón | Axew | 610 |
 
 **Curiosidad:**  
-Druddigon es conocido por su habilidad para dominar la batalla.
+Axew es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Hoja Afilada**
 - **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Druddigon** → **Druddigon (Alola)**
+- **Axew** → **Axew (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 77
-- **Ataque:** 120
-- **Defensa:** 90
-- **Velocidad:** 48
+- **HP:** 46
+- **Ataque:** 87
+- **Defensa:** 60
+- **Velocidad:** 57
 
 ---
 
@@ -45,23 +45,24 @@ Druddigon es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Druddigon decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Axew decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Druddigon es conocido por su capacidad para alcanza poderes muy altos.
+Axew es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3390
+- **CP máximo:** 3236
 - **Clase de combate:** 8
-- **Evento especial:** Druddigon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Axew puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Druddigon_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Axew_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -70,7 +71,7 @@ Druddigon es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
