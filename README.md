@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/610.png) | **Axew** | Dragón | Axew | 610 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png) | **Pineco** | Bicho | Pineco | 204 |
 
 **Curiosidad:**  
-Axew es conocido por su habilidad para dominar la batalla.
+Pineco es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
+- **Corte Psíquico**
 - **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Axew** → **Axew (Alola)**
+- **Pineco** → **Pineco (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 46
-- **Ataque:** 87
-- **Defensa:** 60
-- **Velocidad:** 57
+- **HP:** 50
+- **Ataque:** 65
+- **Defensa:** 90
+- **Velocidad:** 15
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Axew decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Pineco decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Axew es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Pineco es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3236
+- **CP máximo:** 3379
 - **Clase de combate:** 8
-- **Evento especial:** Axew puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Pineco puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Axew_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Pineco_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -71,7 +72,7 @@ Axew es conocido por su capacidad para desarrollar habilidades que cambian las b
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
