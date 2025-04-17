@@ -13,10 +13,10 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png) | **Pineco** | Bicho | Pineco | 204 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/576.png) | **Gothitelle** | Psíquico | Gothitelle | 576 |
 
 **Curiosidad:**  
-Pineco es conocido por su habilidad para usar ataques poderosos.
+Gothitelle es conocido por su habilidad para dominar la batalla.
 
 ---
 
@@ -28,40 +28,41 @@ Pineco es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Evolución:**  
-- **Pineco** → **Pineco (Alola)**
+- **Gothitelle** → **Gothitelle (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 50
-- **Ataque:** 65
-- **Defensa:** 90
-- **Velocidad:** 15
+- **HP:** 70
+- **Ataque:** 55
+- **Defensa:** 95
+- **Velocidad:** 65
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Pineco decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Gothitelle decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Pineco es conocido por su capacidad para alcanza poderes muy altos.
+Gothitelle es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3379
+- **CP máximo:** 3366
 - **Clase de combate:** 8
-- **Evento especial:** Pineco puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Gothitelle puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Pineco_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gothitelle_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -72,7 +73,7 @@ Pineco es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
