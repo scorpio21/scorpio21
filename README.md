@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/599.png) | **Klink** | Acero | Klink | 599 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/485.png) | **Heatran** | Fuego, Acero | Heatran | 485 |
 
 **Curiosidad:**  
-Klink es conocido por su habilidad para resistir ataques.
+Heatran es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Hoja Afilada**
 - **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Klink** → **Klink (Alola)**
+- **Heatran** → **Heatran (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 40
-- **Ataque:** 55
-- **Defensa:** 70
-- **Velocidad:** 30
+- **HP:** 91
+- **Ataque:** 90
+- **Defensa:** 106
+- **Velocidad:** 77
 
 ---
 
@@ -45,23 +45,24 @@ Klink es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Klink decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Heatran decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Klink es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Heatran es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3817
+- **CP máximo:** 3394
 - **Clase de combate:** 8
-- **Evento especial:** Klink puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Heatran puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Klink_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Heatran_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -74,7 +75,7 @@ Klink es conocido por su capacidad para desarrollar habilidades que cambian las 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
