@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png) | **Vileplume** | Planta, Veneno | Vileplume | 45 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png) | **Hitmonchan** | Lucha | Hitmonchan | 107 |
 
 **Curiosidad:**  
-Vileplume es conocido por su habilidad para alcanzar altas velocidades.
+Hitmonchan es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Ataque Psíquico**
+- **Corte Psíquico**
+- **Puño Trueno**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Vileplume** → **Vileplume (Alola)**
+- **Hitmonchan** → **Hitmonchan (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 75
-- **Ataque:** 80
-- **Defensa:** 85
-- **Velocidad:** 50
+- **HP:** 50
+- **Ataque:** 105
+- **Defensa:** 79
+- **Velocidad:** 76
 
 ---
 
@@ -45,23 +45,24 @@ Vileplume es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Vileplume decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Hitmonchan decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Vileplume es conocido por su capacidad para alcanza poderes muy altos.
+Hitmonchan es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3758
+- **CP máximo:** 3019
 - **Clase de combate:** 8
-- **Evento especial:** Vileplume puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Hitmonchan puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Vileplume_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Hitmonchan_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -76,7 +77,7 @@ Vileplume es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
