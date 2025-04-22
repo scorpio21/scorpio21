@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png) | **Hitmonchan** | Lucha | Hitmonchan | 107 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/221.png) | **Piloswine** | Hielo, Tierra | Piloswine | 221 |
 
 **Curiosidad:**  
-Hitmonchan es conocido por su habilidad para usar ataques poderosos.
+Piloswine es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Puño Trueno**
+- **Puño Fuego**
+- **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Hitmonchan** → **Hitmonchan (Alola)**
+- **Piloswine** → **Piloswine (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 50
-- **Ataque:** 105
-- **Defensa:** 79
-- **Velocidad:** 76
+- **HP:** 100
+- **Ataque:** 100
+- **Defensa:** 80
+- **Velocidad:** 50
 
 ---
 
@@ -45,23 +45,24 @@ Hitmonchan es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Hitmonchan decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Piloswine decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Hitmonchan es conocido por su capacidad para alcanza poderes muy altos.
+Piloswine es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3019
+- **CP máximo:** 3838
 - **Clase de combate:** 8
-- **Evento especial:** Hitmonchan puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Piloswine puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Hitmonchan_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Piloswine_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -77,7 +78,7 @@ Hitmonchan es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
