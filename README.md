@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/221.png) | **Piloswine** | Hielo, Tierra | Piloswine | 221 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/518.png) | **Musharna** | Psíquico | Musharna | 518 |
 
 **Curiosidad:**  
-Piloswine es conocido por su habilidad para resistir ataques.
+Musharna es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Ataque Psíquico**
-- **Puño Fuego**
+- **Corte Psíquico**
+- **Rayo Solar**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Piloswine** → **Piloswine (Alola)**
+- **Musharna** → **Musharna (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 100
-- **Ataque:** 100
-- **Defensa:** 80
-- **Velocidad:** 50
+- **HP:** 116
+- **Ataque:** 55
+- **Defensa:** 85
+- **Velocidad:** 29
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Piloswine decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Musharna decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Piloswine es conocido por su capacidad para dominar varias tácticas en combate.
+Musharna es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3838
+- **CP máximo:** 3966
 - **Clase de combate:** 8
-- **Evento especial:** Piloswine puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Musharna puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Piloswine_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Musharna_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -78,7 +79,7 @@ Piloswine es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
