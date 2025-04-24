@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/518.png) | **Musharna** | Psíquico | Musharna | 518 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png) | **Infernape** | Fuego, Lucha | Infernape | 392 |
 
 **Curiosidad:**  
-Musharna es conocido por su habilidad para resistir ataques.
+Infernape es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Hoja Afilada**
 - **Rayo Solar**
-- **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Musharna** → **Musharna (Alola)**
+- **Infernape** → **Infernape (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 116
-- **Ataque:** 55
-- **Defensa:** 85
-- **Velocidad:** 29
+- **HP:** 76
+- **Ataque:** 104
+- **Defensa:** 71
+- **Velocidad:** 108
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Musharna decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Infernape decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Musharna es conocido por su capacidad para alcanza poderes muy altos.
+Infernape es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3966
+- **CP máximo:** 3846
 - **Clase de combate:** 8
-- **Evento especial:** Musharna puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Infernape puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Musharna_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Infernape_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -79,7 +80,7 @@ Musharna es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
