@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png) | **Infernape** | Fuego, Lucha | Infernape | 392 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png) | **Venusaur** | Planta, Veneno | Venusaur | 3 |
 
 **Curiosidad:**  
-Infernape es conocido por su habilidad para alcanzar altas velocidades.
+Venusaur es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Rayo Solar**
+- **Puño Fuego**
+- **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Infernape** → **Infernape (Alola)**
+- **Venusaur** → **Venusaur (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 76
-- **Ataque:** 104
-- **Defensa:** 71
-- **Velocidad:** 108
+- **HP:** 80
+- **Ataque:** 82
+- **Defensa:** 83
+- **Velocidad:** 80
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Infernape decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Venusaur decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Infernape es conocido por su capacidad para dominar varias tácticas en combate.
+Venusaur es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3846
+- **CP máximo:** 3854
 - **Clase de combate:** 8
-- **Evento especial:** Infernape puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Venusaur puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Infernape_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Venusaur_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -80,7 +81,7 @@ Infernape es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
