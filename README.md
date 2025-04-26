@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png) | **Venusaur** | Planta, Veneno | Venusaur | 3 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/504.png) | **Patrat** | Normal | Patrat | 504 |
 
 **Curiosidad:**  
-Venusaur es conocido por su habilidad para usar ataques poderosos.
+Patrat es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Ataque Psíquico**
-- **Puño Fuego**
+- **Puño Trueno**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Venusaur** → **Venusaur (Alola)**
+- **Patrat** → **Patrat (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 80
-- **Ataque:** 82
-- **Defensa:** 83
-- **Velocidad:** 80
+- **HP:** 45
+- **Ataque:** 55
+- **Defensa:** 39
+- **Velocidad:** 42
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Venusaur decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Patrat decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Venusaur es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Patrat es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3854
+- **CP máximo:** 3059
 - **Clase de combate:** 8
-- **Evento especial:** Venusaur puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Patrat puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Venusaur_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Patrat_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -81,7 +82,7 @@ Venusaur es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
