@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/504.png) | **Patrat** | Normal | Patrat | 504 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png) | **Typhlosion** | Fuego | Typhlosion | 157 |
 
 **Curiosidad:**  
-Patrat es conocido por su habilidad para dominar la batalla.
+Typhlosion es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
+- **Hoja Afilada**
+- **Puño Trueno**
 - **Puño Fuego**
-- **Puño Trueno**
-- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Patrat** → **Patrat (Alola)**
+- **Typhlosion** → **Typhlosion (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 45
-- **Ataque:** 55
-- **Defensa:** 39
-- **Velocidad:** 42
+- **HP:** 78
+- **Ataque:** 84
+- **Defensa:** 78
+- **Velocidad:** 100
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Patrat decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Typhlosion decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Patrat es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Typhlosion es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3059
+- **CP máximo:** 3083
 - **Clase de combate:** 8
-- **Evento especial:** Patrat puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Typhlosion puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Patrat_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Typhlosion_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -82,7 +83,7 @@ Patrat es conocido por su capacidad para desarrollar habilidades que cambian las
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
