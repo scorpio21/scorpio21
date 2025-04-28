@@ -13,10 +13,10 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png) | **Typhlosion** | Fuego | Typhlosion | 157 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/526.png) | **Gigalith** | Roca | Gigalith | 526 |
 
 **Curiosidad:**  
-Typhlosion es conocido por su habilidad para dominar la batalla.
+Gigalith es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
@@ -28,40 +28,41 @@ Typhlosion es conocido por su habilidad para dominar la batalla.
 ---
 
 **Evolución:**  
-- **Typhlosion** → **Typhlosion (Alola)**
+- **Gigalith** → **Gigalith (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 78
-- **Ataque:** 84
-- **Defensa:** 78
-- **Velocidad:** 100
+- **HP:** 85
+- **Ataque:** 135
+- **Defensa:** 130
+- **Velocidad:** 25
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Typhlosion decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Gigalith decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Typhlosion es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Gigalith es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3083
+- **CP máximo:** 3971
 - **Clase de combate:** 8
-- **Evento especial:** Typhlosion puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Gigalith puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Typhlosion_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gigalith_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -83,7 +84,7 @@ Typhlosion es conocido por su capacidad para desarrollar habilidades que cambian
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
