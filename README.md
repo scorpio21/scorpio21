@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/526.png) | **Gigalith** | Roca | Gigalith | 526 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/750.png) | **Mudsdale** | Tierra | Mudsdale | 750 |
 
 **Curiosidad:**  
-Gigalith es conocido por su habilidad para usar ataques poderosos.
+Mudsdale es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Puño Trueno**
+- **Corte Psíquico**
+- **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Gigalith** → **Gigalith (Alola)**
+- **Mudsdale** → **Mudsdale (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 85
-- **Ataque:** 135
-- **Defensa:** 130
-- **Velocidad:** 25
+- **HP:** 100
+- **Ataque:** 125
+- **Defensa:** 100
+- **Velocidad:** 35
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Gigalith decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Mudsdale decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Gigalith es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Mudsdale es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3971
+- **CP máximo:** 3101
 - **Clase de combate:** 8
-- **Evento especial:** Gigalith puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Mudsdale puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gigalith_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mudsdale_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -84,7 +85,7 @@ Gigalith es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
