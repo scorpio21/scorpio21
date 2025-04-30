@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/750.png) | **Mudsdale** | Tierra | Mudsdale | 750 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/647.png) | **Keldeo-ordinary** | Agua, Lucha | Keldeo | 647 |
 
 **Curiosidad:**  
-Mudsdale es conocido por su habilidad para dominar la batalla.
+Keldeo-ordinary es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Hoja Afilada**
 - **Ataque Psíquico**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Mudsdale** → **Mudsdale (Alola)**
+- **Keldeo-ordinary** → **Keldeo-ordinary (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 100
-- **Ataque:** 125
-- **Defensa:** 100
-- **Velocidad:** 35
+- **HP:** 91
+- **Ataque:** 72
+- **Defensa:** 90
+- **Velocidad:** 108
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Mudsdale decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Keldeo-ordinary decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Mudsdale es conocido por su capacidad para dominar varias tácticas en combate.
+Keldeo-ordinary es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3101
+- **CP máximo:** 3077
 - **Clase de combate:** 8
-- **Evento especial:** Mudsdale puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Keldeo-ordinary puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mudsdale_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Keldeo-ordinary_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -85,7 +86,7 @@ Mudsdale es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
