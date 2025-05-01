@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/647.png) | **Keldeo-ordinary** | Agua, Lucha | Keldeo | 647 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/605.png) | **Elgyem** | Psíquico | Elgyem | 605 |
 
 **Curiosidad:**  
-Keldeo-ordinary es conocido por su habilidad para dominar la batalla.
+Elgyem es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
+- **Puño Fuego**
 - **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Keldeo-ordinary** → **Keldeo-ordinary (Alola)**
+- **Elgyem** → **Elgyem (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 91
-- **Ataque:** 72
-- **Defensa:** 90
-- **Velocidad:** 108
+- **HP:** 55
+- **Ataque:** 55
+- **Defensa:** 55
+- **Velocidad:** 30
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Keldeo-ordinary decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Elgyem decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Keldeo-ordinary es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Elgyem es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3077
+- **CP máximo:** 3815
 - **Clase de combate:** 8
-- **Evento especial:** Keldeo-ordinary puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Elgyem puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Keldeo-ordinary_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Elgyem_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -86,7 +87,7 @@ Keldeo-ordinary es conocido por su capacidad para desarrollar habilidades que ca
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
