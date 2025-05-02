@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/605.png) | **Elgyem** | Psíquico | Elgyem | 605 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/385.png) | **Jirachi** | Acero, Psíquico | Jirachi | 385 |
 
 **Curiosidad:**  
-Elgyem es conocido por su habilidad para resistir ataques.
+Jirachi es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Hoja Afilada**
 - **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Elgyem** → **Elgyem (Alola)**
+- **Jirachi** → **Jirachi (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 55
-- **Ataque:** 55
-- **Defensa:** 55
-- **Velocidad:** 30
+- **HP:** 100
+- **Ataque:** 100
+- **Defensa:** 100
+- **Velocidad:** 100
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Elgyem decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Jirachi decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Elgyem es conocido por su capacidad para dominar varias tácticas en combate.
+Jirachi es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3815
+- **CP máximo:** 3037
 - **Clase de combate:** 8
-- **Evento especial:** Elgyem puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Jirachi puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Elgyem_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Jirachi_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -87,7 +88,7 @@ Elgyem es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
