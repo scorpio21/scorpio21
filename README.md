@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/385.png) | **Jirachi** | Acero, Psíquico | Jirachi | 385 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/634.png) | **Zweilous** | Siniestro, Dragón | Zweilous | 634 |
 
 **Curiosidad:**  
-Jirachi es conocido por su habilidad para resistir ataques.
+Zweilous es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
+- **Corte Psíquico**
 - **Ataque Psíquico**
-- **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Jirachi** → **Jirachi (Alola)**
+- **Zweilous** → **Zweilous (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 100
-- **Ataque:** 100
-- **Defensa:** 100
-- **Velocidad:** 100
+- **HP:** 72
+- **Ataque:** 85
+- **Defensa:** 70
+- **Velocidad:** 58
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Jirachi decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Zweilous decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Jirachi es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Zweilous es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3037
+- **CP máximo:** 3518
 - **Clase de combate:** 8
-- **Evento especial:** Jirachi puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Zweilous puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Jirachi_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Zweilous_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
