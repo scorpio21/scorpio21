@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/345.png) | **Lileep** | Roca, Planta | Lileep | 345 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png) | **Croagunk** | Veneno, Lucha | Croagunk | 453 |
 
 **Curiosidad:**  
-Lileep es conocido por su habilidad para dominar la batalla.
+Croagunk es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Puño Trueno**
+- **Corte Psíquico**
+- **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Lileep** → **Lileep (Alola)**
+- **Croagunk** → **Croagunk (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 66
-- **Ataque:** 41
-- **Defensa:** 77
-- **Velocidad:** 23
+- **HP:** 48
+- **Ataque:** 61
+- **Defensa:** 40
+- **Velocidad:** 50
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Lileep decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Croagunk decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Lileep es conocido por su capacidad para alcanza poderes muy altos.
+Croagunk es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3417
+- **CP máximo:** 3002
 - **Clase de combate:** 8
-- **Evento especial:** Lileep puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Croagunk puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Lileep_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Croagunk_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -90,7 +91,7 @@ Lileep es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
