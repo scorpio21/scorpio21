@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png) | **Croagunk** | Veneno, Lucha | Croagunk | 453 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/866.png) | **Mr-rime** | Hielo, Psíquico | Mr-rime | 866 |
 
 **Curiosidad:**  
-Croagunk es conocido por su habilidad para usar ataques poderosos.
+Mr-rime es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Ataque Psíquico**
+- **Rayo Solar**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Croagunk** → **Croagunk (Alola)**
+- **Mr-rime** → **Mr-rime (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 48
-- **Ataque:** 61
-- **Defensa:** 40
-- **Velocidad:** 50
+- **HP:** 80
+- **Ataque:** 85
+- **Defensa:** 75
+- **Velocidad:** 70
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Croagunk decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Mr-rime decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Croagunk es conocido por su capacidad para alcanza poderes muy altos.
+Mr-rime es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3002
+- **CP máximo:** 3980
 - **Clase de combate:** 8
-- **Evento especial:** Croagunk puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Mr-rime puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Croagunk_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mr-rime_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
