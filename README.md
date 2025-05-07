@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/866.png) | **Mr-rime** | Hielo, Psíquico | Mr-rime | 866 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png) | **Lanturn** | Agua, Eléctrico | Lanturn | 171 |
 
 **Curiosidad:**  
-Mr-rime es conocido por su habilidad para usar ataques poderosos.
+Lanturn es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Hoja Afilada**
 - **Rayo Solar**
-- **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Mr-rime** → **Mr-rime (Alola)**
+- **Lanturn** → **Lanturn (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 80
-- **Ataque:** 85
-- **Defensa:** 75
-- **Velocidad:** 70
+- **HP:** 125
+- **Ataque:** 58
+- **Defensa:** 58
+- **Velocidad:** 67
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Mr-rime decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Lanturn decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Mr-rime es conocido por su capacidad para alcanza poderes muy altos.
+Lanturn es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3980
+- **CP máximo:** 3486
 - **Clase de combate:** 8
-- **Evento especial:** Mr-rime puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Lanturn puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mr-rime_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Lanturn_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -92,7 +93,7 @@ Mr-rime es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
