@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png) | **Lanturn** | Agua, Eléctrico | Lanturn | 171 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png) | **Tauros** | Normal | Tauros | 128 |
 
 **Curiosidad:**  
-Lanturn es conocido por su habilidad para usar ataques poderosos.
+Tauros es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Hoja Afilada**
-- **Rayo Solar**
-- **Puño Fuego**
+- **Puño Trueno**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Lanturn** → **Lanturn (Alola)**
+- **Tauros** → **Tauros (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 125
-- **Ataque:** 58
-- **Defensa:** 58
-- **Velocidad:** 67
+- **HP:** 75
+- **Ataque:** 100
+- **Defensa:** 95
+- **Velocidad:** 110
 
 ---
 
@@ -45,23 +45,24 @@ Lanturn es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Lanturn decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Tauros decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Lanturn es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Tauros es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3486
+- **CP máximo:** 3118
 - **Clase de combate:** 8
-- **Evento especial:** Lanturn puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Tauros puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Lanturn_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Tauros_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -93,7 +94,7 @@ Lanturn es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
