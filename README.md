@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png) | **Tauros** | Normal | Tauros | 128 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/849.png) | **Toxtricity-amped** | Eléctrico, Veneno | Toxtricity | 849 |
 
 **Curiosidad:**  
-Tauros es conocido por su habilidad para usar ataques poderosos.
+Toxtricity-amped es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Puño Trueno**
-- **Puño Trueno**
+- **Puño Fuego**
+- **Ataque Psíquico**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Tauros** → **Tauros (Alola)**
+- **Toxtricity-amped** → **Toxtricity-amped (Alola)**
 
 ---
 
 **Estadísticas base:**
 - **HP:** 75
-- **Ataque:** 100
-- **Defensa:** 95
-- **Velocidad:** 110
+- **Ataque:** 98
+- **Defensa:** 70
+- **Velocidad:** 75
 
 ---
 
@@ -45,23 +45,24 @@ Tauros es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Tauros decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Toxtricity-amped decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Tauros es conocido por su capacidad para alcanza poderes muy altos.
+Toxtricity-amped es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3118
+- **CP máximo:** 3158
 - **Clase de combate:** 8
-- **Evento especial:** Tauros puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Toxtricity-amped puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Tauros_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Toxtricity-amped_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -94,7 +95,7 @@ Tauros es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
