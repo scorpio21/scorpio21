@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/655.png) | **Delphox** | Fuego, Psíquico | Delphox | 655 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/764.png) | **Comfey** | Hada | Comfey | 764 |
 
 **Curiosidad:**  
-Delphox es conocido por su habilidad para resistir ataques.
+Comfey es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Hoja Afilada**
 - **Rayo Solar**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Delphox** → **Delphox (Alola)**
+- **Comfey** → **Comfey (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 75
-- **Ataque:** 69
-- **Defensa:** 72
-- **Velocidad:** 104
+- **HP:** 51
+- **Ataque:** 52
+- **Defensa:** 90
+- **Velocidad:** 100
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Delphox decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Comfey decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Delphox es conocido por su capacidad para dominar varias tácticas en combate.
+Comfey es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3451
+- **CP máximo:** 3274
 - **Clase de combate:** 8
-- **Evento especial:** Delphox puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Comfey puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Delphox_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Comfey_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -96,7 +97,7 @@ Delphox es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
