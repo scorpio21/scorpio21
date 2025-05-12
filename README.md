@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/764.png) | **Comfey** | Hada | Comfey | 764 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/357.png) | **Tropius** | Planta, Volador | Tropius | 357 |
 
 **Curiosidad:**  
-Comfey es conocido por su habilidad para usar ataques poderosos.
+Tropius es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
+- **Puño Fuego**
 - **Rayo Solar**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Comfey** → **Comfey (Alola)**
+- **Tropius** → **Tropius (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 51
-- **Ataque:** 52
-- **Defensa:** 90
-- **Velocidad:** 100
+- **HP:** 99
+- **Ataque:** 68
+- **Defensa:** 83
+- **Velocidad:** 51
 
 ---
 
@@ -45,23 +45,24 @@ Comfey es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Comfey decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Tropius decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Comfey es conocido por su capacidad para alcanza poderes muy altos.
+Tropius es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3274
+- **CP máximo:** 3654
 - **Clase de combate:** 8
-- **Evento especial:** Comfey puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Tropius puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Comfey_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Tropius_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -97,7 +98,7 @@ Comfey es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
