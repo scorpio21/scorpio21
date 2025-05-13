@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/357.png) | **Tropius** | Planta, Volador | Tropius | 357 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png) | **Charmander** | Fuego | Charmander | 4 |
 
 **Curiosidad:**  
-Tropius es conocido por su habilidad para dominar la batalla.
+Charmander es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Rayo Solar**
+- **Hoja Afilada**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Tropius** → **Tropius (Alola)**
+- **Charmander** → **Charmander (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 99
-- **Ataque:** 68
-- **Defensa:** 83
-- **Velocidad:** 51
+- **HP:** 39
+- **Ataque:** 52
+- **Defensa:** 43
+- **Velocidad:** 65
 
 ---
 
@@ -45,23 +45,24 @@ Tropius es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Tropius decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Charmander decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Tropius es conocido por su capacidad para alcanza poderes muy altos.
+Charmander es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3654
+- **CP máximo:** 3089
 - **Clase de combate:** 8
-- **Evento especial:** Tropius puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Charmander puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Tropius_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Charmander_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -98,7 +99,7 @@ Tropius es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
