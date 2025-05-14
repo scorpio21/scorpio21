@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png) | **Charmander** | Fuego | Charmander | 4 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png) | **Staraptor** | Normal, Volador | Staraptor | 398 |
 
 **Curiosidad:**  
-Charmander es conocido por su habilidad para dominar la batalla.
+Staraptor es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
+- **Corte Psíquico**
+- **Ataque Psíquico**
 - **Puño Trueno**
-- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Charmander** → **Charmander (Alola)**
+- **Staraptor** → **Staraptor (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 39
-- **Ataque:** 52
-- **Defensa:** 43
-- **Velocidad:** 65
+- **HP:** 85
+- **Ataque:** 120
+- **Defensa:** 70
+- **Velocidad:** 100
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Charmander decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Staraptor decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Charmander es conocido por su capacidad para dominar varias tácticas en combate.
+Staraptor es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3089
+- **CP máximo:** 3407
 - **Clase de combate:** 8
-- **Evento especial:** Charmander puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Staraptor puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Charmander_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Staraptor_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -99,7 +100,7 @@ Charmander es conocido por su capacidad para dominar varias tácticas en combate
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
