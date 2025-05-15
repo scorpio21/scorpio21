@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png) | **Staraptor** | Normal, Volador | Staraptor | 398 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png) | **Mewtwo** | Psíquico | Mewtwo | 150 |
 
 **Curiosidad:**  
-Staraptor es conocido por su habilidad para usar ataques poderosos.
+Mewtwo es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Ataque Psíquico**
+- **Hoja Afilada**
+- **Puño Trueno**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Staraptor** → **Staraptor (Alola)**
+- **Mewtwo** → **Mewtwo (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 85
-- **Ataque:** 120
-- **Defensa:** 70
-- **Velocidad:** 100
+- **HP:** 106
+- **Ataque:** 110
+- **Defensa:** 90
+- **Velocidad:** 130
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Staraptor decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Mewtwo decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Staraptor es conocido por su capacidad para dominar varias tácticas en combate.
+Mewtwo es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3407
+- **CP máximo:** 3076
 - **Clase de combate:** 8
-- **Evento especial:** Staraptor puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Mewtwo puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Staraptor_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mewtwo_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -100,7 +101,7 @@ Staraptor es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
