@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png) | **Mewtwo** | Psíquico | Mewtwo | 150 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/317.png) | **Swalot** | Veneno | Swalot | 317 |
 
 **Curiosidad:**  
-Mewtwo es conocido por su habilidad para resistir ataques.
+Swalot es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Puño Trueno**
-- **Puño Trueno**
+- **Corte Psíquico**
+- **Ataque Psíquico**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Mewtwo** → **Mewtwo (Alola)**
+- **Swalot** → **Swalot (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 106
-- **Ataque:** 110
-- **Defensa:** 90
-- **Velocidad:** 130
+- **HP:** 100
+- **Ataque:** 73
+- **Defensa:** 83
+- **Velocidad:** 55
 
 ---
 
@@ -45,23 +45,24 @@ Mewtwo es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Mewtwo decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Swalot decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Mewtwo es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Swalot es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3076
+- **CP máximo:** 3473
 - **Clase de combate:** 8
-- **Evento especial:** Mewtwo puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Swalot puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mewtwo_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Swalot_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -101,7 +102,7 @@ Mewtwo es conocido por su capacidad para desarrollar habilidades que cambian las
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
