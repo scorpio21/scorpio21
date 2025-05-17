@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/317.png) | **Swalot** | Veneno | Swalot | 317 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png) | **Pineco** | Bicho | Pineco | 204 |
 
 **Curiosidad:**  
-Swalot es conocido por su habilidad para usar ataques poderosos.
+Pineco es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Ataque Psíquico**
+- **Puño Fuego**
+- **Puño Trueno**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Swalot** → **Swalot (Alola)**
+- **Pineco** → **Pineco (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 100
-- **Ataque:** 73
-- **Defensa:** 83
-- **Velocidad:** 55
+- **HP:** 50
+- **Ataque:** 65
+- **Defensa:** 90
+- **Velocidad:** 15
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Swalot decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Pineco decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Swalot es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Pineco es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3473
+- **CP máximo:** 3682
 - **Clase de combate:** 8
-- **Evento especial:** Swalot puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Pineco puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Swalot_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Pineco_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -102,7 +103,7 @@ Swalot es conocido por su capacidad para desarrollar habilidades que cambian las
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
