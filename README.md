@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png) | **Pineco** | Bicho | Pineco | 204 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png) | **Tangela** | Planta | Tangela | 114 |
 
 **Curiosidad:**  
-Pineco es conocido por su habilidad para dominar la batalla.
+Tangela es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
+- **Ataque Psíquico**
 - **Puño Trueno**
-- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Pineco** → **Pineco (Alola)**
+- **Tangela** → **Tangela (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 50
-- **Ataque:** 65
-- **Defensa:** 90
-- **Velocidad:** 15
+- **HP:** 65
+- **Ataque:** 55
+- **Defensa:** 115
+- **Velocidad:** 60
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Pineco decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Tangela decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Pineco es conocido por su capacidad para alcanza poderes muy altos.
+Tangela es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3682
+- **CP máximo:** 3933
 - **Clase de combate:** 8
-- **Evento especial:** Pineco puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Tangela puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Pineco_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Tangela_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -103,7 +104,7 @@ Pineco es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
