@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png) | **Tangela** | Planta | Tangela | 114 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/546.png) | **Cottonee** | Planta, Hada | Cottonee | 546 |
 
 **Curiosidad:**  
-Tangela es conocido por su habilidad para alcanzar altas velocidades.
+Cottonee es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
+- **Hoja Afilada**
+- **Rayo Solar**
 - **Puño Fuego**
-- **Ataque Psíquico**
-- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Tangela** → **Tangela (Alola)**
+- **Cottonee** → **Cottonee (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 65
-- **Ataque:** 55
-- **Defensa:** 115
-- **Velocidad:** 60
+- **HP:** 40
+- **Ataque:** 27
+- **Defensa:** 60
+- **Velocidad:** 66
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Tangela decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Cottonee decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Tangela es conocido por su capacidad para alcanza poderes muy altos.
+Cottonee es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3933
+- **CP máximo:** 3284
 - **Clase de combate:** 8
-- **Evento especial:** Tangela puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Cottonee puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Tangela_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cottonee_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -104,7 +105,7 @@ Tangela es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
