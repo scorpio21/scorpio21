@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/546.png) | **Cottonee** | Planta, Hada | Cottonee | 546 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png) | **Smoochum** | Hielo, Psíquico | Smoochum | 238 |
 
 **Curiosidad:**  
-Cottonee es conocido por su habilidad para dominar la batalla.
+Smoochum es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
+- **Corte Psíquico**
 - **Rayo Solar**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Cottonee** → **Cottonee (Alola)**
+- **Smoochum** → **Smoochum (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 40
-- **Ataque:** 27
-- **Defensa:** 60
-- **Velocidad:** 66
+- **HP:** 45
+- **Ataque:** 30
+- **Defensa:** 15
+- **Velocidad:** 65
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Cottonee decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Smoochum decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Cottonee es conocido por su capacidad para alcanza poderes muy altos.
+Smoochum es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3284
+- **CP máximo:** 3589
 - **Clase de combate:** 8
-- **Evento especial:** Cottonee puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Smoochum puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cottonee_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Smoochum_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -105,7 +106,7 @@ Cottonee es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
