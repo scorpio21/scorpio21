@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png) | **Smoochum** | Hielo, Psíquico | Smoochum | 238 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png) | **Magneton** | Eléctrico, Acero | Magneton | 82 |
 
 **Curiosidad:**  
-Smoochum es conocido por su habilidad para usar ataques poderosos.
+Magneton es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
 - **Rayo Solar**
-- **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Smoochum** → **Smoochum (Alola)**
+- **Magneton** → **Magneton (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 45
-- **Ataque:** 30
-- **Defensa:** 15
-- **Velocidad:** 65
+- **HP:** 50
+- **Ataque:** 60
+- **Defensa:** 95
+- **Velocidad:** 70
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Smoochum decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Magneton decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Smoochum es conocido por su capacidad para alcanza poderes muy altos.
+Magneton es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3589
+- **CP máximo:** 3622
 - **Clase de combate:** 8
-- **Evento especial:** Smoochum puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Magneton puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Smoochum_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Magneton_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -106,7 +107,7 @@ Smoochum es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
