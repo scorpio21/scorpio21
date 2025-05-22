@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png) | **Magneton** | Eléctrico, Acero | Magneton | 82 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/872.png) | **Snom** | Hielo, Bicho | Snom | 872 |
 
 **Curiosidad:**  
-Magneton es conocido por su habilidad para alcanzar altas velocidades.
+Snom es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Hoja Afilada**
 - **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Magneton** → **Magneton (Alola)**
+- **Snom** → **Snom (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 50
-- **Ataque:** 60
-- **Defensa:** 95
-- **Velocidad:** 70
+- **HP:** 30
+- **Ataque:** 25
+- **Defensa:** 35
+- **Velocidad:** 20
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Magneton decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Snom decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Magneton es conocido por su capacidad para dominar varias tácticas en combate.
+Snom es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3622
+- **CP máximo:** 3617
 - **Clase de combate:** 8
-- **Evento especial:** Magneton puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Snom puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Magneton_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Snom_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -107,7 +108,7 @@ Magneton es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
