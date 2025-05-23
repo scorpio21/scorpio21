@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/872.png) | **Snom** | Hielo, Bicho | Snom | 872 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/840.png) | **Applin** | Planta, Dragón | Applin | 840 |
 
 **Curiosidad:**  
-Snom es conocido por su habilidad para usar ataques poderosos.
+Applin es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Hoja Afilada**
 - **Rayo Solar**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Snom** → **Snom (Alola)**
+- **Applin** → **Applin (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 30
-- **Ataque:** 25
-- **Defensa:** 35
+- **HP:** 40
+- **Ataque:** 40
+- **Defensa:** 80
 - **Velocidad:** 20
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Snom decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Applin decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Snom es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Applin es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3617
+- **CP máximo:** 3840
 - **Clase de combate:** 8
-- **Evento especial:** Snom puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Applin puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Snom_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Applin_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -108,7 +109,7 @@ Snom es conocido por su capacidad para desarrollar habilidades que cambian las b
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
