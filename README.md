@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/840.png) | **Applin** | Planta, Dragón | Applin | 840 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png) | **Nidoking** | Veneno, Tierra | Nidoking | 34 |
 
 **Curiosidad:**  
-Applin es conocido por su habilidad para dominar la batalla.
+Nidoking es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Rayo Solar**
+- **Corte Psíquico**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Applin** → **Applin (Alola)**
+- **Nidoking** → **Nidoking (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 40
-- **Ataque:** 40
-- **Defensa:** 80
-- **Velocidad:** 20
+- **HP:** 81
+- **Ataque:** 102
+- **Defensa:** 77
+- **Velocidad:** 85
 
 ---
 
@@ -45,23 +45,24 @@ Applin es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Applin decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Nidoking decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Applin es conocido por su capacidad para dominar varias tácticas en combate.
+Nidoking es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3840
+- **CP máximo:** 3276
 - **Clase de combate:** 8
-- **Evento especial:** Applin puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Nidoking puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Applin_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Nidoking_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -109,7 +110,7 @@ Applin es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
