@@ -13,10 +13,10 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png) | **Nidoking** | Veneno, Tierra | Nidoking | 34 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/481.png) | **Mesprit** | Psíquico | Mesprit | 481 |
 
 **Curiosidad:**  
-Nidoking es conocido por su habilidad para resistir ataques.
+Mesprit es conocido por su habilidad para resistir ataques.
 
 ---
 
@@ -28,15 +28,15 @@ Nidoking es conocido por su habilidad para resistir ataques.
 ---
 
 **Evolución:**  
-- **Nidoking** → **Nidoking (Alola)**
+- **Mesprit** → **Mesprit (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 81
-- **Ataque:** 102
-- **Defensa:** 77
-- **Velocidad:** 85
+- **HP:** 80
+- **Ataque:** 105
+- **Defensa:** 105
+- **Velocidad:** 80
 
 ---
 
@@ -45,23 +45,24 @@ Nidoking es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Nidoking decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Mesprit decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Nidoking es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Mesprit es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3276
+- **CP máximo:** 3582
 - **Clase de combate:** 8
-- **Evento especial:** Nidoking puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Mesprit puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Nidoking_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mesprit_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -110,7 +111,7 @@ Nidoking es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
