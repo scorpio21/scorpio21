@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/481.png) | **Mesprit** | Psíquico | Mesprit | 481 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png) | **Floatzel** | Agua | Floatzel | 419 |
 
 **Curiosidad:**  
-Mesprit es conocido por su habilidad para resistir ataques.
+Floatzel es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Hoja Afilada**
+- **Rayo Solar**
 - **Puño Trueno**
-- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Mesprit** → **Mesprit (Alola)**
+- **Floatzel** → **Floatzel (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 80
+- **HP:** 85
 - **Ataque:** 105
-- **Defensa:** 105
-- **Velocidad:** 80
+- **Defensa:** 55
+- **Velocidad:** 115
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Mesprit decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Floatzel decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Mesprit es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Floatzel es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3582
+- **CP máximo:** 3589
 - **Clase de combate:** 8
-- **Evento especial:** Mesprit puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Floatzel puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mesprit_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Floatzel_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -111,7 +112,7 @@ Mesprit es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
