@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/787.png) | **Tapu-bulu** | Planta, Hada | Tapu-bulu | 787 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/641.png) | **Tornadus-incarnate** | Volador | Tornadus | 641 |
 
 **Curiosidad:**  
-Tapu-bulu es conocido por su habilidad para usar ataques poderosos.
+Tornadus-incarnate es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Corte Psíquico**
 - **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Tapu-bulu** → **Tapu-bulu (Alola)**
+- **Tornadus-incarnate** → **Tornadus-incarnate (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 70
-- **Ataque:** 130
-- **Defensa:** 115
-- **Velocidad:** 75
+- **HP:** 79
+- **Ataque:** 115
+- **Defensa:** 70
+- **Velocidad:** 111
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Tapu-bulu decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Tornadus-incarnate decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Tapu-bulu es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Tornadus-incarnate es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3227
+- **CP máximo:** 3359
 - **Clase de combate:** 8
-- **Evento especial:** Tapu-bulu puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Tornadus-incarnate puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Tapu-bulu_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Tornadus-incarnate_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
