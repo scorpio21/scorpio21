@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/191.png) | **Sunkern** | Planta | Sunkern | 191 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/735.png) | **Gumshoos** | Normal | Gumshoos | 735 |
 
 **Curiosidad:**  
-Sunkern es conocido por su habilidad para dominar la batalla.
+Gumshoos es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Ataque Psíquico**
+- **Puño Trueno**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Sunkern** → **Sunkern (Alola)**
+- **Gumshoos** → **Gumshoos (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 30
-- **Ataque:** 30
-- **Defensa:** 30
-- **Velocidad:** 30
+- **HP:** 88
+- **Ataque:** 110
+- **Defensa:** 60
+- **Velocidad:** 45
 
 ---
 
@@ -45,23 +45,24 @@ Sunkern es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Sunkern decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Gumshoos decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Sunkern es conocido por su capacidad para alcanza poderes muy altos.
+Gumshoos es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3212
+- **CP máximo:** 3169
 - **Clase de combate:** 8
-- **Evento especial:** Sunkern puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Gumshoos puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Sunkern_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gumshoos_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
