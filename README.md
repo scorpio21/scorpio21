@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/735.png) | **Gumshoos** | Normal | Gumshoos | 735 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png) | **Eevee** | Normal | Eevee | 133 |
 
 **Curiosidad:**  
-Gumshoos es conocido por su habilidad para dominar la batalla.
+Eevee es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Hoja Afilada**
+- **Rayo Solar**
 - **Puño Trueno**
-- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Gumshoos** → **Gumshoos (Alola)**
+- **Eevee** → **Eevee (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 88
-- **Ataque:** 110
-- **Defensa:** 60
-- **Velocidad:** 45
+- **HP:** 55
+- **Ataque:** 55
+- **Defensa:** 50
+- **Velocidad:** 55
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Gumshoos decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Eevee decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Gumshoos es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Eevee es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3169
+- **CP máximo:** 3963
 - **Clase de combate:** 8
-- **Evento especial:** Gumshoos puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Eevee puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gumshoos_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Eevee_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -117,7 +118,7 @@ Gumshoos es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
