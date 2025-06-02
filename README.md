@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png) | **Eevee** | Normal | Eevee | 133 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/374.png) | **Beldum** | Acero, Psíquico | Beldum | 374 |
 
 **Curiosidad:**  
-Eevee es conocido por su habilidad para alcanzar altas velocidades.
+Beldum es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Rayo Solar**
+- **Puño Fuego**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Eevee** → **Eevee (Alola)**
+- **Beldum** → **Beldum (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 55
+- **HP:** 40
 - **Ataque:** 55
-- **Defensa:** 50
-- **Velocidad:** 55
+- **Defensa:** 80
+- **Velocidad:** 30
 
 ---
 
@@ -45,23 +45,24 @@ Eevee es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Eevee decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Beldum decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Eevee es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Beldum es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3963
+- **CP máximo:** 3635
 - **Clase de combate:** 8
-- **Evento especial:** Eevee puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Beldum puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Eevee_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Beldum_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -118,7 +119,7 @@ Eevee es conocido por su capacidad para desarrollar habilidades que cambian las 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
