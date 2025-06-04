@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png) | **Chatot** | Normal, Volador | Chatot | 441 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/866.png) | **Mr-rime** | Hielo, Psíquico | Mr-rime | 866 |
 
 **Curiosidad:**  
-Chatot es conocido por su habilidad para resistir ataques.
+Mr-rime es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Rayo Solar**
-- **Puño Fuego**
+- **Corte Psíquico**
+- **Ataque Psíquico**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Chatot** → **Chatot (Alola)**
+- **Mr-rime** → **Mr-rime (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 76
-- **Ataque:** 65
-- **Defensa:** 45
-- **Velocidad:** 91
+- **HP:** 80
+- **Ataque:** 85
+- **Defensa:** 75
+- **Velocidad:** 70
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Chatot decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Mr-rime decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Chatot es conocido por su capacidad para dominar varias tácticas en combate.
+Mr-rime es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3566
+- **CP máximo:** 3650
 - **Clase de combate:** 8
-- **Evento especial:** Chatot puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Mr-rime puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Chatot_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mr-rime_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -120,7 +121,7 @@ Chatot es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
