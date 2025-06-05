@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/866.png) | **Mr-rime** | Hielo, Psíquico | Mr-rime | 866 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/307.png) | **Meditite** | Lucha, Psíquico | Meditite | 307 |
 
 **Curiosidad:**  
-Mr-rime es conocido por su habilidad para alcanzar altas velocidades.
+Meditite es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
 - **Ataque Psíquico**
-- **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Mr-rime** → **Mr-rime (Alola)**
+- **Meditite** → **Meditite (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 80
-- **Ataque:** 85
-- **Defensa:** 75
-- **Velocidad:** 70
+- **HP:** 30
+- **Ataque:** 40
+- **Defensa:** 55
+- **Velocidad:** 60
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Mr-rime decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Meditite decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Mr-rime es conocido por su capacidad para dominar varias tácticas en combate.
+Meditite es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3650
+- **CP máximo:** 3234
 - **Clase de combate:** 8
-- **Evento especial:** Mr-rime puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Meditite puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mr-rime_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Meditite_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -121,7 +122,7 @@ Mr-rime es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
