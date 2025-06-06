@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/307.png) | **Meditite** | Lucha, Psíquico | Meditite | 307 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png) | **Gyarados** | Agua, Volador | Gyarados | 130 |
 
 **Curiosidad:**  
-Meditite es conocido por su habilidad para dominar la batalla.
+Gyarados es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Puño Fuego**
 - **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Meditite** → **Meditite (Alola)**
+- **Gyarados** → **Gyarados (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 30
-- **Ataque:** 40
-- **Defensa:** 55
-- **Velocidad:** 60
+- **HP:** 95
+- **Ataque:** 125
+- **Defensa:** 79
+- **Velocidad:** 81
 
 ---
 
@@ -45,23 +45,24 @@ Meditite es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Meditite decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Gyarados decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Meditite es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Gyarados es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3234
+- **CP máximo:** 3425
 - **Clase de combate:** 8
-- **Evento especial:** Meditite puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Gyarados puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Meditite_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gyarados_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -122,7 +123,7 @@ Meditite es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
