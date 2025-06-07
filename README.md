@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png) | **Gyarados** | Agua, Volador | Gyarados | 130 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/488.png) | **Cresselia** | Psíquico | Cresselia | 488 |
 
 **Curiosidad:**  
-Gyarados es conocido por su habilidad para alcanzar altas velocidades.
+Cresselia es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Corte Psíquico**
 - **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Gyarados** → **Gyarados (Alola)**
+- **Cresselia** → **Cresselia (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 95
-- **Ataque:** 125
-- **Defensa:** 79
-- **Velocidad:** 81
+- **HP:** 120
+- **Ataque:** 70
+- **Defensa:** 110
+- **Velocidad:** 85
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Gyarados decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Cresselia decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Gyarados es conocido por su capacidad para alcanza poderes muy altos.
+Cresselia es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3425
+- **CP máximo:** 3697
 - **Clase de combate:** 8
-- **Evento especial:** Gyarados puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Cresselia puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gyarados_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cresselia_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -123,7 +124,7 @@ Gyarados es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
