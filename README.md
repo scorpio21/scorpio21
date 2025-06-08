@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/488.png) | **Cresselia** | Psíquico | Cresselia | 488 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/893.png) | **Zarude** | Siniestro, Planta | Zarude | 893 |
 
 **Curiosidad:**  
-Cresselia es conocido por su habilidad para resistir ataques.
+Zarude es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Ataque Psíquico**
+- **Puño Trueno**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Cresselia** → **Cresselia (Alola)**
+- **Zarude** → **Zarude (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 120
-- **Ataque:** 70
-- **Defensa:** 110
-- **Velocidad:** 85
+- **HP:** 105
+- **Ataque:** 120
+- **Defensa:** 105
+- **Velocidad:** 105
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Cresselia decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Zarude decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Cresselia es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Zarude es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3697
+- **CP máximo:** 3378
 - **Clase de combate:** 8
-- **Evento especial:** Cresselia puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Zarude puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cresselia_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Zarude_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -124,7 +125,7 @@ Cresselia es conocido por su capacidad para desarrollar habilidades que cambian 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
