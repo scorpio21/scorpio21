@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/893.png) | **Zarude** | Siniestro, Planta | Zarude | 893 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/486.png) | **Regigigas** | Normal | Regigigas | 486 |
 
 **Curiosidad:**  
-Zarude es conocido por su habilidad para usar ataques poderosos.
+Regigigas es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Puño Trueno**
+- **Puño Fuego**
+- **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Zarude** → **Zarude (Alola)**
+- **Regigigas** → **Regigigas (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 105
-- **Ataque:** 120
-- **Defensa:** 105
-- **Velocidad:** 105
+- **HP:** 110
+- **Ataque:** 160
+- **Defensa:** 110
+- **Velocidad:** 100
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Zarude decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Regigigas decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Zarude es conocido por su capacidad para alcanza poderes muy altos.
+Regigigas es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3378
+- **CP máximo:** 3207
 - **Clase de combate:** 8
-- **Evento especial:** Zarude puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Regigigas puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Zarude_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Regigigas_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -125,7 +126,7 @@ Zarude es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
