@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/486.png) | **Regigigas** | Normal | Regigigas | 486 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/878.png) | **Cufant** | Acero | Cufant | 878 |
 
 **Curiosidad:**  
-Regigigas es conocido por su habilidad para alcanzar altas velocidades.
+Cufant es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Rayo Solar**
-- **Puño Fuego**
+- **Hoja Afilada**
+- **Puño Trueno**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Regigigas** → **Regigigas (Alola)**
+- **Cufant** → **Cufant (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 110
-- **Ataque:** 160
-- **Defensa:** 110
-- **Velocidad:** 100
+- **HP:** 72
+- **Ataque:** 80
+- **Defensa:** 49
+- **Velocidad:** 40
 
 ---
 
@@ -45,23 +45,24 @@ Regigigas es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Regigigas decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Cufant decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Regigigas es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Cufant es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3207
+- **CP máximo:** 3887
 - **Clase de combate:** 8
-- **Evento especial:** Regigigas puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Cufant puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Regigigas_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cufant_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -126,7 +127,7 @@ Regigigas es conocido por su capacidad para desarrollar habilidades que cambian 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
