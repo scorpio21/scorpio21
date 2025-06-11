@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/878.png) | **Cufant** | Acero | Cufant | 878 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/611.png) | **Fraxure** | Dragón | Fraxure | 611 |
 
 **Curiosidad:**  
-Cufant es conocido por su habilidad para alcanzar altas velocidades.
+Fraxure es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Puño Trueno**
-- **Puño Trueno**
+- **Puño Fuego**
+- **Ataque Psíquico**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Cufant** → **Cufant (Alola)**
+- **Fraxure** → **Fraxure (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 72
-- **Ataque:** 80
-- **Defensa:** 49
-- **Velocidad:** 40
+- **HP:** 66
+- **Ataque:** 117
+- **Defensa:** 70
+- **Velocidad:** 67
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Cufant decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Fraxure decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Cufant es conocido por su capacidad para alcanza poderes muy altos.
+Fraxure es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3887
+- **CP máximo:** 3278
 - **Clase de combate:** 8
-- **Evento especial:** Cufant puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Fraxure puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cufant_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Fraxure_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -127,7 +128,7 @@ Cufant es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
