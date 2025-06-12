@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/611.png) | **Fraxure** | Dragón | Fraxure | 611 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/590.png) | **Foongus** | Planta, Veneno | Foongus | 590 |
 
 **Curiosidad:**  
-Fraxure es conocido por su habilidad para resistir ataques.
+Foongus es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Ataque Psíquico**
-- **Puño Fuego**
+- **Corte Psíquico**
+- **Puño Trueno**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Fraxure** → **Fraxure (Alola)**
+- **Foongus** → **Foongus (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 66
-- **Ataque:** 117
-- **Defensa:** 70
-- **Velocidad:** 67
+- **HP:** 69
+- **Ataque:** 55
+- **Defensa:** 45
+- **Velocidad:** 15
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Fraxure decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Foongus decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Fraxure es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Foongus es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3278
+- **CP máximo:** 3647
 - **Clase de combate:** 8
-- **Evento especial:** Fraxure puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Foongus puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Fraxure_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Foongus_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -128,7 +129,7 @@ Fraxure es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
