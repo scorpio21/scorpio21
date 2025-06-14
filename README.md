@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png) | **Meganium** | Planta | Meganium | 154 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/642.png) | **Thundurus-incarnate** | Eléctrico, Volador | Thundurus | 642 |
 
 **Curiosidad:**  
-Meganium es conocido por su habilidad para dominar la batalla.
+Thundurus-incarnate es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Puño Fuego**
 - **Rayo Solar**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Meganium** → **Meganium (Alola)**
+- **Thundurus-incarnate** → **Thundurus-incarnate (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 80
-- **Ataque:** 82
-- **Defensa:** 100
-- **Velocidad:** 80
+- **HP:** 79
+- **Ataque:** 115
+- **Defensa:** 70
+- **Velocidad:** 111
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Meganium decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Thundurus-incarnate decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Meganium es conocido por su capacidad para dominar varias tácticas en combate.
+Thundurus-incarnate es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3614
+- **CP máximo:** 3527
 - **Clase de combate:** 8
-- **Evento especial:** Meganium puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Thundurus-incarnate puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Meganium_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Thundurus-incarnate_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -130,7 +131,7 @@ Meganium es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
