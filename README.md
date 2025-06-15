@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/642.png) | **Thundurus-incarnate** | Eléctrico, Volador | Thundurus | 642 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png) | **Gengar** | Fantasma, Veneno | Gengar | 94 |
 
 **Curiosidad:**  
-Thundurus-incarnate es conocido por su habilidad para usar ataques poderosos.
+Gengar es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Rayo Solar**
+- **Corte Psíquico**
+- **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Thundurus-incarnate** → **Thundurus-incarnate (Alola)**
+- **Gengar** → **Gengar (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 79
-- **Ataque:** 115
-- **Defensa:** 70
-- **Velocidad:** 111
+- **HP:** 60
+- **Ataque:** 65
+- **Defensa:** 60
+- **Velocidad:** 110
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Thundurus-incarnate decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Gengar decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Thundurus-incarnate es conocido por su capacidad para dominar varias tácticas en combate.
+Gengar es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3527
+- **CP máximo:** 3132
 - **Clase de combate:** 8
-- **Evento especial:** Thundurus-incarnate puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Gengar puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Thundurus-incarnate_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -131,7 +132,7 @@ Thundurus-incarnate es conocido por su capacidad para dominar varias tácticas e
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
