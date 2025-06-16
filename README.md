@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png) | **Gengar** | Fantasma, Veneno | Gengar | 94 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/360.png) | **Wynaut** | Psíquico | Wynaut | 360 |
 
 **Curiosidad:**  
-Gengar es conocido por su habilidad para usar ataques poderosos.
+Wynaut es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Ataque Psíquico**
+- **Hoja Afilada**
+- **Puño Trueno**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Gengar** → **Gengar (Alola)**
+- **Wynaut** → **Wynaut (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 65
-- **Defensa:** 60
-- **Velocidad:** 110
+- **HP:** 95
+- **Ataque:** 23
+- **Defensa:** 48
+- **Velocidad:** 23
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Gengar decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Wynaut decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Gengar es conocido por su capacidad para dominar varias tácticas en combate.
+Wynaut es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3132
+- **CP máximo:** 3744
 - **Clase de combate:** 8
-- **Evento especial:** Gengar puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Wynaut puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Wynaut_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -132,7 +133,7 @@ Gengar es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
