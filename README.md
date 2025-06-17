@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/360.png) | **Wynaut** | Psíquico | Wynaut | 360 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351.png) | **Castform** | Normal | Castform | 351 |
 
 **Curiosidad:**  
-Wynaut es conocido por su habilidad para resistir ataques.
+Castform es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Puño Trueno**
+- **Corte Psíquico**
+- **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Wynaut** → **Wynaut (Alola)**
+- **Castform** → **Castform (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 95
-- **Ataque:** 23
-- **Defensa:** 48
-- **Velocidad:** 23
+- **HP:** 70
+- **Ataque:** 70
+- **Defensa:** 70
+- **Velocidad:** 70
 
 ---
 
@@ -45,23 +45,24 @@ Wynaut es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Wynaut decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Castform decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Wynaut es conocido por su capacidad para dominar varias tácticas en combate.
+Castform es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3744
+- **CP máximo:** 3252
 - **Clase de combate:** 8
-- **Evento especial:** Wynaut puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Castform puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Wynaut_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Castform_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -133,7 +134,7 @@ Wynaut es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
