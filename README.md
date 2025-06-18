@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351.png) | **Castform** | Normal | Castform | 351 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/828.png) | **Thievul** | Siniestro | Thievul | 828 |
 
 **Curiosidad:**  
-Castform es conocido por su habilidad para resistir ataques.
+Thievul es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Ataque Psíquico**
+- **Hoja Afilada**
+- **Rayo Solar**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Castform** → **Castform (Alola)**
+- **Thievul** → **Thievul (Alola)**
 
 ---
 
 **Estadísticas base:**
 - **HP:** 70
-- **Ataque:** 70
-- **Defensa:** 70
-- **Velocidad:** 70
+- **Ataque:** 58
+- **Defensa:** 58
+- **Velocidad:** 90
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Castform decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Thievul decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Castform es conocido por su capacidad para dominar varias tácticas en combate.
+Thievul es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3252
+- **CP máximo:** 3910
 - **Clase de combate:** 8
-- **Evento especial:** Castform puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Thievul puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Castform_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Thievul_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -134,7 +135,7 @@ Castform es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
