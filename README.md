@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/828.png) | **Thievul** | Siniestro | Thievul | 828 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png) | **Medicham** | Lucha, Psíquico | Medicham | 308 |
 
 **Curiosidad:**  
-Thievul es conocido por su habilidad para resistir ataques.
+Medicham es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
 - **Hoja Afilada**
-- **Rayo Solar**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Thievul** → **Thievul (Alola)**
+- **Medicham** → **Medicham (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 70
-- **Ataque:** 58
-- **Defensa:** 58
-- **Velocidad:** 90
+- **HP:** 60
+- **Ataque:** 60
+- **Defensa:** 75
+- **Velocidad:** 80
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Thievul decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Medicham decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Thievul es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Medicham es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3910
+- **CP máximo:** 3692
 - **Clase de combate:** 8
-- **Evento especial:** Thievul puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Medicham puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Thievul_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Medicham_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -135,7 +136,7 @@ Thievul es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
