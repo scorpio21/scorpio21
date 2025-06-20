@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png) | **Medicham** | Lucha, Psíquico | Medicham | 308 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/734.png) | **Yungoos** | Normal | Yungoos | 734 |
 
 **Curiosidad:**  
-Medicham es conocido por su habilidad para resistir ataques.
+Yungoos es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Puño Trueno**
+- **Puño Fuego**
+- **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Medicham** → **Medicham (Alola)**
+- **Yungoos** → **Yungoos (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 60
-- **Defensa:** 75
-- **Velocidad:** 80
+- **HP:** 48
+- **Ataque:** 70
+- **Defensa:** 30
+- **Velocidad:** 45
 
 ---
 
@@ -45,23 +45,24 @@ Medicham es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Medicham decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Yungoos decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Medicham es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Yungoos es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3692
+- **CP máximo:** 3046
 - **Clase de combate:** 8
-- **Evento especial:** Medicham puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Yungoos puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Medicham_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Yungoos_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -136,7 +137,7 @@ Medicham es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
