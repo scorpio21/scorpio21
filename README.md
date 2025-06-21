@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/734.png) | **Yungoos** | Normal | Yungoos | 734 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/431.png) | **Glameow** | Normal | Glameow | 431 |
 
 **Curiosidad:**  
-Yungoos es conocido por su habilidad para usar ataques poderosos.
+Glameow es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Rayo Solar**
+- **Puño Trueno**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Yungoos** → **Yungoos (Alola)**
+- **Glameow** → **Glameow (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 48
-- **Ataque:** 70
-- **Defensa:** 30
-- **Velocidad:** 45
+- **HP:** 49
+- **Ataque:** 55
+- **Defensa:** 42
+- **Velocidad:** 85
 
 ---
 
@@ -45,23 +45,24 @@ Yungoos es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Yungoos decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Glameow decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Yungoos es conocido por su capacidad para alcanza poderes muy altos.
+Glameow es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3046
+- **CP máximo:** 3364
 - **Clase de combate:** 8
-- **Evento especial:** Yungoos puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Glameow puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Yungoos_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Glameow_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -137,7 +138,7 @@ Yungoos es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
