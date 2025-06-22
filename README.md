@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/431.png) | **Glameow** | Normal | Glameow | 431 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/630.png) | **Mandibuzz** | Siniestro, Volador | Mandibuzz | 630 |
 
 **Curiosidad:**  
-Glameow es conocido por su habilidad para dominar la batalla.
+Mandibuzz es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Puño Trueno**
+- **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Glameow** → **Glameow (Alola)**
+- **Mandibuzz** → **Mandibuzz (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 49
-- **Ataque:** 55
-- **Defensa:** 42
-- **Velocidad:** 85
+- **HP:** 110
+- **Ataque:** 65
+- **Defensa:** 105
+- **Velocidad:** 80
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Glameow decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Mandibuzz decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Glameow es conocido por su capacidad para alcanza poderes muy altos.
+Mandibuzz es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3364
+- **CP máximo:** 3182
 - **Clase de combate:** 8
-- **Evento especial:** Glameow puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Mandibuzz puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Glameow_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mandibuzz_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -138,7 +139,7 @@ Glameow es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
