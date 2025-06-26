@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/808.png) | **Meltan** | Acero | Meltan | 808 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/708.png) | **Phantump** | Fantasma, Planta | Phantump | 708 |
 
 **Curiosidad:**  
-Meltan es conocido por su habilidad para alcanzar altas velocidades.
+Phantump es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Corte Psíquico**
+- **Rayo Solar**
 - **Puño Trueno**
-- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Meltan** → **Meltan (Alola)**
+- **Phantump** → **Phantump (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 46
-- **Ataque:** 65
-- **Defensa:** 65
-- **Velocidad:** 34
+- **HP:** 43
+- **Ataque:** 70
+- **Defensa:** 48
+- **Velocidad:** 38
 
 ---
 
@@ -45,23 +45,24 @@ Meltan es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Meltan decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Phantump decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Meltan es conocido por su capacidad para alcanza poderes muy altos.
+Phantump es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3690
+- **CP máximo:** 3445
 - **Clase de combate:** 8
-- **Evento especial:** Meltan puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Phantump puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Meltan_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Phantump_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -142,7 +143,7 @@ Meltan es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
