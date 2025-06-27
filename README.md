@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/708.png) | **Phantump** | Fantasma, Planta | Phantump | 708 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/691.png) | **Dragalge** | Veneno, Dragón | Dragalge | 691 |
 
 **Curiosidad:**  
-Phantump es conocido por su habilidad para dominar la batalla.
+Dragalge es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Rayo Solar**
+- **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Phantump** → **Phantump (Alola)**
+- **Dragalge** → **Dragalge (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 43
-- **Ataque:** 70
-- **Defensa:** 48
-- **Velocidad:** 38
+- **HP:** 65
+- **Ataque:** 75
+- **Defensa:** 90
+- **Velocidad:** 44
 
 ---
 
@@ -45,23 +45,24 @@ Phantump es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Phantump decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Dragalge decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Phantump es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Dragalge es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3445
+- **CP máximo:** 3299
 - **Clase de combate:** 8
-- **Evento especial:** Phantump puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Dragalge puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Phantump_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Dragalge_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -143,7 +144,7 @@ Phantump es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
