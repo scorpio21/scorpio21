@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png) | **Shuckle** | Bicho, Roca | Shuckle | 213 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png) | **Altaria** | Dragón, Volador | Altaria | 334 |
 
 **Curiosidad:**  
-Shuckle es conocido por su habilidad para alcanzar altas velocidades.
+Altaria es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Hoja Afilada**
 - **Rayo Solar**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Shuckle** → **Shuckle (Alola)**
+- **Altaria** → **Altaria (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 20
-- **Ataque:** 10
-- **Defensa:** 230
-- **Velocidad:** 5
+- **HP:** 75
+- **Ataque:** 70
+- **Defensa:** 90
+- **Velocidad:** 80
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Shuckle decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Altaria decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Shuckle es conocido por su capacidad para dominar varias tácticas en combate.
+Altaria es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3495
+- **CP máximo:** 3700
 - **Clase de combate:** 8
-- **Evento especial:** Shuckle puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Altaria puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Shuckle_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Altaria_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
