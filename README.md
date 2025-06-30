@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png) | **Altaria** | Dragón, Volador | Altaria | 334 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/443.png) | **Gible** | Dragón, Tierra | Gible | 443 |
 
 **Curiosidad:**  
-Altaria es conocido por su habilidad para dominar la batalla.
+Gible es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Rayo Solar**
+- **Corte Psíquico**
+- **Puño Trueno**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Altaria** → **Altaria (Alola)**
+- **Gible** → **Gible (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 75
+- **HP:** 58
 - **Ataque:** 70
-- **Defensa:** 90
-- **Velocidad:** 80
+- **Defensa:** 45
+- **Velocidad:** 42
 
 ---
 
@@ -45,23 +45,24 @@ Altaria es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Altaria decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Gible decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Altaria es conocido por su capacidad para alcanza poderes muy altos.
+Gible es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3700
+- **CP máximo:** 3869
 - **Clase de combate:** 8
-- **Evento especial:** Altaria puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Gible puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Altaria_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gible_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -146,7 +147,7 @@ Altaria es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
