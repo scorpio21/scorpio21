@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/443.png) | **Gible** | Dragón, Tierra | Gible | 443 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png) | **Shellos** | Agua | Shellos | 422 |
 
 **Curiosidad:**  
-Gible es conocido por su habilidad para dominar la batalla.
+Shellos es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Puño Trueno**
-- **Puño Trueno**
+- **Puño Fuego**
+- **Rayo Solar**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Gible** → **Gible (Alola)**
+- **Shellos** → **Shellos (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 58
-- **Ataque:** 70
-- **Defensa:** 45
-- **Velocidad:** 42
+- **HP:** 76
+- **Ataque:** 48
+- **Defensa:** 48
+- **Velocidad:** 34
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Gible decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Shellos decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Gible es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Shellos es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3869
+- **CP máximo:** 3710
 - **Clase de combate:** 8
-- **Evento especial:** Gible puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Shellos puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gible_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Shellos_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -147,7 +148,7 @@ Gible es conocido por su capacidad para desarrollar habilidades que cambian las 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
