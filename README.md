@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png) | **Shellos** | Agua | Shellos | 422 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/873.png) | **Frosmoth** | Hielo, Bicho | Frosmoth | 873 |
 
 **Curiosidad:**  
-Shellos es conocido por su habilidad para resistir ataques.
+Frosmoth es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
 - **Rayo Solar**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Shellos** → **Shellos (Alola)**
+- **Frosmoth** → **Frosmoth (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 76
-- **Ataque:** 48
-- **Defensa:** 48
-- **Velocidad:** 34
+- **HP:** 70
+- **Ataque:** 65
+- **Defensa:** 60
+- **Velocidad:** 65
 
 ---
 
@@ -45,23 +45,24 @@ Shellos es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Shellos decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Frosmoth decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Shellos es conocido por su capacidad para alcanza poderes muy altos.
+Frosmoth es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3710
+- **CP máximo:** 3480
 - **Clase de combate:** 8
-- **Evento especial:** Shellos puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Frosmoth puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Shellos_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Frosmoth_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -148,7 +149,7 @@ Shellos es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
