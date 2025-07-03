@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/873.png) | **Frosmoth** | Hielo, Bicho | Frosmoth | 873 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/681.png) | **Aegislash-shield** | Acero, Fantasma | Aegislash | 681 |
 
 **Curiosidad:**  
-Frosmoth es conocido por su habilidad para dominar la batalla.
+Aegislash-shield es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Rayo Solar**
+- **Hoja Afilada**
+- **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Frosmoth** → **Frosmoth (Alola)**
+- **Aegislash-shield** → **Aegislash-shield (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 70
-- **Ataque:** 65
-- **Defensa:** 60
-- **Velocidad:** 65
+- **HP:** 60
+- **Ataque:** 50
+- **Defensa:** 140
+- **Velocidad:** 60
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Frosmoth decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Aegislash-shield decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Frosmoth es conocido por su capacidad para alcanza poderes muy altos.
+Aegislash-shield es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3480
+- **CP máximo:** 3692
 - **Clase de combate:** 8
-- **Evento especial:** Frosmoth puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Aegislash-shield puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Frosmoth_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Aegislash-shield_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
