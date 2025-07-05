@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/357.png) | **Tropius** | Planta, Volador | Tropius | 357 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/831.png) | **Wooloo** | Normal | Wooloo | 831 |
 
 **Curiosidad:**  
-Tropius es conocido por su habilidad para resistir ataques.
+Wooloo es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Rayo Solar**
-- **Puño Fuego**
+- **Ataque Psíquico**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Tropius** → **Tropius (Alola)**
+- **Wooloo** → **Wooloo (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 99
-- **Ataque:** 68
-- **Defensa:** 83
-- **Velocidad:** 51
+- **HP:** 42
+- **Ataque:** 40
+- **Defensa:** 55
+- **Velocidad:** 48
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Tropius decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Wooloo decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Tropius es conocido por su capacidad para dominar varias tácticas en combate.
+Wooloo es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3512
+- **CP máximo:** 3034
 - **Clase de combate:** 8
-- **Evento especial:** Tropius puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Wooloo puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Tropius_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Wooloo_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -151,7 +152,7 @@ Tropius es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
