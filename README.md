@@ -13,10 +13,10 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/831.png) | **Wooloo** | Normal | Wooloo | 831 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png) | **Dragonite** | Dragón, Volador | Dragonite | 149 |
 
 **Curiosidad:**  
-Wooloo es conocido por su habilidad para resistir ataques.
+Dragonite es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
@@ -28,15 +28,15 @@ Wooloo es conocido por su habilidad para resistir ataques.
 ---
 
 **Evolución:**  
-- **Wooloo** → **Wooloo (Alola)**
+- **Dragonite** → **Dragonite (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 42
-- **Ataque:** 40
-- **Defensa:** 55
-- **Velocidad:** 48
+- **HP:** 91
+- **Ataque:** 134
+- **Defensa:** 95
+- **Velocidad:** 80
 
 ---
 
@@ -45,23 +45,24 @@ Wooloo es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Wooloo decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Dragonite decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Wooloo es conocido por su capacidad para dominar varias tácticas en combate.
+Dragonite es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3034
+- **CP máximo:** 3150
 - **Clase de combate:** 8
-- **Evento especial:** Wooloo puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Dragonite puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Wooloo_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Dragonite_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -152,7 +153,7 @@ Wooloo es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
