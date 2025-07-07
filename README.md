@@ -13,29 +13,29 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png) | **Dragonite** | Dragón, Volador | Dragonite | 149 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png) | **Altaria** | Dragón, Volador | Altaria | 334 |
 
 **Curiosidad:**  
-Dragonite es conocido por su habilidad para usar ataques poderosos.
+Altaria es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Ataque Psíquico**
-- **Puño Trueno**
+- **Rayo Solar**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Dragonite** → **Dragonite (Alola)**
+- **Altaria** → **Altaria (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 91
-- **Ataque:** 134
-- **Defensa:** 95
+- **HP:** 75
+- **Ataque:** 70
+- **Defensa:** 90
 - **Velocidad:** 80
 
 ---
@@ -45,23 +45,24 @@ Dragonite es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Dragonite decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Altaria decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Dragonite es conocido por su capacidad para dominar varias tácticas en combate.
+Altaria es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3150
+- **CP máximo:** 3388
 - **Clase de combate:** 8
-- **Evento especial:** Dragonite puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Altaria puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Dragonite_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Altaria_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
