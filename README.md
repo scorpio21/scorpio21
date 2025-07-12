@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/712.png) | **Bergmite** | Hielo | Bergmite | 712 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/232.png) | **Donphan** | Tierra | Donphan | 232 |
 
 **Curiosidad:**  
-Bergmite es conocido por su habilidad para resistir ataques.
+Donphan es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Rayo Solar**
-- **Puño Trueno**
+- **Ataque Psíquico**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Bergmite** → **Bergmite (Alola)**
+- **Donphan** → **Donphan (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 55
-- **Ataque:** 69
-- **Defensa:** 85
-- **Velocidad:** 28
+- **HP:** 90
+- **Ataque:** 120
+- **Defensa:** 120
+- **Velocidad:** 50
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Bergmite decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Donphan decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Bergmite es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Donphan es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3165
+- **CP máximo:** 3392
 - **Clase de combate:** 8
-- **Evento especial:** Bergmite puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Donphan puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Bergmite_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Donphan_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -158,7 +159,7 @@ Bergmite es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
