@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/232.png) | **Donphan** | Tierra | Donphan | 232 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/310.png) | **Manectric** | Eléctrico | Manectric | 310 |
 
 **Curiosidad:**  
-Donphan es conocido por su habilidad para alcanzar altas velocidades.
+Manectric es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
 - **Ataque Psíquico**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Donphan** → **Donphan (Alola)**
+- **Manectric** → **Manectric (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 90
-- **Ataque:** 120
-- **Defensa:** 120
-- **Velocidad:** 50
+- **HP:** 70
+- **Ataque:** 75
+- **Defensa:** 60
+- **Velocidad:** 105
 
 ---
 
@@ -45,23 +45,24 @@ Donphan es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Donphan decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Manectric decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Donphan es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Manectric es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3392
+- **CP máximo:** 3152
 - **Clase de combate:** 8
-- **Evento especial:** Donphan puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Manectric puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Donphan_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Manectric_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -159,7 +160,7 @@ Donphan es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
