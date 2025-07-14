@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/310.png) | **Manectric** | Eléctrico | Manectric | 310 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/755.png) | **Morelull** | Planta, Hada | Morelull | 755 |
 
 **Curiosidad:**  
-Manectric es conocido por su habilidad para dominar la batalla.
+Morelull es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Ataque Psíquico**
+- **Puño Fuego**
+- **Puño Trueno**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Manectric** → **Manectric (Alola)**
+- **Morelull** → **Morelull (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 70
-- **Ataque:** 75
-- **Defensa:** 60
-- **Velocidad:** 105
+- **HP:** 40
+- **Ataque:** 35
+- **Defensa:** 55
+- **Velocidad:** 15
 
 ---
 
@@ -45,23 +45,24 @@ Manectric es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Manectric decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Morelull decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Manectric es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Morelull es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3152
+- **CP máximo:** 3734
 - **Clase de combate:** 8
-- **Evento especial:** Manectric puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Morelull puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Manectric_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Morelull_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -160,7 +161,7 @@ Manectric es conocido por su capacidad para desarrollar habilidades que cambian 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
