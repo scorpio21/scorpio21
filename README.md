@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/755.png) | **Morelull** | Planta, Hada | Morelull | 755 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/848.png) | **Toxel** | Eléctrico, Veneno | Toxel | 848 |
 
 **Curiosidad:**  
-Morelull es conocido por su habilidad para usar ataques poderosos.
+Toxel es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Puño Trueno**
-- **Puño Trueno**
+- **Ataque Psíquico**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Morelull** → **Morelull (Alola)**
+- **Toxel** → **Toxel (Alola)**
 
 ---
 
 **Estadísticas base:**
 - **HP:** 40
-- **Ataque:** 35
-- **Defensa:** 55
-- **Velocidad:** 15
+- **Ataque:** 38
+- **Defensa:** 35
+- **Velocidad:** 40
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Morelull decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Toxel decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Morelull es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Toxel es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3734
+- **CP máximo:** 3854
 - **Clase de combate:** 8
-- **Evento especial:** Morelull puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Toxel puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Morelull_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Toxel_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -161,7 +162,7 @@ Morelull es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
