@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png) | **Omanyte** | Roca, Agua | Omanyte | 138 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png) | **Meganium** | Planta | Meganium | 154 |
 
 **Curiosidad:**  
-Omanyte es conocido por su habilidad para alcanzar altas velocidades.
+Meganium es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Puño Fuego**
 - **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Omanyte** → **Omanyte (Alola)**
+- **Meganium** → **Meganium (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 35
-- **Ataque:** 40
+- **HP:** 80
+- **Ataque:** 82
 - **Defensa:** 100
-- **Velocidad:** 35
+- **Velocidad:** 80
 
 ---
 
@@ -45,23 +45,24 @@ Omanyte es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Omanyte decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Meganium decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Omanyte es conocido por su capacidad para dominar varias tácticas en combate.
+Meganium es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3045
+- **CP máximo:** 3344
 - **Clase de combate:** 8
-- **Evento especial:** Omanyte puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Meganium puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Omanyte_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Meganium_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -163,7 +164,7 @@ Omanyte es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
