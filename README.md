@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png) | **Meganium** | Planta | Meganium | 154 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/889.png) | **Zamazenta** | Lucha | Zamazenta | 889 |
 
 **Curiosidad:**  
-Meganium es conocido por su habilidad para usar ataques poderosos.
+Zamazenta es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Ataque Psíquico**
+- **Corte Psíquico**
+- **Rayo Solar**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Meganium** → **Meganium (Alola)**
+- **Zamazenta** → **Zamazenta (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 80
-- **Ataque:** 82
-- **Defensa:** 100
-- **Velocidad:** 80
+- **HP:** 92
+- **Ataque:** 120
+- **Defensa:** 115
+- **Velocidad:** 138
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Meganium decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Zamazenta decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Meganium es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Zamazenta es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3344
+- **CP máximo:** 3784
 - **Clase de combate:** 8
-- **Evento especial:** Meganium puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Zamazenta puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Meganium_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Zamazenta_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
