@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/889.png) | **Zamazenta** | Lucha | Zamazenta | 889 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/764.png) | **Comfey** | Hada | Comfey | 764 |
 
 **Curiosidad:**  
-Zamazenta es conocido por su habilidad para dominar la batalla.
+Comfey es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Rayo Solar**
+- **Puño Fuego**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Zamazenta** → **Zamazenta (Alola)**
+- **Comfey** → **Comfey (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 92
-- **Ataque:** 120
-- **Defensa:** 115
-- **Velocidad:** 138
+- **HP:** 51
+- **Ataque:** 52
+- **Defensa:** 90
+- **Velocidad:** 100
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Zamazenta decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Comfey decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Zamazenta es conocido por su capacidad para dominar varias tácticas en combate.
+Comfey es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3784
+- **CP máximo:** 3232
 - **Clase de combate:** 8
-- **Evento especial:** Zamazenta puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Comfey puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Zamazenta_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Comfey_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -165,7 +166,7 @@ Zamazenta es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
