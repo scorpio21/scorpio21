@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png) | **Abra** | Psíquico | Abra | 63 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/440.png) | **Happiny** | Normal | Happiny | 440 |
 
 **Curiosidad:**  
-Abra es conocido por su habilidad para usar ataques poderosos.
+Happiny es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Rayo Solar**
+- **Hoja Afilada**
+- **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Abra** → **Abra (Alola)**
+- **Happiny** → **Happiny (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 25
-- **Ataque:** 20
-- **Defensa:** 15
-- **Velocidad:** 90
+- **HP:** 100
+- **Ataque:** 5
+- **Defensa:** 5
+- **Velocidad:** 30
 
 ---
 
@@ -45,23 +45,24 @@ Abra es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Abra decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Happiny decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Abra es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Happiny es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3318
+- **CP máximo:** 3029
 - **Clase de combate:** 8
-- **Evento especial:** Abra puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Happiny puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Abra_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Happiny_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -167,7 +168,7 @@ Abra es conocido por su capacidad para desarrollar habilidades que cambian las b
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
