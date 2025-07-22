@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/440.png) | **Happiny** | Normal | Happiny | 440 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/720.png) | **Hoopa** | Psíquico, Fantasma | Hoopa | 720 |
 
 **Curiosidad:**  
-Happiny es conocido por su habilidad para resistir ataques.
+Hoopa es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Hoja Afilada**
-- **Ataque Psíquico**
-- **Puño Fuego**
+- **Puño Trueno**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Happiny** → **Happiny (Alola)**
+- **Hoopa** → **Hoopa (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 100
-- **Ataque:** 5
-- **Defensa:** 5
-- **Velocidad:** 30
+- **HP:** 80
+- **Ataque:** 110
+- **Defensa:** 60
+- **Velocidad:** 70
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Happiny decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Hoopa decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Happiny es conocido por su capacidad para alcanza poderes muy altos.
+Hoopa es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3029
+- **CP máximo:** 3200
 - **Clase de combate:** 8
-- **Evento especial:** Happiny puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Hoopa puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Happiny_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Hoopa_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -168,7 +169,7 @@ Happiny es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
