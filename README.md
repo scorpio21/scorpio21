@@ -13,10 +13,10 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/720.png) | **Hoopa** | Psíquico, Fantasma | Hoopa | 720 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/425.png) | **Drifloon** | Fantasma, Volador | Drifloon | 425 |
 
 **Curiosidad:**  
-Hoopa es conocido por su habilidad para dominar la batalla.
+Drifloon es conocido por su habilidad para resistir ataques.
 
 ---
 
@@ -28,40 +28,41 @@ Hoopa es conocido por su habilidad para dominar la batalla.
 ---
 
 **Evolución:**  
-- **Hoopa** → **Hoopa (Alola)**
+- **Drifloon** → **Drifloon (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 80
-- **Ataque:** 110
-- **Defensa:** 60
+- **HP:** 90
+- **Ataque:** 50
+- **Defensa:** 34
 - **Velocidad:** 70
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Hoopa decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Drifloon decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Hoopa es conocido por su capacidad para dominar varias tácticas en combate.
+Drifloon es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3200
+- **CP máximo:** 3430
 - **Clase de combate:** 8
-- **Evento especial:** Hoopa puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Drifloon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Hoopa_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Drifloon_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -169,7 +170,7 @@ Hoopa es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
