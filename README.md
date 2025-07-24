@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/425.png) | **Drifloon** | Fantasma, Volador | Drifloon | 425 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/543.png) | **Venipede** | Bicho, Veneno | Venipede | 543 |
 
 **Curiosidad:**  
-Drifloon es conocido por su habilidad para resistir ataques.
+Venipede es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
+- **Corte Psíquico**
 - **Puño Trueno**
-- **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Drifloon** → **Drifloon (Alola)**
+- **Venipede** → **Venipede (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 90
-- **Ataque:** 50
-- **Defensa:** 34
-- **Velocidad:** 70
+- **HP:** 30
+- **Ataque:** 45
+- **Defensa:** 59
+- **Velocidad:** 57
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Drifloon decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Venipede decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Drifloon es conocido por su capacidad para alcanza poderes muy altos.
+Venipede es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3430
+- **CP máximo:** 3036
 - **Clase de combate:** 8
-- **Evento especial:** Drifloon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Venipede puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Drifloon_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Venipede_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -170,7 +171,7 @@ Drifloon es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
