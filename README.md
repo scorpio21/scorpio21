@@ -13,10 +13,10 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/737.png) | **Charjabug** | Bicho, Eléctrico | Charjabug | 737 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png) | **Minun** | Eléctrico | Minun | 312 |
 
 **Curiosidad:**  
-Charjabug es conocido por su habilidad para resistir ataques.
+Minun es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
@@ -28,40 +28,41 @@ Charjabug es conocido por su habilidad para resistir ataques.
 ---
 
 **Evolución:**  
-- **Charjabug** → **Charjabug (Alola)**
+- **Minun** → **Minun (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 57
-- **Ataque:** 82
-- **Defensa:** 95
-- **Velocidad:** 36
+- **HP:** 60
+- **Ataque:** 40
+- **Defensa:** 50
+- **Velocidad:** 95
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Charjabug decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Minun decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Charjabug es conocido por su capacidad para dominar varias tácticas en combate.
+Minun es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3779
+- **CP máximo:** 3538
 - **Clase de combate:** 8
-- **Evento especial:** Charjabug puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Minun puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Charjabug_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Minun_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -173,7 +174,7 @@ Charjabug es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
