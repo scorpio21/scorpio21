@@ -13,10 +13,10 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png) | **Minun** | Eléctrico | Minun | 312 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/839.png) | **Coalossal** | Roca, Fuego | Coalossal | 839 |
 
 **Curiosidad:**  
-Minun es conocido por su habilidad para usar ataques poderosos.
+Coalossal es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
@@ -28,40 +28,41 @@ Minun es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Evolución:**  
-- **Minun** → **Minun (Alola)**
+- **Coalossal** → **Coalossal (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 40
-- **Defensa:** 50
-- **Velocidad:** 95
+- **HP:** 110
+- **Ataque:** 80
+- **Defensa:** 120
+- **Velocidad:** 30
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Minun decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Coalossal decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Minun es conocido por su capacidad para dominar varias tácticas en combate.
+Coalossal es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3538
+- **CP máximo:** 3966
 - **Clase de combate:** 8
-- **Evento especial:** Minun puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Coalossal puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Minun_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Coalossal_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
