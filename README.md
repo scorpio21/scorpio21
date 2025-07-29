@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/839.png) | **Coalossal** | Roca, Fuego | Coalossal | 839 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/798.png) | **Kartana** | Planta, Acero | Kartana | 798 |
 
 **Curiosidad:**  
-Coalossal es conocido por su habilidad para usar ataques poderosos.
+Kartana es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Hoja Afilada**
-- **Puño Trueno**
+- **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Coalossal** → **Coalossal (Alola)**
+- **Kartana** → **Kartana (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 110
-- **Ataque:** 80
-- **Defensa:** 120
-- **Velocidad:** 30
+- **HP:** 59
+- **Ataque:** 181
+- **Defensa:** 131
+- **Velocidad:** 109
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Coalossal decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Kartana decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Coalossal es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Kartana es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3966
+- **CP máximo:** 3473
 - **Clase de combate:** 8
-- **Evento especial:** Coalossal puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Kartana puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Coalossal_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Kartana_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -175,7 +176,7 @@ Coalossal es conocido por su capacidad para desarrollar habilidades que cambian 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
