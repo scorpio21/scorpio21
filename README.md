@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/798.png) | **Kartana** | Planta, Acero | Kartana | 798 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/608.png) | **Lampent** | Fantasma, Fuego | Lampent | 608 |
 
 **Curiosidad:**  
-Kartana es conocido por su habilidad para alcanzar altas velocidades.
+Lampent es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Ataque Psíquico**
-- **Puño Fuego**
+- **Corte Psíquico**
+- **Rayo Solar**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Kartana** → **Kartana (Alola)**
+- **Lampent** → **Lampent (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 59
-- **Ataque:** 181
-- **Defensa:** 131
-- **Velocidad:** 109
+- **HP:** 60
+- **Ataque:** 40
+- **Defensa:** 60
+- **Velocidad:** 55
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Kartana decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Lampent decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Kartana es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Lampent es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3473
+- **CP máximo:** 3954
 - **Clase de combate:** 8
-- **Evento especial:** Kartana puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Lampent puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Kartana_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Lampent_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -176,7 +177,7 @@ Kartana es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
