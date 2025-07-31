@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/608.png) | **Lampent** | Fantasma, Fuego | Lampent | 608 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png) | **Dragonair** | Dragón | Dragonair | 148 |
 
 **Curiosidad:**  
-Lampent es conocido por su habilidad para dominar la batalla.
+Dragonair es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
 - **Rayo Solar**
-- **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Lampent** → **Lampent (Alola)**
+- **Dragonair** → **Dragonair (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 40
-- **Defensa:** 60
-- **Velocidad:** 55
+- **HP:** 61
+- **Ataque:** 84
+- **Defensa:** 65
+- **Velocidad:** 70
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Lampent decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Dragonair decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Lampent es conocido por su capacidad para alcanza poderes muy altos.
+Dragonair es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3954
+- **CP máximo:** 3624
 - **Clase de combate:** 8
-- **Evento especial:** Lampent puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Dragonair puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Lampent_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Dragonair_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -177,7 +178,7 @@ Lampent es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
