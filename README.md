@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/804.png) | **Naganadel** | Veneno, Dragón | Naganadel | 804 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/507.png) | **Herdier** | Normal | Herdier | 507 |
 
 **Curiosidad:**  
-Naganadel es conocido por su habilidad para dominar la batalla.
+Herdier es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Puño Trueno**
-- **Puño Trueno**
+- **Rayo Solar**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Naganadel** → **Naganadel (Alola)**
+- **Herdier** → **Herdier (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 73
-- **Ataque:** 73
-- **Defensa:** 73
-- **Velocidad:** 121
+- **HP:** 65
+- **Ataque:** 80
+- **Defensa:** 65
+- **Velocidad:** 60
 
 ---
 
@@ -45,23 +45,24 @@ Naganadel es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Naganadel decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Herdier decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Naganadel es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Herdier es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3937
+- **CP máximo:** 3963
 - **Clase de combate:** 8
-- **Evento especial:** Naganadel puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Herdier puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Naganadel_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Herdier_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -179,7 +180,7 @@ Naganadel es conocido por su capacidad para desarrollar habilidades que cambian 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
