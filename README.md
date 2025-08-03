@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/507.png) | **Herdier** | Normal | Herdier | 507 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475.png) | **Gallade** | Psíquico, Lucha | Gallade | 475 |
 
 **Curiosidad:**  
-Herdier es conocido por su habilidad para alcanzar altas velocidades.
+Gallade es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Puño Fuego**
 - **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Herdier** → **Herdier (Alola)**
+- **Gallade** → **Gallade (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 65
-- **Ataque:** 80
+- **HP:** 68
+- **Ataque:** 125
 - **Defensa:** 65
-- **Velocidad:** 60
+- **Velocidad:** 80
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Herdier decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Gallade decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Herdier es conocido por su capacidad para dominar varias tácticas en combate.
+Gallade es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3963
+- **CP máximo:** 3410
 - **Clase de combate:** 8
-- **Evento especial:** Herdier puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Gallade puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Herdier_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gallade_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -180,7 +181,7 @@ Herdier es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
