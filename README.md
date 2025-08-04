@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475.png) | **Gallade** | Psíquico, Lucha | Gallade | 475 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/332.png) | **Cacturne** | Planta, Siniestro | Cacturne | 332 |
 
 **Curiosidad:**  
-Gallade es conocido por su habilidad para dominar la batalla.
+Cacturne es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Hoja Afilada**
 - **Rayo Solar**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Gallade** → **Gallade (Alola)**
+- **Cacturne** → **Cacturne (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 68
-- **Ataque:** 125
-- **Defensa:** 65
-- **Velocidad:** 80
+- **HP:** 70
+- **Ataque:** 115
+- **Defensa:** 60
+- **Velocidad:** 55
 
 ---
 
@@ -45,23 +45,24 @@ Gallade es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Gallade decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Cacturne decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Gallade es conocido por su capacidad para alcanza poderes muy altos.
+Cacturne es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3410
+- **CP máximo:** 3016
 - **Clase de combate:** 8
-- **Evento especial:** Gallade puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Cacturne puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gallade_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cacturne_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -181,7 +182,7 @@ Gallade es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
