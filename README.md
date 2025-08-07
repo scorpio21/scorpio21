@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png) | **Cyndaquil** | Fuego | Cyndaquil | 155 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/606.png) | **Beheeyem** | Psíquico | Beheeyem | 606 |
 
 **Curiosidad:**  
-Cyndaquil es conocido por su habilidad para dominar la batalla.
+Beheeyem es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
+- **Corte Psíquico**
 - **Rayo Solar**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Cyndaquil** → **Cyndaquil (Alola)**
+- **Beheeyem** → **Beheeyem (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 39
-- **Ataque:** 52
-- **Defensa:** 43
-- **Velocidad:** 65
+- **HP:** 75
+- **Ataque:** 75
+- **Defensa:** 75
+- **Velocidad:** 40
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Cyndaquil decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Beheeyem decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Cyndaquil es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Beheeyem es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3265
+- **CP máximo:** 3528
 - **Clase de combate:** 8
-- **Evento especial:** Cyndaquil puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Beheeyem puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cyndaquil_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Beheeyem_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -184,7 +185,7 @@ Cyndaquil es conocido por su capacidad para desarrollar habilidades que cambian 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
