@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/459.png) | **Snover** | Planta, Hielo | Snover | 459 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/827.png) | **Nickit** | Siniestro | Nickit | 827 |
 
 **Curiosidad:**  
-Snover es conocido por su habilidad para usar ataques poderosos.
+Nickit es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Ataque Psíquico**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Snover** → **Snover (Alola)**
+- **Nickit** → **Nickit (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 62
-- **Defensa:** 50
-- **Velocidad:** 40
+- **HP:** 40
+- **Ataque:** 28
+- **Defensa:** 28
+- **Velocidad:** 50
 
 ---
 
@@ -45,23 +45,24 @@ Snover es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Snover decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Nickit decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Snover es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Nickit es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3482
+- **CP máximo:** 3431
 - **Clase de combate:** 8
-- **Evento especial:** Snover puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Nickit puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Snover_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Nickit_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -186,7 +187,7 @@ Snover es conocido por su capacidad para desarrollar habilidades que cambian las
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
