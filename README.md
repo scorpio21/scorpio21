@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png) | **Porygon2** | Normal | Porygon2 | 233 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/514.png) | **Simisear** | Fuego | Simisear | 514 |
 
 **Curiosidad:**  
-Porygon2 es conocido por su habilidad para dominar la batalla.
+Simisear es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Hoja Afilada**
 - **Puño Trueno**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Porygon2** → **Porygon2 (Alola)**
+- **Simisear** → **Simisear (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 85
-- **Ataque:** 80
-- **Defensa:** 90
-- **Velocidad:** 60
+- **HP:** 75
+- **Ataque:** 98
+- **Defensa:** 63
+- **Velocidad:** 101
 
 ---
 
@@ -45,23 +45,24 @@ Porygon2 es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Porygon2 decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Simisear decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Porygon2 es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Simisear es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3686
+- **CP máximo:** 3020
 - **Clase de combate:** 8
-- **Evento especial:** Porygon2 puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Simisear puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Porygon2_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Simisear_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -188,7 +189,7 @@ Porygon2 es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
