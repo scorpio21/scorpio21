@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/514.png) | **Simisear** | Fuego | Simisear | 514 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png) | **Luxray** | Eléctrico | Luxray | 405 |
 
 **Curiosidad:**  
-Simisear es conocido por su habilidad para usar ataques poderosos.
+Luxray es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Hoja Afilada**
+- **Ataque Psíquico**
 - **Puño Trueno**
-- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Simisear** → **Simisear (Alola)**
+- **Luxray** → **Luxray (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 75
-- **Ataque:** 98
-- **Defensa:** 63
-- **Velocidad:** 101
+- **HP:** 80
+- **Ataque:** 120
+- **Defensa:** 79
+- **Velocidad:** 70
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Simisear decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Luxray decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Simisear es conocido por su capacidad para dominar varias tácticas en combate.
+Luxray es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3020
+- **CP máximo:** 3142
 - **Clase de combate:** 8
-- **Evento especial:** Simisear puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Luxray puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Simisear_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Luxray_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -189,7 +190,7 @@ Simisear es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
