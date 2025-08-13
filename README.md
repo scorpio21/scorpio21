@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png) | **Luxray** | Eléctrico | Luxray | 405 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/615.png) | **Cryogonal** | Hielo | Cryogonal | 615 |
 
 **Curiosidad:**  
-Luxray es conocido por su habilidad para dominar la batalla.
+Cryogonal es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Hoja Afilada**
-- **Ataque Psíquico**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Luxray** → **Luxray (Alola)**
+- **Cryogonal** → **Cryogonal (Alola)**
 
 ---
 
 **Estadísticas base:**
 - **HP:** 80
-- **Ataque:** 120
-- **Defensa:** 79
-- **Velocidad:** 70
+- **Ataque:** 50
+- **Defensa:** 50
+- **Velocidad:** 105
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Luxray decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Cryogonal decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Luxray es conocido por su capacidad para dominar varias tácticas en combate.
+Cryogonal es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3142
+- **CP máximo:** 3364
 - **Clase de combate:** 8
-- **Evento especial:** Luxray puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Cryogonal puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Luxray_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cryogonal_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
