@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/615.png) | **Cryogonal** | Hielo | Cryogonal | 615 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png) | **Growlithe** | Fuego | Growlithe | 58 |
 
 **Curiosidad:**  
-Cryogonal es conocido por su habilidad para usar ataques poderosos.
+Growlithe es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
+- **Corte Psíquico**
+- **Rayo Solar**
 - **Puño Trueno**
-- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Cryogonal** → **Cryogonal (Alola)**
+- **Growlithe** → **Growlithe (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 80
-- **Ataque:** 50
-- **Defensa:** 50
-- **Velocidad:** 105
+- **HP:** 55
+- **Ataque:** 70
+- **Defensa:** 45
+- **Velocidad:** 60
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Cryogonal decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Growlithe decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Cryogonal es conocido por su capacidad para alcanza poderes muy altos.
+Growlithe es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3364
+- **CP máximo:** 3155
 - **Clase de combate:** 8
-- **Evento especial:** Cryogonal puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Growlithe puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cryogonal_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Growlithe_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -191,7 +192,7 @@ Cryogonal es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
