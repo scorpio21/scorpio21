@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png) | **Growlithe** | Fuego | Growlithe | 58 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460.png) | **Abomasnow** | Planta, Hielo | Abomasnow | 460 |
 
 **Curiosidad:**  
-Growlithe es conocido por su habilidad para resistir ataques.
+Abomasnow es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
 - **Rayo Solar**
-- **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Growlithe** → **Growlithe (Alola)**
+- **Abomasnow** → **Abomasnow (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 55
-- **Ataque:** 70
-- **Defensa:** 45
+- **HP:** 90
+- **Ataque:** 92
+- **Defensa:** 75
 - **Velocidad:** 60
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Growlithe decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Abomasnow decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Growlithe es conocido por su capacidad para alcanza poderes muy altos.
+Abomasnow es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3155
+- **CP máximo:** 3649
 - **Clase de combate:** 8
-- **Evento especial:** Growlithe puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Abomasnow puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Growlithe_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Abomasnow_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -192,7 +193,7 @@ Growlithe es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
