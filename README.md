@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/310.png) | **Manectric** | Eléctrico | Manectric | 310 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png) | **Shuckle** | Bicho, Roca | Shuckle | 213 |
 
 **Curiosidad:**  
-Manectric es conocido por su habilidad para resistir ataques.
+Shuckle es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Ataque Psíquico**
+- **Hoja Afilada**
+- **Puño Trueno**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Manectric** → **Manectric (Alola)**
+- **Shuckle** → **Shuckle (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 70
-- **Ataque:** 75
-- **Defensa:** 60
-- **Velocidad:** 105
+- **HP:** 20
+- **Ataque:** 10
+- **Defensa:** 230
+- **Velocidad:** 5
 
 ---
 
@@ -45,23 +45,24 @@ Manectric es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Manectric decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Shuckle decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Manectric es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Shuckle es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3769
+- **CP máximo:** 3743
 - **Clase de combate:** 8
-- **Evento especial:** Manectric puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Shuckle puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Manectric_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Shuckle_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -194,7 +195,7 @@ Manectric es conocido por su capacidad para desarrollar habilidades que cambian 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
