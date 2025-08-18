@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png) | **Shuckle** | Bicho, Roca | Shuckle | 213 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/442.png) | **Spiritomb** | Fantasma, Siniestro | Spiritomb | 442 |
 
 **Curiosidad:**  
-Shuckle es conocido por su habilidad para alcanzar altas velocidades.
+Spiritomb es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Puño Trueno**
-- **Puño Trueno**
+- **Puño Fuego**
+- **Rayo Solar**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Shuckle** → **Shuckle (Alola)**
+- **Spiritomb** → **Spiritomb (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 20
-- **Ataque:** 10
-- **Defensa:** 230
-- **Velocidad:** 5
+- **HP:** 50
+- **Ataque:** 92
+- **Defensa:** 108
+- **Velocidad:** 35
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Shuckle decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Spiritomb decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Shuckle es conocido por su capacidad para alcanza poderes muy altos.
+Spiritomb es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3743
+- **CP máximo:** 3594
 - **Clase de combate:** 8
-- **Evento especial:** Shuckle puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Spiritomb puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Shuckle_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Spiritomb_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -195,7 +196,7 @@ Shuckle es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
