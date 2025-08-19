@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/442.png) | **Spiritomb** | Fantasma, Siniestro | Spiritomb | 442 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png) | **Purugly** | Normal | Purugly | 432 |
 
 **Curiosidad:**  
-Spiritomb es conocido por su habilidad para dominar la batalla.
+Purugly es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Rayo Solar**
-- **Puño Fuego**
+- **Puño Trueno**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Spiritomb** → **Spiritomb (Alola)**
+- **Purugly** → **Purugly (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 50
-- **Ataque:** 92
-- **Defensa:** 108
-- **Velocidad:** 35
+- **HP:** 71
+- **Ataque:** 82
+- **Defensa:** 64
+- **Velocidad:** 112
 
 ---
 
@@ -45,23 +45,24 @@ Spiritomb es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Spiritomb decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Purugly decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Spiritomb es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Purugly es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3594
+- **CP máximo:** 3490
 - **Clase de combate:** 8
-- **Evento especial:** Spiritomb puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Purugly puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Spiritomb_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Purugly_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -196,7 +197,7 @@ Spiritomb es conocido por su capacidad para desarrollar habilidades que cambian 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
