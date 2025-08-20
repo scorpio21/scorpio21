@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png) | **Purugly** | Normal | Purugly | 432 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/505.png) | **Watchog** | Normal | Watchog | 505 |
 
 **Curiosidad:**  
-Purugly es conocido por su habilidad para usar ataques poderosos.
+Watchog es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
+- **Hoja Afilada**
+- **Rayo Solar**
 - **Puño Fuego**
-- **Puño Trueno**
-- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Purugly** → **Purugly (Alola)**
+- **Watchog** → **Watchog (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 71
-- **Ataque:** 82
-- **Defensa:** 64
-- **Velocidad:** 112
+- **HP:** 60
+- **Ataque:** 85
+- **Defensa:** 69
+- **Velocidad:** 77
 
 ---
 
@@ -45,23 +45,24 @@ Purugly es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Purugly decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Watchog decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Purugly es conocido por su capacidad para dominar varias tácticas en combate.
+Watchog es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3490
+- **CP máximo:** 3169
 - **Clase de combate:** 8
-- **Evento especial:** Purugly puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Watchog puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Purugly_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Watchog_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -197,7 +198,7 @@ Purugly es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
