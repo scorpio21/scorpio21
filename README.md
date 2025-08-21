@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/505.png) | **Watchog** | Normal | Watchog | 505 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/539.png) | **Sawk** | Lucha | Sawk | 539 |
 
 **Curiosidad:**  
-Watchog es conocido por su habilidad para dominar la batalla.
+Sawk es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Rayo Solar**
+- **Corte Psíquico**
+- **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Watchog** → **Watchog (Alola)**
+- **Sawk** → **Sawk (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 85
-- **Defensa:** 69
-- **Velocidad:** 77
+- **HP:** 75
+- **Ataque:** 125
+- **Defensa:** 75
+- **Velocidad:** 85
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Watchog decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Sawk decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Watchog es conocido por su capacidad para dominar varias tácticas en combate.
+Sawk es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3169
+- **CP máximo:** 3522
 - **Clase de combate:** 8
-- **Evento especial:** Watchog puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Sawk puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Watchog_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Sawk_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -198,7 +199,7 @@ Watchog es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
