@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/539.png) | **Sawk** | Lucha | Sawk | 539 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/247.png) | **Pupitar** | Roca, Tierra | Pupitar | 247 |
 
 **Curiosidad:**  
-Sawk es conocido por su habilidad para resistir ataques.
+Pupitar es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Ataque Psíquico**
+- **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Sawk** → **Sawk (Alola)**
+- **Pupitar** → **Pupitar (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 75
-- **Ataque:** 125
-- **Defensa:** 75
-- **Velocidad:** 85
+- **HP:** 70
+- **Ataque:** 84
+- **Defensa:** 70
+- **Velocidad:** 51
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Sawk decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Pupitar decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Sawk es conocido por su capacidad para dominar varias tácticas en combate.
+Pupitar es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3522
+- **CP máximo:** 3877
 - **Clase de combate:** 8
-- **Evento especial:** Sawk puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Pupitar puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Sawk_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Pupitar_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -199,7 +200,7 @@ Sawk es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
