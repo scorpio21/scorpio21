@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/247.png) | **Pupitar** | Roca, Tierra | Pupitar | 247 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png) | **Venomoth** | Bicho, Veneno | Venomoth | 49 |
 
 **Curiosidad:**  
-Pupitar es conocido por su habilidad para dominar la batalla.
+Venomoth es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Hoja Afilada**
 - **Rayo Solar**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Pupitar** → **Pupitar (Alola)**
+- **Venomoth** → **Venomoth (Alola)**
 
 ---
 
 **Estadísticas base:**
 - **HP:** 70
-- **Ataque:** 84
-- **Defensa:** 70
-- **Velocidad:** 51
+- **Ataque:** 65
+- **Defensa:** 60
+- **Velocidad:** 90
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Pupitar decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Venomoth decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Pupitar es conocido por su capacidad para dominar varias tácticas en combate.
+Venomoth es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3877
+- **CP máximo:** 3390
 - **Clase de combate:** 8
-- **Evento especial:** Pupitar puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Venomoth puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Pupitar_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Venomoth_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -200,7 +201,7 @@ Pupitar es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
