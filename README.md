@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png) | **Venomoth** | Bicho, Veneno | Venomoth | 49 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png) | **Pelipper** | Agua, Volador | Pelipper | 279 |
 
 **Curiosidad:**  
-Venomoth es conocido por su habilidad para alcanzar altas velocidades.
+Pelipper es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
 - **Hoja Afilada**
 - **Rayo Solar**
-- **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Venomoth** → **Venomoth (Alola)**
+- **Pelipper** → **Pelipper (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 70
-- **Ataque:** 65
-- **Defensa:** 60
-- **Velocidad:** 90
+- **HP:** 60
+- **Ataque:** 50
+- **Defensa:** 100
+- **Velocidad:** 65
 
 ---
 
@@ -45,23 +45,24 @@ Venomoth es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Venomoth decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Pelipper decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Venomoth es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Pelipper es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3390
+- **CP máximo:** 3857
 - **Clase de combate:** 8
-- **Evento especial:** Venomoth puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Pelipper puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Venomoth_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Pelipper_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -201,7 +202,7 @@ Venomoth es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
