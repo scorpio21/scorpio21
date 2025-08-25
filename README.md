@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png) | **Pelipper** | Agua, Volador | Pelipper | 279 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/661.png) | **Fletchling** | Normal, Volador | Fletchling | 661 |
 
 **Curiosidad:**  
-Pelipper es conocido por su habilidad para resistir ataques.
+Fletchling es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Hoja Afilada**
-- **Rayo Solar**
-- **Puño Fuego**
+- **Ataque Psíquico**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Pelipper** → **Pelipper (Alola)**
+- **Fletchling** → **Fletchling (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
+- **HP:** 45
 - **Ataque:** 50
-- **Defensa:** 100
-- **Velocidad:** 65
+- **Defensa:** 43
+- **Velocidad:** 62
 
 ---
 
@@ -45,23 +45,24 @@ Pelipper es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Pelipper decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Fletchling decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Pelipper es conocido por su capacidad para alcanza poderes muy altos.
+Fletchling es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3857
+- **CP máximo:** 3077
 - **Clase de combate:** 8
-- **Evento especial:** Pelipper puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Fletchling puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Pelipper_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Fletchling_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -202,7 +203,7 @@ Pelipper es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
