@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/856.png) | **Hatenna** | Psíquico | Hatenna | 856 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png) | **Arcanine** | Fuego | Arcanine | 59 |
 
 **Curiosidad:**  
-Hatenna es conocido por su habilidad para usar ataques poderosos.
+Arcanine es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Rayo Solar**
-- **Puño Fuego**
+- **Hoja Afilada**
+- **Puño Trueno**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Hatenna** → **Hatenna (Alola)**
+- **Arcanine** → **Arcanine (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 42
-- **Ataque:** 30
-- **Defensa:** 45
-- **Velocidad:** 39
+- **HP:** 90
+- **Ataque:** 110
+- **Defensa:** 80
+- **Velocidad:** 95
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Hatenna decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Arcanine decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Hatenna es conocido por su capacidad para alcanza poderes muy altos.
+Arcanine es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3271
+- **CP máximo:** 3956
 - **Clase de combate:** 8
-- **Evento especial:** Hatenna puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Arcanine puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Hatenna_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Arcanine_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -204,7 +205,7 @@ Hatenna es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
