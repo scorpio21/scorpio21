@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/685.png) | **Slurpuff** | Hada | Slurpuff | 685 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png) | **Typhlosion** | Fuego | Typhlosion | 157 |
 
 **Curiosidad:**  
-Slurpuff es conocido por su habilidad para alcanzar altas velocidades.
+Typhlosion es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Hoja Afilada**
 - **Puño Trueno**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Slurpuff** → **Slurpuff (Alola)**
+- **Typhlosion** → **Typhlosion (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 82
-- **Ataque:** 80
-- **Defensa:** 86
-- **Velocidad:** 72
+- **HP:** 78
+- **Ataque:** 84
+- **Defensa:** 78
+- **Velocidad:** 100
 
 ---
 
@@ -45,23 +45,24 @@ Slurpuff es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Slurpuff decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Typhlosion decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Slurpuff es conocido por su capacidad para dominar varias tácticas en combate.
+Typhlosion es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3830
+- **CP máximo:** 3265
 - **Clase de combate:** 8
-- **Evento especial:** Slurpuff puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Typhlosion puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Slurpuff_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Typhlosion_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -207,7 +208,7 @@ Slurpuff es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
