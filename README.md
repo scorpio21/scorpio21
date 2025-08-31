@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png) | **Typhlosion** | Fuego | Typhlosion | 157 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png) | **Articuno** | Hielo, Volador | Articuno | 144 |
 
 **Curiosidad:**  
-Typhlosion es conocido por su habilidad para dominar la batalla.
+Articuno es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Hoja Afilada**
-- **Puño Trueno**
+- **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Typhlosion** → **Typhlosion (Alola)**
+- **Articuno** → **Articuno (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 78
-- **Ataque:** 84
-- **Defensa:** 78
-- **Velocidad:** 100
+- **HP:** 90
+- **Ataque:** 85
+- **Defensa:** 100
+- **Velocidad:** 85
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Typhlosion decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Articuno decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Typhlosion es conocido por su capacidad para alcanza poderes muy altos.
+Articuno es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3265
+- **CP máximo:** 3234
 - **Clase de combate:** 8
-- **Evento especial:** Typhlosion puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Articuno puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Typhlosion_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Articuno_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -208,7 +209,7 @@ Typhlosion es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
