@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png) | **Articuno** | Hielo, Volador | Articuno | 144 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/878.png) | **Cufant** | Acero | Cufant | 878 |
 
 **Curiosidad:**  
-Articuno es conocido por su habilidad para alcanzar altas velocidades.
+Cufant es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Ataque Psíquico**
+- **Corte Psíquico**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Articuno** → **Articuno (Alola)**
+- **Cufant** → **Cufant (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 90
-- **Ataque:** 85
-- **Defensa:** 100
-- **Velocidad:** 85
+- **HP:** 72
+- **Ataque:** 80
+- **Defensa:** 49
+- **Velocidad:** 40
 
 ---
 
@@ -45,23 +45,24 @@ Articuno es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Articuno decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Cufant decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Articuno es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Cufant es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3234
+- **CP máximo:** 3811
 - **Clase de combate:** 8
-- **Evento especial:** Articuno puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Cufant puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Articuno_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cufant_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -209,7 +210,7 @@ Articuno es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
