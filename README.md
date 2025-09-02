@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/878.png) | **Cufant** | Acero | Cufant | 878 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png) | **Medicham** | Lucha, Psíquico | Medicham | 308 |
 
 **Curiosidad:**  
-Cufant es conocido por su habilidad para usar ataques poderosos.
+Medicham es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Puño Trueno**
+- **Hoja Afilada**
+- **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Cufant** → **Cufant (Alola)**
+- **Medicham** → **Medicham (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 72
-- **Ataque:** 80
-- **Defensa:** 49
-- **Velocidad:** 40
+- **HP:** 60
+- **Ataque:** 60
+- **Defensa:** 75
+- **Velocidad:** 80
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Cufant decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Medicham decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Cufant es conocido por su capacidad para dominar varias tácticas en combate.
+Medicham es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3811
+- **CP máximo:** 3227
 - **Clase de combate:** 8
-- **Evento especial:** Cufant puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Medicham puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cufant_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Medicham_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -210,7 +211,7 @@ Cufant es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
