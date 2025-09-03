@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png) | **Medicham** | Lucha, Psíquico | Medicham | 308 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/700.png) | **Sylveon** | Hada | Sylveon | 700 |
 
 **Curiosidad:**  
-Medicham es conocido por su habilidad para dominar la batalla.
+Sylveon es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
+- **Puño Fuego**
 - **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Medicham** → **Medicham (Alola)**
+- **Sylveon** → **Sylveon (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 60
-- **Defensa:** 75
-- **Velocidad:** 80
+- **HP:** 95
+- **Ataque:** 65
+- **Defensa:** 65
+- **Velocidad:** 60
 
 ---
 
@@ -45,23 +45,24 @@ Medicham es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Medicham decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Sylveon decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Medicham es conocido por su capacidad para dominar varias tácticas en combate.
+Sylveon es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3227
+- **CP máximo:** 3399
 - **Clase de combate:** 8
-- **Evento especial:** Medicham puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Sylveon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Medicham_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Sylveon_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -211,7 +212,7 @@ Medicham es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
