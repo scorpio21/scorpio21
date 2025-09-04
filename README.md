@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/700.png) | **Sylveon** | Hada | Sylveon | 700 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/874.png) | **Stonjourner** | Roca | Stonjourner | 874 |
 
 **Curiosidad:**  
-Sylveon es conocido por su habilidad para dominar la batalla.
+Stonjourner es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Ataque Psíquico**
-- **Puño Fuego**
+- **Puño Trueno**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Sylveon** → **Sylveon (Alola)**
+- **Stonjourner** → **Stonjourner (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 95
-- **Ataque:** 65
-- **Defensa:** 65
-- **Velocidad:** 60
+- **HP:** 100
+- **Ataque:** 125
+- **Defensa:** 135
+- **Velocidad:** 70
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Sylveon decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Stonjourner decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Sylveon es conocido por su capacidad para dominar varias tácticas en combate.
+Stonjourner es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3399
+- **CP máximo:** 3415
 - **Clase de combate:** 8
-- **Evento especial:** Sylveon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Stonjourner puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Sylveon_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Stonjourner_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -212,7 +213,7 @@ Sylveon es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
