@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/874.png) | **Stonjourner** | Roca | Stonjourner | 874 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png) | **Bayleef** | Planta | Bayleef | 153 |
 
 **Curiosidad:**  
-Stonjourner es conocido por su habilidad para alcanzar altas velocidades.
+Bayleef es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
+- **Corte Psíquico**
+- **Rayo Solar**
 - **Puño Fuego**
-- **Puño Trueno**
-- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Stonjourner** → **Stonjourner (Alola)**
+- **Bayleef** → **Bayleef (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 100
-- **Ataque:** 125
-- **Defensa:** 135
-- **Velocidad:** 70
+- **HP:** 60
+- **Ataque:** 62
+- **Defensa:** 80
+- **Velocidad:** 60
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Stonjourner decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Bayleef decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Stonjourner es conocido por su capacidad para dominar varias tácticas en combate.
+Bayleef es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3415
+- **CP máximo:** 3006
 - **Clase de combate:** 8
-- **Evento especial:** Stonjourner puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Bayleef puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Stonjourner_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Bayleef_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
