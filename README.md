@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png) | **Bayleef** | Planta | Bayleef | 153 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/276.png) | **Taillow** | Normal, Volador | Taillow | 276 |
 
 **Curiosidad:**  
-Bayleef es conocido por su habilidad para dominar la batalla.
+Taillow es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Rayo Solar**
+- **Hoja Afilada**
+- **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Bayleef** → **Bayleef (Alola)**
+- **Taillow** → **Taillow (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 62
-- **Defensa:** 80
-- **Velocidad:** 60
+- **HP:** 40
+- **Ataque:** 55
+- **Defensa:** 30
+- **Velocidad:** 85
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Bayleef decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Taillow decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Bayleef es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Taillow es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3006
+- **CP máximo:** 3866
 - **Clase de combate:** 8
-- **Evento especial:** Bayleef puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Taillow puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Bayleef_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Taillow_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -214,7 +215,7 @@ Bayleef es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
