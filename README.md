@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/276.png) | **Taillow** | Normal, Volador | Taillow | 276 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/736.png) | **Grubbin** | Bicho | Grubbin | 736 |
 
 **Curiosidad:**  
-Taillow es conocido por su habilidad para dominar la batalla.
+Grubbin es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Ataque Psíquico**
+- **Corte Psíquico**
+- **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Taillow** → **Taillow (Alola)**
+- **Grubbin** → **Grubbin (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 40
-- **Ataque:** 55
-- **Defensa:** 30
-- **Velocidad:** 85
+- **HP:** 47
+- **Ataque:** 62
+- **Defensa:** 45
+- **Velocidad:** 46
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Taillow decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Grubbin decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Taillow es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Grubbin es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3866
+- **CP máximo:** 3315
 - **Clase de combate:** 8
-- **Evento especial:** Taillow puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Grubbin puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Taillow_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Grubbin_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -215,7 +216,7 @@ Taillow es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
