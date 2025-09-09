@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png) | **Gligar** | Tierra, Volador | Gligar | 207 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png) | **Tentacool** | Agua, Veneno | Tentacool | 72 |
 
 **Curiosidad:**  
-Gligar es conocido por su habilidad para dominar la batalla.
+Tentacool es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Puño Trueno**
+- **Corte Psíquico**
+- **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Gligar** → **Gligar (Alola)**
+- **Tentacool** → **Tentacool (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 65
-- **Ataque:** 75
-- **Defensa:** 105
-- **Velocidad:** 85
+- **HP:** 40
+- **Ataque:** 40
+- **Defensa:** 35
+- **Velocidad:** 70
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Gligar decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Tentacool decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Gligar es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Tentacool es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3716
+- **CP máximo:** 3996
 - **Clase de combate:** 8
-- **Evento especial:** Gligar puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Tentacool puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gligar_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Tentacool_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -217,7 +218,7 @@ Gligar es conocido por su capacidad para desarrollar habilidades que cambian las
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
