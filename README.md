@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/743.png) | **Ribombee** | Bicho, Hada | Ribombee | 743 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png) | **Swampert** | Agua, Tierra | Swampert | 260 |
 
 **Curiosidad:**  
-Ribombee es conocido por su habilidad para alcanzar altas velocidades.
+Swampert es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Puño Trueno**
+- **Corte Psíquico**
+- **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Ribombee** → **Ribombee (Alola)**
+- **Swampert** → **Swampert (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 55
-- **Defensa:** 60
-- **Velocidad:** 124
+- **HP:** 100
+- **Ataque:** 110
+- **Defensa:** 90
+- **Velocidad:** 60
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Ribombee decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Swampert decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Ribombee es conocido por su capacidad para dominar varias tácticas en combate.
+Swampert es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3393
+- **CP máximo:** 3704
 - **Clase de combate:** 8
-- **Evento especial:** Ribombee puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Swampert puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Ribombee_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Swampert_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
