@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png) | **Swampert** | Agua, Tierra | Swampert | 260 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/737.png) | **Charjabug** | Bicho, Eléctrico | Charjabug | 737 |
 
 **Curiosidad:**  
-Swampert es conocido por su habilidad para dominar la batalla.
+Charjabug es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
 - **Rayo Solar**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Swampert** → **Swampert (Alola)**
+- **Charjabug** → **Charjabug (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 100
-- **Ataque:** 110
-- **Defensa:** 90
-- **Velocidad:** 60
+- **HP:** 57
+- **Ataque:** 82
+- **Defensa:** 95
+- **Velocidad:** 36
 
 ---
 
@@ -45,23 +45,24 @@ Swampert es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Swampert decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Charjabug decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Swampert es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Charjabug es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3704
+- **CP máximo:** 3661
 - **Clase de combate:** 8
-- **Evento especial:** Swampert puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Charjabug puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Swampert_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Charjabug_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -220,7 +221,7 @@ Swampert es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
