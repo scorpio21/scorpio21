@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/737.png) | **Charjabug** | Bicho, Eléctrico | Charjabug | 737 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/355.png) | **Duskull** | Fantasma | Duskull | 355 |
 
 **Curiosidad:**  
-Charjabug es conocido por su habilidad para resistir ataques.
+Duskull es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Rayo Solar**
-- **Puño Trueno**
+- **Puño Fuego**
+- **Ataque Psíquico**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Charjabug** → **Charjabug (Alola)**
+- **Duskull** → **Duskull (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 57
-- **Ataque:** 82
-- **Defensa:** 95
-- **Velocidad:** 36
+- **HP:** 20
+- **Ataque:** 40
+- **Defensa:** 90
+- **Velocidad:** 25
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Charjabug decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Duskull decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Charjabug es conocido por su capacidad para alcanza poderes muy altos.
+Duskull es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3661
+- **CP máximo:** 3851
 - **Clase de combate:** 8
-- **Evento especial:** Charjabug puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Duskull puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Charjabug_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Duskull_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -221,7 +222,7 @@ Charjabug es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
