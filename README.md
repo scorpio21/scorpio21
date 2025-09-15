@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/750.png) | **Mudsdale** | Tierra | Mudsdale | 750 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png) | **Flareon** | Fuego | Flareon | 136 |
 
 **Curiosidad:**  
-Mudsdale es conocido por su habilidad para dominar la batalla.
+Flareon es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
 - **Rayo Solar**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Mudsdale** → **Mudsdale (Alola)**
+- **Flareon** → **Flareon (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 100
-- **Ataque:** 125
-- **Defensa:** 100
-- **Velocidad:** 35
+- **HP:** 65
+- **Ataque:** 130
+- **Defensa:** 60
+- **Velocidad:** 65
 
 ---
 
@@ -45,23 +45,24 @@ Mudsdale es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Mudsdale decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Flareon decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Mudsdale es conocido por su capacidad para alcanza poderes muy altos.
+Flareon es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3279
+- **CP máximo:** 3864
 - **Clase de combate:** 8
-- **Evento especial:** Mudsdale puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Flareon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mudsdale_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Flareon_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -223,7 +224,7 @@ Mudsdale es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
