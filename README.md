@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png) | **Flareon** | Fuego | Flareon | 136 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/451.png) | **Skorupi** | Veneno, Bicho | Skorupi | 451 |
 
 **Curiosidad:**  
-Flareon es conocido por su habilidad para usar ataques poderosos.
+Skorupi es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Rayo Solar**
+- **Hoja Afilada**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Flareon** → **Flareon (Alola)**
+- **Skorupi** → **Skorupi (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 65
-- **Ataque:** 130
-- **Defensa:** 60
+- **HP:** 40
+- **Ataque:** 50
+- **Defensa:** 90
 - **Velocidad:** 65
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Flareon decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Skorupi decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Flareon es conocido por su capacidad para dominar varias tácticas en combate.
+Skorupi es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3864
+- **CP máximo:** 3871
 - **Clase de combate:** 8
-- **Evento especial:** Flareon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Skorupi puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Flareon_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Skorupi_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
