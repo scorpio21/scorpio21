@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/451.png) | **Skorupi** | Veneno, Bicho | Skorupi | 451 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/440.png) | **Happiny** | Normal | Happiny | 440 |
 
 **Curiosidad:**  
-Skorupi es conocido por su habilidad para usar ataques poderosos.
+Happiny es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Puño Trueno**
+- **Corte Psíquico**
+- **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Skorupi** → **Skorupi (Alola)**
+- **Happiny** → **Happiny (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 40
-- **Ataque:** 50
-- **Defensa:** 90
-- **Velocidad:** 65
+- **HP:** 100
+- **Ataque:** 5
+- **Defensa:** 5
+- **Velocidad:** 30
 
 ---
 
@@ -45,23 +45,24 @@ Skorupi es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Skorupi decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Happiny decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Skorupi es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Happiny es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3871
+- **CP máximo:** 3411
 - **Clase de combate:** 8
-- **Evento especial:** Skorupi puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Happiny puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Skorupi_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Happiny_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -225,7 +226,7 @@ Skorupi es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
