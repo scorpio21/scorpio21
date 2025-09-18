@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/440.png) | **Happiny** | Normal | Happiny | 440 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/391.png) | **Monferno** | Fuego, Lucha | Monferno | 391 |
 
 **Curiosidad:**  
-Happiny es conocido por su habilidad para dominar la batalla.
+Monferno es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Ataque Psíquico**
+- **Puño Fuego**
+- **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Happiny** → **Happiny (Alola)**
+- **Monferno** → **Monferno (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 100
-- **Ataque:** 5
-- **Defensa:** 5
-- **Velocidad:** 30
+- **HP:** 64
+- **Ataque:** 78
+- **Defensa:** 52
+- **Velocidad:** 81
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Happiny decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Monferno decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Happiny es conocido por su capacidad para alcanza poderes muy altos.
+Monferno es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3411
+- **CP máximo:** 3613
 - **Clase de combate:** 8
-- **Evento especial:** Happiny puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Monferno puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Happiny_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Monferno_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -226,7 +227,7 @@ Happiny es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
