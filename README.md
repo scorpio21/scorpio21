@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png) | **Swampert** | Agua, Tierra | Swampert | 260 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/595.png) | **Joltik** | Bicho, Eléctrico | Joltik | 595 |
 
 **Curiosidad:**  
-Swampert es conocido por su habilidad para resistir ataques.
+Joltik es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
 - **Rayo Solar**
-- **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Swampert** → **Swampert (Alola)**
+- **Joltik** → **Joltik (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 100
-- **Ataque:** 110
-- **Defensa:** 90
-- **Velocidad:** 60
+- **HP:** 50
+- **Ataque:** 47
+- **Defensa:** 50
+- **Velocidad:** 65
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Swampert decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Joltik decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Swampert es conocido por su capacidad para alcanza poderes muy altos.
+Joltik es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3075
+- **CP máximo:** 3191
 - **Clase de combate:** 8
-- **Evento especial:** Swampert puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Joltik puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Swampert_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Joltik_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -228,7 +229,7 @@ Swampert es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
