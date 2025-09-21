@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/595.png) | **Joltik** | Bicho, Eléctrico | Joltik | 595 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png) | **Goldeen** | Agua | Goldeen | 118 |
 
 **Curiosidad:**  
-Joltik es conocido por su habilidad para usar ataques poderosos.
+Goldeen es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Puño Fuego**
 - **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Joltik** → **Joltik (Alola)**
+- **Goldeen** → **Goldeen (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 50
-- **Ataque:** 47
-- **Defensa:** 50
-- **Velocidad:** 65
+- **HP:** 45
+- **Ataque:** 67
+- **Defensa:** 60
+- **Velocidad:** 63
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Joltik decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Goldeen decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Joltik es conocido por su capacidad para alcanza poderes muy altos.
+Goldeen es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3191
+- **CP máximo:** 3731
 - **Clase de combate:** 8
-- **Evento especial:** Joltik puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Goldeen puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Joltik_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Goldeen_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -229,7 +230,7 @@ Joltik es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
