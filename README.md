@@ -13,10 +13,10 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png) | **Goldeen** | Agua | Goldeen | 118 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png) | **Gligar** | Tierra, Volador | Gligar | 207 |
 
 **Curiosidad:**  
-Goldeen es conocido por su habilidad para dominar la batalla.
+Gligar es conocido por su habilidad para resistir ataques.
 
 ---
 
@@ -28,40 +28,41 @@ Goldeen es conocido por su habilidad para dominar la batalla.
 ---
 
 **Evolución:**  
-- **Goldeen** → **Goldeen (Alola)**
+- **Gligar** → **Gligar (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 45
-- **Ataque:** 67
-- **Defensa:** 60
-- **Velocidad:** 63
+- **HP:** 65
+- **Ataque:** 75
+- **Defensa:** 105
+- **Velocidad:** 85
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Goldeen decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Gligar decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Goldeen es conocido por su capacidad para alcanza poderes muy altos.
+Gligar es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3731
+- **CP máximo:** 3110
 - **Clase de combate:** 8
-- **Evento especial:** Goldeen puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Gligar puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Goldeen_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gligar_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -230,7 +231,7 @@ Goldeen es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
