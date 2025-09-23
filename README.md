@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png) | **Gligar** | Tierra, Volador | Gligar | 207 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/489.png) | **Phione** | Agua | Phione | 489 |
 
 **Curiosidad:**  
-Gligar es conocido por su habilidad para resistir ataques.
+Phione es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Hoja Afilada**
 - **Rayo Solar**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Gligar** → **Gligar (Alola)**
+- **Phione** → **Phione (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 65
-- **Ataque:** 75
-- **Defensa:** 105
-- **Velocidad:** 85
+- **HP:** 80
+- **Ataque:** 80
+- **Defensa:** 80
+- **Velocidad:** 80
 
 ---
 
@@ -45,23 +45,24 @@ Gligar es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Gligar decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Phione decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Gligar es conocido por su capacidad para alcanza poderes muy altos.
+Phione es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3110
+- **CP máximo:** 3361
 - **Clase de combate:** 8
-- **Evento especial:** Gligar puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Phione puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gligar_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Phione_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -231,7 +232,7 @@ Gligar es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
