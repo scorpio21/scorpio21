@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/489.png) | **Phione** | Agua | Phione | 489 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/488.png) | **Cresselia** | Psíquico | Cresselia | 488 |
 
 **Curiosidad:**  
-Phione es conocido por su habilidad para dominar la batalla.
+Cresselia es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Hoja Afilada**
-- **Rayo Solar**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Phione** → **Phione (Alola)**
+- **Cresselia** → **Cresselia (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 80
-- **Ataque:** 80
-- **Defensa:** 80
-- **Velocidad:** 80
+- **HP:** 120
+- **Ataque:** 70
+- **Defensa:** 110
+- **Velocidad:** 85
 
 ---
 
@@ -45,23 +45,24 @@ Phione es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Phione decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Cresselia decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Phione es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Cresselia es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3361
+- **CP máximo:** 3410
 - **Clase de combate:** 8
-- **Evento especial:** Phione puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Cresselia puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Phione_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cresselia_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -232,7 +233,7 @@ Phione es conocido por su capacidad para desarrollar habilidades que cambian las
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
