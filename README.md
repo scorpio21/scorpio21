@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png) | **Rattata** | Normal | Rattata | 19 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png) | **Snorunt** | Hielo | Snorunt | 361 |
 
 **Curiosidad:**  
-Rattata es conocido por su habilidad para dominar la batalla.
+Snorunt es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Corte Psíquico**
 - **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Rattata** → **Rattata (Alola)**
+- **Snorunt** → **Snorunt (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 30
-- **Ataque:** 56
-- **Defensa:** 35
-- **Velocidad:** 72
+- **HP:** 50
+- **Ataque:** 50
+- **Defensa:** 50
+- **Velocidad:** 50
 
 ---
 
@@ -45,23 +45,24 @@ Rattata es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Rattata decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Snorunt decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Rattata es conocido por su capacidad para dominar varias tácticas en combate.
+Snorunt es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3791
+- **CP máximo:** 3673
 - **Clase de combate:** 8
-- **Evento especial:** Rattata puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Snorunt puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Rattata_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Snorunt_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -234,7 +235,7 @@ Rattata es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
