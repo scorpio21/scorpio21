@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png) | **Snorunt** | Hielo | Snorunt | 361 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/587.png) | **Emolga** | Eléctrico, Volador | Emolga | 587 |
 
 **Curiosidad:**  
-Snorunt es conocido por su habilidad para usar ataques poderosos.
+Emolga es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
 - **Ataque Psíquico**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Snorunt** → **Snorunt (Alola)**
+- **Emolga** → **Emolga (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 50
-- **Ataque:** 50
-- **Defensa:** 50
-- **Velocidad:** 50
+- **HP:** 55
+- **Ataque:** 75
+- **Defensa:** 60
+- **Velocidad:** 103
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Snorunt decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Emolga decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Snorunt es conocido por su capacidad para dominar varias tácticas en combate.
+Emolga es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3673
+- **CP máximo:** 3476
 - **Clase de combate:** 8
-- **Evento especial:** Snorunt puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Emolga puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Snorunt_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Emolga_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
