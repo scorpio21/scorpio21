@@ -13,10 +13,10 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/587.png) | **Emolga** | Eléctrico, Volador | Emolga | 587 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/860.png) | **Morgrem** | Siniestro, Hada | Morgrem | 860 |
 
 **Curiosidad:**  
-Emolga es conocido por su habilidad para resistir ataques.
+Morgrem es conocido por su habilidad para resistir ataques.
 
 ---
 
@@ -28,15 +28,15 @@ Emolga es conocido por su habilidad para resistir ataques.
 ---
 
 **Evolución:**  
-- **Emolga** → **Emolga (Alola)**
+- **Morgrem** → **Morgrem (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 55
-- **Ataque:** 75
-- **Defensa:** 60
-- **Velocidad:** 103
+- **HP:** 65
+- **Ataque:** 60
+- **Defensa:** 45
+- **Velocidad:** 70
 
 ---
 
@@ -45,23 +45,24 @@ Emolga es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Emolga decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Morgrem decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Emolga es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Morgrem es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3476
+- **CP máximo:** 3979
 - **Clase de combate:** 8
-- **Evento especial:** Emolga puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Morgrem puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Emolga_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Morgrem_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -236,7 +237,7 @@ Emolga es conocido por su capacidad para desarrollar habilidades que cambian las
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
