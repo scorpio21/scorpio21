@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/860.png) | **Morgrem** | Siniestro, Hada | Morgrem | 860 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png) | **Garchomp** | Dragón, Tierra | Garchomp | 445 |
 
 **Curiosidad:**  
-Morgrem es conocido por su habilidad para resistir ataques.
+Garchomp es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Ataque Psíquico**
+- **Hoja Afilada**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Morgrem** → **Morgrem (Alola)**
+- **Garchomp** → **Garchomp (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 65
-- **Ataque:** 60
-- **Defensa:** 45
-- **Velocidad:** 70
+- **HP:** 108
+- **Ataque:** 130
+- **Defensa:** 95
+- **Velocidad:** 102
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Morgrem decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Garchomp decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Morgrem es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Garchomp es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3979
+- **CP máximo:** 3096
 - **Clase de combate:** 8
-- **Evento especial:** Morgrem puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Garchomp puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Morgrem_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Garchomp_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -237,7 +238,7 @@ Morgrem es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
