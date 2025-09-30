@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png) | **Garchomp** | Dragón, Tierra | Garchomp | 445 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png) | **Rhydon** | Tierra, Roca | Rhydon | 112 |
 
 **Curiosidad:**  
-Garchomp es conocido por su habilidad para resistir ataques.
+Rhydon es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
+- **Corte Psíquico**
+- **Rayo Solar**
 - **Puño Trueno**
-- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Garchomp** → **Garchomp (Alola)**
+- **Rhydon** → **Rhydon (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 108
+- **HP:** 105
 - **Ataque:** 130
-- **Defensa:** 95
-- **Velocidad:** 102
+- **Defensa:** 120
+- **Velocidad:** 40
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Garchomp decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Rhydon decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Garchomp es conocido por su capacidad para dominar varias tácticas en combate.
+Rhydon es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3096
+- **CP máximo:** 3266
 - **Clase de combate:** 8
-- **Evento especial:** Garchomp puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Rhydon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Garchomp_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Rhydon_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -238,7 +239,7 @@ Garchomp es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
