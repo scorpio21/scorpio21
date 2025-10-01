@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png) | **Rhydon** | Tierra, Roca | Rhydon | 112 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/477.png) | **Dusknoir** | Fantasma | Dusknoir | 477 |
 
 **Curiosidad:**  
-Rhydon es conocido por su habilidad para alcanzar altas velocidades.
+Dusknoir es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Rayo Solar**
+- **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Rhydon** → **Rhydon (Alola)**
+- **Dusknoir** → **Dusknoir (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 105
-- **Ataque:** 130
-- **Defensa:** 120
-- **Velocidad:** 40
+- **HP:** 45
+- **Ataque:** 100
+- **Defensa:** 135
+- **Velocidad:** 45
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Rhydon decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Dusknoir decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Rhydon es conocido por su capacidad para alcanza poderes muy altos.
+Dusknoir es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3266
+- **CP máximo:** 3638
 - **Clase de combate:** 8
-- **Evento especial:** Rhydon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Dusknoir puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Rhydon_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Dusknoir_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -239,7 +240,7 @@ Rhydon es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
