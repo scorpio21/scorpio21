@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/477.png) | **Dusknoir** | Fantasma | Dusknoir | 477 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/893.png) | **Zarude** | Siniestro, Planta | Zarude | 893 |
 
 **Curiosidad:**  
-Dusknoir es conocido por su habilidad para alcanzar altas velocidades.
+Zarude es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Hoja Afilada**
 - **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Dusknoir** → **Dusknoir (Alola)**
+- **Zarude** → **Zarude (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 45
-- **Ataque:** 100
-- **Defensa:** 135
-- **Velocidad:** 45
+- **HP:** 105
+- **Ataque:** 120
+- **Defensa:** 105
+- **Velocidad:** 105
 
 ---
 
@@ -45,23 +45,24 @@ Dusknoir es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Dusknoir decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Zarude decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Dusknoir es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Zarude es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3638
+- **CP máximo:** 3331
 - **Clase de combate:** 8
-- **Evento especial:** Dusknoir puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Zarude puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Dusknoir_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Zarude_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -240,7 +241,7 @@ Dusknoir es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
