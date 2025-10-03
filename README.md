@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/893.png) | **Zarude** | Siniestro, Planta | Zarude | 893 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png) | **Metang** | Acero, Psíquico | Metang | 375 |
 
 **Curiosidad:**  
-Zarude es conocido por su habilidad para usar ataques poderosos.
+Metang es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Hoja Afilada**
-- **Ataque Psíquico**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Zarude** → **Zarude (Alola)**
+- **Metang** → **Metang (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 105
-- **Ataque:** 120
-- **Defensa:** 105
-- **Velocidad:** 105
+- **HP:** 60
+- **Ataque:** 75
+- **Defensa:** 100
+- **Velocidad:** 50
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Zarude decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Metang decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Zarude es conocido por su capacidad para alcanza poderes muy altos.
+Metang es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3331
+- **CP máximo:** 3522
 - **Clase de combate:** 8
-- **Evento especial:** Zarude puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Metang puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Zarude_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Metang_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -241,7 +242,7 @@ Zarude es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
