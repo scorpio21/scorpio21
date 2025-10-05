@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/355.png) | **Duskull** | Fantasma | Duskull | 355 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/459.png) | **Snover** | Planta, Hielo | Snover | 459 |
 
 **Curiosidad:**  
-Duskull es conocido por su habilidad para resistir ataques.
+Snover es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Corte Psíquico**
 - **Puño Trueno**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Duskull** → **Duskull (Alola)**
+- **Snover** → **Snover (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 20
-- **Ataque:** 40
-- **Defensa:** 90
-- **Velocidad:** 25
+- **HP:** 60
+- **Ataque:** 62
+- **Defensa:** 50
+- **Velocidad:** 40
 
 ---
 
@@ -45,23 +45,24 @@ Duskull es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Duskull decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Snover decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Duskull es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Snover es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3816
+- **CP máximo:** 3937
 - **Clase de combate:** 8
-- **Evento especial:** Duskull puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Snover puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Duskull_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Snover_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -243,7 +244,7 @@ Duskull es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
