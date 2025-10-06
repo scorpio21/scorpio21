@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/459.png) | **Snover** | Planta, Hielo | Snover | 459 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png) | **Togepi** | Hada | Togepi | 175 |
 
 **Curiosidad:**  
-Snover es conocido por su habilidad para alcanzar altas velocidades.
+Togepi es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Puño Trueno**
+- **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Snover** → **Snover (Alola)**
+- **Togepi** → **Togepi (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 62
-- **Defensa:** 50
-- **Velocidad:** 40
+- **HP:** 35
+- **Ataque:** 20
+- **Defensa:** 65
+- **Velocidad:** 20
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Snover decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Togepi decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Snover es conocido por su capacidad para dominar varias tácticas en combate.
+Togepi es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3937
+- **CP máximo:** 3264
 - **Clase de combate:** 8
-- **Evento especial:** Snover puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Togepi puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Snover_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Togepi_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -244,7 +245,7 @@ Snover es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
