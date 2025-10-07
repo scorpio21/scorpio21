@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png) | **Togepi** | Hada | Togepi | 175 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/418.png) | **Buizel** | Agua | Buizel | 418 |
 
 **Curiosidad:**  
-Togepi es conocido por su habilidad para dominar la batalla.
+Buizel es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Hoja Afilada**
 - **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Togepi** → **Togepi (Alola)**
+- **Buizel** → **Buizel (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 35
-- **Ataque:** 20
-- **Defensa:** 65
-- **Velocidad:** 20
+- **HP:** 55
+- **Ataque:** 65
+- **Defensa:** 35
+- **Velocidad:** 85
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Togepi decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Buizel decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Togepi es conocido por su capacidad para alcanza poderes muy altos.
+Buizel es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3264
+- **CP máximo:** 3273
 - **Clase de combate:** 8
-- **Evento especial:** Togepi puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Buizel puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Togepi_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Buizel_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -245,7 +246,7 @@ Togepi es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
