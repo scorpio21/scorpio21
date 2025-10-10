@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/692.png) | **Clauncher** | Agua | Clauncher | 692 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/491.png) | **Darkrai** | Siniestro | Darkrai | 491 |
 
 **Curiosidad:**  
-Clauncher es conocido por su habilidad para resistir ataques.
+Darkrai es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Rayo Solar**
+- **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Clauncher** → **Clauncher (Alola)**
+- **Darkrai** → **Darkrai (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 50
-- **Ataque:** 53
-- **Defensa:** 62
-- **Velocidad:** 44
+- **HP:** 70
+- **Ataque:** 90
+- **Defensa:** 90
+- **Velocidad:** 125
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Clauncher decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Darkrai decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Clauncher es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Darkrai es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3999
+- **CP máximo:** 3175
 - **Clase de combate:** 8
-- **Evento especial:** Clauncher puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Darkrai puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Clauncher_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Darkrai_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -248,7 +249,7 @@ Clauncher es conocido por su capacidad para desarrollar habilidades que cambian 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
