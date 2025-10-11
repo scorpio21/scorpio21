@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/491.png) | **Darkrai** | Siniestro | Darkrai | 491 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png) | **Exeggcute** | Planta, Psíquico | Exeggcute | 102 |
 
 **Curiosidad:**  
-Darkrai es conocido por su habilidad para usar ataques poderosos.
+Exeggcute es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Ataque Psíquico**
 - **Puño Fuego**
+- **Ataque Psíquico**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Darkrai** → **Darkrai (Alola)**
+- **Exeggcute** → **Exeggcute (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 70
-- **Ataque:** 90
-- **Defensa:** 90
-- **Velocidad:** 125
+- **HP:** 60
+- **Ataque:** 40
+- **Defensa:** 80
+- **Velocidad:** 40
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Darkrai decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Exeggcute decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Darkrai es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Exeggcute es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3175
+- **CP máximo:** 3625
 - **Clase de combate:** 8
-- **Evento especial:** Darkrai puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Exeggcute puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Darkrai_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Exeggcute_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -249,7 +250,7 @@ Darkrai es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
