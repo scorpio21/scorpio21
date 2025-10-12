@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png) | **Exeggcute** | Planta, Psíquico | Exeggcute | 102 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/727.png) | **Incineroar** | Fuego, Siniestro | Incineroar | 727 |
 
 **Curiosidad:**  
-Exeggcute es conocido por su habilidad para alcanzar altas velocidades.
+Incineroar es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Corte Psíquico**
 - **Ataque Psíquico**
-- **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Exeggcute** → **Exeggcute (Alola)**
+- **Incineroar** → **Incineroar (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 40
-- **Defensa:** 80
-- **Velocidad:** 40
+- **HP:** 95
+- **Ataque:** 115
+- **Defensa:** 90
+- **Velocidad:** 60
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Exeggcute decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Incineroar decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Exeggcute es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Incineroar es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3625
+- **CP máximo:** 3346
 - **Clase de combate:** 8
-- **Evento especial:** Exeggcute puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Incineroar puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Exeggcute_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Incineroar_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
