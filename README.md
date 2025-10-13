@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/727.png) | **Incineroar** | Fuego, Siniestro | Incineroar | 727 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png) | **Shellder** | Agua | Shellder | 90 |
 
 **Curiosidad:**  
-Incineroar es conocido por su habilidad para dominar la batalla.
+Shellder es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Ataque Psíquico**
 - **Puño Fuego**
+- **Rayo Solar**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Incineroar** → **Incineroar (Alola)**
+- **Shellder** → **Shellder (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 95
-- **Ataque:** 115
-- **Defensa:** 90
-- **Velocidad:** 60
+- **HP:** 30
+- **Ataque:** 65
+- **Defensa:** 100
+- **Velocidad:** 40
 
 ---
 
@@ -45,23 +45,24 @@ Incineroar es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Incineroar decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Shellder decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Incineroar es conocido por su capacidad para alcanza poderes muy altos.
+Shellder es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3346
+- **CP máximo:** 3705
 - **Clase de combate:** 8
-- **Evento especial:** Incineroar puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Shellder puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Incineroar_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Shellder_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -251,7 +252,7 @@ Incineroar es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
