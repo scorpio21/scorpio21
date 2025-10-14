@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png) | **Shellder** | Agua | Shellder | 90 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png) | **Tentacool** | Agua, Veneno | Tentacool | 72 |
 
 **Curiosidad:**  
-Shellder es conocido por su habilidad para dominar la batalla.
+Tentacool es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Rayo Solar**
+- **Corte Psíquico**
+- **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Shellder** → **Shellder (Alola)**
+- **Tentacool** → **Tentacool (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 30
-- **Ataque:** 65
-- **Defensa:** 100
-- **Velocidad:** 40
+- **HP:** 40
+- **Ataque:** 40
+- **Defensa:** 35
+- **Velocidad:** 70
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Shellder decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Tentacool decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Shellder es conocido por su capacidad para alcanza poderes muy altos.
+Tentacool es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3705
+- **CP máximo:** 3141
 - **Clase de combate:** 8
-- **Evento especial:** Shellder puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Tentacool puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Shellder_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Tentacool_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -252,7 +253,7 @@ Shellder es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
