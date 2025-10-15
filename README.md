@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png) | **Tentacool** | Agua, Veneno | Tentacool | 72 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/818.png) | **Inteleon** | Agua | Inteleon | 818 |
 
 **Curiosidad:**  
-Tentacool es conocido por su habilidad para alcanzar altas velocidades.
+Inteleon es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Ataque Psíquico**
+- **Hoja Afilada**
+- **Rayo Solar**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Tentacool** → **Tentacool (Alola)**
+- **Inteleon** → **Inteleon (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 40
-- **Ataque:** 40
-- **Defensa:** 35
-- **Velocidad:** 70
+- **HP:** 70
+- **Ataque:** 85
+- **Defensa:** 65
+- **Velocidad:** 120
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Tentacool decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Inteleon decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Tentacool es conocido por su capacidad para dominar varias tácticas en combate.
+Inteleon es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3141
+- **CP máximo:** 3379
 - **Clase de combate:** 8
-- **Evento especial:** Tentacool puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Inteleon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Tentacool_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Inteleon_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -253,7 +254,7 @@ Tentacool es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
