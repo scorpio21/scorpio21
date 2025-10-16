@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/818.png) | **Inteleon** | Agua | Inteleon | 818 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png) | **Cloyster** | Agua, Hielo | Cloyster | 91 |
 
 **Curiosidad:**  
-Inteleon es conocido por su habilidad para usar ataques poderosos.
+Cloyster es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Rayo Solar**
-- **Puño Trueno**
+- **Corte Psíquico**
+- **Ataque Psíquico**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Inteleon** → **Inteleon (Alola)**
+- **Cloyster** → **Cloyster (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 70
-- **Ataque:** 85
-- **Defensa:** 65
-- **Velocidad:** 120
+- **HP:** 50
+- **Ataque:** 95
+- **Defensa:** 180
+- **Velocidad:** 70
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Inteleon decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Cloyster decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Inteleon es conocido por su capacidad para dominar varias tácticas en combate.
+Cloyster es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3379
+- **CP máximo:** 3580
 - **Clase de combate:** 8
-- **Evento especial:** Inteleon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Cloyster puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Inteleon_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cloyster_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -254,7 +255,7 @@ Inteleon es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
