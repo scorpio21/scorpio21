@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png) | **Cloyster** | Agua, Hielo | Cloyster | 91 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png) | **Salamence** | Dragón, Volador | Salamence | 373 |
 
 **Curiosidad:**  
-Cloyster es conocido por su habilidad para resistir ataques.
+Salamence es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Ataque Psíquico**
 - **Puño Fuego**
+- **Puño Trueno**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Cloyster** → **Cloyster (Alola)**
+- **Salamence** → **Salamence (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 50
-- **Ataque:** 95
-- **Defensa:** 180
-- **Velocidad:** 70
+- **HP:** 95
+- **Ataque:** 135
+- **Defensa:** 80
+- **Velocidad:** 100
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Cloyster decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Salamence decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Cloyster es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Salamence es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3580
+- **CP máximo:** 3320
 - **Clase de combate:** 8
-- **Evento especial:** Cloyster puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Salamence puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cloyster_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Salamence_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
