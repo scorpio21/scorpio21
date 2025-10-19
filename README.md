@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png) | **Rattata** | Normal | Rattata | 19 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/414.png) | **Mothim** | Bicho, Volador | Mothim | 414 |
 
 **Curiosidad:**  
-Rattata es conocido por su habilidad para alcanzar altas velocidades.
+Mothim es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Rayo Solar**
+- **Puño Trueno**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Rattata** → **Rattata (Alola)**
+- **Mothim** → **Mothim (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 30
-- **Ataque:** 56
-- **Defensa:** 35
-- **Velocidad:** 72
+- **HP:** 70
+- **Ataque:** 94
+- **Defensa:** 50
+- **Velocidad:** 66
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Rattata decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Mothim decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Rattata es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Mothim es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3180
+- **CP máximo:** 3085
 - **Clase de combate:** 8
-- **Evento especial:** Rattata puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Mothim puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Rattata_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mothim_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -257,7 +258,7 @@ Rattata es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
