@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/414.png) | **Mothim** | Bicho, Volador | Mothim | 414 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png) | **Nidoqueen** | Veneno, Tierra | Nidoqueen | 31 |
 
 **Curiosidad:**  
-Mothim es conocido por su habilidad para dominar la batalla.
+Nidoqueen es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
+- **Hoja Afilada**
+- **Puño Trueno**
 - **Puño Fuego**
-- **Puño Trueno**
-- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Mothim** → **Mothim (Alola)**
+- **Nidoqueen** → **Nidoqueen (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 70
-- **Ataque:** 94
-- **Defensa:** 50
-- **Velocidad:** 66
+- **HP:** 90
+- **Ataque:** 92
+- **Defensa:** 87
+- **Velocidad:** 76
 
 ---
 
@@ -45,23 +45,24 @@ Mothim es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Mothim decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Nidoqueen decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Mothim es conocido por su capacidad para alcanza poderes muy altos.
+Nidoqueen es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3085
+- **CP máximo:** 3536
 - **Clase de combate:** 8
-- **Evento especial:** Mothim puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Nidoqueen puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mothim_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Nidoqueen_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -258,7 +259,7 @@ Mothim es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
