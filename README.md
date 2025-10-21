@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png) | **Nidoqueen** | Veneno, Tierra | Nidoqueen | 31 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/791.png) | **Solgaleo** | Psíquico, Acero | Solgaleo | 791 |
 
 **Curiosidad:**  
-Nidoqueen es conocido por su habilidad para usar ataques poderosos.
+Solgaleo es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
+- **Corte Psíquico**
 - **Puño Trueno**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Nidoqueen** → **Nidoqueen (Alola)**
+- **Solgaleo** → **Solgaleo (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 90
-- **Ataque:** 92
-- **Defensa:** 87
-- **Velocidad:** 76
+- **HP:** 137
+- **Ataque:** 137
+- **Defensa:** 107
+- **Velocidad:** 97
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Nidoqueen decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Solgaleo decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Nidoqueen es conocido por su capacidad para dominar varias tácticas en combate.
+Solgaleo es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3536
+- **CP máximo:** 3814
 - **Clase de combate:** 8
-- **Evento especial:** Nidoqueen puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Solgaleo puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Nidoqueen_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Solgaleo_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -259,7 +260,7 @@ Nidoqueen es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
