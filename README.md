@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/791.png) | **Solgaleo** | Psíquico, Acero | Solgaleo | 791 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png) | **Seviper** | Veneno | Seviper | 336 |
 
 **Curiosidad:**  
-Solgaleo es conocido por su habilidad para usar ataques poderosos.
+Seviper es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Puño Trueno**
+- **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Solgaleo** → **Solgaleo (Alola)**
+- **Seviper** → **Seviper (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 137
-- **Ataque:** 137
-- **Defensa:** 107
-- **Velocidad:** 97
+- **HP:** 73
+- **Ataque:** 100
+- **Defensa:** 60
+- **Velocidad:** 65
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Solgaleo decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Seviper decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Solgaleo es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Seviper es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3814
+- **CP máximo:** 3751
 - **Clase de combate:** 8
-- **Evento especial:** Solgaleo puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Seviper puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Solgaleo_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Seviper_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -260,7 +261,7 @@ Solgaleo es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
