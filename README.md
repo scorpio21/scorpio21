@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/670.png) | **Floette** | Hada | Floette | 670 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/390.png) | **Chimchar** | Fuego | Chimchar | 390 |
 
 **Curiosidad:**  
-Floette es conocido por su habilidad para resistir ataques.
+Chimchar es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Hoja Afilada**
 - **Puño Trueno**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Floette** → **Floette (Alola)**
+- **Chimchar** → **Chimchar (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 54
-- **Ataque:** 45
-- **Defensa:** 47
-- **Velocidad:** 52
+- **HP:** 44
+- **Ataque:** 58
+- **Defensa:** 44
+- **Velocidad:** 61
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Floette decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Chimchar decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Floette es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Chimchar es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3961
+- **CP máximo:** 3046
 - **Clase de combate:** 8
-- **Evento especial:** Floette puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Chimchar puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Floette_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Chimchar_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -262,7 +263,7 @@ Floette es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
