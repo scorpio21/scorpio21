@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/390.png) | **Chimchar** | Fuego | Chimchar | 390 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png) | **Ho-oh** | Fuego, Volador | Ho-oh | 250 |
 
 **Curiosidad:**  
-Chimchar es conocido por su habilidad para resistir ataques.
+Ho-oh es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Puño Trueno**
+- **Puño Fuego**
+- **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Chimchar** → **Chimchar (Alola)**
+- **Ho-oh** → **Ho-oh (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 44
-- **Ataque:** 58
-- **Defensa:** 44
-- **Velocidad:** 61
+- **HP:** 106
+- **Ataque:** 130
+- **Defensa:** 90
+- **Velocidad:** 90
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Chimchar decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Ho-oh decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Chimchar es conocido por su capacidad para alcanza poderes muy altos.
+Ho-oh es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3046
+- **CP máximo:** 3313
 - **Clase de combate:** 8
-- **Evento especial:** Chimchar puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Ho-oh puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Chimchar_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Ho-oh_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -263,7 +264,7 @@ Chimchar es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
