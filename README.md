@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png) | **Ho-oh** | Fuego, Volador | Ho-oh | 250 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/412.png) | **Burmy** | Bicho | Burmy | 412 |
 
 **Curiosidad:**  
-Ho-oh es conocido por su habilidad para alcanzar altas velocidades.
+Burmy es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
 - **Ataque Psíquico**
-- **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Ho-oh** → **Ho-oh (Alola)**
+- **Burmy** → **Burmy (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 106
-- **Ataque:** 130
-- **Defensa:** 90
-- **Velocidad:** 90
+- **HP:** 40
+- **Ataque:** 29
+- **Defensa:** 45
+- **Velocidad:** 36
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Ho-oh decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Burmy decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Ho-oh es conocido por su capacidad para alcanza poderes muy altos.
+Burmy es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3313
+- **CP máximo:** 3532
 - **Clase de combate:** 8
-- **Evento especial:** Ho-oh puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Burmy puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Ho-oh_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Burmy_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -264,7 +265,7 @@ Ho-oh es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
