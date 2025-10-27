@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/412.png) | **Burmy** | Bicho | Burmy | 412 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png) | **Bulbasaur** | Planta, Veneno | Bulbasaur | 1 |
 
 **Curiosidad:**  
-Burmy es conocido por su habilidad para usar ataques poderosos.
+Bulbasaur es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Ataque Psíquico**
-- **Puño Fuego**
+- **Rayo Solar**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Burmy** → **Burmy (Alola)**
+- **Bulbasaur** → **Bulbasaur (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 40
-- **Ataque:** 29
-- **Defensa:** 45
-- **Velocidad:** 36
+- **HP:** 45
+- **Ataque:** 49
+- **Defensa:** 49
+- **Velocidad:** 45
 
 ---
 
@@ -45,23 +45,24 @@ Burmy es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Burmy decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Bulbasaur decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Burmy es conocido por su capacidad para alcanza poderes muy altos.
+Bulbasaur es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3532
+- **CP máximo:** 3474
 - **Clase de combate:** 8
-- **Evento especial:** Burmy puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Bulbasaur puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Burmy_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Bulbasaur_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -265,7 +266,7 @@ Burmy es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
