@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png) | **Bulbasaur** | Planta, Veneno | Bulbasaur | 1 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png) | **Mareep** | Eléctrico | Mareep | 179 |
 
 **Curiosidad:**  
-Bulbasaur es conocido por su habilidad para dominar la batalla.
+Mareep es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Rayo Solar**
+- **Hoja Afilada**
+- **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Bulbasaur** → **Bulbasaur (Alola)**
+- **Mareep** → **Mareep (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 45
-- **Ataque:** 49
-- **Defensa:** 49
-- **Velocidad:** 45
+- **HP:** 55
+- **Ataque:** 40
+- **Defensa:** 40
+- **Velocidad:** 35
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Bulbasaur decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Mareep decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Bulbasaur es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Mareep es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3474
+- **CP máximo:** 3419
 - **Clase de combate:** 8
-- **Evento especial:** Bulbasaur puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Mareep puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Bulbasaur_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mareep_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -266,7 +267,7 @@ Bulbasaur es conocido por su capacidad para desarrollar habilidades que cambian 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
