@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/531.png) | **Audino** | Normal | Audino | 531 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/513.png) | **Pansear** | Fuego | Pansear | 513 |
 
 **Curiosidad:**  
-Audino es conocido por su habilidad para dominar la batalla.
+Pansear es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Puño Trueno**
+- **Puño Fuego**
+- **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Audino** → **Audino (Alola)**
+- **Pansear** → **Pansear (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 103
-- **Ataque:** 60
-- **Defensa:** 86
-- **Velocidad:** 50
+- **HP:** 50
+- **Ataque:** 53
+- **Defensa:** 48
+- **Velocidad:** 64
 
 ---
 
@@ -45,23 +45,24 @@ Audino es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Audino decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Pansear decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Audino es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Pansear es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3944
+- **CP máximo:** 3994
 - **Clase de combate:** 8
-- **Evento especial:** Audino puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Pansear puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Audino_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Pansear_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -268,7 +269,7 @@ Audino es conocido por su capacidad para desarrollar habilidades que cambian las
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
