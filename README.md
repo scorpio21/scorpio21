@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/513.png) | **Pansear** | Fuego | Pansear | 513 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png) | **Venusaur** | Planta, Veneno | Venusaur | 3 |
 
 **Curiosidad:**  
-Pansear es conocido por su habilidad para resistir ataques.
+Venusaur es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Rayo Solar**
+- **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Pansear** → **Pansear (Alola)**
+- **Venusaur** → **Venusaur (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 50
-- **Ataque:** 53
-- **Defensa:** 48
-- **Velocidad:** 64
+- **HP:** 80
+- **Ataque:** 82
+- **Defensa:** 83
+- **Velocidad:** 80
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Pansear decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Venusaur decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Pansear es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Venusaur es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3994
+- **CP máximo:** 3187
 - **Clase de combate:** 8
-- **Evento especial:** Pansear puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Venusaur puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Pansear_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Venusaur_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
