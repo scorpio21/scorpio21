@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png) | **Venusaur** | Planta, Veneno | Venusaur | 3 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/188.png) | **Skiploom** | Planta, Volador | Skiploom | 188 |
 
 **Curiosidad:**  
-Venusaur es conocido por su habilidad para resistir ataques.
+Skiploom es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Ataque Psíquico**
-- **Puño Fuego**
+- **Rayo Solar**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Venusaur** → **Venusaur (Alola)**
+- **Skiploom** → **Skiploom (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 80
-- **Ataque:** 82
-- **Defensa:** 83
+- **HP:** 55
+- **Ataque:** 45
+- **Defensa:** 50
 - **Velocidad:** 80
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Venusaur decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Skiploom decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Venusaur es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Skiploom es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3187
+- **CP máximo:** 3532
 - **Clase de combate:** 8
-- **Evento especial:** Venusaur puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Skiploom puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Venusaur_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Skiploom_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -270,7 +271,7 @@ Venusaur es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
