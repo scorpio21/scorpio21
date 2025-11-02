@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/188.png) | **Skiploom** | Planta, Volador | Skiploom | 188 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/727.png) | **Incineroar** | Fuego, Siniestro | Incineroar | 727 |
 
 **Curiosidad:**  
-Skiploom es conocido por su habilidad para dominar la batalla.
+Incineroar es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Rayo Solar**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Skiploom** → **Skiploom (Alola)**
+- **Incineroar** → **Incineroar (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 55
-- **Ataque:** 45
-- **Defensa:** 50
-- **Velocidad:** 80
+- **HP:** 95
+- **Ataque:** 115
+- **Defensa:** 90
+- **Velocidad:** 60
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Skiploom decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Incineroar decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Skiploom es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Incineroar es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3532
+- **CP máximo:** 3784
 - **Clase de combate:** 8
-- **Evento especial:** Skiploom puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Incineroar puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Skiploom_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Incineroar_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -271,7 +272,7 @@ Skiploom es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
