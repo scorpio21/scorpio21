@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/727.png) | **Incineroar** | Fuego, Siniestro | Incineroar | 727 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/877.png) | **Morpeko-full-belly** | Eléctrico, Siniestro | Morpeko | 877 |
 
 **Curiosidad:**  
-Incineroar es conocido por su habilidad para dominar la batalla.
+Morpeko-full-belly es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Corte Psíquico**
 - **Puño Trueno**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Incineroar** → **Incineroar (Alola)**
+- **Morpeko-full-belly** → **Morpeko-full-belly (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 95
-- **Ataque:** 115
-- **Defensa:** 90
-- **Velocidad:** 60
+- **HP:** 58
+- **Ataque:** 95
+- **Defensa:** 58
+- **Velocidad:** 97
 
 ---
 
@@ -45,23 +45,24 @@ Incineroar es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Incineroar decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Morpeko-full-belly decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Incineroar es conocido por su capacidad para alcanza poderes muy altos.
+Morpeko-full-belly es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3784
+- **CP máximo:** 3793
 - **Clase de combate:** 8
-- **Evento especial:** Incineroar puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Morpeko-full-belly puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Incineroar_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Morpeko-full-belly_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
