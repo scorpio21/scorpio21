@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/877.png) | **Morpeko-full-belly** | Eléctrico, Siniestro | Morpeko | 877 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/849.png) | **Toxtricity-amped** | Eléctrico, Veneno | Toxtricity | 849 |
 
 **Curiosidad:**  
-Morpeko-full-belly es conocido por su habilidad para usar ataques poderosos.
+Toxtricity-amped es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
+- **Rayo Solar**
 - **Puño Trueno**
-- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Morpeko-full-belly** → **Morpeko-full-belly (Alola)**
+- **Toxtricity-amped** → **Toxtricity-amped (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 58
-- **Ataque:** 95
-- **Defensa:** 58
-- **Velocidad:** 97
+- **HP:** 75
+- **Ataque:** 98
+- **Defensa:** 70
+- **Velocidad:** 75
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Morpeko-full-belly decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Toxtricity-amped decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Morpeko-full-belly es conocido por su capacidad para alcanza poderes muy altos.
+Toxtricity-amped es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3793
+- **CP máximo:** 3390
 - **Clase de combate:** 8
-- **Evento especial:** Morpeko-full-belly puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Toxtricity-amped puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Morpeko-full-belly_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Toxtricity-amped_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
