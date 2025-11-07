@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/262.png) | **Mightyena** | Siniestro | Mightyena | 262 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png) | **Metang** | Acero, Psíquico | Metang | 375 |
 
 **Curiosidad:**  
-Mightyena es conocido por su habilidad para resistir ataques.
+Metang es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Rayo Solar**
+- **Puño Fuego**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Mightyena** → **Mightyena (Alola)**
+- **Metang** → **Metang (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 70
-- **Ataque:** 90
-- **Defensa:** 70
-- **Velocidad:** 70
+- **HP:** 60
+- **Ataque:** 75
+- **Defensa:** 100
+- **Velocidad:** 50
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Mightyena decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Metang decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Mightyena es conocido por su capacidad para dominar varias tácticas en combate.
+Metang es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3367
+- **CP máximo:** 3517
 - **Clase de combate:** 8
-- **Evento especial:** Mightyena puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Metang puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mightyena_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Metang_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -276,7 +277,7 @@ Mightyena es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
