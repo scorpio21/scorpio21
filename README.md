@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png) | **Metang** | Acero, Psíquico | Metang | 375 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/597.png) | **Ferroseed** | Planta, Acero | Ferroseed | 597 |
 
 **Curiosidad:**  
-Metang es conocido por su habilidad para usar ataques poderosos.
+Ferroseed es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
+- **Rayo Solar**
 - **Puño Trueno**
-- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Metang** → **Metang (Alola)**
+- **Ferroseed** → **Ferroseed (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 75
-- **Defensa:** 100
-- **Velocidad:** 50
+- **HP:** 44
+- **Ataque:** 50
+- **Defensa:** 91
+- **Velocidad:** 10
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Metang decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Ferroseed decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Metang es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Ferroseed es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3517
+- **CP máximo:** 3128
 - **Clase de combate:** 8
-- **Evento especial:** Metang puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Ferroseed puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Metang_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Ferroseed_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -277,7 +278,7 @@ Metang es conocido por su capacidad para desarrollar habilidades que cambian las
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
