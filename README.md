@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/597.png) | **Ferroseed** | Planta, Acero | Ferroseed | 597 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/352.png) | **Kecleon** | Normal | Kecleon | 352 |
 
 **Curiosidad:**  
-Ferroseed es conocido por su habilidad para dominar la batalla.
+Kecleon es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Hoja Afilada**
 - **Rayo Solar**
-- **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Ferroseed** → **Ferroseed (Alola)**
+- **Kecleon** → **Kecleon (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 44
-- **Ataque:** 50
-- **Defensa:** 91
-- **Velocidad:** 10
+- **HP:** 60
+- **Ataque:** 90
+- **Defensa:** 70
+- **Velocidad:** 40
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Ferroseed decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Kecleon decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Ferroseed es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Kecleon es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3128
+- **CP máximo:** 3967
 - **Clase de combate:** 8
-- **Evento especial:** Ferroseed puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Kecleon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Ferroseed_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Kecleon_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -278,7 +279,7 @@ Ferroseed es conocido por su capacidad para desarrollar habilidades que cambian 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
