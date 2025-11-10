@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/352.png) | **Kecleon** | Normal | Kecleon | 352 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png) | **Zubat** | Veneno, Volador | Zubat | 41 |
 
 **Curiosidad:**  
-Kecleon es conocido por su habilidad para usar ataques poderosos.
+Zubat es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Hoja Afilada**
-- **Rayo Solar**
-- **Puño Fuego**
+- **Ataque Psíquico**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Kecleon** → **Kecleon (Alola)**
+- **Zubat** → **Zubat (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 90
-- **Defensa:** 70
-- **Velocidad:** 40
+- **HP:** 40
+- **Ataque:** 45
+- **Defensa:** 35
+- **Velocidad:** 55
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Kecleon decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Zubat decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Kecleon es conocido por su capacidad para alcanza poderes muy altos.
+Zubat es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3967
+- **CP máximo:** 3054
 - **Clase de combate:** 8
-- **Evento especial:** Kecleon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Zubat puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Kecleon_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Zubat_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
