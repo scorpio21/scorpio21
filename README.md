@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/481.png) | **Mesprit** | Psíquico | Mesprit | 481 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/634.png) | **Zweilous** | Siniestro, Dragón | Zweilous | 634 |
 
 **Curiosidad:**  
-Mesprit es conocido por su habilidad para dominar la batalla.
+Zweilous es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Corte Psíquico**
 - **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Mesprit** → **Mesprit (Alola)**
+- **Zweilous** → **Zweilous (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 80
-- **Ataque:** 105
-- **Defensa:** 105
-- **Velocidad:** 80
+- **HP:** 72
+- **Ataque:** 85
+- **Defensa:** 70
+- **Velocidad:** 58
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Mesprit decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Zweilous decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Mesprit es conocido por su capacidad para alcanza poderes muy altos.
+Zweilous es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3844
+- **CP máximo:** 3752
 - **Clase de combate:** 8
-- **Evento especial:** Mesprit puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Zweilous puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mesprit_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Zweilous_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -281,7 +282,7 @@ Mesprit es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
