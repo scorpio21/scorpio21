@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/634.png) | **Zweilous** | Siniestro, Dragón | Zweilous | 634 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png) | **Electivire** | Eléctrico | Electivire | 466 |
 
 **Curiosidad:**  
-Zweilous es conocido por su habilidad para alcanzar altas velocidades.
+Electivire es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Puño Fuego**
 - **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Zweilous** → **Zweilous (Alola)**
+- **Electivire** → **Electivire (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 72
-- **Ataque:** 85
-- **Defensa:** 70
-- **Velocidad:** 58
+- **HP:** 75
+- **Ataque:** 123
+- **Defensa:** 67
+- **Velocidad:** 95
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Zweilous decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Electivire decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Zweilous es conocido por su capacidad para dominar varias tácticas en combate.
+Electivire es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3752
+- **CP máximo:** 3856
 - **Clase de combate:** 8
-- **Evento especial:** Zweilous puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Electivire puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Zweilous_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Electivire_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -282,7 +283,7 @@ Zweilous es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
