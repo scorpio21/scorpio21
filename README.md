@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png) | **Omanyte** | Roca, Agua | Omanyte | 138 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/503.png) | **Samurott** | Agua | Samurott | 503 |
 
 **Curiosidad:**  
-Omanyte es conocido por su habilidad para alcanzar altas velocidades.
+Samurott es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
+- **Rayo Solar**
 - **Puño Trueno**
-- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Omanyte** → **Omanyte (Alola)**
+- **Samurott** → **Samurott (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 35
-- **Ataque:** 40
-- **Defensa:** 100
-- **Velocidad:** 35
+- **HP:** 95
+- **Ataque:** 100
+- **Defensa:** 85
+- **Velocidad:** 70
 
 ---
 
@@ -45,23 +45,24 @@ Omanyte es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Omanyte decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Samurott decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Omanyte es conocido por su capacidad para dominar varias tácticas en combate.
+Samurott es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3382
+- **CP máximo:** 3093
 - **Clase de combate:** 8
-- **Evento especial:** Omanyte puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Samurott puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Omanyte_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Samurott_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -284,7 +285,7 @@ Omanyte es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
