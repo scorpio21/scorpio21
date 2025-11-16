@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/503.png) | **Samurott** | Agua | Samurott | 503 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png) | **Staraptor** | Normal, Volador | Staraptor | 398 |
 
 **Curiosidad:**  
-Samurott es conocido por su habilidad para dominar la batalla.
+Staraptor es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Corte Psíquico**
 - **Rayo Solar**
-- **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Samurott** → **Samurott (Alola)**
+- **Staraptor** → **Staraptor (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 95
-- **Ataque:** 100
-- **Defensa:** 85
-- **Velocidad:** 70
+- **HP:** 85
+- **Ataque:** 120
+- **Defensa:** 70
+- **Velocidad:** 100
 
 ---
 
@@ -45,23 +45,24 @@ Samurott es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Samurott decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Staraptor decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Samurott es conocido por su capacidad para alcanza poderes muy altos.
+Staraptor es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3093
+- **CP máximo:** 3711
 - **Clase de combate:** 8
-- **Evento especial:** Samurott puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Staraptor puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Samurott_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Staraptor_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -285,7 +286,7 @@ Samurott es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
