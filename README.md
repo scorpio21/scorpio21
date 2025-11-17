@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png) | **Staraptor** | Normal, Volador | Staraptor | 398 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/897.png) | **Spectrier** | Fantasma | Spectrier | 897 |
 
 **Curiosidad:**  
-Staraptor es conocido por su habilidad para dominar la batalla.
+Spectrier es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Rayo Solar**
-- **Puño Fuego**
+- **Puño Trueno**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Staraptor** → **Staraptor (Alola)**
+- **Spectrier** → **Spectrier (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 85
-- **Ataque:** 120
-- **Defensa:** 70
-- **Velocidad:** 100
+- **HP:** 100
+- **Ataque:** 65
+- **Defensa:** 60
+- **Velocidad:** 130
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Staraptor decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Spectrier decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Staraptor es conocido por su capacidad para dominar varias tácticas en combate.
+Spectrier es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3711
+- **CP máximo:** 3891
 - **Clase de combate:** 8
-- **Evento especial:** Staraptor puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Spectrier puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Staraptor_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Spectrier_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -286,7 +287,7 @@ Staraptor es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
