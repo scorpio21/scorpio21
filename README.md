@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/897.png) | **Spectrier** | Fantasma | Spectrier | 897 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png) | **Raichu** | Eléctrico | Raichu | 26 |
 
 **Curiosidad:**  
-Spectrier es conocido por su habilidad para usar ataques poderosos.
+Raichu es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Puño Trueno**
+- **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Spectrier** → **Spectrier (Alola)**
+- **Raichu** → **Raichu (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 100
-- **Ataque:** 65
-- **Defensa:** 60
-- **Velocidad:** 130
+- **HP:** 60
+- **Ataque:** 90
+- **Defensa:** 55
+- **Velocidad:** 110
 
 ---
 
@@ -45,23 +45,24 @@ Spectrier es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Spectrier decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Raichu decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Spectrier es conocido por su capacidad para alcanza poderes muy altos.
+Raichu es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3891
+- **CP máximo:** 3462
 - **Clase de combate:** 8
-- **Evento especial:** Spectrier puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Raichu puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Spectrier_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Raichu_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -287,7 +288,7 @@ Spectrier es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
