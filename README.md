@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png) | **Raichu** | Eléctrico | Raichu | 26 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/659.png) | **Bunnelby** | Normal | Bunnelby | 659 |
 
 **Curiosidad:**  
-Raichu es conocido por su habilidad para alcanzar altas velocidades.
+Bunnelby es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Ataque Psíquico**
+- **Hoja Afilada**
+- **Rayo Solar**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Raichu** → **Raichu (Alola)**
+- **Bunnelby** → **Bunnelby (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 90
-- **Defensa:** 55
-- **Velocidad:** 110
+- **HP:** 38
+- **Ataque:** 36
+- **Defensa:** 38
+- **Velocidad:** 57
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Raichu decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Bunnelby decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Raichu es conocido por su capacidad para alcanza poderes muy altos.
+Bunnelby es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3462
+- **CP máximo:** 3876
 - **Clase de combate:** 8
-- **Evento especial:** Raichu puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Bunnelby puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Raichu_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Bunnelby_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
