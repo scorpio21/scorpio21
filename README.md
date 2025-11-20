@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/659.png) | **Bunnelby** | Normal | Bunnelby | 659 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png) | **Caterpie** | Bicho | Caterpie | 10 |
 
 **Curiosidad:**  
-Bunnelby es conocido por su habilidad para usar ataques poderosos.
+Caterpie es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
+- **Puño Fuego**
 - **Rayo Solar**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Bunnelby** → **Bunnelby (Alola)**
+- **Caterpie** → **Caterpie (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 38
-- **Ataque:** 36
-- **Defensa:** 38
-- **Velocidad:** 57
+- **HP:** 45
+- **Ataque:** 30
+- **Defensa:** 35
+- **Velocidad:** 45
 
 ---
 
@@ -45,23 +45,24 @@ Bunnelby es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Bunnelby decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Caterpie decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Bunnelby es conocido por su capacidad para dominar varias tácticas en combate.
+Caterpie es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3876
+- **CP máximo:** 3706
 - **Clase de combate:** 8
-- **Evento especial:** Bunnelby puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Caterpie puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Bunnelby_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Caterpie_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
