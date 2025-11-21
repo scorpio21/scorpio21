@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png) | **Caterpie** | Bicho | Caterpie | 10 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/272.png) | **Ludicolo** | Agua, Planta | Ludicolo | 272 |
 
 **Curiosidad:**  
-Caterpie es conocido por su habilidad para dominar la batalla.
+Ludicolo es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Rayo Solar**
+- **Puño Trueno**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Caterpie** → **Caterpie (Alola)**
+- **Ludicolo** → **Ludicolo (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 45
-- **Ataque:** 30
-- **Defensa:** 35
-- **Velocidad:** 45
+- **HP:** 80
+- **Ataque:** 70
+- **Defensa:** 70
+- **Velocidad:** 70
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Caterpie decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Ludicolo decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Caterpie es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Ludicolo es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3706
+- **CP máximo:** 3174
 - **Clase de combate:** 8
-- **Evento especial:** Caterpie puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Ludicolo puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Caterpie_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Ludicolo_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -290,7 +291,7 @@ Caterpie es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
