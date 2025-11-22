@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/272.png) | **Ludicolo** | Agua, Planta | Ludicolo | 272 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png) | **Kabutops** | Roca, Agua | Kabutops | 141 |
 
 **Curiosidad:**  
-Ludicolo es conocido por su habilidad para usar ataques poderosos.
+Kabutops es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
+- **Hoja Afilada**
+- **Puño Trueno**
 - **Puño Fuego**
-- **Puño Trueno**
-- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Ludicolo** → **Ludicolo (Alola)**
+- **Kabutops** → **Kabutops (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 80
-- **Ataque:** 70
-- **Defensa:** 70
-- **Velocidad:** 70
+- **HP:** 60
+- **Ataque:** 115
+- **Defensa:** 105
+- **Velocidad:** 80
 
 ---
 
@@ -45,23 +45,24 @@ Ludicolo es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Ludicolo decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Kabutops decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Ludicolo es conocido por su capacidad para dominar varias tácticas en combate.
+Kabutops es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3174
+- **CP máximo:** 3747
 - **Clase de combate:** 8
-- **Evento especial:** Ludicolo puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Kabutops puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Ludicolo_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Kabutops_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -291,7 +292,7 @@ Ludicolo es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
