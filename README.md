@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png) | **Kabutops** | Roca, Agua | Kabutops | 141 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png) | **Lanturn** | Agua, Eléctrico | Lanturn | 171 |
 
 **Curiosidad:**  
-Kabutops es conocido por su habilidad para alcanzar altas velocidades.
+Lanturn es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Puño Trueno**
+- **Puño Fuego**
+- **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Kabutops** → **Kabutops (Alola)**
+- **Lanturn** → **Lanturn (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 115
-- **Defensa:** 105
-- **Velocidad:** 80
+- **HP:** 125
+- **Ataque:** 58
+- **Defensa:** 58
+- **Velocidad:** 67
 
 ---
 
@@ -45,23 +45,24 @@ Kabutops es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Kabutops decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Lanturn decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Kabutops es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Lanturn es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3747
+- **CP máximo:** 3681
 - **Clase de combate:** 8
-- **Evento especial:** Kabutops puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Lanturn puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Kabutops_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Lanturn_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -292,7 +293,7 @@ Kabutops es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
