@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png) | **Lanturn** | Agua, Eléctrico | Lanturn | 171 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/412.png) | **Burmy** | Bicho | Burmy | 412 |
 
 **Curiosidad:**  
-Lanturn es conocido por su habilidad para dominar la batalla.
+Burmy es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Ataque Psíquico**
-- **Puño Fuego**
+- **Corte Psíquico**
+- **Rayo Solar**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Lanturn** → **Lanturn (Alola)**
+- **Burmy** → **Burmy (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 125
-- **Ataque:** 58
-- **Defensa:** 58
-- **Velocidad:** 67
+- **HP:** 40
+- **Ataque:** 29
+- **Defensa:** 45
+- **Velocidad:** 36
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Lanturn decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Burmy decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Lanturn es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Burmy es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3681
+- **CP máximo:** 3491
 - **Clase de combate:** 8
-- **Evento especial:** Lanturn puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Burmy puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Lanturn_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Burmy_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -293,7 +294,7 @@ Lanturn es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
