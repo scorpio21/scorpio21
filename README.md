@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/412.png) | **Burmy** | Bicho | Burmy | 412 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/663.png) | **Talonflame** | Fuego, Volador | Talonflame | 663 |
 
 **Curiosidad:**  
-Burmy es conocido por su habilidad para usar ataques poderosos.
+Talonflame es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Rayo Solar**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Burmy** → **Burmy (Alola)**
+- **Talonflame** → **Talonflame (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 40
-- **Ataque:** 29
-- **Defensa:** 45
-- **Velocidad:** 36
+- **HP:** 78
+- **Ataque:** 81
+- **Defensa:** 71
+- **Velocidad:** 126
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Burmy decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Talonflame decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Burmy es conocido por su capacidad para dominar varias tácticas en combate.
+Talonflame es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3491
+- **CP máximo:** 3304
 - **Clase de combate:** 8
-- **Evento especial:** Burmy puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Talonflame puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Burmy_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Talonflame_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -294,7 +295,7 @@ Burmy es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
