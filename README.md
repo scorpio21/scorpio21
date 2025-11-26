@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/663.png) | **Talonflame** | Fuego, Volador | Talonflame | 663 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png) | **Quilava** | Fuego | Quilava | 156 |
 
 **Curiosidad:**  
-Talonflame es conocido por su habilidad para dominar la batalla.
+Quilava es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Hoja Afilada**
+- **Rayo Solar**
 - **Puño Trueno**
-- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Talonflame** → **Talonflame (Alola)**
+- **Quilava** → **Quilava (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 78
-- **Ataque:** 81
-- **Defensa:** 71
-- **Velocidad:** 126
+- **HP:** 58
+- **Ataque:** 64
+- **Defensa:** 58
+- **Velocidad:** 80
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Talonflame decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Quilava decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Talonflame es conocido por su capacidad para dominar varias tácticas en combate.
+Quilava es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3304
+- **CP máximo:** 3836
 - **Clase de combate:** 8
-- **Evento especial:** Talonflame puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Quilava puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Talonflame_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Quilava_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -295,7 +296,7 @@ Talonflame es conocido por su capacidad para dominar varias tácticas en combate
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
