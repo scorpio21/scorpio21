@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png) | **Quilava** | Fuego | Quilava | 156 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/304.png) | **Aron** | Acero, Roca | Aron | 304 |
 
 **Curiosidad:**  
-Quilava es conocido por su habilidad para alcanzar altas velocidades.
+Aron es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Rayo Solar**
+- **Corte Psíquico**
+- **Puño Trueno**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Quilava** → **Quilava (Alola)**
+- **Aron** → **Aron (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 58
-- **Ataque:** 64
-- **Defensa:** 58
-- **Velocidad:** 80
+- **HP:** 50
+- **Ataque:** 70
+- **Defensa:** 100
+- **Velocidad:** 30
 
 ---
 
@@ -45,23 +45,24 @@ Quilava es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Quilava decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Aron decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Quilava es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Aron es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3836
+- **CP máximo:** 3828
 - **Clase de combate:** 8
-- **Evento especial:** Quilava puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Aron puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Quilava_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Aron_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -296,7 +297,7 @@ Quilava es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
