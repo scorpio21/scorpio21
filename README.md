@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/494.png) | **Victini** | Psíquico, Fuego | Victini | 494 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/711.png) | **Gourgeist-average** | Fantasma, Planta | Gourgeist | 711 |
 
 **Curiosidad:**  
-Victini es conocido por su habilidad para dominar la batalla.
+Gourgeist-average es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Ataque Psíquico**
-- **Puño Trueno**
+- **Rayo Solar**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Victini** → **Victini (Alola)**
+- **Gourgeist-average** → **Gourgeist-average (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 100
-- **Ataque:** 100
-- **Defensa:** 100
-- **Velocidad:** 100
+- **HP:** 65
+- **Ataque:** 90
+- **Defensa:** 122
+- **Velocidad:** 84
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Victini decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Gourgeist-average decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Victini es conocido por su capacidad para alcanza poderes muy altos.
+Gourgeist-average es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3418
+- **CP máximo:** 3626
 - **Clase de combate:** 8
-- **Evento especial:** Victini puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Gourgeist-average puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Victini_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gourgeist-average_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -298,7 +299,7 @@ Victini es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
