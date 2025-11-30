@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/711.png) | **Gourgeist-average** | Fantasma, Planta | Gourgeist | 711 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/645.png) | **Landorus-incarnate** | Tierra, Volador | Landorus | 645 |
 
 **Curiosidad:**  
-Gourgeist-average es conocido por su habilidad para alcanzar altas velocidades.
+Landorus-incarnate es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Rayo Solar**
-- **Puño Fuego**
+- **Hoja Afilada**
+- **Puño Trueno**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Gourgeist-average** → **Gourgeist-average (Alola)**
+- **Landorus-incarnate** → **Landorus-incarnate (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 65
-- **Ataque:** 90
-- **Defensa:** 122
-- **Velocidad:** 84
+- **HP:** 89
+- **Ataque:** 125
+- **Defensa:** 90
+- **Velocidad:** 101
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Gourgeist-average decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Landorus-incarnate decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Gourgeist-average es conocido por su capacidad para dominar varias tácticas en combate.
+Landorus-incarnate es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3626
+- **CP máximo:** 3132
 - **Clase de combate:** 8
-- **Evento especial:** Gourgeist-average puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Landorus-incarnate puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gourgeist-average_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Landorus-incarnate_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -299,7 +300,7 @@ Gourgeist-average es conocido por su capacidad para dominar varias tácticas en 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
