@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/645.png) | **Landorus-incarnate** | Tierra, Volador | Landorus | 645 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/590.png) | **Foongus** | Planta, Veneno | Foongus | 590 |
 
 **Curiosidad:**  
-Landorus-incarnate es conocido por su habilidad para dominar la batalla.
+Foongus es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Puño Trueno**
-- **Puño Trueno**
+- **Corte Psíquico**
+- **Rayo Solar**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Landorus-incarnate** → **Landorus-incarnate (Alola)**
+- **Foongus** → **Foongus (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 89
-- **Ataque:** 125
-- **Defensa:** 90
-- **Velocidad:** 101
+- **HP:** 69
+- **Ataque:** 55
+- **Defensa:** 45
+- **Velocidad:** 15
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Landorus-incarnate decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Foongus decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Landorus-incarnate es conocido por su capacidad para alcanza poderes muy altos.
+Foongus es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3132
+- **CP máximo:** 3561
 - **Clase de combate:** 8
-- **Evento especial:** Landorus-incarnate puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Foongus puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Landorus-incarnate_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Foongus_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -300,7 +301,7 @@ Landorus-incarnate es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
