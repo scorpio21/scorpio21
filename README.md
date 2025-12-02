@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/590.png) | **Foongus** | Planta, Veneno | Foongus | 590 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/629.png) | **Vullaby** | Siniestro, Volador | Vullaby | 629 |
 
 **Curiosidad:**  
-Foongus es conocido por su habilidad para alcanzar altas velocidades.
+Vullaby es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Rayo Solar**
 - **Puño Fuego**
+- **Ataque Psíquico**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Foongus** → **Foongus (Alola)**
+- **Vullaby** → **Vullaby (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 69
+- **HP:** 70
 - **Ataque:** 55
-- **Defensa:** 45
-- **Velocidad:** 15
+- **Defensa:** 75
+- **Velocidad:** 60
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Foongus decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Vullaby decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Foongus es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Vullaby es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3561
+- **CP máximo:** 3089
 - **Clase de combate:** 8
-- **Evento especial:** Foongus puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Vullaby puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Foongus_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Vullaby_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -301,7 +302,7 @@ Foongus es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
