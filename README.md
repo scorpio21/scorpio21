@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/629.png) | **Vullaby** | Siniestro, Volador | Vullaby | 629 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/504.png) | **Patrat** | Normal | Patrat | 504 |
 
 **Curiosidad:**  
-Vullaby es conocido por su habilidad para dominar la batalla.
+Patrat es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Ataque Psíquico**
+- **Corte Psíquico**
+- **Puño Trueno**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Vullaby** → **Vullaby (Alola)**
+- **Patrat** → **Patrat (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 70
+- **HP:** 45
 - **Ataque:** 55
-- **Defensa:** 75
-- **Velocidad:** 60
+- **Defensa:** 39
+- **Velocidad:** 42
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Vullaby decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Patrat decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Vullaby es conocido por su capacidad para alcanza poderes muy altos.
+Patrat es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3089
+- **CP máximo:** 3446
 - **Clase de combate:** 8
-- **Evento especial:** Vullaby puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Patrat puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Vullaby_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Patrat_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
