@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/504.png) | **Patrat** | Normal | Patrat | 504 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/431.png) | **Glameow** | Normal | Glameow | 431 |
 
 **Curiosidad:**  
-Patrat es conocido por su habilidad para dominar la batalla.
+Glameow es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Puño Trueno**
+- **Puño Fuego**
+- **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Patrat** → **Patrat (Alola)**
+- **Glameow** → **Glameow (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 45
+- **HP:** 49
 - **Ataque:** 55
-- **Defensa:** 39
-- **Velocidad:** 42
+- **Defensa:** 42
+- **Velocidad:** 85
 
 ---
 
@@ -45,23 +45,24 @@ Patrat es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Patrat decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Glameow decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Patrat es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Glameow es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3446
+- **CP máximo:** 3918
 - **Clase de combate:** 8
-- **Evento especial:** Patrat puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Glameow puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Patrat_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Glameow_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -303,7 +304,7 @@ Patrat es conocido por su capacidad para desarrollar habilidades que cambian las
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
