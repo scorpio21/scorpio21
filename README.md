@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/431.png) | **Glameow** | Normal | Glameow | 431 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/712.png) | **Bergmite** | Hielo | Bergmite | 712 |
 
 **Curiosidad:**  
-Glameow es conocido por su habilidad para usar ataques poderosos.
+Bergmite es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Ataque Psíquico**
+- **Hoja Afilada**
+- **Puño Trueno**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Glameow** → **Glameow (Alola)**
+- **Bergmite** → **Bergmite (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 49
-- **Ataque:** 55
-- **Defensa:** 42
-- **Velocidad:** 85
+- **HP:** 55
+- **Ataque:** 69
+- **Defensa:** 85
+- **Velocidad:** 28
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Glameow decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Bergmite decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Glameow es conocido por su capacidad para dominar varias tácticas en combate.
+Bergmite es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3918
+- **CP máximo:** 3449
 - **Clase de combate:** 8
-- **Evento especial:** Glameow puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Bergmite puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Glameow_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Bergmite_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -304,7 +305,7 @@ Glameow es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
