@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/712.png) | **Bergmite** | Hielo | Bergmite | 712 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/772.png) | **Type-null** | Normal | Type-null | 772 |
 
 **Curiosidad:**  
-Bergmite es conocido por su habilidad para alcanzar altas velocidades.
+Type-null es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
+- **Puño Fuego**
 - **Puño Trueno**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Bergmite** → **Bergmite (Alola)**
+- **Type-null** → **Type-null (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 55
-- **Ataque:** 69
-- **Defensa:** 85
-- **Velocidad:** 28
+- **HP:** 95
+- **Ataque:** 95
+- **Defensa:** 95
+- **Velocidad:** 59
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Bergmite decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Type-null decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Bergmite es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Type-null es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3449
+- **CP máximo:** 3227
 - **Clase de combate:** 8
-- **Evento especial:** Bergmite puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Type-null puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Bergmite_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Type-null_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -305,7 +306,7 @@ Bergmite es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
