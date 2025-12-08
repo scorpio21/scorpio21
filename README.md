@@ -13,10 +13,10 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/661.png) | **Fletchling** | Normal, Volador | Fletchling | 661 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/510.png) | **Liepard** | Siniestro | Liepard | 510 |
 
 **Curiosidad:**  
-Fletchling es conocido por su habilidad para alcanzar altas velocidades.
+Liepard es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
@@ -28,15 +28,15 @@ Fletchling es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Evolución:**  
-- **Fletchling** → **Fletchling (Alola)**
+- **Liepard** → **Liepard (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 45
-- **Ataque:** 50
-- **Defensa:** 43
-- **Velocidad:** 62
+- **HP:** 64
+- **Ataque:** 88
+- **Defensa:** 50
+- **Velocidad:** 106
 
 ---
 
@@ -45,23 +45,24 @@ Fletchling es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Fletchling decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Liepard decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Fletchling es conocido por su capacidad para alcanza poderes muy altos.
+Liepard es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3650
+- **CP máximo:** 3045
 - **Clase de combate:** 8
-- **Evento especial:** Fletchling puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Liepard puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Fletchling_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Liepard_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -307,7 +308,7 @@ Fletchling es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
