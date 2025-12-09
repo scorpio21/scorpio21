@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/510.png) | **Liepard** | Siniestro | Liepard | 510 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png) | **Seviper** | Veneno | Seviper | 336 |
 
 **Curiosidad:**  
-Liepard es conocido por su habilidad para alcanzar altas velocidades.
+Seviper es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Hoja Afilada**
 - **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Liepard** → **Liepard (Alola)**
+- **Seviper** → **Seviper (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 64
-- **Ataque:** 88
-- **Defensa:** 50
-- **Velocidad:** 106
+- **HP:** 73
+- **Ataque:** 100
+- **Defensa:** 60
+- **Velocidad:** 65
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Liepard decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Seviper decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Liepard es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Seviper es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3045
+- **CP máximo:** 3122
 - **Clase de combate:** 8
-- **Evento especial:** Liepard puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Seviper puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Liepard_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Seviper_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -308,7 +309,7 @@ Liepard es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
