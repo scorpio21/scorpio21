@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png) | **Ivysaur** | Planta, Veneno | Ivysaur | 2 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png) | **Starmie** | Agua, Psíquico | Starmie | 121 |
 
 **Curiosidad:**  
-Ivysaur es conocido por su habilidad para alcanzar altas velocidades.
+Starmie es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Puño Trueno**
+- **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Ivysaur** → **Ivysaur (Alola)**
+- **Starmie** → **Starmie (Alola)**
 
 ---
 
 **Estadísticas base:**
 - **HP:** 60
-- **Ataque:** 62
-- **Defensa:** 63
-- **Velocidad:** 60
+- **Ataque:** 75
+- **Defensa:** 85
+- **Velocidad:** 115
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Ivysaur decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Starmie decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Ivysaur es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Starmie es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3616
+- **CP máximo:** 3107
 - **Clase de combate:** 8
-- **Evento especial:** Ivysaur puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Starmie puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Ivysaur_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Starmie_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -310,7 +311,7 @@ Ivysaur es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
