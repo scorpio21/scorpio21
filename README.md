@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png) | **Starmie** | Agua, Psíquico | Starmie | 121 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/484.png) | **Palkia** | Agua, Dragón | Palkia | 484 |
 
 **Curiosidad:**  
-Starmie es conocido por su habilidad para resistir ataques.
+Palkia es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Hoja Afilada**
 - **Rayo Solar**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Starmie** → **Starmie (Alola)**
+- **Palkia** → **Palkia (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 75
-- **Defensa:** 85
-- **Velocidad:** 115
+- **HP:** 90
+- **Ataque:** 120
+- **Defensa:** 100
+- **Velocidad:** 100
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Starmie decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Palkia decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Starmie es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Palkia es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3107
+- **CP máximo:** 3987
 - **Clase de combate:** 8
-- **Evento especial:** Starmie puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Palkia puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Starmie_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Palkia_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -311,7 +312,7 @@ Starmie es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
