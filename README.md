@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/484.png) | **Palkia** | Agua, Dragón | Palkia | 484 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/792.png) | **Lunala** | Psíquico, Fantasma | Lunala | 792 |
 
 **Curiosidad:**  
-Palkia es conocido por su habilidad para dominar la batalla.
+Lunala es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Hoja Afilada**
-- **Rayo Solar**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Palkia** → **Palkia (Alola)**
+- **Lunala** → **Lunala (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 90
-- **Ataque:** 120
-- **Defensa:** 100
-- **Velocidad:** 100
+- **HP:** 137
+- **Ataque:** 113
+- **Defensa:** 89
+- **Velocidad:** 97
 
 ---
 
@@ -45,23 +45,24 @@ Palkia es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Palkia decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Lunala decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Palkia es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Lunala es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3987
+- **CP máximo:** 3576
 - **Clase de combate:** 8
-- **Evento especial:** Palkia puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Lunala puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Palkia_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Lunala_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -312,7 +313,7 @@ Palkia es conocido por su capacidad para desarrollar habilidades que cambian las
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
