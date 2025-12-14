@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/792.png) | **Lunala** | Psíquico, Fantasma | Lunala | 792 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png) | **Granbull** | Hada | Granbull | 210 |
 
 **Curiosidad:**  
-Lunala es conocido por su habilidad para dominar la batalla.
+Granbull es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Puño Trueno**
+- **Puño Fuego**
+- **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Lunala** → **Lunala (Alola)**
+- **Granbull** → **Granbull (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 137
-- **Ataque:** 113
-- **Defensa:** 89
-- **Velocidad:** 97
+- **HP:** 90
+- **Ataque:** 120
+- **Defensa:** 75
+- **Velocidad:** 45
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Lunala decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Granbull decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Lunala es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Granbull es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3576
+- **CP máximo:** 3147
 - **Clase de combate:** 8
-- **Evento especial:** Lunala puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Granbull puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Lunala_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Granbull_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -313,7 +314,7 @@ Lunala es conocido por su capacidad para desarrollar habilidades que cambian las
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
