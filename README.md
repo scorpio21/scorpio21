@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png) | **Granbull** | Hada | Granbull | 210 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/640.png) | **Virizion** | Planta, Lucha | Virizion | 640 |
 
 **Curiosidad:**  
-Granbull es conocido por su habilidad para alcanzar altas velocidades.
+Virizion es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Ataque Psíquico**
+- **Corte Psíquico**
+- **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Granbull** → **Granbull (Alola)**
+- **Virizion** → **Virizion (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 90
-- **Ataque:** 120
-- **Defensa:** 75
-- **Velocidad:** 45
+- **HP:** 91
+- **Ataque:** 90
+- **Defensa:** 72
+- **Velocidad:** 108
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Granbull decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Virizion decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Granbull es conocido por su capacidad para dominar varias tácticas en combate.
+Virizion es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3147
+- **CP máximo:** 3549
 - **Clase de combate:** 8
-- **Evento especial:** Granbull puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Virizion puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Granbull_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Virizion_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -314,7 +315,7 @@ Granbull es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
