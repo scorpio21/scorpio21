@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/640.png) | **Virizion** | Planta, Lucha | Virizion | 640 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png) | **Spinarak** | Bicho, Veneno | Spinarak | 167 |
 
 **Curiosidad:**  
-Virizion es conocido por su habilidad para usar ataques poderosos.
+Spinarak es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Rayo Solar**
+- **Hoja Afilada**
+- **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Virizion** → **Virizion (Alola)**
+- **Spinarak** → **Spinarak (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 91
-- **Ataque:** 90
-- **Defensa:** 72
-- **Velocidad:** 108
+- **HP:** 40
+- **Ataque:** 60
+- **Defensa:** 40
+- **Velocidad:** 30
 
 ---
 
@@ -45,23 +45,24 @@ Virizion es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Virizion decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Spinarak decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Virizion es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Spinarak es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3549
+- **CP máximo:** 3768
 - **Clase de combate:** 8
-- **Evento especial:** Virizion puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Spinarak puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Virizion_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Spinarak_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -315,7 +316,7 @@ Virizion es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
