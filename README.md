@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png) | **Spinarak** | Bicho, Veneno | Spinarak | 167 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png) | **Nidoqueen** | Veneno, Tierra | Nidoqueen | 31 |
 
 **Curiosidad:**  
-Spinarak es conocido por su habilidad para resistir ataques.
+Nidoqueen es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Ataque Psíquico**
 - **Puño Fuego**
+- **Puño Trueno**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Spinarak** → **Spinarak (Alola)**
+- **Nidoqueen** → **Nidoqueen (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 40
-- **Ataque:** 60
-- **Defensa:** 40
-- **Velocidad:** 30
+- **HP:** 90
+- **Ataque:** 92
+- **Defensa:** 87
+- **Velocidad:** 76
 
 ---
 
@@ -45,23 +45,24 @@ Spinarak es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Spinarak decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Nidoqueen decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Spinarak es conocido por su capacidad para dominar varias tácticas en combate.
+Nidoqueen es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3768
+- **CP máximo:** 3110
 - **Clase de combate:** 8
-- **Evento especial:** Spinarak puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Nidoqueen puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Spinarak_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Nidoqueen_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -316,7 +317,7 @@ Spinarak es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
