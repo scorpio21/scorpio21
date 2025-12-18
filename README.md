@@ -13,10 +13,10 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png) | **Nidoqueen** | Veneno, Tierra | Nidoqueen | 31 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png) | **Nidoran-m** | Veneno | Nidoran-m | 32 |
 
 **Curiosidad:**  
-Nidoqueen es conocido por su habilidad para usar ataques poderosos.
+Nidoran-m es conocido por su habilidad para dominar la batalla.
 
 ---
 
@@ -28,40 +28,41 @@ Nidoqueen es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Evolución:**  
-- **Nidoqueen** → **Nidoqueen (Alola)**
+- **Nidoran-m** → **Nidoran-m (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 90
-- **Ataque:** 92
-- **Defensa:** 87
-- **Velocidad:** 76
+- **HP:** 46
+- **Ataque:** 57
+- **Defensa:** 40
+- **Velocidad:** 50
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Nidoqueen decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Nidoran-m decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Nidoqueen es conocido por su capacidad para alcanza poderes muy altos.
+Nidoran-m es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3110
+- **CP máximo:** 3672
 - **Clase de combate:** 8
-- **Evento especial:** Nidoqueen puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Nidoran-m puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Nidoqueen_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Nidoran-m_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -317,7 +318,7 @@ Nidoqueen es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
