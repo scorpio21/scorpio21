@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png) | **Nidoran-m** | Veneno | Nidoran-m | 32 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/667.png) | **Litleo** | Fuego, Normal | Litleo | 667 |
 
 **Curiosidad:**  
-Nidoran-m es conocido por su habilidad para dominar la batalla.
+Litleo es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Puño Trueno**
+- **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Nidoran-m** → **Nidoran-m (Alola)**
+- **Litleo** → **Litleo (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 46
-- **Ataque:** 57
-- **Defensa:** 40
-- **Velocidad:** 50
+- **HP:** 62
+- **Ataque:** 50
+- **Defensa:** 58
+- **Velocidad:** 72
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Nidoran-m decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Litleo decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Nidoran-m es conocido por su capacidad para alcanza poderes muy altos.
+Litleo es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3672
+- **CP máximo:** 3946
 - **Clase de combate:** 8
-- **Evento especial:** Nidoran-m puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Litleo puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Nidoran-m_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Litleo_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -318,7 +319,7 @@ Nidoran-m es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
