@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/667.png) | **Litleo** | Fuego, Normal | Litleo | 667 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493.png) | **Arceus** | Normal | Arceus | 493 |
 
 **Curiosidad:**  
-Litleo es conocido por su habilidad para dominar la batalla.
+Arceus es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Ataque Psíquico**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Litleo** → **Litleo (Alola)**
+- **Arceus** → **Arceus (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 62
-- **Ataque:** 50
-- **Defensa:** 58
-- **Velocidad:** 72
+- **HP:** 120
+- **Ataque:** 120
+- **Defensa:** 120
+- **Velocidad:** 120
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Litleo decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Arceus decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Litleo es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Arceus es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3946
+- **CP máximo:** 3376
 - **Clase de combate:** 8
-- **Evento especial:** Litleo puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Arceus puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Litleo_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Arceus_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -319,7 +320,7 @@ Litleo es conocido por su capacidad para desarrollar habilidades que cambian las
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
