@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493.png) | **Arceus** | Normal | Arceus | 493 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/265.png) | **Wurmple** | Bicho | Wurmple | 265 |
 
 **Curiosidad:**  
-Arceus es conocido por su habilidad para resistir ataques.
+Wurmple es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Corte Psíquico**
+- **Ataque Psíquico**
 - **Puño Trueno**
-- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Arceus** → **Arceus (Alola)**
+- **Wurmple** → **Wurmple (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 120
-- **Ataque:** 120
-- **Defensa:** 120
-- **Velocidad:** 120
+- **HP:** 45
+- **Ataque:** 45
+- **Defensa:** 35
+- **Velocidad:** 20
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Arceus decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Wurmple decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Arceus es conocido por su capacidad para dominar varias tácticas en combate.
+Wurmple es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3376
+- **CP máximo:** 3694
 - **Clase de combate:** 8
-- **Evento especial:** Arceus puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Wurmple puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Arceus_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Wurmple_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -320,7 +321,7 @@ Arceus es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
