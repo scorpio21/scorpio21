@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/265.png) | **Wurmple** | Bicho | Wurmple | 265 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/653.png) | **Fennekin** | Fuego | Fennekin | 653 |
 
 **Curiosidad:**  
-Wurmple es conocido por su habilidad para dominar la batalla.
+Fennekin es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Ataque Psíquico**
-- **Puño Trueno**
+- **Rayo Solar**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Wurmple** → **Wurmple (Alola)**
+- **Fennekin** → **Fennekin (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 45
+- **HP:** 40
 - **Ataque:** 45
-- **Defensa:** 35
-- **Velocidad:** 20
+- **Defensa:** 40
+- **Velocidad:** 60
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Wurmple decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Fennekin decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Wurmple es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Fennekin es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3694
+- **CP máximo:** 3757
 - **Clase de combate:** 8
-- **Evento especial:** Wurmple puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Fennekin puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Wurmple_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Fennekin_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -321,7 +322,7 @@ Wurmple es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
