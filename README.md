@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/653.png) | **Fennekin** | Fuego | Fennekin | 653 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png) | **Croagunk** | Veneno, Lucha | Croagunk | 453 |
 
 **Curiosidad:**  
-Fennekin es conocido por su habilidad para usar ataques poderosos.
+Croagunk es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Puño Fuego**
 - **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Fennekin** → **Fennekin (Alola)**
+- **Croagunk** → **Croagunk (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 40
-- **Ataque:** 45
+- **HP:** 48
+- **Ataque:** 61
 - **Defensa:** 40
-- **Velocidad:** 60
+- **Velocidad:** 50
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Fennekin decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Croagunk decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Fennekin es conocido por su capacidad para dominar varias tácticas en combate.
+Croagunk es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3757
+- **CP máximo:** 3256
 - **Clase de combate:** 8
-- **Evento especial:** Fennekin puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Croagunk puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Fennekin_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Croagunk_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
