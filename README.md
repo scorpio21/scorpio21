@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png) | **Croagunk** | Veneno, Lucha | Croagunk | 453 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png) | **Kingdra** | Agua, Dragón | Kingdra | 230 |
 
 **Curiosidad:**  
-Croagunk es conocido por su habilidad para usar ataques poderosos.
+Kingdra es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Corte Psíquico**
 - **Rayo Solar**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Croagunk** → **Croagunk (Alola)**
+- **Kingdra** → **Kingdra (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 48
-- **Ataque:** 61
-- **Defensa:** 40
-- **Velocidad:** 50
+- **HP:** 75
+- **Ataque:** 95
+- **Defensa:** 95
+- **Velocidad:** 85
 
 ---
 
@@ -45,23 +45,24 @@ Croagunk es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Croagunk decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Kingdra decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Croagunk es conocido por su capacidad para alcanza poderes muy altos.
+Kingdra es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3256
+- **CP máximo:** 3851
 - **Clase de combate:** 8
-- **Evento especial:** Croagunk puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Kingdra puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Croagunk_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Kingdra_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -323,7 +324,7 @@ Croagunk es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
