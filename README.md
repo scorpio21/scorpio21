@@ -13,10 +13,10 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png) | **Kingdra** | Agua, Dragón | Kingdra | 230 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png) | **Misdreavus** | Fantasma | Misdreavus | 200 |
 
 **Curiosidad:**  
-Kingdra es conocido por su habilidad para dominar la batalla.
+Misdreavus es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
@@ -28,40 +28,41 @@ Kingdra es conocido por su habilidad para dominar la batalla.
 ---
 
 **Evolución:**  
-- **Kingdra** → **Kingdra (Alola)**
+- **Misdreavus** → **Misdreavus (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 75
-- **Ataque:** 95
-- **Defensa:** 95
+- **HP:** 60
+- **Ataque:** 60
+- **Defensa:** 60
 - **Velocidad:** 85
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Kingdra decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Misdreavus decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Kingdra es conocido por su capacidad para alcanza poderes muy altos.
+Misdreavus es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3851
+- **CP máximo:** 3839
 - **Clase de combate:** 8
-- **Evento especial:** Kingdra puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Misdreavus puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Kingdra_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Misdreavus_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -324,7 +325,7 @@ Kingdra es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
