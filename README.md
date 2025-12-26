@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png) | **Misdreavus** | Fantasma | Misdreavus | 200 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png) | **Seadra** | Agua | Seadra | 117 |
 
 **Curiosidad:**  
-Misdreavus es conocido por su habilidad para usar ataques poderosos.
+Seadra es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Rayo Solar**
+- **Puño Fuego**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Misdreavus** → **Misdreavus (Alola)**
+- **Seadra** → **Seadra (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 60
-- **Defensa:** 60
+- **HP:** 55
+- **Ataque:** 65
+- **Defensa:** 95
 - **Velocidad:** 85
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Misdreavus decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Seadra decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Misdreavus es conocido por su capacidad para dominar varias tácticas en combate.
+Seadra es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3839
+- **CP máximo:** 3376
 - **Clase de combate:** 8
-- **Evento especial:** Misdreavus puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Seadra puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Misdreavus_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Seadra_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -325,7 +326,7 @@ Misdreavus es conocido por su capacidad para dominar varias tácticas en combate
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
