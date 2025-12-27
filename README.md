@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png) | **Seadra** | Agua | Seadra | 117 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/381.png) | **Latios** | Dragón, Psíquico | Latios | 381 |
 
 **Curiosidad:**  
-Seadra es conocido por su habilidad para resistir ataques.
+Latios es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
+- **Ataque Psíquico**
 - **Puño Trueno**
-- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Seadra** → **Seadra (Alola)**
+- **Latios** → **Latios (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 55
-- **Ataque:** 65
-- **Defensa:** 95
-- **Velocidad:** 85
+- **HP:** 80
+- **Ataque:** 90
+- **Defensa:** 80
+- **Velocidad:** 110
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Seadra decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Latios decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Seadra es conocido por su capacidad para alcanza poderes muy altos.
+Latios es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3376
+- **CP máximo:** 3217
 - **Clase de combate:** 8
-- **Evento especial:** Seadra puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Latios puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Seadra_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Latios_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -326,7 +327,7 @@ Seadra es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
