@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/381.png) | **Latios** | Dragón, Psíquico | Latios | 381 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png) | **Makuhita** | Lucha | Makuhita | 296 |
 
 **Curiosidad:**  
-Latios es conocido por su habilidad para usar ataques poderosos.
+Makuhita es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Ataque Psíquico**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Latios** → **Latios (Alola)**
+- **Makuhita** → **Makuhita (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 80
-- **Ataque:** 90
-- **Defensa:** 80
-- **Velocidad:** 110
+- **HP:** 72
+- **Ataque:** 60
+- **Defensa:** 30
+- **Velocidad:** 25
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Latios decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Makuhita decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Latios es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Makuhita es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3217
+- **CP máximo:** 3519
 - **Clase de combate:** 8
-- **Evento especial:** Latios puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Makuhita puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Latios_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Makuhita_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -327,7 +328,7 @@ Latios es conocido por su capacidad para desarrollar habilidades que cambian las
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
