@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png) | **Makuhita** | Lucha | Makuhita | 296 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png) | **Muk** | Veneno | Muk | 89 |
 
 **Curiosidad:**  
-Makuhita es conocido por su habilidad para dominar la batalla.
+Muk es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
+- **Rayo Solar**
 - **Puño Trueno**
-- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Makuhita** → **Makuhita (Alola)**
+- **Muk** → **Muk (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 72
-- **Ataque:** 60
-- **Defensa:** 30
-- **Velocidad:** 25
+- **HP:** 105
+- **Ataque:** 105
+- **Defensa:** 75
+- **Velocidad:** 50
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Makuhita decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Muk decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Makuhita es conocido por su capacidad para dominar varias tácticas en combate.
+Muk es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3519
+- **CP máximo:** 3144
 - **Clase de combate:** 8
-- **Evento especial:** Makuhita puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Muk puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Makuhita_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Muk_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -328,7 +329,7 @@ Makuhita es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
