@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png) | **Muk** | Veneno | Muk | 89 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png) | **Blastoise** | Agua | Blastoise | 9 |
 
 **Curiosidad:**  
-Muk es conocido por su habilidad para usar ataques poderosos.
+Blastoise es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Hoja Afilada**
 - **Rayo Solar**
-- **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Muk** → **Muk (Alola)**
+- **Blastoise** → **Blastoise (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 105
-- **Ataque:** 105
-- **Defensa:** 75
-- **Velocidad:** 50
+- **HP:** 79
+- **Ataque:** 83
+- **Defensa:** 100
+- **Velocidad:** 78
 
 ---
 
@@ -45,23 +45,24 @@ Muk es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Muk decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Blastoise decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Muk es conocido por su capacidad para dominar varias tácticas en combate.
+Blastoise es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3144
+- **CP máximo:** 3862
 - **Clase de combate:** 8
-- **Evento especial:** Muk puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Blastoise puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Muk_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Blastoise_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -329,7 +330,7 @@ Muk es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
