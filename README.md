@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png) | **Blastoise** | Agua | Blastoise | 9 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/600.png) | **Klang** | Acero | Klang | 600 |
 
 **Curiosidad:**  
-Blastoise es conocido por su habilidad para resistir ataques.
+Klang es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Rayo Solar**
+- **Puño Fuego**
+- **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Blastoise** → **Blastoise (Alola)**
+- **Klang** → **Klang (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 79
-- **Ataque:** 83
-- **Defensa:** 100
-- **Velocidad:** 78
+- **HP:** 60
+- **Ataque:** 80
+- **Defensa:** 95
+- **Velocidad:** 50
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Blastoise decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Klang decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Blastoise es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Klang es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3862
+- **CP máximo:** 3686
 - **Clase de combate:** 8
-- **Evento especial:** Blastoise puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Klang puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Blastoise_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Klang_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -330,7 +331,7 @@ Blastoise es conocido por su capacidad para desarrollar habilidades que cambian 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
