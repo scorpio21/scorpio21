@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png) | **Ekans** | Veneno | Ekans | 23 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/715.png) | **Noivern** | Volador, Dragón | Noivern | 715 |
 
 **Curiosidad:**  
-Ekans es conocido por su habilidad para dominar la batalla.
+Noivern es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Rayo Solar**
+- **Corte Psíquico**
+- **Puño Trueno**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Ekans** → **Ekans (Alola)**
+- **Noivern** → **Noivern (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 35
-- **Ataque:** 60
-- **Defensa:** 44
-- **Velocidad:** 55
+- **HP:** 85
+- **Ataque:** 70
+- **Defensa:** 80
+- **Velocidad:** 123
 
 ---
 
@@ -45,23 +45,24 @@ Ekans es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Ekans decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Noivern decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Ekans es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Noivern es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3785
+- **CP máximo:** 3372
 - **Clase de combate:** 8
-- **Evento especial:** Ekans puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Noivern puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Ekans_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Noivern_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -332,7 +333,7 @@ Ekans es conocido por su capacidad para desarrollar habilidades que cambian las 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
