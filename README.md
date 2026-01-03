@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/715.png) | **Noivern** | Volador, Dragón | Noivern | 715 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png) | **Electabuzz** | Eléctrico | Electabuzz | 125 |
 
 **Curiosidad:**  
-Noivern es conocido por su habilidad para alcanzar altas velocidades.
+Electabuzz es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Puño Trueno**
+- **Hoja Afilada**
+- **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Noivern** → **Noivern (Alola)**
+- **Electabuzz** → **Electabuzz (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 85
-- **Ataque:** 70
-- **Defensa:** 80
-- **Velocidad:** 123
+- **HP:** 65
+- **Ataque:** 83
+- **Defensa:** 57
+- **Velocidad:** 105
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Noivern decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Electabuzz decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Noivern es conocido por su capacidad para alcanza poderes muy altos.
+Electabuzz es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3372
+- **CP máximo:** 3656
 - **Clase de combate:** 8
-- **Evento especial:** Noivern puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Electabuzz puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Noivern_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Electabuzz_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -333,7 +334,7 @@ Noivern es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
