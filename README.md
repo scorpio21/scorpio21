@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png) | **Electabuzz** | Eléctrico | Electabuzz | 125 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png) | **Chatot** | Normal, Volador | Chatot | 441 |
 
 **Curiosidad:**  
-Electabuzz es conocido por su habilidad para alcanzar altas velocidades.
+Chatot es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Ataque Psíquico**
+- **Corte Psíquico**
+- **Rayo Solar**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Electabuzz** → **Electabuzz (Alola)**
+- **Chatot** → **Chatot (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 65
-- **Ataque:** 83
-- **Defensa:** 57
-- **Velocidad:** 105
+- **HP:** 76
+- **Ataque:** 65
+- **Defensa:** 45
+- **Velocidad:** 91
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Electabuzz decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Chatot decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Electabuzz es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Chatot es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3656
+- **CP máximo:** 3027
 - **Clase de combate:** 8
-- **Evento especial:** Electabuzz puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Chatot puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Electabuzz_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Chatot_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -334,7 +335,7 @@ Electabuzz es conocido por su capacidad para desarrollar habilidades que cambian
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
