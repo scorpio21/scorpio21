@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png) | **Chatot** | Normal, Volador | Chatot | 441 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/530.png) | **Excadrill** | Tierra, Acero | Excadrill | 530 |
 
 **Curiosidad:**  
-Chatot es conocido por su habilidad para alcanzar altas velocidades.
+Excadrill es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Rayo Solar**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Chatot** → **Chatot (Alola)**
+- **Excadrill** → **Excadrill (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 76
-- **Ataque:** 65
-- **Defensa:** 45
-- **Velocidad:** 91
+- **HP:** 110
+- **Ataque:** 135
+- **Defensa:** 60
+- **Velocidad:** 88
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Chatot decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Excadrill decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Chatot es conocido por su capacidad para alcanza poderes muy altos.
+Excadrill es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3027
+- **CP máximo:** 3964
 - **Clase de combate:** 8
-- **Evento especial:** Chatot puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Excadrill puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Chatot_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Excadrill_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -335,7 +336,7 @@ Chatot es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
