@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/530.png) | **Excadrill** | Tierra, Acero | Excadrill | 530 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/502.png) | **Dewott** | Agua | Dewott | 502 |
 
 **Curiosidad:**  
-Excadrill es conocido por su habilidad para dominar la batalla.
+Dewott es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Puño Trueno**
 - **Puño Fuego**
+- **Ataque Psíquico**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Excadrill** → **Excadrill (Alola)**
+- **Dewott** → **Dewott (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 110
-- **Ataque:** 135
+- **HP:** 75
+- **Ataque:** 75
 - **Defensa:** 60
-- **Velocidad:** 88
+- **Velocidad:** 60
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Excadrill decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Dewott decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Excadrill es conocido por su capacidad para dominar varias tácticas en combate.
+Dewott es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3964
+- **CP máximo:** 3059
 - **Clase de combate:** 8
-- **Evento especial:** Excadrill puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Dewott puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Excadrill_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Dewott_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -336,7 +337,7 @@ Excadrill es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
