@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/502.png) | **Dewott** | Agua | Dewott | 502 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/678.png) | **Meowstic-male** | Psíquico | Meowstic | 678 |
 
 **Curiosidad:**  
-Dewott es conocido por su habilidad para dominar la batalla.
+Meowstic-male es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Ataque Psíquico**
+- **Corte Psíquico**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Dewott** → **Dewott (Alola)**
+- **Meowstic-male** → **Meowstic-male (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 75
-- **Ataque:** 75
-- **Defensa:** 60
-- **Velocidad:** 60
+- **HP:** 74
+- **Ataque:** 48
+- **Defensa:** 76
+- **Velocidad:** 104
 
 ---
 
@@ -45,23 +45,24 @@ Dewott es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Dewott decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Meowstic-male decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Dewott es conocido por su capacidad para dominar varias tácticas en combate.
+Meowstic-male es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3059
+- **CP máximo:** 3663
 - **Clase de combate:** 8
-- **Evento especial:** Dewott puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Meowstic-male puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Dewott_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Meowstic-male_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -337,7 +338,7 @@ Dewott es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
