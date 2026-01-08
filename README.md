@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/678.png) | **Meowstic-male** | Psíquico | Meowstic | 678 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/720.png) | **Hoopa** | Psíquico, Fantasma | Hoopa | 720 |
 
 **Curiosidad:**  
-Meowstic-male es conocido por su habilidad para resistir ataques.
+Hoopa es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Puño Trueno**
+- **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Meowstic-male** → **Meowstic-male (Alola)**
+- **Hoopa** → **Hoopa (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 74
-- **Ataque:** 48
-- **Defensa:** 76
-- **Velocidad:** 104
+- **HP:** 80
+- **Ataque:** 110
+- **Defensa:** 60
+- **Velocidad:** 70
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Meowstic-male decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Hoopa decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Meowstic-male es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Hoopa es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3663
+- **CP máximo:** 3668
 - **Clase de combate:** 8
-- **Evento especial:** Meowstic-male puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Hoopa puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Meowstic-male_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Hoopa_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
