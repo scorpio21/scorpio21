@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/720.png) | **Hoopa** | Psíquico, Fantasma | Hoopa | 720 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png) | **Bidoof** | Normal | Bidoof | 399 |
 
 **Curiosidad:**  
-Hoopa es conocido por su habilidad para alcanzar altas velocidades.
+Bidoof es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Hoja Afilada**
 - **Ataque Psíquico**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Hoopa** → **Hoopa (Alola)**
+- **Bidoof** → **Bidoof (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 80
-- **Ataque:** 110
-- **Defensa:** 60
-- **Velocidad:** 70
+- **HP:** 59
+- **Ataque:** 45
+- **Defensa:** 40
+- **Velocidad:** 31
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Hoopa decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Bidoof decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Hoopa es conocido por su capacidad para alcanza poderes muy altos.
+Bidoof es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3668
+- **CP máximo:** 3694
 - **Clase de combate:** 8
-- **Evento especial:** Hoopa puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Bidoof puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Hoopa_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Bidoof_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -339,7 +340,7 @@ Hoopa es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
