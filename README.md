@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/681.png) | **Aegislash-shield** | Acero, Fantasma | Aegislash | 681 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/859.png) | **Impidimp** | Siniestro, Hada | Impidimp | 859 |
 
 **Curiosidad:**  
-Aegislash-shield es conocido por su habilidad para dominar la batalla.
+Impidimp es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Hoja Afilada**
-- **Rayo Solar**
+- **Puño Trueno**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Aegislash-shield** → **Aegislash-shield (Alola)**
+- **Impidimp** → **Impidimp (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 50
-- **Defensa:** 140
-- **Velocidad:** 60
+- **HP:** 45
+- **Ataque:** 45
+- **Defensa:** 30
+- **Velocidad:** 50
 
 ---
 
@@ -45,23 +45,24 @@ Aegislash-shield es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Aegislash-shield decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Impidimp decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Aegislash-shield es conocido por su capacidad para alcanza poderes muy altos.
+Impidimp es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3205
+- **CP máximo:** 3660
 - **Clase de combate:** 8
-- **Evento especial:** Aegislash-shield puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Impidimp puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Aegislash-shield_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Impidimp_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
