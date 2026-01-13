@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/535.png) | **Tympole** | Agua | Tympole | 535 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png) | **Smoochum** | Hielo, Psíquico | Smoochum | 238 |
 
 **Curiosidad:**  
-Tympole es conocido por su habilidad para usar ataques poderosos.
+Smoochum es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Ataque Psíquico**
+- **Puño Fuego**
+- **Puño Trueno**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Tympole** → **Tympole (Alola)**
+- **Smoochum** → **Smoochum (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 50
-- **Ataque:** 50
-- **Defensa:** 40
-- **Velocidad:** 64
+- **HP:** 45
+- **Ataque:** 30
+- **Defensa:** 15
+- **Velocidad:** 65
 
 ---
 
@@ -45,23 +45,24 @@ Tympole es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Tympole decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Smoochum decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Tympole es conocido por su capacidad para alcanza poderes muy altos.
+Smoochum es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3464
+- **CP máximo:** 3539
 - **Clase de combate:** 8
-- **Evento especial:** Tympole puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Smoochum puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Tympole_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Smoochum_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -343,7 +344,7 @@ Tympole es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
