@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png) | **Smoochum** | Hielo, Psíquico | Smoochum | 238 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/852.png) | **Clobbopus** | Lucha | Clobbopus | 852 |
 
 **Curiosidad:**  
-Smoochum es conocido por su habilidad para resistir ataques.
+Clobbopus es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Hoja Afilada**
 - **Puño Trueno**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Smoochum** → **Smoochum (Alola)**
+- **Clobbopus** → **Clobbopus (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 45
-- **Ataque:** 30
-- **Defensa:** 15
-- **Velocidad:** 65
+- **HP:** 50
+- **Ataque:** 68
+- **Defensa:** 60
+- **Velocidad:** 32
 
 ---
 
@@ -45,23 +45,24 @@ Smoochum es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Smoochum decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Clobbopus decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Smoochum es conocido por su capacidad para dominar varias tácticas en combate.
+Clobbopus es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3539
+- **CP máximo:** 3279
 - **Clase de combate:** 8
-- **Evento especial:** Smoochum puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Clobbopus puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Smoochum_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Clobbopus_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -344,7 +345,7 @@ Smoochum es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
