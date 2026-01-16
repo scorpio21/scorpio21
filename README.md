@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/660.png) | **Diggersby** | Normal, Tierra | Diggersby | 660 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/818.png) | **Inteleon** | Agua | Inteleon | 818 |
 
 **Curiosidad:**  
-Diggersby es conocido por su habilidad para resistir ataques.
+Inteleon es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
+- **Hoja Afilada**
+- **Rayo Solar**
 - **Puño Fuego**
-- **Ataque Psíquico**
-- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Diggersby** → **Diggersby (Alola)**
+- **Inteleon** → **Inteleon (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 85
-- **Ataque:** 56
-- **Defensa:** 77
-- **Velocidad:** 78
+- **HP:** 70
+- **Ataque:** 85
+- **Defensa:** 65
+- **Velocidad:** 120
 
 ---
 
@@ -45,23 +45,24 @@ Diggersby es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Diggersby decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Inteleon decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Diggersby es conocido por su capacidad para alcanza poderes muy altos.
+Inteleon es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3380
+- **CP máximo:** 3318
 - **Clase de combate:** 8
-- **Evento especial:** Diggersby puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Inteleon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Diggersby_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Inteleon_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -346,7 +347,7 @@ Diggersby es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
