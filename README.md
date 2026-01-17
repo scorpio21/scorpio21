@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/818.png) | **Inteleon** | Agua | Inteleon | 818 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/702.png) | **Dedenne** | Eléctrico, Hada | Dedenne | 702 |
 
 **Curiosidad:**  
-Inteleon es conocido por su habilidad para resistir ataques.
+Dedenne es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Rayo Solar**
 - **Puño Fuego**
+- **Rayo Solar**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Inteleon** → **Inteleon (Alola)**
+- **Dedenne** → **Dedenne (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 70
-- **Ataque:** 85
-- **Defensa:** 65
-- **Velocidad:** 120
+- **HP:** 67
+- **Ataque:** 58
+- **Defensa:** 57
+- **Velocidad:** 101
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Inteleon decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Dedenne decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Inteleon es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Dedenne es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3318
+- **CP máximo:** 3229
 - **Clase de combate:** 8
-- **Evento especial:** Inteleon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Dedenne puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Inteleon_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Dedenne_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -347,7 +348,7 @@ Inteleon es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
