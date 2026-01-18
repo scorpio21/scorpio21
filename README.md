@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/702.png) | **Dedenne** | Eléctrico, Hada | Dedenne | 702 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/508.png) | **Stoutland** | Normal | Stoutland | 508 |
 
 **Curiosidad:**  
-Dedenne es conocido por su habilidad para dominar la batalla.
+Stoutland es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Rayo Solar**
-- **Puño Trueno**
+- **Ataque Psíquico**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Dedenne** → **Dedenne (Alola)**
+- **Stoutland** → **Stoutland (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 67
-- **Ataque:** 58
-- **Defensa:** 57
-- **Velocidad:** 101
+- **HP:** 85
+- **Ataque:** 110
+- **Defensa:** 90
+- **Velocidad:** 80
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Dedenne decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Stoutland decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Dedenne es conocido por su capacidad para dominar varias tácticas en combate.
+Stoutland es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3229
+- **CP máximo:** 3810
 - **Clase de combate:** 8
-- **Evento especial:** Dedenne puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Stoutland puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Dedenne_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Stoutland_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -348,7 +349,7 @@ Dedenne es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
