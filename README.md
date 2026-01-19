@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/508.png) | **Stoutland** | Normal | Stoutland | 508 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/630.png) | **Mandibuzz** | Siniestro, Volador | Mandibuzz | 630 |
 
 **Curiosidad:**  
-Stoutland es conocido por su habilidad para resistir ataques.
+Mandibuzz es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Ataque Psíquico**
+- **Hoja Afilada**
+- **Puño Trueno**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Stoutland** → **Stoutland (Alola)**
+- **Mandibuzz** → **Mandibuzz (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 85
-- **Ataque:** 110
-- **Defensa:** 90
+- **HP:** 110
+- **Ataque:** 65
+- **Defensa:** 105
 - **Velocidad:** 80
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Stoutland decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Mandibuzz decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Stoutland es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Mandibuzz es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3810
+- **CP máximo:** 3110
 - **Clase de combate:** 8
-- **Evento especial:** Stoutland puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Mandibuzz puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Stoutland_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mandibuzz_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -349,7 +350,7 @@ Stoutland es conocido por su capacidad para desarrollar habilidades que cambian 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
