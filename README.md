@@ -13,29 +13,29 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/630.png) | **Mandibuzz** | Siniestro, Volador | Mandibuzz | 630 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/275.png) | **Shiftry** | Planta, Siniestro | Shiftry | 275 |
 
 **Curiosidad:**  
-Mandibuzz es conocido por su habilidad para dominar la batalla.
+Shiftry es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
+- **Corte Psíquico**
 - **Puño Trueno**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Mandibuzz** → **Mandibuzz (Alola)**
+- **Shiftry** → **Shiftry (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 110
-- **Ataque:** 65
-- **Defensa:** 105
+- **HP:** 90
+- **Ataque:** 100
+- **Defensa:** 60
 - **Velocidad:** 80
 
 ---
@@ -45,23 +45,24 @@ Mandibuzz es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Mandibuzz decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Shiftry decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Mandibuzz es conocido por su capacidad para dominar varias tácticas en combate.
+Shiftry es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3110
+- **CP máximo:** 3284
 - **Clase de combate:** 8
-- **Evento especial:** Mandibuzz puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Shiftry puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mandibuzz_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Shiftry_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -350,7 +351,7 @@ Mandibuzz es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
