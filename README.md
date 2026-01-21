@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/275.png) | **Shiftry** | Planta, Siniestro | Shiftry | 275 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/506.png) | **Lillipup** | Normal | Lillipup | 506 |
 
 **Curiosidad:**  
-Shiftry es conocido por su habilidad para alcanzar altas velocidades.
+Lillipup es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Puño Trueno**
+- **Rayo Solar**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Shiftry** → **Shiftry (Alola)**
+- **Lillipup** → **Lillipup (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 90
-- **Ataque:** 100
-- **Defensa:** 60
-- **Velocidad:** 80
+- **HP:** 45
+- **Ataque:** 60
+- **Defensa:** 45
+- **Velocidad:** 55
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Shiftry decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Lillipup decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Shiftry es conocido por su capacidad para dominar varias tácticas en combate.
+Lillipup es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3284
+- **CP máximo:** 3672
 - **Clase de combate:** 8
-- **Evento especial:** Shiftry puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Lillipup puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Shiftry_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Lillipup_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -351,7 +352,7 @@ Shiftry es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
