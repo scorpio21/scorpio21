@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/506.png) | **Lillipup** | Normal | Lillipup | 506 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/374.png) | **Beldum** | Acero, Psíquico | Beldum | 374 |
 
 **Curiosidad:**  
-Lillipup es conocido por su habilidad para dominar la batalla.
+Beldum es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Rayo Solar**
+- **Puño Fuego**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Lillipup** → **Lillipup (Alola)**
+- **Beldum** → **Beldum (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 45
-- **Ataque:** 60
-- **Defensa:** 45
-- **Velocidad:** 55
+- **HP:** 40
+- **Ataque:** 55
+- **Defensa:** 80
+- **Velocidad:** 30
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Lillipup decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Beldum decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Lillipup es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Beldum es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3672
+- **CP máximo:** 3439
 - **Clase de combate:** 8
-- **Evento especial:** Lillipup puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Beldum puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Lillipup_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Beldum_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -352,7 +353,7 @@ Lillipup es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
