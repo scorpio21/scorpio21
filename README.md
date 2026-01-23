@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/374.png) | **Beldum** | Acero, Psíquico | Beldum | 374 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/328.png) | **Trapinch** | Tierra | Trapinch | 328 |
 
 **Curiosidad:**  
-Beldum es conocido por su habilidad para usar ataques poderosos.
+Trapinch es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
 - **Puño Trueno**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Beldum** → **Beldum (Alola)**
+- **Trapinch** → **Trapinch (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 40
-- **Ataque:** 55
-- **Defensa:** 80
-- **Velocidad:** 30
+- **HP:** 45
+- **Ataque:** 100
+- **Defensa:** 45
+- **Velocidad:** 10
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Beldum decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Trapinch decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Beldum es conocido por su capacidad para dominar varias tácticas en combate.
+Trapinch es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3439
+- **CP máximo:** 3227
 - **Clase de combate:** 8
-- **Evento especial:** Beldum puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Trapinch puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Beldum_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Trapinch_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
