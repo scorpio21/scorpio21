@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/328.png) | **Trapinch** | Tierra | Trapinch | 328 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/571.png) | **Zoroark** | Siniestro | Zoroark | 571 |
 
 **Curiosidad:**  
-Trapinch es conocido por su habilidad para resistir ataques.
+Zoroark es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Puño Trueno**
+- **Corte Psíquico**
+- **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Trapinch** → **Trapinch (Alola)**
+- **Zoroark** → **Zoroark (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 45
-- **Ataque:** 100
-- **Defensa:** 45
-- **Velocidad:** 10
+- **HP:** 60
+- **Ataque:** 105
+- **Defensa:** 60
+- **Velocidad:** 105
 
 ---
 
@@ -45,23 +45,24 @@ Trapinch es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Trapinch decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Zoroark decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Trapinch es conocido por su capacidad para alcanza poderes muy altos.
+Zoroark es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3227
+- **CP máximo:** 3710
 - **Clase de combate:** 8
-- **Evento especial:** Trapinch puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Zoroark puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Trapinch_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Zoroark_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
