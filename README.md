@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png) | **Delcatty** | Normal | Delcatty | 301 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/356.png) | **Dusclops** | Fantasma | Dusclops | 356 |
 
 **Curiosidad:**  
-Delcatty es conocido por su habilidad para usar ataques poderosos.
+Dusclops es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Hoja Afilada**
 - **Puño Trueno**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Delcatty** → **Delcatty (Alola)**
+- **Dusclops** → **Dusclops (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 70
-- **Ataque:** 65
-- **Defensa:** 65
-- **Velocidad:** 90
+- **HP:** 40
+- **Ataque:** 70
+- **Defensa:** 130
+- **Velocidad:** 25
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Delcatty decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Dusclops decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Delcatty es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Dusclops es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3621
+- **CP máximo:** 3381
 - **Clase de combate:** 8
-- **Evento especial:** Delcatty puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Dusclops puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Delcatty_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Dusclops_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -356,7 +357,7 @@ Delcatty es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
