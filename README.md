@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/356.png) | **Dusclops** | Fantasma | Dusclops | 356 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png) | **Girafarig** | Normal, Psíquico | Girafarig | 203 |
 
 **Curiosidad:**  
-Dusclops es conocido por su habilidad para dominar la batalla.
+Girafarig es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Hoja Afilada**
-- **Puño Trueno**
+- **Rayo Solar**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Dusclops** → **Dusclops (Alola)**
+- **Girafarig** → **Girafarig (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 40
-- **Ataque:** 70
-- **Defensa:** 130
-- **Velocidad:** 25
+- **HP:** 70
+- **Ataque:** 80
+- **Defensa:** 65
+- **Velocidad:** 85
 
 ---
 
@@ -45,23 +45,24 @@ Dusclops es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Dusclops decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Girafarig decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Dusclops es conocido por su capacidad para dominar varias tácticas en combate.
+Girafarig es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3381
+- **CP máximo:** 3518
 - **Clase de combate:** 8
-- **Evento especial:** Dusclops puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Girafarig puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Dusclops_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Girafarig_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
