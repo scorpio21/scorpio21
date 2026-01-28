@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png) | **Girafarig** | Normal, Psíquico | Girafarig | 203 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png) | **Espeon** | Psíquico | Espeon | 196 |
 
 **Curiosidad:**  
-Girafarig es conocido por su habilidad para dominar la batalla.
+Espeon es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Hoja Afilada**
 - **Rayo Solar**
-- **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Girafarig** → **Girafarig (Alola)**
+- **Espeon** → **Espeon (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 70
-- **Ataque:** 80
-- **Defensa:** 65
-- **Velocidad:** 85
+- **HP:** 65
+- **Ataque:** 65
+- **Defensa:** 60
+- **Velocidad:** 110
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Girafarig decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Espeon decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Girafarig es conocido por su capacidad para alcanza poderes muy altos.
+Espeon es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3518
+- **CP máximo:** 3924
 - **Clase de combate:** 8
-- **Evento especial:** Girafarig puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Espeon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Girafarig_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Espeon_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -358,7 +359,7 @@ Girafarig es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
