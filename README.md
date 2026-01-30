@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/829.png) | **Gossifleur** | Planta | Gossifleur | 829 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png) | **Mewtwo** | Psíquico | Mewtwo | 150 |
 
 **Curiosidad:**  
-Gossifleur es conocido por su habilidad para usar ataques poderosos.
+Mewtwo es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Puño Fuego**
 - **Rayo Solar**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Gossifleur** → **Gossifleur (Alola)**
+- **Mewtwo** → **Mewtwo (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 40
-- **Ataque:** 40
-- **Defensa:** 60
-- **Velocidad:** 10
+- **HP:** 106
+- **Ataque:** 110
+- **Defensa:** 90
+- **Velocidad:** 130
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Gossifleur decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Mewtwo decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Gossifleur es conocido por su capacidad para dominar varias tácticas en combate.
+Mewtwo es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3643
+- **CP máximo:** 3065
 - **Clase de combate:** 8
-- **Evento especial:** Gossifleur puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Mewtwo puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gossifleur_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mewtwo_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -360,7 +361,7 @@ Gossifleur es conocido por su capacidad para dominar varias tácticas en combate
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
