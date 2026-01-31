@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png) | **Mewtwo** | Psíquico | Mewtwo | 150 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png) | **Meowth** | Normal | Meowth | 52 |
 
 **Curiosidad:**  
-Mewtwo es conocido por su habilidad para resistir ataques.
+Meowth es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Rayo Solar**
-- **Puño Trueno**
+- **Ataque Psíquico**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Mewtwo** → **Mewtwo (Alola)**
+- **Meowth** → **Meowth (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 106
-- **Ataque:** 110
-- **Defensa:** 90
-- **Velocidad:** 130
+- **HP:** 40
+- **Ataque:** 45
+- **Defensa:** 35
+- **Velocidad:** 90
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Mewtwo decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Meowth decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Mewtwo es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Meowth es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3065
+- **CP máximo:** 3651
 - **Clase de combate:** 8
-- **Evento especial:** Mewtwo puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Meowth puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mewtwo_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Meowth_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -361,7 +362,7 @@ Mewtwo es conocido por su capacidad para desarrollar habilidades que cambian las
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
