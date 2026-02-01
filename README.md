@@ -13,10 +13,10 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png) | **Meowth** | Normal | Meowth | 52 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png) | **Feraligatr** | Agua | Feraligatr | 160 |
 
 **Curiosidad:**  
-Meowth es conocido por su habilidad para resistir ataques.
+Feraligatr es conocido por su habilidad para dominar la batalla.
 
 ---
 
@@ -28,40 +28,41 @@ Meowth es conocido por su habilidad para resistir ataques.
 ---
 
 **Evolución:**  
-- **Meowth** → **Meowth (Alola)**
+- **Feraligatr** → **Feraligatr (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 40
-- **Ataque:** 45
-- **Defensa:** 35
-- **Velocidad:** 90
+- **HP:** 85
+- **Ataque:** 105
+- **Defensa:** 100
+- **Velocidad:** 78
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Meowth decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Feraligatr decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Meowth es conocido por su capacidad para dominar varias tácticas en combate.
+Feraligatr es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3651
+- **CP máximo:** 3845
 - **Clase de combate:** 8
-- **Evento especial:** Meowth puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Feraligatr puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Meowth_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Feraligatr_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -362,7 +363,7 @@ Meowth es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
