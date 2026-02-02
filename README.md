@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png) | **Feraligatr** | Agua | Feraligatr | 160 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png) | **Omastar** | Roca, Agua | Omastar | 139 |
 
 **Curiosidad:**  
-Feraligatr es conocido por su habilidad para dominar la batalla.
+Omastar es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Corte Psíquico**
 - **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Feraligatr** → **Feraligatr (Alola)**
+- **Omastar** → **Omastar (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 85
-- **Ataque:** 105
-- **Defensa:** 100
-- **Velocidad:** 78
+- **HP:** 70
+- **Ataque:** 60
+- **Defensa:** 125
+- **Velocidad:** 55
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Feraligatr decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Omastar decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Feraligatr es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Omastar es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3845
+- **CP máximo:** 3195
 - **Clase de combate:** 8
-- **Evento especial:** Feraligatr puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Omastar puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Feraligatr_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Omastar_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -363,7 +364,7 @@ Feraligatr es conocido por su capacidad para desarrollar habilidades que cambian
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
