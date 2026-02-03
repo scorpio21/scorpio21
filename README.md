@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png) | **Omastar** | Roca, Agua | Omastar | 139 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/794.png) | **Buzzwole** | Bicho, Lucha | Buzzwole | 794 |
 
 **Curiosidad:**  
-Omastar es conocido por su habilidad para dominar la batalla.
+Buzzwole es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
 - **Ataque Psíquico**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Omastar** → **Omastar (Alola)**
+- **Buzzwole** → **Buzzwole (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 70
-- **Ataque:** 60
-- **Defensa:** 125
-- **Velocidad:** 55
+- **HP:** 107
+- **Ataque:** 139
+- **Defensa:** 139
+- **Velocidad:** 79
 
 ---
 
@@ -45,23 +45,24 @@ Omastar es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Omastar decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Buzzwole decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Omastar es conocido por su capacidad para dominar varias tácticas en combate.
+Buzzwole es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3195
+- **CP máximo:** 3950
 - **Clase de combate:** 8
-- **Evento especial:** Omastar puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Buzzwole puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Omastar_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Buzzwole_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -364,7 +365,7 @@ Omastar es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
