@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/794.png) | **Buzzwole** | Bicho, Lucha | Buzzwole | 794 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/862.png) | **Obstagoon** | Siniestro, Normal | Obstagoon | 862 |
 
 **Curiosidad:**  
-Buzzwole es conocido por su habilidad para usar ataques poderosos.
+Obstagoon es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Ataque Psíquico**
+- **Hoja Afilada**
+- **Puño Trueno**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Buzzwole** → **Buzzwole (Alola)**
+- **Obstagoon** → **Obstagoon (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 107
-- **Ataque:** 139
-- **Defensa:** 139
-- **Velocidad:** 79
+- **HP:** 93
+- **Ataque:** 90
+- **Defensa:** 101
+- **Velocidad:** 95
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Buzzwole decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Obstagoon decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Buzzwole es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Obstagoon es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3950
+- **CP máximo:** 3044
 - **Clase de combate:** 8
-- **Evento especial:** Buzzwole puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Obstagoon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Buzzwole_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Obstagoon_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -365,7 +366,7 @@ Buzzwole es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
