@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png) | **Magneton** | Eléctrico, Acero | Magneton | 82 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/341.png) | **Corphish** | Agua | Corphish | 341 |
 
 **Curiosidad:**  
-Magneton es conocido por su habilidad para usar ataques poderosos.
+Corphish es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
 - **Ataque Psíquico**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Magneton** → **Magneton (Alola)**
+- **Corphish** → **Corphish (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 50
-- **Ataque:** 60
-- **Defensa:** 95
-- **Velocidad:** 70
+- **HP:** 43
+- **Ataque:** 80
+- **Defensa:** 65
+- **Velocidad:** 35
 
 ---
 
@@ -45,23 +45,24 @@ Magneton es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Magneton decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Corphish decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Magneton es conocido por su capacidad para alcanza poderes muy altos.
+Corphish es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3501
+- **CP máximo:** 3094
 - **Clase de combate:** 8
-- **Evento especial:** Magneton puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Corphish puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Magneton_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Corphish_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
