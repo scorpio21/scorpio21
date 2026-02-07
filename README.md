@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/341.png) | **Corphish** | Agua | Corphish | 341 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/775.png) | **Komala** | Normal | Komala | 775 |
 
 **Curiosidad:**  
-Corphish es conocido por su habilidad para resistir ataques.
+Komala es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Hoja Afilada**
 - **Ataque Psíquico**
-- **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Corphish** → **Corphish (Alola)**
+- **Komala** → **Komala (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 43
-- **Ataque:** 80
+- **HP:** 65
+- **Ataque:** 115
 - **Defensa:** 65
-- **Velocidad:** 35
+- **Velocidad:** 65
 
 ---
 
@@ -45,23 +45,24 @@ Corphish es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Corphish decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Komala decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Corphish es conocido por su capacidad para alcanza poderes muy altos.
+Komala es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3094
+- **CP máximo:** 3789
 - **Clase de combate:** 8
-- **Evento especial:** Corphish puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Komala puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Corphish_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Komala_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -368,7 +369,7 @@ Corphish es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
