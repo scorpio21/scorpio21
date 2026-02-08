@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/775.png) | **Komala** | Normal | Komala | 775 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png) | **Aggron** | Acero, Roca | Aggron | 306 |
 
 **Curiosidad:**  
-Komala es conocido por su habilidad para resistir ataques.
+Aggron es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Hoja Afilada**
-- **Ataque Psíquico**
-- **Puño Fuego**
+- **Puño Trueno**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Komala** → **Komala (Alola)**
+- **Aggron** → **Aggron (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 65
-- **Ataque:** 115
-- **Defensa:** 65
-- **Velocidad:** 65
+- **HP:** 70
+- **Ataque:** 110
+- **Defensa:** 180
+- **Velocidad:** 50
 
 ---
 
@@ -45,23 +45,24 @@ Komala es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Komala decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Aggron decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Komala es conocido por su capacidad para alcanza poderes muy altos.
+Aggron es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3789
+- **CP máximo:** 3365
 - **Clase de combate:** 8
-- **Evento especial:** Komala puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Aggron puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Komala_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Aggron_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -369,7 +370,7 @@ Komala es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
