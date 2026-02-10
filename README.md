@@ -13,10 +13,10 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png) | **Exeggcute** | Planta, Psíquico | Exeggcute | 102 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/715.png) | **Noivern** | Volador, Dragón | Noivern | 715 |
 
 **Curiosidad:**  
-Exeggcute es conocido por su habilidad para alcanzar altas velocidades.
+Noivern es conocido por su habilidad para resistir ataques.
 
 ---
 
@@ -28,15 +28,15 @@ Exeggcute es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Evolución:**  
-- **Exeggcute** → **Exeggcute (Alola)**
+- **Noivern** → **Noivern (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 40
+- **HP:** 85
+- **Ataque:** 70
 - **Defensa:** 80
-- **Velocidad:** 40
+- **Velocidad:** 123
 
 ---
 
@@ -45,23 +45,24 @@ Exeggcute es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Exeggcute decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Noivern decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Exeggcute es conocido por su capacidad para dominar varias tácticas en combate.
+Noivern es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3089
+- **CP máximo:** 3595
 - **Clase de combate:** 8
-- **Evento especial:** Exeggcute puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Noivern puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Exeggcute_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Noivern_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -371,7 +372,7 @@ Exeggcute es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
