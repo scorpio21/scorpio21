@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/715.png) | **Noivern** | Volador, Dragón | Noivern | 715 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/729.png) | **Brionne** | Agua | Brionne | 729 |
 
 **Curiosidad:**  
-Noivern es conocido por su habilidad para resistir ataques.
+Brionne es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Corte Psíquico**
 - **Rayo Solar**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Noivern** → **Noivern (Alola)**
+- **Brionne** → **Brionne (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 85
-- **Ataque:** 70
-- **Defensa:** 80
-- **Velocidad:** 123
+- **HP:** 60
+- **Ataque:** 69
+- **Defensa:** 69
+- **Velocidad:** 50
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Noivern decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Brionne decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Noivern es conocido por su capacidad para alcanza poderes muy altos.
+Brionne es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3595
+- **CP máximo:** 3764
 - **Clase de combate:** 8
-- **Evento especial:** Noivern puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Brionne puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Noivern_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Brionne_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -372,7 +373,7 @@ Noivern es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
