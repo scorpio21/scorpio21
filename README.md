@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/729.png) | **Brionne** | Agua | Brionne | 729 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/776.png) | **Turtonator** | Fuego, Dragón | Turtonator | 776 |
 
 **Curiosidad:**  
-Brionne es conocido por su habilidad para resistir ataques.
+Turtonator es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Puño Fuego**
 - **Rayo Solar**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Brionne** → **Brionne (Alola)**
+- **Turtonator** → **Turtonator (Alola)**
 
 ---
 
 **Estadísticas base:**
 - **HP:** 60
-- **Ataque:** 69
-- **Defensa:** 69
-- **Velocidad:** 50
+- **Ataque:** 78
+- **Defensa:** 135
+- **Velocidad:** 36
 
 ---
 
@@ -45,23 +45,24 @@ Brionne es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Brionne decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Turtonator decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Brionne es conocido por su capacidad para dominar varias tácticas en combate.
+Turtonator es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3764
+- **CP máximo:** 3067
 - **Clase de combate:** 8
-- **Evento especial:** Brionne puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Turtonator puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Brionne_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Turtonator_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
