@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/776.png) | **Turtonator** | Fuego, Dragón | Turtonator | 776 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/750.png) | **Mudsdale** | Tierra | Mudsdale | 750 |
 
 **Curiosidad:**  
-Turtonator es conocido por su habilidad para dominar la batalla.
+Mudsdale es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
+- **Hoja Afilada**
+- **Ataque Psíquico**
 - **Puño Fuego**
-- **Rayo Solar**
-- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Turtonator** → **Turtonator (Alola)**
+- **Mudsdale** → **Mudsdale (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 78
-- **Defensa:** 135
-- **Velocidad:** 36
+- **HP:** 100
+- **Ataque:** 125
+- **Defensa:** 100
+- **Velocidad:** 35
 
 ---
 
@@ -45,23 +45,24 @@ Turtonator es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Turtonator decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Mudsdale decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Turtonator es conocido por su capacidad para alcanza poderes muy altos.
+Mudsdale es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3067
+- **CP máximo:** 3319
 - **Clase de combate:** 8
-- **Evento especial:** Turtonator puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Mudsdale puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Turtonator_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mudsdale_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -374,7 +375,7 @@ Turtonator es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
