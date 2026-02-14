@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/750.png) | **Mudsdale** | Tierra | Mudsdale | 750 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/588.png) | **Karrablast** | Bicho | Karrablast | 588 |
 
 **Curiosidad:**  
-Mudsdale es conocido por su habilidad para dominar la batalla.
+Karrablast es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
+- **Corte Psíquico**
 - **Ataque Psíquico**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Mudsdale** → **Mudsdale (Alola)**
+- **Karrablast** → **Karrablast (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 100
-- **Ataque:** 125
-- **Defensa:** 100
-- **Velocidad:** 35
+- **HP:** 50
+- **Ataque:** 75
+- **Defensa:** 45
+- **Velocidad:** 60
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Mudsdale decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Karrablast decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Mudsdale es conocido por su capacidad para dominar varias tácticas en combate.
+Karrablast es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3319
+- **CP máximo:** 3580
 - **Clase de combate:** 8
-- **Evento especial:** Mudsdale puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Karrablast puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mudsdale_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Karrablast_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -375,7 +376,7 @@ Mudsdale es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
