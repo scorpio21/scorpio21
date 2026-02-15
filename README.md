@@ -13,29 +13,29 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/588.png) | **Karrablast** | Bicho | Karrablast | 588 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/593.png) | **Jellicent** | Agua, Fantasma | Jellicent | 593 |
 
 **Curiosidad:**  
-Karrablast es conocido por su habilidad para dominar la batalla.
+Jellicent es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Hoja Afilada**
 - **Ataque Psíquico**
-- **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Karrablast** → **Karrablast (Alola)**
+- **Jellicent** → **Jellicent (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 50
-- **Ataque:** 75
-- **Defensa:** 45
+- **HP:** 100
+- **Ataque:** 60
+- **Defensa:** 70
 - **Velocidad:** 60
 
 ---
@@ -45,23 +45,24 @@ Karrablast es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Karrablast decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Jellicent decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Karrablast es conocido por su capacidad para alcanza poderes muy altos.
+Jellicent es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3580
+- **CP máximo:** 3842
 - **Clase de combate:** 8
-- **Evento especial:** Karrablast puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Jellicent puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Karrablast_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Jellicent_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -376,7 +377,7 @@ Karrablast es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
