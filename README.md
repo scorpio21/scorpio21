@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/593.png) | **Jellicent** | Agua, Fantasma | Jellicent | 593 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/610.png) | **Axew** | Dragón | Axew | 610 |
 
 **Curiosidad:**  
-Jellicent es conocido por su habilidad para alcanzar altas velocidades.
+Axew es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Ataque Psíquico**
 - **Puño Fuego**
+- **Puño Trueno**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Jellicent** → **Jellicent (Alola)**
+- **Axew** → **Axew (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 100
-- **Ataque:** 60
-- **Defensa:** 70
-- **Velocidad:** 60
+- **HP:** 46
+- **Ataque:** 87
+- **Defensa:** 60
+- **Velocidad:** 57
 
 ---
 
@@ -45,23 +45,24 @@ Jellicent es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Jellicent decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Axew decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Jellicent es conocido por su capacidad para alcanza poderes muy altos.
+Axew es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3842
+- **CP máximo:** 3641
 - **Clase de combate:** 8
-- **Evento especial:** Jellicent puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Axew puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Jellicent_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Axew_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -377,7 +378,7 @@ Jellicent es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
