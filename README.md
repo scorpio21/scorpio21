@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/514.png) | **Simisear** | Fuego | Simisear | 514 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png) | **Mew** | Psíquico | Mew | 151 |
 
 **Curiosidad:**  
-Simisear es conocido por su habilidad para resistir ataques.
+Mew es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Rayo Solar**
 - **Puño Fuego**
+- **Rayo Solar**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Simisear** → **Simisear (Alola)**
+- **Mew** → **Mew (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 75
-- **Ataque:** 98
-- **Defensa:** 63
-- **Velocidad:** 101
+- **HP:** 100
+- **Ataque:** 100
+- **Defensa:** 100
+- **Velocidad:** 100
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Simisear decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Mew decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Simisear es conocido por su capacidad para alcanza poderes muy altos.
+Mew es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3329
+- **CP máximo:** 3206
 - **Clase de combate:** 8
-- **Evento especial:** Simisear puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Mew puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Simisear_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mew_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -379,7 +380,7 @@ Simisear es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
