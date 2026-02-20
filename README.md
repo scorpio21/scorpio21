@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/769.png) | **Sandygast** | Fantasma, Tierra | Sandygast | 769 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/522.png) | **Blitzle** | Eléctrico | Blitzle | 522 |
 
 **Curiosidad:**  
-Sandygast es conocido por su habilidad para dominar la batalla.
+Blitzle es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Rayo Solar**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Sandygast** → **Sandygast (Alola)**
+- **Blitzle** → **Blitzle (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 55
-- **Ataque:** 55
-- **Defensa:** 80
-- **Velocidad:** 15
+- **HP:** 45
+- **Ataque:** 60
+- **Defensa:** 32
+- **Velocidad:** 76
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Sandygast decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Blitzle decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Sandygast es conocido por su capacidad para dominar varias tácticas en combate.
+Blitzle es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3058
+- **CP máximo:** 3842
 - **Clase de combate:** 8
-- **Evento especial:** Sandygast puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Blitzle puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Sandygast_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Blitzle_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -381,7 +382,7 @@ Sandygast es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
