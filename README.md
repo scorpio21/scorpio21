@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/522.png) | **Blitzle** | Eléctrico | Blitzle | 522 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/378.png) | **Regice** | Hielo | Regice | 378 |
 
 **Curiosidad:**  
-Blitzle es conocido por su habilidad para usar ataques poderosos.
+Regice es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Corte Psíquico**
 - **Puño Trueno**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Blitzle** → **Blitzle (Alola)**
+- **Regice** → **Regice (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 45
-- **Ataque:** 60
-- **Defensa:** 32
-- **Velocidad:** 76
+- **HP:** 80
+- **Ataque:** 50
+- **Defensa:** 100
+- **Velocidad:** 50
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Blitzle decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Regice decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Blitzle es conocido por su capacidad para alcanza poderes muy altos.
+Regice es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3842
+- **CP máximo:** 3190
 - **Clase de combate:** 8
-- **Evento especial:** Blitzle puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Regice puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Blitzle_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Regice_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -382,7 +383,7 @@ Blitzle es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
