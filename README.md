@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/378.png) | **Regice** | Hielo | Regice | 378 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png) | **Gastly** | Fantasma, Veneno | Gastly | 92 |
 
 **Curiosidad:**  
-Regice es conocido por su habilidad para alcanzar altas velocidades.
+Gastly es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Puño Trueno**
+- **Hoja Afilada**
+- **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Regice** → **Regice (Alola)**
+- **Gastly** → **Gastly (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 80
-- **Ataque:** 50
-- **Defensa:** 100
-- **Velocidad:** 50
+- **HP:** 30
+- **Ataque:** 35
+- **Defensa:** 30
+- **Velocidad:** 80
 
 ---
 
@@ -45,23 +45,24 @@ Regice es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Regice decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Gastly decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Regice es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Gastly es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3190
+- **CP máximo:** 3516
 - **Clase de combate:** 8
-- **Evento especial:** Regice puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Gastly puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Regice_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gastly_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -383,7 +384,7 @@ Regice es conocido por su capacidad para desarrollar habilidades que cambian las
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
