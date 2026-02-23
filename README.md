@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png) | **Gastly** | Fantasma, Veneno | Gastly | 92 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png) | **Omastar** | Roca, Agua | Omastar | 139 |
 
 **Curiosidad:**  
-Gastly es conocido por su habilidad para usar ataques poderosos.
+Omastar es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Rayo Solar**
+- **Corte Psíquico**
+- **Puño Trueno**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Gastly** → **Gastly (Alola)**
+- **Omastar** → **Omastar (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 30
-- **Ataque:** 35
-- **Defensa:** 30
-- **Velocidad:** 80
+- **HP:** 70
+- **Ataque:** 60
+- **Defensa:** 125
+- **Velocidad:** 55
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Gastly decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Omastar decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Gastly es conocido por su capacidad para alcanza poderes muy altos.
+Omastar es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3516
+- **CP máximo:** 3320
 - **Clase de combate:** 8
-- **Evento especial:** Gastly puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Omastar puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gastly_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Omastar_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -384,7 +385,7 @@ Gastly es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
