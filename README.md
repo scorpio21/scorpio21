@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png) | **Omastar** | Roca, Agua | Omastar | 139 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/685.png) | **Slurpuff** | Hada | Slurpuff | 685 |
 
 **Curiosidad:**  
-Omastar es conocido por su habilidad para resistir ataques.
+Slurpuff es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Puño Trueno**
 - **Puño Fuego**
+- **Puño Trueno**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Omastar** → **Omastar (Alola)**
+- **Slurpuff** → **Slurpuff (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 70
-- **Ataque:** 60
-- **Defensa:** 125
-- **Velocidad:** 55
+- **HP:** 82
+- **Ataque:** 80
+- **Defensa:** 86
+- **Velocidad:** 72
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Omastar decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Slurpuff decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Omastar es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Slurpuff es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3320
+- **CP máximo:** 3306
 - **Clase de combate:** 8
-- **Evento especial:** Omastar puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Slurpuff puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Omastar_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Slurpuff_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -385,7 +386,7 @@ Omastar es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
