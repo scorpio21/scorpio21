@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/685.png) | **Slurpuff** | Hada | Slurpuff | 685 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/347.png) | **Anorith** | Roca, Bicho | Anorith | 347 |
 
 **Curiosidad:**  
-Slurpuff es conocido por su habilidad para alcanzar altas velocidades.
+Anorith es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
+- **Corte Psíquico**
+- **Puño Trueno**
 - **Puño Fuego**
-- **Puño Trueno**
-- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Slurpuff** → **Slurpuff (Alola)**
+- **Anorith** → **Anorith (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 82
-- **Ataque:** 80
-- **Defensa:** 86
-- **Velocidad:** 72
+- **HP:** 45
+- **Ataque:** 95
+- **Defensa:** 50
+- **Velocidad:** 75
 
 ---
 
@@ -45,23 +45,24 @@ Slurpuff es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Slurpuff decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Anorith decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Slurpuff es conocido por su capacidad para alcanza poderes muy altos.
+Anorith es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3306
+- **CP máximo:** 3050
 - **Clase de combate:** 8
-- **Evento especial:** Slurpuff puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Anorith puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Slurpuff_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Anorith_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -386,7 +387,7 @@ Slurpuff es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
