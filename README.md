@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png) | **Zapdos** | Eléctrico, Volador | Zapdos | 145 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/813.png) | **Scorbunny** | Fuego | Scorbunny | 813 |
 
 **Curiosidad:**  
-Zapdos es conocido por su habilidad para dominar la batalla.
+Scorbunny es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Rayo Solar**
+- **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Zapdos** → **Zapdos (Alola)**
+- **Scorbunny** → **Scorbunny (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 90
-- **Ataque:** 90
-- **Defensa:** 85
-- **Velocidad:** 100
+- **HP:** 50
+- **Ataque:** 71
+- **Defensa:** 40
+- **Velocidad:** 69
 
 ---
 
@@ -45,23 +45,24 @@ Zapdos es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Zapdos decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Scorbunny decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Zapdos es conocido por su capacidad para dominar varias tácticas en combate.
+Scorbunny es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3979
+- **CP máximo:** 3624
 - **Clase de combate:** 8
-- **Evento especial:** Zapdos puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Scorbunny puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Zapdos_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Scorbunny_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -388,7 +389,7 @@ Zapdos es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
