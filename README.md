@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/813.png) | **Scorbunny** | Fuego | Scorbunny | 813 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/698.png) | **Amaura** | Roca, Hielo | Amaura | 698 |
 
 **Curiosidad:**  
-Scorbunny es conocido por su habilidad para resistir ataques.
+Amaura es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Ataque Psíquico**
+- **Puño Trueno**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Scorbunny** → **Scorbunny (Alola)**
+- **Amaura** → **Amaura (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 50
-- **Ataque:** 71
-- **Defensa:** 40
-- **Velocidad:** 69
+- **HP:** 77
+- **Ataque:** 59
+- **Defensa:** 50
+- **Velocidad:** 46
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Scorbunny decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Amaura decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Scorbunny es conocido por su capacidad para alcanza poderes muy altos.
+Amaura es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3624
+- **CP máximo:** 3128
 - **Clase de combate:** 8
-- **Evento especial:** Scorbunny puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Amaura puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Scorbunny_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Amaura_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -389,7 +390,7 @@ Scorbunny es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
