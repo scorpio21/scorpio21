@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/698.png) | **Amaura** | Roca, Hielo | Amaura | 698 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png) | **Poliwag** | Agua | Poliwag | 60 |
 
 **Curiosidad:**  
-Amaura es conocido por su habilidad para alcanzar altas velocidades.
+Poliwag es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Puño Trueno**
+- **Hoja Afilada**
+- **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Amaura** → **Amaura (Alola)**
+- **Poliwag** → **Poliwag (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 77
-- **Ataque:** 59
-- **Defensa:** 50
-- **Velocidad:** 46
+- **HP:** 40
+- **Ataque:** 50
+- **Defensa:** 40
+- **Velocidad:** 90
 
 ---
 
@@ -45,23 +45,24 @@ Amaura es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Amaura decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Poliwag decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Amaura es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Poliwag es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3128
+- **CP máximo:** 3117
 - **Clase de combate:** 8
-- **Evento especial:** Amaura puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Poliwag puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Amaura_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Poliwag_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -390,7 +391,7 @@ Amaura es conocido por su capacidad para desarrollar habilidades que cambian las
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
