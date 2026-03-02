@@ -13,10 +13,10 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png) | **Poliwag** | Agua | Poliwag | 60 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/883.png) | **Arctovish** | Agua, Hielo | Arctovish | 883 |
 
 **Curiosidad:**  
-Poliwag es conocido por su habilidad para alcanzar altas velocidades.
+Arctovish es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
@@ -28,40 +28,41 @@ Poliwag es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Evolución:**  
-- **Poliwag** → **Poliwag (Alola)**
+- **Arctovish** → **Arctovish (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 40
-- **Ataque:** 50
-- **Defensa:** 40
-- **Velocidad:** 90
+- **HP:** 90
+- **Ataque:** 90
+- **Defensa:** 100
+- **Velocidad:** 55
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Poliwag decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Arctovish decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Poliwag es conocido por su capacidad para dominar varias tácticas en combate.
+Arctovish es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3117
+- **CP máximo:** 3737
 - **Clase de combate:** 8
-- **Evento especial:** Poliwag puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Arctovish puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Poliwag_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Arctovish_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -391,7 +392,7 @@ Poliwag es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
