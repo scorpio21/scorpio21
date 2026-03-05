@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png) | **Swellow** | Normal, Volador | Swellow | 277 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/716.png) | **Xerneas** | Hada | Xerneas | 716 |
 
 **Curiosidad:**  
-Swellow es conocido por su habilidad para resistir ataques.
+Xerneas es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Ataque Psíquico**
-- **Puño Fuego**
+- **Corte Psíquico**
+- **Puño Trueno**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Swellow** → **Swellow (Alola)**
+- **Xerneas** → **Xerneas (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 85
-- **Defensa:** 60
-- **Velocidad:** 125
+- **HP:** 126
+- **Ataque:** 131
+- **Defensa:** 95
+- **Velocidad:** 99
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Swellow decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Xerneas decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Swellow es conocido por su capacidad para dominar varias tácticas en combate.
+Xerneas es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3271
+- **CP máximo:** 3376
 - **Clase de combate:** 8
-- **Evento especial:** Swellow puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Xerneas puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Swellow_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Xerneas_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -394,7 +395,7 @@ Swellow es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
