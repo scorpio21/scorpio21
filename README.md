@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/716.png) | **Xerneas** | Hada | Xerneas | 716 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png) | **Ralts** | Psíquico, Hada | Ralts | 280 |
 
 **Curiosidad:**  
-Xerneas es conocido por su habilidad para alcanzar altas velocidades.
+Ralts es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Puño Trueno**
-- **Puño Trueno**
+- **Ataque Psíquico**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Xerneas** → **Xerneas (Alola)**
+- **Ralts** → **Ralts (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 126
-- **Ataque:** 131
-- **Defensa:** 95
-- **Velocidad:** 99
+- **HP:** 28
+- **Ataque:** 25
+- **Defensa:** 25
+- **Velocidad:** 40
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Xerneas decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Ralts decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Xerneas es conocido por su capacidad para alcanza poderes muy altos.
+Ralts es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3376
+- **CP máximo:** 3821
 - **Clase de combate:** 8
-- **Evento especial:** Xerneas puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Ralts puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Xerneas_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Ralts_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -395,7 +396,7 @@ Xerneas es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
