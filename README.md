@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png) | **Ralts** | Psíquico, Hada | Ralts | 280 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png) | **Chatot** | Normal, Volador | Chatot | 441 |
 
 **Curiosidad:**  
-Ralts es conocido por su habilidad para alcanzar altas velocidades.
+Chatot es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Ataque Psíquico**
+- **Hoja Afilada**
+- **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Ralts** → **Ralts (Alola)**
+- **Chatot** → **Chatot (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 28
-- **Ataque:** 25
-- **Defensa:** 25
-- **Velocidad:** 40
+- **HP:** 76
+- **Ataque:** 65
+- **Defensa:** 45
+- **Velocidad:** 91
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Ralts decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Chatot decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Ralts es conocido por su capacidad para alcanza poderes muy altos.
+Chatot es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3821
+- **CP máximo:** 3264
 - **Clase de combate:** 8
-- **Evento especial:** Ralts puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Chatot puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Ralts_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Chatot_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -396,7 +397,7 @@ Ralts es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
