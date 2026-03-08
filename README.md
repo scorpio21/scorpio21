@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png) | **Chatot** | Normal, Volador | Chatot | 441 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/331.png) | **Cacnea** | Planta | Cacnea | 331 |
 
 **Curiosidad:**  
-Chatot es conocido por su habilidad para resistir ataques.
+Cacnea es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Rayo Solar**
+- **Puño Fuego**
+- **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Chatot** → **Chatot (Alola)**
+- **Cacnea** → **Cacnea (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 76
-- **Ataque:** 65
-- **Defensa:** 45
-- **Velocidad:** 91
+- **HP:** 50
+- **Ataque:** 85
+- **Defensa:** 40
+- **Velocidad:** 35
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Chatot decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Cacnea decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Chatot es conocido por su capacidad para alcanza poderes muy altos.
+Cacnea es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3264
+- **CP máximo:** 3746
 - **Clase de combate:** 8
-- **Evento especial:** Chatot puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Cacnea puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Chatot_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cacnea_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -397,7 +398,7 @@ Chatot es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
