@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/331.png) | **Cacnea** | Planta | Cacnea | 331 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png) | **Rattata** | Normal | Rattata | 19 |
 
 **Curiosidad:**  
-Cacnea es conocido por su habilidad para alcanzar altas velocidades.
+Rattata es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Corte Psíquico**
 - **Ataque Psíquico**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Cacnea** → **Cacnea (Alola)**
+- **Rattata** → **Rattata (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 50
-- **Ataque:** 85
-- **Defensa:** 40
-- **Velocidad:** 35
+- **HP:** 30
+- **Ataque:** 56
+- **Defensa:** 35
+- **Velocidad:** 72
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Cacnea decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Rattata decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Cacnea es conocido por su capacidad para dominar varias tácticas en combate.
+Rattata es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3746
+- **CP máximo:** 3507
 - **Clase de combate:** 8
-- **Evento especial:** Cacnea puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Rattata puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cacnea_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Rattata_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -398,7 +399,7 @@ Cacnea es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
