@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png) | **Rattata** | Normal | Rattata | 19 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png) | **Reshiram** | Dragón, Fuego | Reshiram | 643 |
 
 **Curiosidad:**  
-Rattata es conocido por su habilidad para usar ataques poderosos.
+Reshiram es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Ataque Psíquico**
+- **Puño Trueno**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Rattata** → **Rattata (Alola)**
+- **Reshiram** → **Reshiram (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 30
-- **Ataque:** 56
-- **Defensa:** 35
-- **Velocidad:** 72
+- **HP:** 100
+- **Ataque:** 120
+- **Defensa:** 100
+- **Velocidad:** 90
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Rattata decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Reshiram decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Rattata es conocido por su capacidad para dominar varias tácticas en combate.
+Reshiram es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3507
+- **CP máximo:** 3809
 - **Clase de combate:** 8
-- **Evento especial:** Rattata puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Reshiram puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Rattata_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Reshiram_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -399,7 +400,7 @@ Rattata es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
