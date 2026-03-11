@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png) | **Reshiram** | Dragón, Fuego | Reshiram | 643 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/397.png) | **Staravia** | Normal, Volador | Staravia | 397 |
 
 **Curiosidad:**  
-Reshiram es conocido por su habilidad para alcanzar altas velocidades.
+Staravia es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Puño Trueno**
-- **Puño Trueno**
+- **Hoja Afilada**
+- **Rayo Solar**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Reshiram** → **Reshiram (Alola)**
+- **Staravia** → **Staravia (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 100
-- **Ataque:** 120
-- **Defensa:** 100
-- **Velocidad:** 90
+- **HP:** 55
+- **Ataque:** 75
+- **Defensa:** 50
+- **Velocidad:** 80
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Reshiram decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Staravia decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Reshiram es conocido por su capacidad para dominar varias tácticas en combate.
+Staravia es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3809
+- **CP máximo:** 3029
 - **Clase de combate:** 8
-- **Evento especial:** Reshiram puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Staravia puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Reshiram_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Staravia_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -400,7 +401,7 @@ Reshiram es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
