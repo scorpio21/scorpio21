@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/397.png) | **Staravia** | Normal, Volador | Staravia | 397 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/740.png) | **Crabominable** | Lucha, Hielo | Crabominable | 740 |
 
 **Curiosidad:**  
-Staravia es conocido por su habilidad para alcanzar altas velocidades.
+Crabominable es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Rayo Solar**
 - **Puño Fuego**
+- **Ataque Psíquico**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Staravia** → **Staravia (Alola)**
+- **Crabominable** → **Crabominable (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 55
-- **Ataque:** 75
-- **Defensa:** 50
-- **Velocidad:** 80
+- **HP:** 97
+- **Ataque:** 132
+- **Defensa:** 77
+- **Velocidad:** 43
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Staravia decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Crabominable decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Staravia es conocido por su capacidad para dominar varias tácticas en combate.
+Crabominable es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3029
+- **CP máximo:** 3751
 - **Clase de combate:** 8
-- **Evento especial:** Staravia puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Crabominable puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Staravia_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Crabominable_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -401,7 +402,7 @@ Staravia es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
