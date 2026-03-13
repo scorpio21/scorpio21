@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/740.png) | **Crabominable** | Lucha, Hielo | Crabominable | 740 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png) | **Wooper** | Agua, Tierra | Wooper | 194 |
 
 **Curiosidad:**  
-Crabominable es conocido por su habilidad para dominar la batalla.
+Wooper es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Ataque Psíquico**
+- **Hoja Afilada**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Crabominable** → **Crabominable (Alola)**
+- **Wooper** → **Wooper (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 97
-- **Ataque:** 132
-- **Defensa:** 77
-- **Velocidad:** 43
+- **HP:** 55
+- **Ataque:** 45
+- **Defensa:** 45
+- **Velocidad:** 15
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Crabominable decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Wooper decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Crabominable es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Wooper es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3751
+- **CP máximo:** 3331
 - **Clase de combate:** 8
-- **Evento especial:** Crabominable puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Wooper puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Crabominable_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Wooper_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -402,7 +403,7 @@ Crabominable es conocido por su capacidad para desarrollar habilidades que cambi
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
