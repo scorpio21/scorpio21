@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png) | **Wooper** | Agua, Tierra | Wooper | 194 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png) | **Mime-jr** | Psíquico, Hada | Mime-jr | 439 |
 
 **Curiosidad:**  
-Wooper es conocido por su habilidad para usar ataques poderosos.
+Mime-jr es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Puño Trueno**
 - **Puño Fuego**
+- **Puño Trueno**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Wooper** → **Wooper (Alola)**
+- **Mime-jr** → **Mime-jr (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 55
-- **Ataque:** 45
+- **HP:** 20
+- **Ataque:** 25
 - **Defensa:** 45
-- **Velocidad:** 15
+- **Velocidad:** 60
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Wooper decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Mime-jr decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Wooper es conocido por su capacidad para alcanza poderes muy altos.
+Mime-jr es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3331
+- **CP máximo:** 3016
 - **Clase de combate:** 8
-- **Evento especial:** Wooper puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Mime-jr puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Wooper_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mime-jr_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -403,7 +404,7 @@ Wooper es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
