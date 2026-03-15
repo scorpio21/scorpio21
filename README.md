@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png) | **Mime-jr** | Psíquico, Hada | Mime-jr | 439 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png) | **Azurill** | Normal, Hada | Azurill | 298 |
 
 **Curiosidad:**  
-Mime-jr es conocido por su habilidad para resistir ataques.
+Azurill es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Puño Trueno**
+- **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Mime-jr** → **Mime-jr (Alola)**
+- **Azurill** → **Azurill (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 20
-- **Ataque:** 25
-- **Defensa:** 45
-- **Velocidad:** 60
+- **HP:** 50
+- **Ataque:** 20
+- **Defensa:** 40
+- **Velocidad:** 20
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Mime-jr decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Azurill decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Mime-jr es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Azurill es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3016
+- **CP máximo:** 4000
 - **Clase de combate:** 8
-- **Evento especial:** Mime-jr puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Azurill puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mime-jr_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Azurill_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -404,7 +405,7 @@ Mime-jr es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
