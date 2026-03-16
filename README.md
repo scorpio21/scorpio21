@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png) | **Azurill** | Normal, Hada | Azurill | 298 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png) | **Ursaring** | Normal | Ursaring | 217 |
 
 **Curiosidad:**  
-Azurill es conocido por su habilidad para alcanzar altas velocidades.
+Ursaring es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Ataque Psíquico**
+- **Hoja Afilada**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Azurill** → **Azurill (Alola)**
+- **Ursaring** → **Ursaring (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 50
-- **Ataque:** 20
-- **Defensa:** 40
-- **Velocidad:** 20
+- **HP:** 90
+- **Ataque:** 130
+- **Defensa:** 75
+- **Velocidad:** 55
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Azurill decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Ursaring decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Azurill es conocido por su capacidad para alcanza poderes muy altos.
+Ursaring es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 4000
+- **CP máximo:** 3026
 - **Clase de combate:** 8
-- **Evento especial:** Azurill puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Ursaring puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Azurill_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Ursaring_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -405,7 +406,7 @@ Azurill es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
