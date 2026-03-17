@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png) | **Ursaring** | Normal | Ursaring | 217 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/718.png) | **Zygarde-50** | Dragón, Tierra | Zygarde | 718 |
 
 **Curiosidad:**  
-Ursaring es conocido por su habilidad para usar ataques poderosos.
+Zygarde-50 es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Hoja Afilada**
+- **Rayo Solar**
 - **Puño Trueno**
-- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Ursaring** → **Ursaring (Alola)**
+- **Zygarde-50** → **Zygarde-50 (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 90
-- **Ataque:** 130
-- **Defensa:** 75
-- **Velocidad:** 55
+- **HP:** 108
+- **Ataque:** 100
+- **Defensa:** 121
+- **Velocidad:** 95
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Ursaring decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Zygarde-50 decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Ursaring es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Zygarde-50 es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3026
+- **CP máximo:** 3622
 - **Clase de combate:** 8
-- **Evento especial:** Ursaring puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Zygarde-50 puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Ursaring_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Zygarde-50_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
