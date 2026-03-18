@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/718.png) | **Zygarde-50** | Dragón, Tierra | Zygarde | 718 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/810.png) | **Grookey** | Planta | Grookey | 810 |
 
 **Curiosidad:**  
-Zygarde-50 es conocido por su habilidad para dominar la batalla.
+Grookey es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Rayo Solar**
+- **Corte Psíquico**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Zygarde-50** → **Zygarde-50 (Alola)**
+- **Grookey** → **Grookey (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 108
-- **Ataque:** 100
-- **Defensa:** 121
-- **Velocidad:** 95
+- **HP:** 50
+- **Ataque:** 65
+- **Defensa:** 50
+- **Velocidad:** 65
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Zygarde-50 decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Grookey decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Zygarde-50 es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Grookey es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3622
+- **CP máximo:** 3861
 - **Clase de combate:** 8
-- **Evento especial:** Zygarde-50 puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Grookey puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Zygarde-50_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Grookey_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -407,7 +408,7 @@ Zygarde-50 es conocido por su capacidad para desarrollar habilidades que cambian
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
