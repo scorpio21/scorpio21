@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/810.png) | **Grookey** | Planta | Grookey | 810 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/268.png) | **Cascoon** | Bicho | Cascoon | 268 |
 
 **Curiosidad:**  
-Grookey es conocido por su habilidad para usar ataques poderosos.
+Cascoon es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Puño Trueno**
+- **Hoja Afilada**
+- **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Grookey** → **Grookey (Alola)**
+- **Cascoon** → **Cascoon (Alola)**
 
 ---
 
 **Estadísticas base:**
 - **HP:** 50
-- **Ataque:** 65
-- **Defensa:** 50
-- **Velocidad:** 65
+- **Ataque:** 35
+- **Defensa:** 55
+- **Velocidad:** 15
 
 ---
 
@@ -45,23 +45,24 @@ Grookey es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Grookey decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Cascoon decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Grookey es conocido por su capacidad para dominar varias tácticas en combate.
+Cascoon es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3861
+- **CP máximo:** 3296
 - **Clase de combate:** 8
-- **Evento especial:** Grookey puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Cascoon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Grookey_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cascoon_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -408,7 +409,7 @@ Grookey es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
