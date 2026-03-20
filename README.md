@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/268.png) | **Cascoon** | Bicho | Cascoon | 268 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/672.png) | **Skiddo** | Planta | Skiddo | 672 |
 
 **Curiosidad:**  
-Cascoon es conocido por su habilidad para dominar la batalla.
+Skiddo es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Rayo Solar**
 - **Puño Fuego**
+- **Rayo Solar**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Cascoon** → **Cascoon (Alola)**
+- **Skiddo** → **Skiddo (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 50
-- **Ataque:** 35
-- **Defensa:** 55
-- **Velocidad:** 15
+- **HP:** 66
+- **Ataque:** 65
+- **Defensa:** 48
+- **Velocidad:** 52
 
 ---
 
@@ -45,23 +45,24 @@ Cascoon es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Cascoon decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Skiddo decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Cascoon es conocido por su capacidad para alcanza poderes muy altos.
+Skiddo es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3296
+- **CP máximo:** 3435
 - **Clase de combate:** 8
-- **Evento especial:** Cascoon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Skiddo puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cascoon_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Skiddo_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -409,7 +410,7 @@ Cascoon es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
