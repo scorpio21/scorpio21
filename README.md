@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/672.png) | **Skiddo** | Planta | Skiddo | 672 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/607.png) | **Litwick** | Fantasma, Fuego | Litwick | 607 |
 
 **Curiosidad:**  
-Skiddo es conocido por su habilidad para resistir ataques.
+Litwick es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Rayo Solar**
+- **Hoja Afilada**
+- **Puño Trueno**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Skiddo** → **Skiddo (Alola)**
+- **Litwick** → **Litwick (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 66
-- **Ataque:** 65
-- **Defensa:** 48
-- **Velocidad:** 52
+- **HP:** 50
+- **Ataque:** 30
+- **Defensa:** 55
+- **Velocidad:** 20
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Skiddo decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Litwick decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Skiddo es conocido por su capacidad para alcanza poderes muy altos.
+Litwick es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3435
+- **CP máximo:** 3569
 - **Clase de combate:** 8
-- **Evento especial:** Skiddo puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Litwick puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Skiddo_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Litwick_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -410,7 +411,7 @@ Skiddo es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
