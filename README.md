@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/668.png) | **Pyroar-male** | Fuego, Normal | Pyroar | 668 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/826.png) | **Orbeetle** | Bicho, Psíquico | Orbeetle | 826 |
 
 **Curiosidad:**  
-Pyroar-male es conocido por su habilidad para usar ataques poderosos.
+Orbeetle es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Puño Trueno**
+- **Puño Fuego**
+- **Rayo Solar**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Pyroar-male** → **Pyroar-male (Alola)**
+- **Orbeetle** → **Orbeetle (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 86
-- **Ataque:** 68
-- **Defensa:** 72
-- **Velocidad:** 106
+- **HP:** 60
+- **Ataque:** 45
+- **Defensa:** 110
+- **Velocidad:** 90
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Pyroar-male decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Orbeetle decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Pyroar-male es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Orbeetle es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3279
+- **CP máximo:** 3350
 - **Clase de combate:** 8
-- **Evento especial:** Pyroar-male puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Orbeetle puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Pyroar-male_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Orbeetle_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -412,7 +413,7 @@ Pyroar-male es conocido por su capacidad para desarrollar habilidades que cambia
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
