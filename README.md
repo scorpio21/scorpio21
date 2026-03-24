@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/826.png) | **Orbeetle** | Bicho, Psíquico | Orbeetle | 826 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png) | **Bidoof** | Normal | Bidoof | 399 |
 
 **Curiosidad:**  
-Orbeetle es conocido por su habilidad para dominar la batalla.
+Bidoof es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
+- **Corte Psíquico**
+- **Ataque Psíquico**
 - **Puño Fuego**
-- **Rayo Solar**
-- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Orbeetle** → **Orbeetle (Alola)**
+- **Bidoof** → **Bidoof (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
+- **HP:** 59
 - **Ataque:** 45
-- **Defensa:** 110
-- **Velocidad:** 90
+- **Defensa:** 40
+- **Velocidad:** 31
 
 ---
 
@@ -45,23 +45,24 @@ Orbeetle es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Orbeetle decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Bidoof decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Orbeetle es conocido por su capacidad para dominar varias tácticas en combate.
+Bidoof es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3350
+- **CP máximo:** 3444
 - **Clase de combate:** 8
-- **Evento especial:** Orbeetle puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Bidoof puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Orbeetle_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Bidoof_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -413,7 +414,7 @@ Orbeetle es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
