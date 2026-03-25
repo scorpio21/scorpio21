@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png) | **Bidoof** | Normal | Bidoof | 399 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png) | **Bellossom** | Planta | Bellossom | 182 |
 
 **Curiosidad:**  
-Bidoof es conocido por su habilidad para dominar la batalla.
+Bellossom es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Ataque Psíquico**
-- **Puño Fuego**
+- **Puño Trueno**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Bidoof** → **Bidoof (Alola)**
+- **Bellossom** → **Bellossom (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 59
-- **Ataque:** 45
-- **Defensa:** 40
-- **Velocidad:** 31
+- **HP:** 75
+- **Ataque:** 80
+- **Defensa:** 95
+- **Velocidad:** 50
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Bidoof decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Bellossom decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Bidoof es conocido por su capacidad para dominar varias tácticas en combate.
+Bellossom es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3444
+- **CP máximo:** 3299
 - **Clase de combate:** 8
-- **Evento especial:** Bidoof puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Bellossom puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Bidoof_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Bellossom_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -414,7 +415,7 @@ Bidoof es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
