@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png) | **Dragonair** | Dragón | Dragonair | 148 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/193.png) | **Yanma** | Bicho, Volador | Yanma | 193 |
 
 **Curiosidad:**  
-Dragonair es conocido por su habilidad para resistir ataques.
+Yanma es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
 - **Ataque Psíquico**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Dragonair** → **Dragonair (Alola)**
+- **Yanma** → **Yanma (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 61
-- **Ataque:** 84
-- **Defensa:** 65
-- **Velocidad:** 70
+- **HP:** 65
+- **Ataque:** 65
+- **Defensa:** 45
+- **Velocidad:** 95
 
 ---
 
@@ -45,23 +45,24 @@ Dragonair es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Dragonair decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Yanma decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Dragonair es conocido por su capacidad para dominar varias tácticas en combate.
+Yanma es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3025
+- **CP máximo:** 3544
 - **Clase de combate:** 8
-- **Evento especial:** Dragonair puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Yanma puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Dragonair_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Yanma_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -417,7 +418,7 @@ Dragonair es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
