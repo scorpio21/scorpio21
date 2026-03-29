@@ -13,10 +13,10 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/193.png) | **Yanma** | Bicho, Volador | Yanma | 193 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/717.png) | **Yveltal** | Siniestro, Volador | Yveltal | 717 |
 
 **Curiosidad:**  
-Yanma es conocido por su habilidad para resistir ataques.
+Yveltal es conocido por su habilidad para resistir ataques.
 
 ---
 
@@ -28,15 +28,15 @@ Yanma es conocido por su habilidad para resistir ataques.
 ---
 
 **Evolución:**  
-- **Yanma** → **Yanma (Alola)**
+- **Yveltal** → **Yveltal (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 65
-- **Ataque:** 65
-- **Defensa:** 45
-- **Velocidad:** 95
+- **HP:** 126
+- **Ataque:** 131
+- **Defensa:** 95
+- **Velocidad:** 99
 
 ---
 
@@ -45,23 +45,24 @@ Yanma es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Yanma decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Yveltal decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Yanma es conocido por su capacidad para dominar varias tácticas en combate.
+Yveltal es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3544
+- **CP máximo:** 3525
 - **Clase de combate:** 8
-- **Evento especial:** Yanma puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Yveltal puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Yanma_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Yveltal_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -418,7 +419,7 @@ Yanma es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
