@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/717.png) | **Yveltal** | Siniestro, Volador | Yveltal | 717 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/763.png) | **Tsareena** | Planta | Tsareena | 763 |
 
 **Curiosidad:**  
-Yveltal es conocido por su habilidad para resistir ataques.
+Tsareena es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Ataque Psíquico**
+- **Rayo Solar**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Yveltal** → **Yveltal (Alola)**
+- **Tsareena** → **Tsareena (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 126
-- **Ataque:** 131
-- **Defensa:** 95
-- **Velocidad:** 99
+- **HP:** 72
+- **Ataque:** 120
+- **Defensa:** 98
+- **Velocidad:** 72
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Yveltal decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Tsareena decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Yveltal es conocido por su capacidad para alcanza poderes muy altos.
+Tsareena es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3525
+- **CP máximo:** 3851
 - **Clase de combate:** 8
-- **Evento especial:** Yveltal puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Tsareena puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Yveltal_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Tsareena_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -419,7 +420,7 @@ Yveltal es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
