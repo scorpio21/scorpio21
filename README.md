@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/845.png) | **Cramorant** | Volador, Agua | Cramorant | 845 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png) | **Krabby** | Agua | Krabby | 98 |
 
 **Curiosidad:**  
-Cramorant es conocido por su habilidad para resistir ataques.
+Krabby es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
 - **Hoja Afilada**
-- **Rayo Solar**
+- **Puño Trueno**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Cramorant** → **Cramorant (Alola)**
+- **Krabby** → **Krabby (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 70
-- **Ataque:** 85
-- **Defensa:** 55
-- **Velocidad:** 85
+- **HP:** 30
+- **Ataque:** 105
+- **Defensa:** 90
+- **Velocidad:** 50
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Cramorant decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Krabby decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Cramorant es conocido por su capacidad para alcanza poderes muy altos.
+Krabby es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3984
+- **CP máximo:** 3967
 - **Clase de combate:** 8
-- **Evento especial:** Cramorant puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Krabby puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cramorant_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Krabby_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -421,7 +422,7 @@ Cramorant es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
