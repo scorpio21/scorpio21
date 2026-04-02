@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png) | **Krabby** | Agua | Krabby | 98 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/675.png) | **Pangoro** | Lucha, Siniestro | Pangoro | 675 |
 
 **Curiosidad:**  
-Krabby es conocido por su habilidad para resistir ataques.
+Pangoro es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Puño Trueno**
+- **Corte Psíquico**
+- **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Krabby** → **Krabby (Alola)**
+- **Pangoro** → **Pangoro (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 30
-- **Ataque:** 105
-- **Defensa:** 90
-- **Velocidad:** 50
+- **HP:** 95
+- **Ataque:** 124
+- **Defensa:** 78
+- **Velocidad:** 58
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Krabby decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Pangoro decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Krabby es conocido por su capacidad para dominar varias tácticas en combate.
+Pangoro es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3967
+- **CP máximo:** 3276
 - **Clase de combate:** 8
-- **Evento especial:** Krabby puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Pangoro puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Krabby_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Pangoro_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -422,7 +423,7 @@ Krabby es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
