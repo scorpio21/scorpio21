@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/675.png) | **Pangoro** | Lucha, Siniestro | Pangoro | 675 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/388.png) | **Grotle** | Planta | Grotle | 388 |
 
 **Curiosidad:**  
-Pangoro es conocido por su habilidad para resistir ataques.
+Grotle es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Rayo Solar**
-- **Puño Fuego**
+- **Hoja Afilada**
+- **Ataque Psíquico**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Pangoro** → **Pangoro (Alola)**
+- **Grotle** → **Grotle (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 95
-- **Ataque:** 124
-- **Defensa:** 78
-- **Velocidad:** 58
+- **HP:** 75
+- **Ataque:** 89
+- **Defensa:** 85
+- **Velocidad:** 36
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Pangoro decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Grotle decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Pangoro es conocido por su capacidad para dominar varias tácticas en combate.
+Grotle es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3276
+- **CP máximo:** 3216
 - **Clase de combate:** 8
-- **Evento especial:** Pangoro puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Grotle puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Pangoro_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Grotle_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
