@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/388.png) | **Grotle** | Planta | Grotle | 388 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/719.png) | **Diancie** | Roca, Hada | Diancie | 719 |
 
 **Curiosidad:**  
-Grotle es conocido por su habilidad para usar ataques poderosos.
+Diancie es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Ataque Psíquico**
+- **Puño Fuego**
+- **Puño Trueno**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Grotle** → **Grotle (Alola)**
+- **Diancie** → **Diancie (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 75
-- **Ataque:** 89
-- **Defensa:** 85
-- **Velocidad:** 36
+- **HP:** 50
+- **Ataque:** 100
+- **Defensa:** 150
+- **Velocidad:** 50
 
 ---
 
@@ -45,23 +45,24 @@ Grotle es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Grotle decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Diancie decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Grotle es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Diancie es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3216
+- **CP máximo:** 3993
 - **Clase de combate:** 8
-- **Evento especial:** Grotle puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Diancie puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Grotle_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Diancie_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -424,7 +425,7 @@ Grotle es conocido por su capacidad para desarrollar habilidades que cambian las
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
