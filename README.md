@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/719.png) | **Diancie** | Roca, Hada | Diancie | 719 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/293.png) | **Whismur** | Normal | Whismur | 293 |
 
 **Curiosidad:**  
-Diancie es conocido por su habilidad para resistir ataques.
+Whismur es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Puño Trueno**
+- **Rayo Solar**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Diancie** → **Diancie (Alola)**
+- **Whismur** → **Whismur (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 50
-- **Ataque:** 100
-- **Defensa:** 150
-- **Velocidad:** 50
+- **HP:** 64
+- **Ataque:** 51
+- **Defensa:** 23
+- **Velocidad:** 28
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Diancie decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Whismur decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Diancie es conocido por su capacidad para dominar varias tácticas en combate.
+Whismur es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3993
+- **CP máximo:** 3451
 - **Clase de combate:** 8
-- **Evento especial:** Diancie puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Whismur puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Diancie_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Whismur_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -425,7 +426,7 @@ Diancie es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
