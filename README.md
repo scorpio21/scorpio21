@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/293.png) | **Whismur** | Normal | Whismur | 293 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/431.png) | **Glameow** | Normal | Glameow | 431 |
 
 **Curiosidad:**  
-Whismur es conocido por su habilidad para usar ataques poderosos.
+Glameow es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Rayo Solar**
+- **Corte Psíquico**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Whismur** → **Whismur (Alola)**
+- **Glameow** → **Glameow (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 64
-- **Ataque:** 51
-- **Defensa:** 23
-- **Velocidad:** 28
+- **HP:** 49
+- **Ataque:** 55
+- **Defensa:** 42
+- **Velocidad:** 85
 
 ---
 
@@ -45,23 +45,24 @@ Whismur es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Whismur decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Glameow decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Whismur es conocido por su capacidad para dominar varias tácticas en combate.
+Glameow es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3451
+- **CP máximo:** 3144
 - **Clase de combate:** 8
-- **Evento especial:** Whismur puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Glameow puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Whismur_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Glameow_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -426,7 +427,7 @@ Whismur es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
