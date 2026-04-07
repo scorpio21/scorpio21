@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/431.png) | **Glameow** | Normal | Glameow | 431 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263.png) | **Zigzagoon** | Normal | Zigzagoon | 263 |
 
 **Curiosidad:**  
-Glameow es conocido por su habilidad para dominar la batalla.
+Zigzagoon es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
+- **Rayo Solar**
 - **Puño Trueno**
-- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Glameow** → **Glameow (Alola)**
+- **Zigzagoon** → **Zigzagoon (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 49
-- **Ataque:** 55
-- **Defensa:** 42
-- **Velocidad:** 85
+- **HP:** 38
+- **Ataque:** 30
+- **Defensa:** 41
+- **Velocidad:** 60
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Glameow decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Zigzagoon decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Glameow es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Zigzagoon es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3144
+- **CP máximo:** 3859
 - **Clase de combate:** 8
-- **Evento especial:** Glameow puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Zigzagoon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Glameow_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Zigzagoon_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -427,7 +428,7 @@ Glameow es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
