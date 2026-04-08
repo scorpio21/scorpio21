@@ -13,29 +13,29 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263.png) | **Zigzagoon** | Normal | Zigzagoon | 263 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/593.png) | **Jellicent-male** | Agua, Fantasma | Jellicent | 593 |
 
 **Curiosidad:**  
-Zigzagoon es conocido por su habilidad para usar ataques poderosos.
+Jellicent-male es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Rayo Solar**
+- **Hoja Afilada**
+- **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Zigzagoon** → **Zigzagoon (Alola)**
+- **Jellicent-male** → **Jellicent-male (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 38
-- **Ataque:** 30
-- **Defensa:** 41
+- **HP:** 100
+- **Ataque:** 60
+- **Defensa:** 70
 - **Velocidad:** 60
 
 ---
@@ -45,23 +45,24 @@ Zigzagoon es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Zigzagoon decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Jellicent-male decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Zigzagoon es conocido por su capacidad para dominar varias tácticas en combate.
+Jellicent-male es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3859
+- **CP máximo:** 3097
 - **Clase de combate:** 8
-- **Evento especial:** Zigzagoon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Jellicent-male puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Zigzagoon_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Jellicent-male_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -428,7 +429,7 @@ Zigzagoon es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
