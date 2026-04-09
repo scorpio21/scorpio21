@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/593.png) | **Jellicent-male** | Agua, Fantasma | Jellicent | 593 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png) | **Ledian** | Bicho, Volador | Ledian | 166 |
 
 **Curiosidad:**  
-Jellicent-male es conocido por su habilidad para dominar la batalla.
+Ledian es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Ataque Psíquico**
+- **Corte Psíquico**
+- **Puño Trueno**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Jellicent-male** → **Jellicent-male (Alola)**
+- **Ledian** → **Ledian (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 100
-- **Ataque:** 60
-- **Defensa:** 70
-- **Velocidad:** 60
+- **HP:** 55
+- **Ataque:** 35
+- **Defensa:** 50
+- **Velocidad:** 85
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Jellicent-male decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Ledian decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Jellicent-male es conocido por su capacidad para alcanza poderes muy altos.
+Ledian es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3097
+- **CP máximo:** 3819
 - **Clase de combate:** 8
-- **Evento especial:** Jellicent-male puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Ledian puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Jellicent-male_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Ledian_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -429,7 +430,7 @@ Jellicent-male es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
