@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png) | **Ledian** | Bicho, Volador | Ledian | 166 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/680.png) | **Doublade** | Acero, Fantasma | Doublade | 680 |
 
 **Curiosidad:**  
-Ledian es conocido por su habilidad para resistir ataques.
+Doublade es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Puño Trueno**
+- **Rayo Solar**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Ledian** → **Ledian (Alola)**
+- **Doublade** → **Doublade (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 55
-- **Ataque:** 35
-- **Defensa:** 50
-- **Velocidad:** 85
+- **HP:** 59
+- **Ataque:** 110
+- **Defensa:** 150
+- **Velocidad:** 35
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Ledian decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Doublade decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Ledian es conocido por su capacidad para alcanza poderes muy altos.
+Doublade es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3819
+- **CP máximo:** 3735
 - **Clase de combate:** 8
-- **Evento especial:** Ledian puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Doublade puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Ledian_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Doublade_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
