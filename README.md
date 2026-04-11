@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/680.png) | **Doublade** | Acero, Fantasma | Doublade | 680 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png) | **Probopass** | Roca, Acero | Probopass | 476 |
 
 **Curiosidad:**  
-Doublade es conocido por su habilidad para resistir ataques.
+Probopass es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Rayo Solar**
-- **Puño Trueno**
+- **Hoja Afilada**
+- **Ataque Psíquico**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Doublade** → **Doublade (Alola)**
+- **Probopass** → **Probopass (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 59
-- **Ataque:** 110
-- **Defensa:** 150
-- **Velocidad:** 35
+- **HP:** 60
+- **Ataque:** 55
+- **Defensa:** 145
+- **Velocidad:** 40
 
 ---
 
@@ -45,23 +45,24 @@ Doublade es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Doublade decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Probopass decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Doublade es conocido por su capacidad para alcanza poderes muy altos.
+Probopass es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3735
+- **CP máximo:** 3987
 - **Clase de combate:** 8
-- **Evento especial:** Doublade puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Probopass puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Doublade_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Probopass_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -431,7 +432,7 @@ Doublade es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
