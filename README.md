@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png) | **Probopass** | Roca, Acero | Probopass | 476 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/562.png) | **Yamask** | Fantasma | Yamask | 562 |
 
 **Curiosidad:**  
-Probopass es conocido por su habilidad para resistir ataques.
+Yamask es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Ataque Psíquico**
+- **Corte Psíquico**
+- **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Probopass** → **Probopass (Alola)**
+- **Yamask** → **Yamask (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 55
-- **Defensa:** 145
-- **Velocidad:** 40
+- **HP:** 38
+- **Ataque:** 30
+- **Defensa:** 85
+- **Velocidad:** 30
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Probopass decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Yamask decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Probopass es conocido por su capacidad para alcanza poderes muy altos.
+Yamask es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3987
+- **CP máximo:** 3491
 - **Clase de combate:** 8
-- **Evento especial:** Probopass puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Yamask puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Probopass_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Yamask_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -432,7 +433,7 @@ Probopass es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
