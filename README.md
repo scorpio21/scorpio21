@@ -13,29 +13,29 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/562.png) | **Yamask** | Fantasma | Yamask | 562 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/411.png) | **Bastiodon** | Roca, Acero | Bastiodon | 411 |
 
 **Curiosidad:**  
-Yamask es conocido por su habilidad para alcanzar altas velocidades.
+Bastiodon es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Rayo Solar**
-- **Puño Fuego**
+- **Hoja Afilada**
+- **Ataque Psíquico**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Yamask** → **Yamask (Alola)**
+- **Bastiodon** → **Bastiodon (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 38
-- **Ataque:** 30
-- **Defensa:** 85
+- **HP:** 60
+- **Ataque:** 52
+- **Defensa:** 168
 - **Velocidad:** 30
 
 ---
@@ -45,23 +45,24 @@ Yamask es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Yamask decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Bastiodon decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Yamask es conocido por su capacidad para dominar varias tácticas en combate.
+Bastiodon es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3491
+- **CP máximo:** 3892
 - **Clase de combate:** 8
-- **Evento especial:** Yamask puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Bastiodon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Yamask_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Bastiodon_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -433,7 +434,7 @@ Yamask es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
