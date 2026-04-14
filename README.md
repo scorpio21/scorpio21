@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/411.png) | **Bastiodon** | Roca, Acero | Bastiodon | 411 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/352.png) | **Kecleon** | Normal | Kecleon | 352 |
 
 **Curiosidad:**  
-Bastiodon es conocido por su habilidad para dominar la batalla.
+Kecleon es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
+- **Puño Fuego**
 - **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Bastiodon** → **Bastiodon (Alola)**
+- **Kecleon** → **Kecleon (Alola)**
 
 ---
 
 **Estadísticas base:**
 - **HP:** 60
-- **Ataque:** 52
-- **Defensa:** 168
-- **Velocidad:** 30
+- **Ataque:** 90
+- **Defensa:** 70
+- **Velocidad:** 40
 
 ---
 
@@ -45,23 +45,24 @@ Bastiodon es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Bastiodon decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Kecleon decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Bastiodon es conocido por su capacidad para alcanza poderes muy altos.
+Kecleon es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3892
+- **CP máximo:** 3765
 - **Clase de combate:** 8
-- **Evento especial:** Bastiodon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Kecleon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Bastiodon_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Kecleon_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -434,7 +435,7 @@ Bastiodon es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
