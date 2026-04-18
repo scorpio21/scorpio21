@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/309.png) | **Electrike** | Eléctrico | Electrike | 309 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/897.png) | **Spectrier** | Fantasma | Spectrier | 897 |
 
 **Curiosidad:**  
-Electrike es conocido por su habilidad para dominar la batalla.
+Spectrier es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Puño Trueno**
+- **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Electrike** → **Electrike (Alola)**
+- **Spectrier** → **Spectrier (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 40
-- **Ataque:** 45
-- **Defensa:** 40
-- **Velocidad:** 65
+- **HP:** 100
+- **Ataque:** 65
+- **Defensa:** 60
+- **Velocidad:** 130
 
 ---
 
@@ -45,23 +45,24 @@ Electrike es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Electrike decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Spectrier decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Electrike es conocido por su capacidad para alcanza poderes muy altos.
+Spectrier es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3762
+- **CP máximo:** 3261
 - **Clase de combate:** 8
-- **Evento especial:** Electrike puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Spectrier puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Electrike_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Spectrier_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -438,7 +439,7 @@ Electrike es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
