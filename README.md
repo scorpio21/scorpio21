@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/847.png) | **Barraskewda** | Agua | Barraskewda | 847 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png) | **Jumpluff** | Planta, Volador | Jumpluff | 189 |
 
 **Curiosidad:**  
-Barraskewda es conocido por su habilidad para dominar la batalla.
+Jumpluff es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Puño Trueno**
 - **Puño Fuego**
+- **Ataque Psíquico**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Barraskewda** → **Barraskewda (Alola)**
+- **Jumpluff** → **Jumpluff (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 61
-- **Ataque:** 123
-- **Defensa:** 60
-- **Velocidad:** 136
+- **HP:** 75
+- **Ataque:** 55
+- **Defensa:** 70
+- **Velocidad:** 110
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Barraskewda decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Jumpluff decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Barraskewda es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Jumpluff es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3041
+- **CP máximo:** 3782
 - **Clase de combate:** 8
-- **Evento especial:** Barraskewda puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Jumpluff puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Barraskewda_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Jumpluff_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -440,7 +441,7 @@ Barraskewda es conocido por su capacidad para desarrollar habilidades que cambia
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
