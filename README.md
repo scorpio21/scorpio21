@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png) | **Jumpluff** | Planta, Volador | Jumpluff | 189 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/386.png) | **Deoxys-normal** | Psíquico | Deoxys | 386 |
 
 **Curiosidad:**  
-Jumpluff es conocido por su habilidad para dominar la batalla.
+Deoxys-normal es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Corte Psíquico**
 - **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Jumpluff** → **Jumpluff (Alola)**
+- **Deoxys-normal** → **Deoxys-normal (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 75
-- **Ataque:** 55
-- **Defensa:** 70
-- **Velocidad:** 110
+- **HP:** 50
+- **Ataque:** 150
+- **Defensa:** 50
+- **Velocidad:** 150
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Jumpluff decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Deoxys-normal decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Jumpluff es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Deoxys-normal es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3782
+- **CP máximo:** 3035
 - **Clase de combate:** 8
-- **Evento especial:** Jumpluff puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Deoxys-normal puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Jumpluff_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Deoxys-normal_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -441,7 +442,7 @@ Jumpluff es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
