@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/386.png) | **Deoxys-normal** | Psíquico | Deoxys | 386 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png) | **Seel** | Agua | Seel | 86 |
 
 **Curiosidad:**  
-Deoxys-normal es conocido por su habilidad para alcanzar altas velocidades.
+Seel es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Ataque Psíquico**
+- **Puño Fuego**
+- **Rayo Solar**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Deoxys-normal** → **Deoxys-normal (Alola)**
+- **Seel** → **Seel (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 50
-- **Ataque:** 150
-- **Defensa:** 50
-- **Velocidad:** 150
+- **HP:** 65
+- **Ataque:** 45
+- **Defensa:** 55
+- **Velocidad:** 45
 
 ---
 
@@ -45,23 +45,24 @@ Deoxys-normal es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Deoxys-normal decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Seel decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Deoxys-normal es conocido por su capacidad para dominar varias tácticas en combate.
+Seel es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3035
+- **CP máximo:** 3301
 - **Clase de combate:** 8
-- **Evento especial:** Deoxys-normal puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Seel puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Deoxys-normal_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Seel_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -442,7 +443,7 @@ Deoxys-normal es conocido por su capacidad para dominar varias tácticas en comb
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
