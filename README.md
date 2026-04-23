@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png) | **Seel** | Agua | Seel | 86 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png) | **Voltorb** | Eléctrico | Voltorb | 100 |
 
 **Curiosidad:**  
-Seel es conocido por su habilidad para resistir ataques.
+Voltorb es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Rayo Solar**
+- **Hoja Afilada**
+- **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Seel** → **Seel (Alola)**
+- **Voltorb** → **Voltorb (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 65
-- **Ataque:** 45
-- **Defensa:** 55
-- **Velocidad:** 45
+- **HP:** 40
+- **Ataque:** 30
+- **Defensa:** 50
+- **Velocidad:** 100
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Seel decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Voltorb decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Seel es conocido por su capacidad para alcanza poderes muy altos.
+Voltorb es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3301
+- **CP máximo:** 3885
 - **Clase de combate:** 8
-- **Evento especial:** Seel puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Voltorb puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Seel_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Voltorb_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -443,7 +444,7 @@ Seel es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
