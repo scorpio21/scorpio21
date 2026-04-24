@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png) | **Voltorb** | Eléctrico | Voltorb | 100 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/578.png) | **Duosion** | Psíquico | Duosion | 578 |
 
 **Curiosidad:**  
-Voltorb es conocido por su habilidad para resistir ataques.
+Duosion es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Hoja Afilada**
 - **Ataque Psíquico**
-- **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Voltorb** → **Voltorb (Alola)**
+- **Duosion** → **Duosion (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 40
-- **Ataque:** 30
+- **HP:** 65
+- **Ataque:** 40
 - **Defensa:** 50
-- **Velocidad:** 100
+- **Velocidad:** 30
 
 ---
 
@@ -45,23 +45,24 @@ Voltorb es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Voltorb decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Duosion decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Voltorb es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Duosion es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3885
+- **CP máximo:** 3187
 - **Clase de combate:** 8
-- **Evento especial:** Voltorb puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Duosion puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Voltorb_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Duosion_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -444,7 +445,7 @@ Voltorb es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
