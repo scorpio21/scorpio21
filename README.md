@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/663.png) | **Talonflame** | Fuego, Volador | Talonflame | 663 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/747.png) | **Mareanie** | Veneno, Agua | Mareanie | 747 |
 
 **Curiosidad:**  
-Talonflame es conocido por su habilidad para alcanzar altas velocidades.
+Mareanie es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Rayo Solar**
+- **Hoja Afilada**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Talonflame** → **Talonflame (Alola)**
+- **Mareanie** → **Mareanie (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 78
-- **Ataque:** 81
-- **Defensa:** 71
-- **Velocidad:** 126
+- **HP:** 50
+- **Ataque:** 53
+- **Defensa:** 62
+- **Velocidad:** 45
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Talonflame decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Mareanie decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Talonflame es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Mareanie es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3959
+- **CP máximo:** 3756
 - **Clase de combate:** 8
-- **Evento especial:** Talonflame puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Mareanie puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Talonflame_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mareanie_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -446,7 +447,7 @@ Talonflame es conocido por su capacidad para desarrollar habilidades que cambian
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
