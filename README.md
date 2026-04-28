@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png) | **Doduo** | Normal, Volador | Doduo | 84 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png) | **Flaaffy** | Eléctrico | Flaaffy | 180 |
 
 **Curiosidad:**  
-Doduo es conocido por su habilidad para resistir ataques.
+Flaaffy es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Rayo Solar**
+- **Corte Psíquico**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Doduo** → **Doduo (Alola)**
+- **Flaaffy** → **Flaaffy (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 35
-- **Ataque:** 85
-- **Defensa:** 45
-- **Velocidad:** 75
+- **HP:** 70
+- **Ataque:** 55
+- **Defensa:** 55
+- **Velocidad:** 45
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Doduo decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Flaaffy decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Doduo es conocido por su capacidad para dominar varias tácticas en combate.
+Flaaffy es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3811
+- **CP máximo:** 3537
 - **Clase de combate:** 8
-- **Evento especial:** Doduo puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Flaaffy puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Doduo_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Flaaffy_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -448,7 +449,7 @@ Doduo es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
