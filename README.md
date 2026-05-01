@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png) | **Metapod** | Bicho | Metapod | 11 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/740.png) | **Crabominable** | Lucha, Hielo | Crabominable | 740 |
 
 **Curiosidad:**  
-Metapod es conocido por su habilidad para alcanzar altas velocidades.
+Crabominable es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Hoja Afilada**
-- **Ataque Psíquico**
-- **Puño Trueno**
+- **Rayo Solar**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Metapod** → **Metapod (Alola)**
+- **Crabominable** → **Crabominable (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 50
-- **Ataque:** 20
-- **Defensa:** 55
-- **Velocidad:** 30
+- **HP:** 97
+- **Ataque:** 132
+- **Defensa:** 77
+- **Velocidad:** 43
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Metapod decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Crabominable decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Metapod es conocido por su capacidad para alcanza poderes muy altos.
+Crabominable es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3201
+- **CP máximo:** 3278
 - **Clase de combate:** 8
-- **Evento especial:** Metapod puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Crabominable puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Metapod_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Crabominable_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -451,7 +452,7 @@ Metapod es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
