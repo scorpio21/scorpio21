@@ -13,10 +13,10 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/740.png) | **Crabominable** | Lucha, Hielo | Crabominable | 740 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/751.png) | **Dewpider** | Agua, Bicho | Dewpider | 751 |
 
 **Curiosidad:**  
-Crabominable es conocido por su habilidad para usar ataques poderosos.
+Dewpider es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
@@ -28,15 +28,15 @@ Crabominable es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Evolución:**  
-- **Crabominable** → **Crabominable (Alola)**
+- **Dewpider** → **Dewpider (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 97
-- **Ataque:** 132
-- **Defensa:** 77
-- **Velocidad:** 43
+- **HP:** 38
+- **Ataque:** 40
+- **Defensa:** 52
+- **Velocidad:** 27
 
 ---
 
@@ -45,23 +45,24 @@ Crabominable es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Crabominable decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Dewpider decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Crabominable es conocido por su capacidad para alcanza poderes muy altos.
+Dewpider es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3278
+- **CP máximo:** 3820
 - **Clase de combate:** 8
-- **Evento especial:** Crabominable puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Dewpider puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Crabominable_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Dewpider_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
