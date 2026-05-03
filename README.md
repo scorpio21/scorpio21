@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/751.png) | **Dewpider** | Agua, Bicho | Dewpider | 751 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png) | **Oddish** | Planta, Veneno | Oddish | 43 |
 
 **Curiosidad:**  
-Dewpider es conocido por su habilidad para usar ataques poderosos.
+Oddish es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Rayo Solar**
 - **Puño Fuego**
+- **Puño Trueno**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Dewpider** → **Dewpider (Alola)**
+- **Oddish** → **Oddish (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 38
-- **Ataque:** 40
-- **Defensa:** 52
-- **Velocidad:** 27
+- **HP:** 45
+- **Ataque:** 50
+- **Defensa:** 55
+- **Velocidad:** 30
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Dewpider decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Oddish decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Dewpider es conocido por su capacidad para alcanza poderes muy altos.
+Oddish es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3820
+- **CP máximo:** 3912
 - **Clase de combate:** 8
-- **Evento especial:** Dewpider puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Oddish puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Dewpider_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Oddish_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -453,7 +454,7 @@ Dewpider es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
