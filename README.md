@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png) | **Oddish** | Planta, Veneno | Oddish | 43 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png) | **Empoleon** | Agua, Acero | Empoleon | 395 |
 
 **Curiosidad:**  
-Oddish es conocido por su habilidad para resistir ataques.
+Empoleon es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Puño Trueno**
+- **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Oddish** → **Oddish (Alola)**
+- **Empoleon** → **Empoleon (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 45
-- **Ataque:** 50
-- **Defensa:** 55
-- **Velocidad:** 30
+- **HP:** 84
+- **Ataque:** 86
+- **Defensa:** 88
+- **Velocidad:** 60
 
 ---
 
@@ -45,23 +45,24 @@ Oddish es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Oddish decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Empoleon decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Oddish es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Empoleon es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3912
+- **CP máximo:** 3588
 - **Clase de combate:** 8
-- **Evento especial:** Oddish puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Empoleon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Oddish_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Empoleon_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -454,7 +455,7 @@ Oddish es conocido por su capacidad para desarrollar habilidades que cambian las
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
