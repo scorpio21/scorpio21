@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png) | **Empoleon** | Agua, Acero | Empoleon | 395 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png) | **Crawdaunt** | Agua, Siniestro | Crawdaunt | 342 |
 
 **Curiosidad:**  
-Empoleon es conocido por su habilidad para usar ataques poderosos.
+Crawdaunt es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Ataque Psíquico**
+- **Hoja Afilada**
+- **Puño Trueno**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Empoleon** → **Empoleon (Alola)**
+- **Crawdaunt** → **Crawdaunt (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 84
-- **Ataque:** 86
-- **Defensa:** 88
-- **Velocidad:** 60
+- **HP:** 63
+- **Ataque:** 120
+- **Defensa:** 85
+- **Velocidad:** 55
 
 ---
 
@@ -45,23 +45,24 @@ Empoleon es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Empoleon decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Crawdaunt decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Empoleon es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Crawdaunt es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3588
+- **CP máximo:** 3844
 - **Clase de combate:** 8
-- **Evento especial:** Empoleon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Crawdaunt puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Empoleon_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Crawdaunt_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -455,7 +456,7 @@ Empoleon es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
