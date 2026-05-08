@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/719.png) | **Diancie** | Roca, Hada | Diancie | 719 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png) | **Squirtle** | Agua | Squirtle | 7 |
 
 **Curiosidad:**  
-Diancie es conocido por su habilidad para usar ataques poderosos.
+Squirtle es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Hoja Afilada**
 - **Rayo Solar**
-- **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Diancie** → **Diancie (Alola)**
+- **Squirtle** → **Squirtle (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 50
-- **Ataque:** 100
-- **Defensa:** 150
-- **Velocidad:** 50
+- **HP:** 44
+- **Ataque:** 48
+- **Defensa:** 65
+- **Velocidad:** 43
 
 ---
 
@@ -45,23 +45,24 @@ Diancie es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Diancie decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Squirtle decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Diancie es conocido por su capacidad para dominar varias tácticas en combate.
+Squirtle es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3518
+- **CP máximo:** 3017
 - **Clase de combate:** 8
-- **Evento especial:** Diancie puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Squirtle puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Diancie_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Squirtle_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -458,7 +459,7 @@ Diancie es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
