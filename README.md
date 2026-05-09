@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png) | **Squirtle** | Agua | Squirtle | 7 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png) | **Shedinja** | Bicho, Fantasma | Shedinja | 292 |
 
 **Curiosidad:**  
-Squirtle es conocido por su habilidad para alcanzar altas velocidades.
+Shedinja es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Rayo Solar**
 - **Puño Fuego**
+- **Puño Trueno**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Squirtle** → **Squirtle (Alola)**
+- **Shedinja** → **Shedinja (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 44
-- **Ataque:** 48
-- **Defensa:** 65
-- **Velocidad:** 43
+- **HP:** 1
+- **Ataque:** 90
+- **Defensa:** 45
+- **Velocidad:** 40
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Squirtle decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Shedinja decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Squirtle es conocido por su capacidad para alcanza poderes muy altos.
+Shedinja es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3017
+- **CP máximo:** 3366
 - **Clase de combate:** 8
-- **Evento especial:** Squirtle puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Shedinja puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Squirtle_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Shedinja_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -459,7 +460,7 @@ Squirtle es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
