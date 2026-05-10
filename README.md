@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png) | **Shedinja** | Bicho, Fantasma | Shedinja | 292 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png) | **Ninjask** | Bicho, Volador | Ninjask | 291 |
 
 **Curiosidad:**  
-Shedinja es conocido por su habilidad para dominar la batalla.
+Ninjask es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
+- **Corte Psíquico**
+- **Ataque Psíquico**
 - **Puño Fuego**
-- **Puño Trueno**
-- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Shedinja** → **Shedinja (Alola)**
+- **Ninjask** → **Ninjask (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 1
+- **HP:** 61
 - **Ataque:** 90
 - **Defensa:** 45
-- **Velocidad:** 40
+- **Velocidad:** 160
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Shedinja decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Ninjask decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Shedinja es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Ninjask es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3366
+- **CP máximo:** 3179
 - **Clase de combate:** 8
-- **Evento especial:** Shedinja puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Ninjask puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Shedinja_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Ninjask_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -460,7 +461,7 @@ Shedinja es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
