@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png) | **Ninjask** | Bicho, Volador | Ninjask | 291 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/560.png) | **Scrafty** | Siniestro, Lucha | Scrafty | 560 |
 
 **Curiosidad:**  
-Ninjask es conocido por su habilidad para usar ataques poderosos.
+Scrafty es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Ataque Psíquico**
+- **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Ninjask** → **Ninjask (Alola)**
+- **Scrafty** → **Scrafty (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 61
+- **HP:** 65
 - **Ataque:** 90
-- **Defensa:** 45
-- **Velocidad:** 160
+- **Defensa:** 115
+- **Velocidad:** 58
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Ninjask decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Scrafty decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Ninjask es conocido por su capacidad para alcanza poderes muy altos.
+Scrafty es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3179
+- **CP máximo:** 3475
 - **Clase de combate:** 8
-- **Evento especial:** Ninjask puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Scrafty puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Ninjask_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Scrafty_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -461,7 +462,7 @@ Ninjask es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
