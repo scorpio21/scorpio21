@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/560.png) | **Scrafty** | Siniestro, Lucha | Scrafty | 560 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/855.png) | **Polteageist** | Fantasma | Polteageist | 855 |
 
 **Curiosidad:**  
-Scrafty es conocido por su habilidad para alcanzar altas velocidades.
+Polteageist es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Rayo Solar**
+- **Puño Trueno**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Scrafty** → **Scrafty (Alola)**
+- **Polteageist** → **Polteageist (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 65
-- **Ataque:** 90
-- **Defensa:** 115
-- **Velocidad:** 58
+- **HP:** 60
+- **Ataque:** 65
+- **Defensa:** 65
+- **Velocidad:** 70
 
 ---
 
@@ -45,23 +45,24 @@ Scrafty es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Scrafty decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Polteageist decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Scrafty es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Polteageist es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3475
+- **CP máximo:** 3474
 - **Clase de combate:** 8
-- **Evento especial:** Scrafty puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Polteageist puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Scrafty_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Polteageist_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
