@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/855.png) | **Polteageist** | Fantasma | Polteageist | 855 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/889.png) | **Zamazenta** | Lucha | Zamazenta | 889 |
 
 **Curiosidad:**  
-Polteageist es conocido por su habilidad para usar ataques poderosos.
+Zamazenta es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Puño Trueno**
+- **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Polteageist** → **Polteageist (Alola)**
+- **Zamazenta** → **Zamazenta (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 65
-- **Defensa:** 65
-- **Velocidad:** 70
+- **HP:** 92
+- **Ataque:** 120
+- **Defensa:** 115
+- **Velocidad:** 138
 
 ---
 
@@ -45,23 +45,24 @@ Polteageist es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Polteageist decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Zamazenta decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Polteageist es conocido por su capacidad para alcanza poderes muy altos.
+Zamazenta es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3474
+- **CP máximo:** 3357
 - **Clase de combate:** 8
-- **Evento especial:** Polteageist puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Zamazenta puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Polteageist_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Zamazenta_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -463,7 +464,7 @@ Polteageist es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
