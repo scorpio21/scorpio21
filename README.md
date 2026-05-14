@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/889.png) | **Zamazenta** | Lucha | Zamazenta | 889 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png) | **Metapod** | Bicho | Metapod | 11 |
 
 **Curiosidad:**  
-Zamazenta es conocido por su habilidad para dominar la batalla.
+Metapod es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Rayo Solar**
+- **Hoja Afilada**
+- **Puño Trueno**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Zamazenta** → **Zamazenta (Alola)**
+- **Metapod** → **Metapod (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 92
-- **Ataque:** 120
-- **Defensa:** 115
-- **Velocidad:** 138
+- **HP:** 50
+- **Ataque:** 20
+- **Defensa:** 55
+- **Velocidad:** 30
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Zamazenta decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Metapod decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Zamazenta es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Metapod es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3357
+- **CP máximo:** 3492
 - **Clase de combate:** 8
-- **Evento especial:** Zamazenta puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Metapod puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Zamazenta_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Metapod_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -464,7 +465,7 @@ Zamazenta es conocido por su capacidad para desarrollar habilidades que cambian 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
