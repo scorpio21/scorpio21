@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png) | **Metapod** | Bicho | Metapod | 11 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png) | **Vigoroth** | Normal | Vigoroth | 288 |
 
 **Curiosidad:**  
-Metapod es conocido por su habilidad para alcanzar altas velocidades.
+Vigoroth es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Puño Trueno**
 - **Puño Fuego**
+- **Ataque Psíquico**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Metapod** → **Metapod (Alola)**
+- **Vigoroth** → **Vigoroth (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 50
-- **Ataque:** 20
-- **Defensa:** 55
-- **Velocidad:** 30
+- **HP:** 80
+- **Ataque:** 80
+- **Defensa:** 80
+- **Velocidad:** 90
 
 ---
 
@@ -45,23 +45,24 @@ Metapod es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Metapod decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Vigoroth decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Metapod es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Vigoroth es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3492
+- **CP máximo:** 3426
 - **Clase de combate:** 8
-- **Evento especial:** Metapod puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Vigoroth puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Metapod_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Vigoroth_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
