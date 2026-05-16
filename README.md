@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png) | **Vigoroth** | Normal | Vigoroth | 288 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/809.png) | **Melmetal** | Acero | Melmetal | 809 |
 
 **Curiosidad:**  
-Vigoroth es conocido por su habilidad para usar ataques poderosos.
+Melmetal es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Ataque Psíquico**
-- **Puño Trueno**
+- **Rayo Solar**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Vigoroth** → **Vigoroth (Alola)**
+- **Melmetal** → **Melmetal (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 80
-- **Ataque:** 80
-- **Defensa:** 80
-- **Velocidad:** 90
+- **HP:** 135
+- **Ataque:** 143
+- **Defensa:** 143
+- **Velocidad:** 34
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Vigoroth decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Melmetal decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Vigoroth es conocido por su capacidad para alcanza poderes muy altos.
+Melmetal es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3426
+- **CP máximo:** 3848
 - **Clase de combate:** 8
-- **Evento especial:** Vigoroth puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Melmetal puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Vigoroth_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Melmetal_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -466,7 +467,7 @@ Vigoroth es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
