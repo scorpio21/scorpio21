@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/809.png) | **Melmetal** | Acero | Melmetal | 809 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/518.png) | **Musharna** | Psíquico | Musharna | 518 |
 
 **Curiosidad:**  
-Melmetal es conocido por su habilidad para alcanzar altas velocidades.
+Musharna es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Hoja Afilada**
 - **Rayo Solar**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Melmetal** → **Melmetal (Alola)**
+- **Musharna** → **Musharna (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 135
-- **Ataque:** 143
-- **Defensa:** 143
-- **Velocidad:** 34
+- **HP:** 116
+- **Ataque:** 55
+- **Defensa:** 85
+- **Velocidad:** 29
 
 ---
 
@@ -45,23 +45,24 @@ Melmetal es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Melmetal decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Musharna decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Melmetal es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Musharna es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3848
+- **CP máximo:** 3540
 - **Clase de combate:** 8
-- **Evento especial:** Melmetal puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Musharna puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Melmetal_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Musharna_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -467,7 +468,7 @@ Melmetal es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
