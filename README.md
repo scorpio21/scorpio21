@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/518.png) | **Musharna** | Psíquico | Musharna | 518 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/443.png) | **Gible** | Dragón, Tierra | Gible | 443 |
 
 **Curiosidad:**  
-Musharna es conocido por su habilidad para usar ataques poderosos.
+Gible es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
+- **Corte Psíquico**
 - **Rayo Solar**
-- **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Musharna** → **Musharna (Alola)**
+- **Gible** → **Gible (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 116
-- **Ataque:** 55
-- **Defensa:** 85
-- **Velocidad:** 29
+- **HP:** 58
+- **Ataque:** 70
+- **Defensa:** 45
+- **Velocidad:** 42
 
 ---
 
@@ -45,23 +45,24 @@ Musharna es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Musharna decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Gible decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Musharna es conocido por su capacidad para alcanza poderes muy altos.
+Gible es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3540
+- **CP máximo:** 3470
 - **Clase de combate:** 8
-- **Evento especial:** Musharna puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Gible puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Musharna_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gible_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -468,7 +469,7 @@ Musharna es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
