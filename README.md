@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/443.png) | **Gible** | Dragón, Tierra | Gible | 443 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/553.png) | **Krookodile** | Tierra, Siniestro | Krookodile | 553 |
 
 **Curiosidad:**  
-Gible es conocido por su habilidad para dominar la batalla.
+Krookodile es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Hoja Afilada**
 - **Rayo Solar**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Gible** → **Gible (Alola)**
+- **Krookodile** → **Krookodile (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 58
-- **Ataque:** 70
-- **Defensa:** 45
-- **Velocidad:** 42
+- **HP:** 95
+- **Ataque:** 117
+- **Defensa:** 80
+- **Velocidad:** 92
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Gible decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Krookodile decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Gible es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Krookodile es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3470
+- **CP máximo:** 3688
 - **Clase de combate:** 8
-- **Evento especial:** Gible puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Krookodile puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gible_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Krookodile_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -469,7 +470,7 @@ Gible es conocido por su capacidad para desarrollar habilidades que cambian las 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
