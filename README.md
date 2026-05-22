@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/824.png) | **Blipbug** | Bicho | Blipbug | 824 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/890.png) | **Eternatus** | Veneno, Dragón | Eternatus | 890 |
 
 **Curiosidad:**  
-Blipbug es conocido por su habilidad para dominar la batalla.
+Eternatus es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Hoja Afilada**
 - **Puño Trueno**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Blipbug** → **Blipbug (Alola)**
+- **Eternatus** → **Eternatus (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 25
-- **Ataque:** 20
-- **Defensa:** 20
-- **Velocidad:** 45
+- **HP:** 140
+- **Ataque:** 85
+- **Defensa:** 95
+- **Velocidad:** 130
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Blipbug decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Eternatus decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Blipbug es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Eternatus es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3854
+- **CP máximo:** 3163
 - **Clase de combate:** 8
-- **Evento especial:** Blipbug puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Eternatus puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Blipbug_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Eternatus_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -472,7 +473,7 @@ Blipbug es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
