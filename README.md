@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/890.png) | **Eternatus** | Veneno, Dragón | Eternatus | 890 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png) | **Mr-mime** | Psíquico, Hada | Mr-mime | 122 |
 
 **Curiosidad:**  
-Eternatus es conocido por su habilidad para resistir ataques.
+Mr-mime es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Puño Trueno**
+- **Puño Fuego**
+- **Rayo Solar**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Eternatus** → **Eternatus (Alola)**
+- **Mr-mime** → **Mr-mime (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 140
-- **Ataque:** 85
-- **Defensa:** 95
-- **Velocidad:** 130
+- **HP:** 40
+- **Ataque:** 45
+- **Defensa:** 65
+- **Velocidad:** 90
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Eternatus decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Mr-mime decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Eternatus es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Mr-mime es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3163
+- **CP máximo:** 3405
 - **Clase de combate:** 8
-- **Evento especial:** Eternatus puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Mr-mime puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Eternatus_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mr-mime_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -473,7 +474,7 @@ Eternatus es conocido por su capacidad para desarrollar habilidades que cambian 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
