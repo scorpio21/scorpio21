@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/711.png) | **Gourgeist-average** | Fantasma, Planta | Gourgeist | 711 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/565.png) | **Carracosta** | Agua, Roca | Carracosta | 565 |
 
 **Curiosidad:**  
-Gourgeist-average es conocido por su habilidad para alcanzar altas velocidades.
+Carracosta es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Ataque Psíquico**
-- **Puño Fuego**
+- **Corte Psíquico**
+- **Rayo Solar**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Gourgeist-average** → **Gourgeist-average (Alola)**
+- **Carracosta** → **Carracosta (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 65
-- **Ataque:** 90
-- **Defensa:** 122
-- **Velocidad:** 84
+- **HP:** 74
+- **Ataque:** 108
+- **Defensa:** 133
+- **Velocidad:** 32
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Gourgeist-average decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Carracosta decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Gourgeist-average es conocido por su capacidad para dominar varias tácticas en combate.
+Carracosta es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3988
+- **CP máximo:** 3903
 - **Clase de combate:** 8
-- **Evento especial:** Gourgeist-average puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Carracosta puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gourgeist-average_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Carracosta_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -475,7 +476,7 @@ Gourgeist-average es conocido por su capacidad para dominar varias tácticas en 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
