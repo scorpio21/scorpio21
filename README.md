@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png) | **Nidoran-m** | Veneno | Nidoran-m | 32 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png) | **Hitmonchan** | Lucha | Hitmonchan | 107 |
 
 **Curiosidad:**  
-Nidoran-m es conocido por su habilidad para alcanzar altas velocidades.
+Hitmonchan es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
-- **Ataque Psíquico**
+- **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Nidoran-m** → **Nidoran-m (Alola)**
+- **Hitmonchan** → **Hitmonchan (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 46
-- **Ataque:** 57
-- **Defensa:** 40
-- **Velocidad:** 50
+- **HP:** 50
+- **Ataque:** 105
+- **Defensa:** 79
+- **Velocidad:** 76
 
 ---
 
@@ -45,23 +45,24 @@ Nidoran-m es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Nidoran-m decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Hitmonchan decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Nidoran-m es conocido por su capacidad para alcanza poderes muy altos.
+Hitmonchan es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3773
+- **CP máximo:** 3334
 - **Clase de combate:** 8
-- **Evento especial:** Nidoran-m puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Hitmonchan puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Nidoran-m_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Hitmonchan_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -477,7 +478,7 @@ Nidoran-m es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
