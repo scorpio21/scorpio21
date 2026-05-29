@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png) | **Hitmonchan** | Lucha | Hitmonchan | 107 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png) | **Growlithe** | Fuego | Growlithe | 58 |
 
 **Curiosidad:**  
-Hitmonchan es conocido por su habilidad para dominar la batalla.
+Growlithe es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Rayo Solar**
+- **Puño Fuego**
+- **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Hitmonchan** → **Hitmonchan (Alola)**
+- **Growlithe** → **Growlithe (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 50
-- **Ataque:** 105
-- **Defensa:** 79
-- **Velocidad:** 76
+- **HP:** 55
+- **Ataque:** 70
+- **Defensa:** 45
+- **Velocidad:** 60
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Hitmonchan decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Growlithe decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Hitmonchan es conocido por su capacidad para dominar varias tácticas en combate.
+Growlithe es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3334
+- **CP máximo:** 3582
 - **Clase de combate:** 8
-- **Evento especial:** Hitmonchan puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Growlithe puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Hitmonchan_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Growlithe_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
