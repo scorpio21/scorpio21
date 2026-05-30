@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png) | **Growlithe** | Fuego | Growlithe | 58 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/601.png) | **Klinklang** | Acero | Klinklang | 601 |
 
 **Curiosidad:**  
-Growlithe es conocido por su habilidad para alcanzar altas velocidades.
+Klinklang es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Corte Psíquico**
 - **Ataque Psíquico**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Growlithe** → **Growlithe (Alola)**
+- **Klinklang** → **Klinklang (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 55
-- **Ataque:** 70
-- **Defensa:** 45
-- **Velocidad:** 60
+- **HP:** 60
+- **Ataque:** 100
+- **Defensa:** 115
+- **Velocidad:** 90
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Growlithe decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Klinklang decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Growlithe es conocido por su capacidad para dominar varias tácticas en combate.
+Klinklang es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3582
+- **CP máximo:** 3242
 - **Clase de combate:** 8
-- **Evento especial:** Growlithe puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Klinklang puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Growlithe_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Klinklang_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -479,7 +480,7 @@ Growlithe es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
