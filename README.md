@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/601.png) | **Klinklang** | Acero | Klinklang | 601 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/417.png) | **Pachirisu** | Eléctrico | Pachirisu | 417 |
 
 **Curiosidad:**  
-Klinklang es conocido por su habilidad para usar ataques poderosos.
+Pachirisu es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Puño Fuego**
 - **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Klinklang** → **Klinklang (Alola)**
+- **Pachirisu** → **Pachirisu (Alola)**
 
 ---
 
 **Estadísticas base:**
 - **HP:** 60
-- **Ataque:** 100
-- **Defensa:** 115
-- **Velocidad:** 90
+- **Ataque:** 45
+- **Defensa:** 70
+- **Velocidad:** 95
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Klinklang decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Pachirisu decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Klinklang es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Pachirisu es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3242
+- **CP máximo:** 3751
 - **Clase de combate:** 8
-- **Evento especial:** Klinklang puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Pachirisu puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Klinklang_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Pachirisu_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -480,7 +481,7 @@ Klinklang es conocido por su capacidad para desarrollar habilidades que cambian 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
