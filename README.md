@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/417.png) | **Pachirisu** | Eléctrico | Pachirisu | 417 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/722.png) | **Rowlet** | Planta, Volador | Rowlet | 722 |
 
 **Curiosidad:**  
-Pachirisu es conocido por su habilidad para alcanzar altas velocidades.
+Rowlet es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
 - **Ataque Psíquico**
-- **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Pachirisu** → **Pachirisu (Alola)**
+- **Rowlet** → **Rowlet (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 45
-- **Defensa:** 70
-- **Velocidad:** 95
+- **HP:** 68
+- **Ataque:** 55
+- **Defensa:** 55
+- **Velocidad:** 42
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Pachirisu decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Rowlet decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Pachirisu es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Rowlet es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3751
+- **CP máximo:** 3990
 - **Clase de combate:** 8
-- **Evento especial:** Pachirisu puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Rowlet puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Pachirisu_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Rowlet_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -481,7 +482,7 @@ Pachirisu es conocido por su capacidad para desarrollar habilidades que cambian 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
