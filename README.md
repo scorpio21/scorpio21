@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/722.png) | **Rowlet** | Planta, Volador | Rowlet | 722 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png) | **Blastoise** | Agua | Blastoise | 9 |
 
 **Curiosidad:**  
-Rowlet es conocido por su habilidad para usar ataques poderosos.
+Blastoise es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Corte Psíquico**
 - **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Rowlet** → **Rowlet (Alola)**
+- **Blastoise** → **Blastoise (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 68
-- **Ataque:** 55
-- **Defensa:** 55
-- **Velocidad:** 42
+- **HP:** 79
+- **Ataque:** 83
+- **Defensa:** 100
+- **Velocidad:** 78
 
 ---
 
@@ -45,23 +45,24 @@ Rowlet es conocido por su habilidad para usar ataques poderosos.
 ---
 
 **Historia del día:**  
-"Hoy, Rowlet decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Blastoise decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Rowlet es conocido por su capacidad para alcanza poderes muy altos.
+Blastoise es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3990
+- **CP máximo:** 3699
 - **Clase de combate:** 8
-- **Evento especial:** Rowlet puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Blastoise puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Rowlet_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Blastoise_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -482,7 +483,7 @@ Rowlet es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
