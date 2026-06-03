@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png) | **Blastoise** | Agua | Blastoise | 9 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/636.png) | **Larvesta** | Bicho, Fuego | Larvesta | 636 |
 
 **Curiosidad:**  
-Blastoise es conocido por su habilidad para resistir ataques.
+Larvesta es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
+- **Puño Fuego**
 - **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Blastoise** → **Blastoise (Alola)**
+- **Larvesta** → **Larvesta (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 79
-- **Ataque:** 83
-- **Defensa:** 100
-- **Velocidad:** 78
+- **HP:** 55
+- **Ataque:** 85
+- **Defensa:** 55
+- **Velocidad:** 60
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Blastoise decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Larvesta decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Blastoise es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Larvesta es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3699
+- **CP máximo:** 3149
 - **Clase de combate:** 8
-- **Evento especial:** Blastoise puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Larvesta puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Blastoise_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Larvesta_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -483,7 +484,7 @@ Blastoise es conocido por su capacidad para desarrollar habilidades que cambian 
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
