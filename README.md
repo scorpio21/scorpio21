@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/636.png) | **Larvesta** | Bicho, Fuego | Larvesta | 636 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/407.png) | **Roserade** | Planta, Veneno | Roserade | 407 |
 
 **Curiosidad:**  
-Larvesta es conocido por su habilidad para alcanzar altas velocidades.
+Roserade es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Ataque Psíquico**
+- **Hoja Afilada**
+- **Puño Trueno**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Larvesta** → **Larvesta (Alola)**
+- **Roserade** → **Roserade (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 55
-- **Ataque:** 85
-- **Defensa:** 55
-- **Velocidad:** 60
+- **HP:** 60
+- **Ataque:** 70
+- **Defensa:** 65
+- **Velocidad:** 90
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Larvesta decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Roserade decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Larvesta es conocido por su capacidad para dominar varias tácticas en combate.
+Roserade es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3149
+- **CP máximo:** 3312
 - **Clase de combate:** 8
-- **Evento especial:** Larvesta puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Roserade puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Larvesta_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Roserade_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -484,7 +485,7 @@ Larvesta es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
