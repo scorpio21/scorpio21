@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/407.png) | **Roserade** | Planta, Veneno | Roserade | 407 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/615.png) | **Cryogonal** | Hielo | Cryogonal | 615 |
 
 **Curiosidad:**  
-Roserade es conocido por su habilidad para usar ataques poderosos.
+Cryogonal es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Puño Trueno**
 - **Puño Fuego**
+- **Puño Trueno**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Roserade** → **Roserade (Alola)**
+- **Cryogonal** → **Cryogonal (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 70
-- **Defensa:** 65
-- **Velocidad:** 90
+- **HP:** 80
+- **Ataque:** 50
+- **Defensa:** 50
+- **Velocidad:** 105
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Roserade decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Cryogonal decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Roserade es conocido por su capacidad para alcanza poderes muy altos.
+Cryogonal es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3312
+- **CP máximo:** 3631
 - **Clase de combate:** 8
-- **Evento especial:** Roserade puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Cryogonal puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Roserade_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cryogonal_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
