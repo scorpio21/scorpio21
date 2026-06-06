@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/615.png) | **Cryogonal** | Hielo | Cryogonal | 615 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png) | **Cyndaquil** | Fuego | Cyndaquil | 155 |
 
 **Curiosidad:**  
-Cryogonal es conocido por su habilidad para alcanzar altas velocidades.
+Cyndaquil es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
 - **Puño Trueno**
-- **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Cryogonal** → **Cryogonal (Alola)**
+- **Cyndaquil** → **Cyndaquil (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 80
-- **Ataque:** 50
-- **Defensa:** 50
-- **Velocidad:** 105
+- **HP:** 39
+- **Ataque:** 52
+- **Defensa:** 43
+- **Velocidad:** 65
 
 ---
 
@@ -45,23 +45,24 @@ Cryogonal es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Cryogonal decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Cyndaquil decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Cryogonal es conocido por su capacidad para alcanza poderes muy altos.
+Cyndaquil es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3631
+- **CP máximo:** 3173
 - **Clase de combate:** 8
-- **Evento especial:** Cryogonal puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Cyndaquil puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cryogonal_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cyndaquil_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -486,7 +487,7 @@ Cryogonal es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
