@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png) | **Cyndaquil** | Fuego | Cyndaquil | 155 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487.png) | **Giratina-altered** | Fantasma, Dragón | Giratina | 487 |
 
 **Curiosidad:**  
-Cyndaquil es conocido por su habilidad para alcanzar altas velocidades.
+Giratina-altered es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Corte Psíquico**
 - **Puño Trueno**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Cyndaquil** → **Cyndaquil (Alola)**
+- **Giratina-altered** → **Giratina-altered (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 39
-- **Ataque:** 52
-- **Defensa:** 43
-- **Velocidad:** 65
+- **HP:** 150
+- **Ataque:** 100
+- **Defensa:** 120
+- **Velocidad:** 90
 
 ---
 
@@ -45,23 +45,24 @@ Cyndaquil es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Historia del día:**  
-"Hoy, Cyndaquil decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Giratina-altered decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Cyndaquil es conocido por su capacidad para alcanza poderes muy altos.
+Giratina-altered es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3173
+- **CP máximo:** 3257
 - **Clase de combate:** 8
-- **Evento especial:** Cyndaquil puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Giratina-altered puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cyndaquil_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Giratina-altered_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -487,7 +488,7 @@ Cyndaquil es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
