@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487.png) | **Giratina-altered** | Fantasma, Dragón | Giratina | 487 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/533.png) | **Gurdurr** | Lucha | Gurdurr | 533 |
 
 **Curiosidad:**  
-Giratina-altered es conocido por su habilidad para dominar la batalla.
+Gurdurr es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Puño Trueno**
 - **Puño Fuego**
+- **Puño Trueno**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Giratina-altered** → **Giratina-altered (Alola)**
+- **Gurdurr** → **Gurdurr (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 150
-- **Ataque:** 100
-- **Defensa:** 120
-- **Velocidad:** 90
+- **HP:** 85
+- **Ataque:** 105
+- **Defensa:** 85
+- **Velocidad:** 40
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Giratina-altered decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Gurdurr decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Giratina-altered es conocido por su capacidad para dominar varias tácticas en combate.
+Gurdurr es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3257
+- **CP máximo:** 3168
 - **Clase de combate:** 8
-- **Evento especial:** Giratina-altered puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Gurdurr puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Giratina-altered_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gurdurr_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -488,7 +489,7 @@ Giratina-altered es conocido por su capacidad para dominar varias tácticas en c
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
