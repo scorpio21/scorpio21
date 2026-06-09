@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/533.png) | **Gurdurr** | Lucha | Gurdurr | 533 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png) | **Gengar** | Fantasma, Veneno | Gengar | 94 |
 
 **Curiosidad:**  
-Gurdurr es conocido por su habilidad para alcanzar altas velocidades.
+Gengar es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Puño Trueno**
+- **Corte Psíquico**
+- **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Gurdurr** → **Gurdurr (Alola)**
+- **Gengar** → **Gengar (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 85
-- **Ataque:** 105
-- **Defensa:** 85
-- **Velocidad:** 40
+- **HP:** 60
+- **Ataque:** 65
+- **Defensa:** 60
+- **Velocidad:** 110
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Gurdurr decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Gengar decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Gurdurr es conocido por su capacidad para dominar varias tácticas en combate.
+Gengar es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3168
+- **CP máximo:** 3553
 - **Clase de combate:** 8
-- **Evento especial:** Gurdurr puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Gengar puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gurdurr_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -489,7 +490,7 @@ Gurdurr es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
