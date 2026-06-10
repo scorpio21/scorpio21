@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png) | **Gengar** | Fantasma, Veneno | Gengar | 94 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/366.png) | **Clamperl** | Agua | Clamperl | 366 |
 
 **Curiosidad:**  
-Gengar es conocido por su habilidad para alcanzar altas velocidades.
+Clamperl es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Ataque Psíquico**
+- **Hoja Afilada**
 - **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Gengar** → **Gengar (Alola)**
+- **Clamperl** → **Clamperl (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 65
-- **Defensa:** 60
-- **Velocidad:** 110
+- **HP:** 35
+- **Ataque:** 64
+- **Defensa:** 85
+- **Velocidad:** 32
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Gengar decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Clamperl decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Gengar es conocido por su capacidad para dominar varias tácticas en combate.
+Clamperl es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3553
+- **CP máximo:** 3872
 - **Clase de combate:** 8
-- **Evento especial:** Gengar puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Clamperl puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Clamperl_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -490,7 +491,7 @@ Gengar es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
