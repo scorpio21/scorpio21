@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/366.png) | **Clamperl** | Agua | Clamperl | 366 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/374.png) | **Beldum** | Acero, Psíquico | Beldum | 374 |
 
 **Curiosidad:**  
-Clamperl es conocido por su habilidad para alcanzar altas velocidades.
+Beldum es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Puño Trueno**
+- **Puño Fuego**
+- **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Clamperl** → **Clamperl (Alola)**
+- **Beldum** → **Beldum (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 35
-- **Ataque:** 64
-- **Defensa:** 85
-- **Velocidad:** 32
+- **HP:** 40
+- **Ataque:** 55
+- **Defensa:** 80
+- **Velocidad:** 30
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Clamperl decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Beldum decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Clamperl es conocido por su capacidad para dominar varias tácticas en combate.
+Beldum es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3872
+- **CP máximo:** 3876
 - **Clase de combate:** 8
-- **Evento especial:** Clamperl puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Beldum puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Clamperl_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Beldum_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
