@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/374.png) | **Beldum** | Acero, Psíquico | Beldum | 374 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png) | **Chatot** | Normal, Volador | Chatot | 441 |
 
 **Curiosidad:**  
-Beldum es conocido por su habilidad para resistir ataques.
+Chatot es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Rayo Solar**
+- **Hoja Afilada**
+- **Puño Trueno**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Beldum** → **Beldum (Alola)**
+- **Chatot** → **Chatot (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 40
-- **Ataque:** 55
-- **Defensa:** 80
-- **Velocidad:** 30
+- **HP:** 76
+- **Ataque:** 65
+- **Defensa:** 45
+- **Velocidad:** 91
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Beldum decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Chatot decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Beldum es conocido por su capacidad para alcanza poderes muy altos.
+Chatot es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3876
+- **CP máximo:** 3198
 - **Clase de combate:** 8
-- **Evento especial:** Beldum puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Chatot puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Beldum_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Chatot_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -492,7 +493,7 @@ Beldum es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
