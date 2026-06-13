@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png) | **Chatot** | Normal, Volador | Chatot | 441 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/328.png) | **Trapinch** | Tierra | Trapinch | 328 |
 
 **Curiosidad:**  
-Chatot es conocido por su habilidad para resistir ataques.
+Trapinch es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
 - **Hoja Afilada**
+- **Ataque Psíquico**
 - **Puño Trueno**
-- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Chatot** → **Chatot (Alola)**
+- **Trapinch** → **Trapinch (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 76
-- **Ataque:** 65
+- **HP:** 45
+- **Ataque:** 100
 - **Defensa:** 45
-- **Velocidad:** 91
+- **Velocidad:** 10
 
 ---
 
@@ -45,23 +45,24 @@ Chatot es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Chatot decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Trapinch decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Chatot es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Trapinch es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3198
+- **CP máximo:** 3952
 - **Clase de combate:** 8
-- **Evento especial:** Chatot puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Trapinch puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Chatot_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Trapinch_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -493,7 +494,7 @@ Chatot es conocido por su capacidad para desarrollar habilidades que cambian las
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
