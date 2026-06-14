@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/328.png) | **Trapinch** | Tierra | Trapinch | 328 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png) | **Vigoroth** | Normal | Vigoroth | 288 |
 
 **Curiosidad:**  
-Trapinch es conocido por su habilidad para resistir ataques.
+Vigoroth es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
+- **Puño Fuego**
 - **Ataque Psíquico**
-- **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Trapinch** → **Trapinch (Alola)**
+- **Vigoroth** → **Vigoroth (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 45
-- **Ataque:** 100
-- **Defensa:** 45
-- **Velocidad:** 10
+- **HP:** 80
+- **Ataque:** 80
+- **Defensa:** 80
+- **Velocidad:** 90
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Trapinch decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Vigoroth decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Trapinch es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Vigoroth es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3952
+- **CP máximo:** 3854
 - **Clase de combate:** 8
-- **Evento especial:** Trapinch puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Vigoroth puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Trapinch_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Vigoroth_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -494,7 +495,7 @@ Trapinch es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
