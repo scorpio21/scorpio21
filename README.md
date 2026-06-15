@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png) | **Vigoroth** | Normal | Vigoroth | 288 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/372.png) | **Shelgon** | Dragón | Shelgon | 372 |
 
 **Curiosidad:**  
-Vigoroth es conocido por su habilidad para alcanzar altas velocidades.
+Shelgon es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
+- **Hoja Afilada**
 - **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Vigoroth** → **Vigoroth (Alola)**
+- **Shelgon** → **Shelgon (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 80
-- **Ataque:** 80
-- **Defensa:** 80
-- **Velocidad:** 90
+- **HP:** 65
+- **Ataque:** 95
+- **Defensa:** 100
+- **Velocidad:** 50
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Vigoroth decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Shelgon decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Vigoroth es conocido por su capacidad para alcanza poderes muy altos.
+Shelgon es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3854
+- **CP máximo:** 3432
 - **Clase de combate:** 8
-- **Evento especial:** Vigoroth puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Shelgon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Vigoroth_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Shelgon_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
