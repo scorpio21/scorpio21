@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/372.png) | **Shelgon** | Dragón | Shelgon | 372 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/624.png) | **Pawniard** | Siniestro, Acero | Pawniard | 624 |
 
 **Curiosidad:**  
-Shelgon es conocido por su habilidad para dominar la batalla.
+Pawniard es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Ataque Psíquico**
+- **Puño Fuego**
+- **Puño Trueno**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Shelgon** → **Shelgon (Alola)**
+- **Pawniard** → **Pawniard (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 65
-- **Ataque:** 95
-- **Defensa:** 100
-- **Velocidad:** 50
+- **HP:** 45
+- **Ataque:** 85
+- **Defensa:** 70
+- **Velocidad:** 60
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Shelgon decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Pawniard decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Shelgon es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Pawniard es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3432
+- **CP máximo:** 3225
 - **Clase de combate:** 8
-- **Evento especial:** Shelgon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Pawniard puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Shelgon_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Pawniard_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
