@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/624.png) | **Pawniard** | Siniestro, Acero | Pawniard | 624 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png) | **Masquerain** | Bicho, Volador | Masquerain | 284 |
 
 **Curiosidad:**  
-Pawniard es conocido por su habilidad para alcanzar altas velocidades.
+Masquerain es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
 - **Puño Trueno**
-- **Puño Fuego**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Pawniard** → **Pawniard (Alola)**
+- **Masquerain** → **Masquerain (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 45
-- **Ataque:** 85
-- **Defensa:** 70
-- **Velocidad:** 60
+- **HP:** 70
+- **Ataque:** 60
+- **Defensa:** 62
+- **Velocidad:** 80
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Pawniard decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Masquerain decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Pawniard es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Masquerain es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3225
+- **CP máximo:** 3564
 - **Clase de combate:** 8
-- **Evento especial:** Pawniard puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Masquerain puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Pawniard_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Masquerain_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -497,7 +498,7 @@ Pawniard es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
