@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png) | **Masquerain** | Bicho, Volador | Masquerain | 284 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/865.png) | **Sirfetchd** | Lucha | Sirfetchd | 865 |
 
 **Curiosidad:**  
-Masquerain es conocido por su habilidad para resistir ataques.
+Sirfetchd es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Puño Trueno**
+- **Corte Psíquico**
+- **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Masquerain** → **Masquerain (Alola)**
+- **Sirfetchd** → **Sirfetchd (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 70
-- **Ataque:** 60
-- **Defensa:** 62
-- **Velocidad:** 80
+- **HP:** 62
+- **Ataque:** 135
+- **Defensa:** 95
+- **Velocidad:** 65
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Masquerain decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Sirfetchd decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Masquerain es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Sirfetchd es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3564
+- **CP máximo:** 3350
 - **Clase de combate:** 8
-- **Evento especial:** Masquerain puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Sirfetchd puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Masquerain_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Sirfetchd_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
