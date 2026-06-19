@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/865.png) | **Sirfetchd** | Lucha | Sirfetchd | 865 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/735.png) | **Gumshoos** | Normal | Gumshoos | 735 |
 
 **Curiosidad:**  
-Sirfetchd es conocido por su habilidad para dominar la batalla.
+Gumshoos es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Ataque Psíquico**
+- **Hoja Afilada**
+- **Rayo Solar**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Sirfetchd** → **Sirfetchd (Alola)**
+- **Gumshoos** → **Gumshoos (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 62
-- **Ataque:** 135
-- **Defensa:** 95
-- **Velocidad:** 65
+- **HP:** 88
+- **Ataque:** 110
+- **Defensa:** 60
+- **Velocidad:** 45
 
 ---
 
@@ -45,23 +45,24 @@ Sirfetchd es conocido por su habilidad para dominar la batalla.
 ---
 
 **Historia del día:**  
-"Hoy, Sirfetchd decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Gumshoos decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Sirfetchd es conocido por su capacidad para dominar varias tácticas en combate.
+Gumshoos es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3350
+- **CP máximo:** 3422
 - **Clase de combate:** 8
-- **Evento especial:** Sirfetchd puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Gumshoos puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Sirfetchd_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gumshoos_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -499,7 +500,7 @@ Sirfetchd es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
