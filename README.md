@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/735.png) | **Gumshoos** | Normal | Gumshoos | 735 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/588.png) | **Karrablast** | Bicho | Karrablast | 588 |
 
 **Curiosidad:**  
-Gumshoos es conocido por su habilidad para alcanzar altas velocidades.
+Karrablast es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Hoja Afilada**
-- **Rayo Solar**
-- **Puño Trueno**
+- **Ataque Psíquico**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Gumshoos** → **Gumshoos (Alola)**
+- **Karrablast** → **Karrablast (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 88
-- **Ataque:** 110
-- **Defensa:** 60
-- **Velocidad:** 45
+- **HP:** 50
+- **Ataque:** 75
+- **Defensa:** 45
+- **Velocidad:** 60
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Gumshoos decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Karrablast decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Gumshoos es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Karrablast es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3422
+- **CP máximo:** 3486
 - **Clase de combate:** 8
-- **Evento especial:** Gumshoos puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Karrablast puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gumshoos_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Karrablast_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -500,7 +501,7 @@ Gumshoos es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
