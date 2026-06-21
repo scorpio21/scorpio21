@@ -13,10 +13,10 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/588.png) | **Karrablast** | Bicho | Karrablast | 588 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/438.png) | **Bonsly** | Roca | Bonsly | 438 |
 
 **Curiosidad:**  
-Karrablast es conocido por su habilidad para alcanzar altas velocidades.
+Bonsly es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
@@ -28,40 +28,41 @@ Karrablast es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Evolución:**  
-- **Karrablast** → **Karrablast (Alola)**
+- **Bonsly** → **Bonsly (Alola)**
 
 ---
 
 **Estadísticas base:**
 - **HP:** 50
-- **Ataque:** 75
-- **Defensa:** 45
-- **Velocidad:** 60
+- **Ataque:** 80
+- **Defensa:** 95
+- **Velocidad:** 10
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Karrablast decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Bonsly decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Karrablast es conocido por su capacidad para alcanza poderes muy altos.
+Bonsly es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3486
+- **CP máximo:** 3184
 - **Clase de combate:** 8
-- **Evento especial:** Karrablast puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Bonsly puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Karrablast_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Bonsly_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -501,7 +502,7 @@ Karrablast es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
