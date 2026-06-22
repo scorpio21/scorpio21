@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/438.png) | **Bonsly** | Roca | Bonsly | 438 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png) | **Sharpedo** | Agua, Siniestro | Sharpedo | 319 |
 
 **Curiosidad:**  
-Bonsly es conocido por su habilidad para alcanzar altas velocidades.
+Sharpedo es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
-- **Ataque Psíquico**
 - **Puño Fuego**
+- **Ataque Psíquico**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Bonsly** → **Bonsly (Alola)**
+- **Sharpedo** → **Sharpedo (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 50
-- **Ataque:** 80
-- **Defensa:** 95
-- **Velocidad:** 10
+- **HP:** 70
+- **Ataque:** 120
+- **Defensa:** 40
+- **Velocidad:** 95
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Bonsly decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Sharpedo decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Bonsly es conocido por su capacidad para dominar varias tácticas en combate.
+Sharpedo es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3184
+- **CP máximo:** 3889
 - **Clase de combate:** 8
-- **Evento especial:** Bonsly puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Sharpedo puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Bonsly_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Sharpedo_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -502,7 +503,7 @@ Bonsly es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
