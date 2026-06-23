@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png) | **Sharpedo** | Agua, Siniestro | Sharpedo | 319 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/809.png) | **Melmetal** | Acero | Melmetal | 809 |
 
 **Curiosidad:**  
-Sharpedo es conocido por su habilidad para dominar la batalla.
+Melmetal es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Ataque Psíquico**
+- **Hoja Afilada**
+- **Rayo Solar**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Sharpedo** → **Sharpedo (Alola)**
+- **Melmetal** → **Melmetal (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 70
-- **Ataque:** 120
-- **Defensa:** 40
-- **Velocidad:** 95
+- **HP:** 135
+- **Ataque:** 143
+- **Defensa:** 143
+- **Velocidad:** 34
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Sharpedo decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Melmetal decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Sharpedo es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Melmetal es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3889
+- **CP máximo:** 3765
 - **Clase de combate:** 8
-- **Evento especial:** Sharpedo puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Melmetal puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Sharpedo_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Melmetal_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -503,7 +504,7 @@ Sharpedo es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
