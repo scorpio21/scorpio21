@@ -13,10 +13,10 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/809.png) | **Melmetal** | Acero | Melmetal | 809 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/477.png) | **Dusknoir** | Fantasma | Dusknoir | 477 |
 
 **Curiosidad:**  
-Melmetal es conocido por su habilidad para alcanzar altas velocidades.
+Dusknoir es conocido por su habilidad para dominar la batalla.
 
 ---
 
@@ -28,40 +28,41 @@ Melmetal es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Evolución:**  
-- **Melmetal** → **Melmetal (Alola)**
+- **Dusknoir** → **Dusknoir (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 135
-- **Ataque:** 143
-- **Defensa:** 143
-- **Velocidad:** 34
+- **HP:** 45
+- **Ataque:** 100
+- **Defensa:** 135
+- **Velocidad:** 45
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Melmetal decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Dusknoir decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Melmetal es conocido por su capacidad para dominar varias tácticas en combate.
+Dusknoir es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3765
+- **CP máximo:** 3881
 - **Clase de combate:** 8
-- **Evento especial:** Melmetal puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Dusknoir puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Melmetal_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Dusknoir_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
