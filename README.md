@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png) | **Shuckle** | Bicho, Roca | Shuckle | 213 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png) | **Koffing** | Veneno | Koffing | 109 |
 
 **Curiosidad:**  
-Shuckle es conocido por su habilidad para resistir ataques.
+Koffing es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Ataque Psíquico**
+- **Corte Psíquico**
+- **Rayo Solar**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Shuckle** → **Shuckle (Alola)**
+- **Koffing** → **Koffing (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 20
-- **Ataque:** 10
-- **Defensa:** 230
-- **Velocidad:** 5
+- **HP:** 40
+- **Ataque:** 65
+- **Defensa:** 95
+- **Velocidad:** 35
 
 ---
 
@@ -45,23 +45,24 @@ Shuckle es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Shuckle decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Koffing decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Shuckle es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Koffing es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3344
+- **CP máximo:** 3938
 - **Clase de combate:** 8
-- **Evento especial:** Shuckle puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Koffing puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Shuckle_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Koffing_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -506,7 +507,7 @@ Shuckle es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
 
 ---
