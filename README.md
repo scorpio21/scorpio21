@@ -13,10 +13,10 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png) | **Koffing** | Veneno | Koffing | 109 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png) | **Gyarados** | Agua, Volador | Gyarados | 130 |
 
 **Curiosidad:**  
-Koffing es conocido por su habilidad para alcanzar altas velocidades.
+Gyarados es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
@@ -28,40 +28,41 @@ Koffing es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Evolución:**  
-- **Koffing** → **Koffing (Alola)**
+- **Gyarados** → **Gyarados (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 40
-- **Ataque:** 65
-- **Defensa:** 95
-- **Velocidad:** 35
+- **HP:** 95
+- **Ataque:** 125
+- **Defensa:** 79
+- **Velocidad:** 81
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Koffing decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Gyarados decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Koffing es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Gyarados es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3938
+- **CP máximo:** 3360
 - **Clase de combate:** 8
-- **Evento especial:** Koffing puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Gyarados puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Koffing_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gyarados_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -507,7 +508,7 @@ Koffing es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
 
 ---
