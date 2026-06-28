@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png) | **Gyarados** | Agua, Volador | Gyarados | 130 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png) | **Miltank** | Normal | Miltank | 241 |
 
 **Curiosidad:**  
-Gyarados es conocido por su habilidad para usar ataques poderosos.
+Miltank es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Rayo Solar**
+- **Puño Fuego**
+- **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Gyarados** → **Gyarados (Alola)**
+- **Miltank** → **Miltank (Alola)**
 
 ---
 
 **Estadísticas base:**
 - **HP:** 95
-- **Ataque:** 125
-- **Defensa:** 79
-- **Velocidad:** 81
+- **Ataque:** 80
+- **Defensa:** 105
+- **Velocidad:** 100
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Gyarados decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Miltank decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Gyarados es conocido por su capacidad para dominar varias tácticas en combate.
+Miltank es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3360
+- **CP máximo:** 3020
 - **Clase de combate:** 8
-- **Evento especial:** Gyarados puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Miltank puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gyarados_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Miltank_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -508,7 +509,7 @@ Gyarados es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
