@@ -13,10 +13,10 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png) | **Miltank** | Normal | Miltank | 241 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/679.png) | **Honedge** | Acero, Fantasma | Honedge | 679 |
 
 **Curiosidad:**  
-Miltank es conocido por su habilidad para alcanzar altas velocidades.
+Honedge es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
@@ -28,40 +28,41 @@ Miltank es conocido por su habilidad para alcanzar altas velocidades.
 ---
 
 **Evolución:**  
-- **Miltank** → **Miltank (Alola)**
+- **Honedge** → **Honedge (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 95
+- **HP:** 45
 - **Ataque:** 80
-- **Defensa:** 105
-- **Velocidad:** 100
+- **Defensa:** 100
+- **Velocidad:** 28
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Miltank decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Honedge decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Miltank es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Honedge es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3020
+- **CP máximo:** 3719
 - **Clase de combate:** 8
-- **Evento especial:** Miltank puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Honedge puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Miltank_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Honedge_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -509,7 +510,7 @@ Miltank es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
