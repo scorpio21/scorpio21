@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/745.png) | **Lycanroc-midday** | Roca | Lycanroc | 745 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png) | **Nidoking** | Veneno, Tierra | Nidoking | 34 |
 
 **Curiosidad:**  
-Lycanroc-midday es conocido por su habilidad para usar ataques poderosos.
+Nidoking es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
 - **Corte Psíquico**
 - **Rayo Solar**
-- **Puño Trueno**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Lycanroc-midday** → **Lycanroc-midday (Alola)**
+- **Nidoking** → **Nidoking (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 75
-- **Ataque:** 115
-- **Defensa:** 65
-- **Velocidad:** 112
+- **HP:** 81
+- **Ataque:** 102
+- **Defensa:** 77
+- **Velocidad:** 85
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Lycanroc-midday decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Nidoking decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Lycanroc-midday es conocido por su capacidad para dominar varias tácticas en combate.
+Nidoking es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3033
+- **CP máximo:** 3967
 - **Clase de combate:** 8
-- **Evento especial:** Lycanroc-midday puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Nidoking puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Lycanroc-midday_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Nidoking_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -511,7 +512,7 @@ Lycanroc-midday es conocido por su capacidad para dominar varias tácticas en co
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
