@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png) | **Nidoking** | Veneno, Tierra | Nidoking | 34 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/611.png) | **Fraxure** | Dragón | Fraxure | 611 |
 
 **Curiosidad:**  
-Nidoking es conocido por su habilidad para resistir ataques.
+Fraxure es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Rayo Solar**
 - **Puño Fuego**
+- **Ataque Psíquico**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Nidoking** → **Nidoking (Alola)**
+- **Fraxure** → **Fraxure (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 81
-- **Ataque:** 102
-- **Defensa:** 77
-- **Velocidad:** 85
+- **HP:** 66
+- **Ataque:** 117
+- **Defensa:** 70
+- **Velocidad:** 67
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Nidoking decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Fraxure decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Nidoking es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Fraxure es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3967
+- **CP máximo:** 3966
 - **Clase de combate:** 8
-- **Evento especial:** Nidoking puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Fraxure puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Nidoking_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Fraxure_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -512,7 +513,7 @@ Nidoking es conocido por su capacidad para desarrollar habilidades que cambian l
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
 
 ---
