@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/611.png) | **Fraxure** | Dragón | Fraxure | 611 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png) | **Typhlosion** | Fuego | Typhlosion | 157 |
 
 **Curiosidad:**  
-Fraxure es conocido por su habilidad para dominar la batalla.
+Typhlosion es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Ataque Psíquico**
-- **Puño Trueno**
+- **Rayo Solar**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Fraxure** → **Fraxure (Alola)**
+- **Typhlosion** → **Typhlosion (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 66
-- **Ataque:** 117
-- **Defensa:** 70
-- **Velocidad:** 67
+- **HP:** 78
+- **Ataque:** 84
+- **Defensa:** 78
+- **Velocidad:** 100
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Fraxure decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Typhlosion decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Fraxure es conocido por su capacidad para alcanza poderes muy altos.
+Typhlosion es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3966
+- **CP máximo:** 3877
 - **Clase de combate:** 8
-- **Evento especial:** Fraxure puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Typhlosion puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Fraxure_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Typhlosion_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -513,7 +514,7 @@ Fraxure es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
 <!-- END_FRASE_GAMER -->
 
 ---
