@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png) | **Typhlosion** | Fuego | Typhlosion | 157 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/267.png) | **Beautifly** | Bicho, Volador | Beautifly | 267 |
 
 **Curiosidad:**  
-Typhlosion es conocido por su habilidad para alcanzar altas velocidades.
+Beautifly es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
 - **Puño Fuego**
-- **Rayo Solar**
-- **Puño Fuego**
+- **Puño Trueno**
+- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Typhlosion** → **Typhlosion (Alola)**
+- **Beautifly** → **Beautifly (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 78
-- **Ataque:** 84
-- **Defensa:** 78
-- **Velocidad:** 100
+- **HP:** 60
+- **Ataque:** 70
+- **Defensa:** 50
+- **Velocidad:** 65
 
 ---
 
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Typhlosion decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Beautifly decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Typhlosion es conocido por su capacidad para alcanza poderes muy altos.
+Beautifly es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3877
+- **CP máximo:** 3302
 - **Clase de combate:** 8
-- **Evento especial:** Typhlosion puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Beautifly puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Typhlosion_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Beautifly_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -514,7 +515,7 @@ Typhlosion es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
