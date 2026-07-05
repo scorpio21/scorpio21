@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/267.png) | **Beautifly** | Bicho, Volador | Beautifly | 267 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/619.png) | **Mienfoo** | Lucha | Mienfoo | 619 |
 
 **Curiosidad:**  
-Beautifly es conocido por su habilidad para resistir ataques.
+Mienfoo es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
+- **Corte Psíquico**
+- **Puño Trueno**
 - **Puño Fuego**
-- **Puño Trueno**
-- **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Beautifly** → **Beautifly (Alola)**
+- **Mienfoo** → **Mienfoo (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 60
-- **Ataque:** 70
+- **HP:** 45
+- **Ataque:** 85
 - **Defensa:** 50
 - **Velocidad:** 65
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Beautifly decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Mienfoo decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Beautifly es conocido por su capacidad para dominar varias tácticas en combate.
+Mienfoo es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3302
+- **CP máximo:** 3249
 - **Clase de combate:** 8
-- **Evento especial:** Beautifly puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Mienfoo puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Beautifly_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mienfoo_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
