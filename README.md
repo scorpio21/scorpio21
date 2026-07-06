@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/619.png) | **Mienfoo** | Lucha | Mienfoo | 619 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/790.png) | **Cosmoem** | Psíquico | Cosmoem | 790 |
 
 **Curiosidad:**  
-Mienfoo es conocido por su habilidad para dominar la batalla.
+Cosmoem es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Puño Trueno**
+- **Hoja Afilada**
+- **Ataque Psíquico**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Mienfoo** → **Mienfoo (Alola)**
+- **Cosmoem** → **Cosmoem (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 45
-- **Ataque:** 85
-- **Defensa:** 50
-- **Velocidad:** 65
+- **HP:** 43
+- **Ataque:** 29
+- **Defensa:** 131
+- **Velocidad:** 37
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Mienfoo decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Cosmoem decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Mienfoo es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Cosmoem es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3249
+- **CP máximo:** 3393
 - **Clase de combate:** 8
-- **Evento especial:** Mienfoo puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Cosmoem puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mienfoo_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cosmoem_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -516,7 +517,7 @@ Mienfoo es conocido por su capacidad para desarrollar habilidades que cambian la
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
 
 ---
