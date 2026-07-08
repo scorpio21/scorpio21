@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/383.png) | **Groudon** | Tierra | Groudon | 383 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/414.png) | **Mothim** | Bicho, Volador | Mothim | 414 |
 
 **Curiosidad:**  
-Groudon es conocido por su habilidad para dominar la batalla.
+Mothim es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Puño Trueno**
-- **Puño Trueno**
+- **Puño Fuego**
+- **Rayo Solar**
+- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Groudon** → **Groudon (Alola)**
+- **Mothim** → **Mothim (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 100
-- **Ataque:** 150
-- **Defensa:** 140
-- **Velocidad:** 90
+- **HP:** 70
+- **Ataque:** 94
+- **Defensa:** 50
+- **Velocidad:** 66
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Groudon decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Mothim decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Groudon es conocido por su capacidad para alcanza poderes muy altos.
+Mothim es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3533
+- **CP máximo:** 3974
 - **Clase de combate:** 8
-- **Evento especial:** Groudon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Mothim puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Groudon_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mothim_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -518,7 +519,7 @@ Groudon es conocido por su capacidad para alcanza poderes muy altos.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
