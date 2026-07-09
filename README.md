@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/414.png) | **Mothim** | Bicho, Volador | Mothim | 414 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png) | **Vigoroth** | Normal | Vigoroth | 288 |
 
 **Curiosidad:**  
-Mothim es conocido por su habilidad para usar ataques poderosos.
+Vigoroth es conocido por su habilidad para dominar la batalla.
 
 ---
 
 **Movimientos especiales:**
-- **Puño Fuego**
-- **Rayo Solar**
+- **Hoja Afilada**
+- **Puño Trueno**
 - **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Mothim** → **Mothim (Alola)**
+- **Vigoroth** → **Vigoroth (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 70
-- **Ataque:** 94
-- **Defensa:** 50
-- **Velocidad:** 66
+- **HP:** 80
+- **Ataque:** 80
+- **Defensa:** 80
+- **Velocidad:** 90
 
 ---
 
-**Habilidad:** Clorofila 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Mothim decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Vigoroth decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Mothim es conocido por su capacidad para dominar varias tácticas en combate.
+Vigoroth es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3974
+- **CP máximo:** 3464
 - **Clase de combate:** 8
-- **Evento especial:** Mothim puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Vigoroth puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mothim_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Vigoroth_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -519,7 +520,7 @@ Mothim es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
