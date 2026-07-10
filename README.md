@@ -13,55 +13,56 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png) | **Vigoroth** | Normal | Vigoroth | 288 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png) | **Makuhita** | Lucha | Makuhita | 296 |
 
 **Curiosidad:**  
-Vigoroth es conocido por su habilidad para dominar la batalla.
+Makuhita es conocido por su habilidad para resistir ataques.
 
 ---
 
 **Movimientos especiales:**
-- **Hoja Afilada**
+- **Corte Psíquico**
+- **Rayo Solar**
 - **Puño Trueno**
-- **Puño Fuego**
 
 ---
 
 **Evolución:**  
-- **Vigoroth** → **Vigoroth (Alola)**
+- **Makuhita** → **Makuhita (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 80
-- **Ataque:** 80
-- **Defensa:** 80
-- **Velocidad:** 90
+- **HP:** 72
+- **Ataque:** 60
+- **Defensa:** 30
+- **Velocidad:** 25
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Ojo Compuesto 
 
 ---
 
 **Historia del día:**  
-"Hoy, Vigoroth decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Makuhita decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Vigoroth es conocido por su capacidad para dominar varias tácticas en combate.
+Makuhita es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3464
+- **CP máximo:** 3573
 - **Clase de combate:** 8
-- **Evento especial:** Vigoroth puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Makuhita puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Vigoroth_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Makuhita_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -520,7 +521,7 @@ Vigoroth es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
 
 ---
