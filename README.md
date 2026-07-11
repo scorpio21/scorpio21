@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png) | **Makuhita** | Lucha | Makuhita | 296 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/859.png) | **Impidimp** | Siniestro, Hada | Impidimp | 859 |
 
 **Curiosidad:**  
-Makuhita es conocido por su habilidad para resistir ataques.
+Impidimp es conocido por su habilidad para usar ataques poderosos.
 
 ---
 
 **Movimientos especiales:**
-- **Corte Psíquico**
-- **Rayo Solar**
+- **Hoja Afilada**
+- **Ataque Psíquico**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Makuhita** → **Makuhita (Alola)**
+- **Impidimp** → **Impidimp (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 72
-- **Ataque:** 60
+- **HP:** 45
+- **Ataque:** 45
 - **Defensa:** 30
-- **Velocidad:** 25
+- **Velocidad:** 50
 
 ---
 
@@ -45,23 +45,24 @@ Makuhita es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Makuhita decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Impidimp decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Makuhita es conocido por su capacidad para dominar varias tácticas en combate.
+Impidimp es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3573
+- **CP máximo:** 3263
 - **Clase de combate:** 8
-- **Evento especial:** Makuhita puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Impidimp puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Makuhita_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Impidimp_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -521,7 +522,7 @@ Makuhita es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
 
 ---
