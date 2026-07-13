@@ -13,30 +13,30 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 | Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
 |:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/566.png) | **Archen** | Roca, Volador | Archen | 566 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666.png) | **Vivillon** | Bicho, Volador | Vivillon | 666 |
 
 **Curiosidad:**  
-Archen es conocido por su habilidad para resistir ataques.
+Vivillon es conocido por su habilidad para alcanzar altas velocidades.
 
 ---
 
 **Movimientos especiales:**
 - **Hoja Afilada**
-- **Ataque Psíquico**
+- **Puño Trueno**
 - **Puño Trueno**
 
 ---
 
 **Evolución:**  
-- **Archen** → **Archen (Alola)**
+- **Vivillon** → **Vivillon (Alola)**
 
 ---
 
 **Estadísticas base:**
-- **HP:** 55
-- **Ataque:** 112
-- **Defensa:** 45
-- **Velocidad:** 70
+- **HP:** 80
+- **Ataque:** 52
+- **Defensa:** 50
+- **Velocidad:** 89
 
 ---
 
@@ -45,23 +45,24 @@ Archen es conocido por su habilidad para resistir ataques.
 ---
 
 **Historia del día:**  
-"Hoy, Archen decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Vivillon decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Archen es conocido por su capacidad para alcanza poderes muy altos.
+Vivillon es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3377
+- **CP máximo:** 3330
 - **Clase de combate:** 8
-- **Evento especial:** Archen puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Vivillon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Archen_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Vivillon_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
