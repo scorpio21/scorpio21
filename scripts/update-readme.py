@@ -42,7 +42,7 @@ def get_pokemon_of_the_day():
     nombre = data["name"].capitalize()
     tipos = [tipo["type"]["name"] for tipo in data["types"]]
     tipos_es = [get_pokemon_type_translation(tipo) for tipo in tipos]
-    imagen = data["sprites"]["front_default"]
+    imagen = data["sprites"]["other"]["official-artwork"]["front_default"]
     pokedex_num = data["id"]
     clase = data["species"]["name"]
 
@@ -59,45 +59,41 @@ def get_pokemon_of_the_day():
     for grupo in species["egg_groups"]
 )
 
-    species = requests.get(data["species"]["url"]).json()
+       stats = {stat["stat"]["name"]: stat["base_stat"] for stat in data["stats"]}
 
-    color_pokedex = species["color"]["name"]
-    
-    stats = {stat["stat"]["name"]: stat["base_stat"] for stat in data["stats"]}
     altura = data["height"] / 10
     peso = data["weight"] / 10
-
     experiencia = data["base_experience"]
-    
-    habilidades = []
 
+    habilidades = []
     habilidad_oculta = None
 
-for habilidad in data["abilities"]:
-    nombre = habilidad["ability"]["name"].replace("-", " ").capitalize()
+    for habilidad in data["abilities"]:
+        nombre_habilidad = habilidad["ability"]["name"].replace("-", " ").capitalize()
 
-    if habilidad["is_hidden"]:
-        habilidad_oculta = nombre
-    else:
-        habilidades.append(nombre)
- return (
-    nombre,
-    tipos_es,
-    imagen,
-    pokedex_num,
-    clase,
-    stats,
-    altura,
-    peso,
-    experiencia,
-    habitat,
-    color_pokedex,
-    capture_rate,
-    base_happiness,
-    egg_groups,
-    habilidades,
-    habilidad_oculta
-)   
+        if habilidad["is_hidden"]:
+            habilidad_oculta = nombre_habilidad
+        else:
+            habilidades.append(nombre_habilidad)
+
+    return (
+        nombre,
+        tipos_es,
+        imagen,
+        pokedex_num,
+        clase,
+        stats,
+        altura,
+        peso,
+        experiencia,
+        habitat,
+        color_pokedex,
+        capture_rate,
+        base_happiness,
+        egg_groups,
+        habilidades,
+        habilidad_oculta
+    )
 # Traducción de tipos
 def get_pokemon_type_translation(tipo):
     traducciones = {
@@ -202,19 +198,6 @@ def get_evolution_chain(pokedex_num):
     habilidad_oculta
 ) = get_pokemon_of_the_day()
 
-
-colores_es = {
-    "black": "Negro ⚫",
-    "blue": "Azul 🔵",
-    "brown": "Marrón 🟤",
-    "gray": "Gris ⚪",
-    "green": "Verde 🟢",
-    "pink": "Rosa 🩷",
-    "purple": "Morado 🟣",
-    "red": "Rojo 🔴",
-    "white": "Blanco ⚪",
-    "yellow": "Amarillo 🟡"
-}
 colores_pokedex = {
     "black": "⚫ Negro",
     "blue": "🔵 Azul",
@@ -327,7 +310,6 @@ pokemon_info_block = f"""<!-- POKEMON_INFO -->
 <tr><td><b>✨ Habilidad oculta</b></td>
 <td>{habilidad_oculta if habilidad_oculta else "Ninguna"}</td></tr>
 <tr><td><b>Nº Pokédex</b></td><td>{pokedex_num}</td></tr>
-<tr><td><b>Color Pokédex</b></td><td>{colores_es[color_pokedex]}</td></tr>
 <tr><td><b>Movimientos especiales</b></td><td>{', '.join([
 random.choice(["Corte Psíquico", "Hoja Afilada", "Puño Fuego"]),
 random.choice(["Rayo Solar", "Ataque Psíquico", "Puño Trueno"]),
