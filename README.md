@@ -8,83 +8,88 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-14T18:14:06.643844 -->
+<!-- Generated: 2026-07-14T18:19:02.358465 -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/758.png" alt="Salazzle" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🔵 <b>Salazzle</b></td></tr>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png" alt="Teddiursa" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🟢 <b>Teddiursa</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
-<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
 </td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>758</td></tr>
-<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"></td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>216</td></tr>
+<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"></td></tr>
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
+<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
+<td></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td>Ninguna</td>
+<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"></td>
 </tr>
-<tr><td><b>Clase</b></td><td>Salazzle</td></tr>
-<tr><td><b>🎨 Color Pokédex</b></td><td>⚫ Negro</td></tr>
-<tr><td><b>📏 Altura</b></td><td>1.2 m</td></tr>
-<tr><td><b>⚖️ Peso</b></td><td>22.2 kg</td></tr>
-<tr><td><b>⭐ Experiencia</b></td><td>168</td></tr>
-<tr><td><b>🌍 Hábitat</b></td><td>Desconocido</td></tr>
-<tr><td><b>🥚 Grupo huevo</b></td><td>Monster, Dragon</td></tr>
+<tr><td><b>Clase</b></td><td>Teddiursa</td></tr>
+<tr><td><b>🎨 Color Pokédex</b></td><td>🟤 Marrón</td></tr>
+<tr><td><b>📏 Altura</b></td><td>0.6 m</td></tr>
+<tr><td><b>⚖️ Peso</b></td><td>8.8 kg</td></tr>
+<tr><td><b>⭐ Experiencia</b></td><td>66</td></tr>
+<tr><td><b>🌍 Hábitat</b></td><td>Mountain</td></tr>
+<tr><td><b>🥚 Grupo huevo</b></td><td>Ground</td></tr>
 <tr><td><b>❤️ Amistad base</b></td><td>70</td></tr>
-<tr><td><b>🎯 Ratio captura</b></td><td>45</td></tr>
+<tr><td><b>🎯 Ratio captura</b></td><td>120</td></tr>
 <tr><td><b>💪 Habilidades</b></td>
-<td>Corrosion</td></tr>
+<td>Pickup, Quick feet</td></tr>
 <tr><td><b>✨ Habilidad oculta</b></td>
-<td>Oblivious</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Puño Fuego, Puño Trueno, Puño Fuego</td></tr>
+<td>Honey gather</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Hoja Afilada, Ataque Psíquico, Puño Trueno</td></tr>
 <tr><td><b>Evolución</b></td><td><table><tr>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/salandit.jpg" width="70"><br>
-    <small><b>Salandit</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/teddiursa.jpg" width="70"><br>
+    <small><b>Teddiursa</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/salazzle.jpg" width="70"><br>
-    <small><b>Salazzle</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/ursaring.jpg" width="70"><br>
+    <small><b>Ursaring</b></small>
+</td>
+<td align="center"><b>➡️</b></td>
+<td align="center">
+    <img src="https://img.pokemondb.net/artwork/large/ursaluna.jpg" width="70"><br>
+    <small><b>Ursaluna</b></small>
 </td>
 </tr></table></td></tr>
 <tr><td><b>Estadísticas base</b></td><td>
 ❤️ <b>PS</b><br>
-🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 68<br>
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 60<br>
 
 ⚔️ <b>Ataque</b><br>
-🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 64
+🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 80
 
 🛡️ <b>Defensa</b><br>
-🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 60<br>
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 50<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 111<br>
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 50<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 60<br>
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 50<br>
 
 💨 <b>Velocidad</b><br>
-🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 117
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 40
 </td></tr>
 <tr>
 <td><b>🏆 Poder total (BST)</b></td>
 <td>
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
+🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>480 puntos</b><br>
-⚔️ Fuerte
+<b>330 puntos</b><br>
+👍 Normal
 </td>
 </tr>
 </table>
@@ -92,21 +97,21 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 <br>
 
 **Historia del día:**  
-"Hoy, Salazzle decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Teddiursa decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Salazzle es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Teddiursa es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3209
+- **CP máximo:** 3109
 - **Clase de combate:** 8
-- **Evento especial:** Salazzle puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Teddiursa puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Salazzle_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Teddiursa_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -597,11 +602,13 @@ Salazzle es conocido por su capacidad para desarrollar habilidades que cambian l
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-14T18:14:06.643844 -->
+<!-- Generated: 2026-07-14T18:19:02.358465 -->
 ### 💬 Frase 🎮 del día
 > "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
+
 
 
 
