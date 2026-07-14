@@ -8,42 +8,42 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-14T15:58:20.586336 -->
+<!-- Generated: 2026-07-14T16:07:30.235916 -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/407.png" alt="Roserade" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🔵 <b>Roserade</b></td></tr>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/420.png" alt="Cherubi" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🔵 <b>Cherubi</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
 <img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td></tr>
-<tr><td><b>Tipo(s)</b></td><td>Planta, Veneno</td></tr>
-<tr><td><b>Clase</b></td><td>Roserade</td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>407</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Puño Fuego, Puño Trueno, Puño Trueno</td></tr>
-<tr><td><b>Evolución</b></td><td>Budew → Roselia → Roserade</td></tr>
-<tr><td><b>Estadísticas base</b></td><td>HP: 60<br>Atq: 70<br>Def: 65<br>Vel: 90</td></tr>
+<tr><td><b>Tipo(s)</b></td><td>Planta</td></tr>
+<tr><td><b>Clase</b></td><td>Cherubi</td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>420</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Corte Psíquico, Ataque Psíquico, Puño Trueno</td></tr>
+<tr><td><b>Evolución</b></td><td>Cherubi → Cherrim</td></tr>
+<tr><td><b>Estadísticas base</b></td><td>HP: 45<br>Atq: 35<br>Def: 45<br>Vel: 35</td></tr>
 </table>
 
 <br>
 
 **Historia del día:**  
-"Hoy, Roserade decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Cherubi decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Roserade es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Cherubi es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3852
+- **CP máximo:** 3354
 - **Clase de combate:** 8
-- **Evento especial:** Roserade puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Cherubi puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Roserade_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cherubi_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -517,11 +517,13 @@ Roserade es conocido por su capacidad para desarrollar habilidades que cambian l
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-14T15:58:20.586336 -->
+<!-- Generated: 2026-07-14T16:07:30.235916 -->
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
+
 
 
 
