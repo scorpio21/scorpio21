@@ -8,42 +8,42 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-14T15:42:11.245462 -->
+<!-- Generated: 2026-07-14T15:51:48.105166 -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png" alt="Porygon" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🟢 <b>Porygon</b></td></tr>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png" alt="Cubone" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🔵 <b>Cubone</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
-<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
+<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td></tr>
-<tr><td><b>Tipo(s)</b></td><td>Normal</td></tr>
-<tr><td><b>Clase</b></td><td>Porygon</td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>137</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Corte Psíquico, Rayo Solar, Puño Fuego</td></tr>
-<tr><td><b>Evolución</b></td><td>Porygon → Porygon2 → Porygon-z</td></tr>
-<tr><td><b>Estadísticas base</b></td><td>HP: 65<br>Atq: 60<br>Def: 70<br>Vel: 40</td></tr>
+<tr><td><b>Tipo(s)</b></td><td>Tierra</td></tr>
+<tr><td><b>Clase</b></td><td>Cubone</td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>104</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Hoja Afilada, Ataque Psíquico, Puño Trueno</td></tr>
+<tr><td><b>Evolución</b></td><td>Cubone → Marowak</td></tr>
+<tr><td><b>Estadísticas base</b></td><td>HP: 50<br>Atq: 50<br>Def: 95<br>Vel: 35</td></tr>
 </table>
 
 <br>
 
 **Historia del día:**  
-"Hoy, Porygon decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Cubone decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Porygon es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Cubone es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3530
+- **CP máximo:** 3669
 - **Clase de combate:** 8
-- **Evento especial:** Porygon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Cubone puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Porygon_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cubone_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -514,11 +514,13 @@ Porygon es conocido por su capacidad para desarrollar habilidades que cambian la
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-14T15:42:11.245462 -->
+<!-- Generated: 2026-07-14T15:51:48.105166 -->
 ### 💬 Frase 🎮 del día
-> "En cada partida, hay un nuevo desafío esperando ser conquistado."
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
+
 
 
 
