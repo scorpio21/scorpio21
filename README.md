@@ -8,42 +8,42 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-14T16:07:30.235916 -->
+<!-- Generated: 2026-07-14T16:12:48.911157 -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/420.png" alt="Cherubi" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🔵 <b>Cherubi</b></td></tr>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/554.png" alt="Darumaka" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🔵 <b>Darumaka</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
 <img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td></tr>
-<tr><td><b>Tipo(s)</b></td><td>Planta</td></tr>
-<tr><td><b>Clase</b></td><td>Cherubi</td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>420</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Corte Psíquico, Ataque Psíquico, Puño Trueno</td></tr>
-<tr><td><b>Evolución</b></td><td>Cherubi → Cherrim</td></tr>
-<tr><td><b>Estadísticas base</b></td><td>HP: 45<br>Atq: 35<br>Def: 45<br>Vel: 35</td></tr>
+<tr><td><b>Tipo(s)</b></td><td>Fuego</td></tr>
+<tr><td><b>Clase</b></td><td>Darumaka</td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>554</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Hoja Afilada, Ataque Psíquico, Puño Trueno</td></tr>
+<tr><td><b>Evolución</b></td><td>Darumaka → Darmanitan</td></tr>
+<tr><td><b>Estadísticas base</b></td><td>HP: 70<br>Atq: 90<br>Def: 45<br>Vel: 50</td></tr>
 </table>
 
 <br>
 
 **Historia del día:**  
-"Hoy, Cherubi decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Darumaka decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Cherubi es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Darumaka es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3354
+- **CP máximo:** 3738
 - **Clase de combate:** 8
-- **Evento especial:** Cherubi puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Darumaka puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cherubi_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Darumaka_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -518,11 +518,13 @@ Cherubi es conocido por su capacidad para desarrollar habilidades que cambian la
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-14T16:07:30.235916 -->
+<!-- Generated: 2026-07-14T16:12:48.911157 -->
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
+
 
 
 
