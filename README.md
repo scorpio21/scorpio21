@@ -8,81 +8,86 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-14T17:31:40.970048 -->
+<!-- Generated: 2026-07-14T17:36:01.549115 -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png" alt="Pelipper" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🔵 <b>Pelipper</b></td></tr>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png" alt="Glastrier" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🔵 <b>Glastrier</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
 <img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>279</td></tr>
-<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td></tr>
-<tr><td><b>Clase</b></td><td>Pelipper</td></tr>
-<tr><td><b>🎨 Color Pokédex</b></td><td>🟡 Amarillo</td></tr>
-<tr><td><b>📏 Altura</b></td><td>1.2 m</td></tr>
-<tr><td><b>⚖️ Peso</b></td><td>28.0 kg</td></tr>
-<tr><td><b>⭐ Experiencia</b></td><td>154</td></tr>
-<tr><td><b>🌍 Hábitat</b></td><td>Sea</td></tr>
-<tr><td><b>🥚 Grupo huevo</b></td><td>Water1, Flying</td></tr>
-<tr><td><b>❤️ Amistad base</b></td><td>70</td></tr>
-<tr><td><b>🎯 Ratio captura</b></td><td>45</td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>896</td></tr>
+<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"></td></tr>
+<tr>
+<td><b>⚔️ Débil contra</b></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"></td>
+</tr>
+
+<tr>
+<td><b>🛡️ Resiste</b></td>
+<td><img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"></td>
+</tr>
+
+<tr>
+<td><b>✨ Inmune a</b></td>
+<td>Ninguna</td>
+</tr>
+<tr><td><b>Clase</b></td><td>Glastrier</td></tr>
+<tr><td><b>🎨 Color Pokédex</b></td><td>⚪ Blanco</td></tr>
+<tr><td><b>📏 Altura</b></td><td>2.2 m</td></tr>
+<tr><td><b>⚖️ Peso</b></td><td>800.0 kg</td></tr>
+<tr><td><b>⭐ Experiencia</b></td><td>290</td></tr>
+<tr><td><b>🌍 Hábitat</b></td><td>Desconocido</td></tr>
+<tr><td><b>🥚 Grupo huevo</b></td><td>No-eggs</td></tr>
+<tr><td><b>❤️ Amistad base</b></td><td>35</td></tr>
+<tr><td><b>🎯 Ratio captura</b></td><td>3</td></tr>
 <tr><td><b>💪 Habilidades</b></td>
-<td>Keen eye, Drizzle</td></tr>
+<td>Chilling neigh</td></tr>
 <tr><td><b>✨ Habilidad oculta</b></td>
-<td>Rain dish</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Hoja Afilada, Puño Trueno, Puño Trueno</td></tr>
-<tr><td><b>Evolución</b></td><td>
-<table>
-<tr>
-<td align="center"><img src="https://img.pokemondb.net/artwork/large/wingull.jpg" width="70"></td><td align="center"><b>➡️</b></td><td align="center"><img src="https://img.pokemondb.net/artwork/large/pelipper.jpg" width="70"></td>
-</tr>
-<tr>
-<td align="center"><b>Wingull</b></td><td></td><td align="center"><b>Pelipper</b></td>
-</tr>
-</table>
-</td></tr>
+<td>Ninguna</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Corte Psíquico, Ataque Psíquico, Puño Trueno</td></tr>
+<tr><td><b>Evolución</b></td><td>No evoluciona</td></tr>
 <tr><td><b>Estadísticas base</b></td><td>
 ❤️ <b>PS</b><br>
-🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 60<br><br>
-
-⚔️ <b>Ataque</b><br>
-🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 50<br><br>
-
-🛡️ <b>Defensa</b><br>
 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 100<br><br>
 
+⚔️ <b>Ataque</b><br>
+🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 145<br><br>
+
+🛡️ <b>Defensa</b><br>
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 130<br><br>
+
 ✨ <b>Ataque Especial</b><br>
-🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 95<br><br>
+🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 65<br><br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 70<br><br>
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 110<br><br>
 
 💨 <b>Velocidad</b><br>
-🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 65
+🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 30
 </td></tr>
 </table>
 
 <br>
 
 **Historia del día:**  
-"Hoy, Pelipper decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Glastrier decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Pelipper es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Glastrier es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3580
+- **CP máximo:** 3812
 - **Clase de combate:** 8
-- **Evento especial:** Pelipper puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Glastrier puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Pelipper_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Glastrier_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -566,11 +571,13 @@ Pelipper es conocido por su capacidad para desarrollar habilidades que cambian l
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-14T17:31:40.970048 -->
+<!-- Generated: 2026-07-14T17:36:01.549115 -->
 ### 💬 Frase 🎮 del día
-> "Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
+
 
 
 
