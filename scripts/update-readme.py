@@ -316,19 +316,19 @@ def barra_stat(valor, maximo=255, ancho=10):
 # Stats en vertical
 stats_md = f"""
 ❤️ <b>PS</b><br>
-{barra_stat(stats['hp'])} {stats['hp']}<br><br>
+{barra_stat(stats['hp'])} {stats['hp']}<br>
 
 ⚔️ <b>Ataque</b><br>
-{barra_stat(stats['attack'])} {stats['attack']}<br><br>
+{barra_stat(stats['attack'])} {stats['attack']}<br>
 
 🛡️ <b>Defensa</b><br>
-{barra_stat(stats['defense'])} {stats['defense']}<br><br>
+{barra_stat(stats['defense'])} {stats['defense']}<br>
 
 ✨ <b>Ataque Especial</b><br>
-{barra_stat(stats['special-attack'])} {stats['special-attack']}<br><br>
+{barra_stat(stats['special-attack'])} {stats['special-attack']}<br>
 
 🛡️ <b>Defensa Especial</b><br>
-{barra_stat(stats['special-defense'])} {stats['special-defense']}<br><br>
+{barra_stat(stats['special-defense'])} {stats['special-defense']}<br>
 
 💨 <b>Velocidad</b><br>
 {barra_stat(stats['speed'])} {stats['speed']}
