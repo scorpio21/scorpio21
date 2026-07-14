@@ -8,83 +8,83 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-14T18:13:22.713474 -->
+<!-- Generated: 2026-07-14T18:14:06.643844 -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png" alt="Cottonee" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🔵 <b>Cottonee</b></td></tr>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/758.png" alt="Salazzle" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🔵 <b>Salazzle</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
 <img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>546</td></tr>
-<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"></td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>758</td></tr>
+<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"></td></tr>
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"></td>
+<td>Ninguna</td>
 </tr>
-<tr><td><b>Clase</b></td><td>Cottonee</td></tr>
-<tr><td><b>🎨 Color Pokédex</b></td><td>🟢 Verde</td></tr>
-<tr><td><b>📏 Altura</b></td><td>0.3 m</td></tr>
-<tr><td><b>⚖️ Peso</b></td><td>0.6 kg</td></tr>
-<tr><td><b>⭐ Experiencia</b></td><td>56</td></tr>
+<tr><td><b>Clase</b></td><td>Salazzle</td></tr>
+<tr><td><b>🎨 Color Pokédex</b></td><td>⚫ Negro</td></tr>
+<tr><td><b>📏 Altura</b></td><td>1.2 m</td></tr>
+<tr><td><b>⚖️ Peso</b></td><td>22.2 kg</td></tr>
+<tr><td><b>⭐ Experiencia</b></td><td>168</td></tr>
 <tr><td><b>🌍 Hábitat</b></td><td>Desconocido</td></tr>
-<tr><td><b>🥚 Grupo huevo</b></td><td>Plant, Fairy</td></tr>
+<tr><td><b>🥚 Grupo huevo</b></td><td>Monster, Dragon</td></tr>
 <tr><td><b>❤️ Amistad base</b></td><td>70</td></tr>
-<tr><td><b>🎯 Ratio captura</b></td><td>190</td></tr>
+<tr><td><b>🎯 Ratio captura</b></td><td>45</td></tr>
 <tr><td><b>💪 Habilidades</b></td>
-<td>Prankster, Infiltrator</td></tr>
+<td>Corrosion</td></tr>
 <tr><td><b>✨ Habilidad oculta</b></td>
-<td>Chlorophyll</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Hoja Afilada, Ataque Psíquico, Puño Fuego</td></tr>
+<td>Oblivious</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Puño Fuego, Puño Trueno, Puño Fuego</td></tr>
 <tr><td><b>Evolución</b></td><td><table><tr>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/cottonee.jpg" width="70"><br>
-    <small><b>Cottonee</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/salandit.jpg" width="70"><br>
+    <small><b>Salandit</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/whimsicott.jpg" width="70"><br>
-    <small><b>Whimsicott</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/salazzle.jpg" width="70"><br>
+    <small><b>Salazzle</b></small>
 </td>
 </tr></table></td></tr>
 <tr><td><b>Estadísticas base</b></td><td>
 ❤️ <b>PS</b><br>
-🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 40<br>
+🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 68<br>
 
 ⚔️ <b>Ataque</b><br>
-🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 27
+🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 64
 
 🛡️ <b>Defensa</b><br>
 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 60<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 37<br>
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 111<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 50<br>
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 60<br>
 
 💨 <b>Velocidad</b><br>
-🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 66
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 117
 </td></tr>
 <tr>
 <td><b>🏆 Poder total (BST)</b></td>
 <td>
-🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
 
-<b>280 puntos</b><br>
-🌱 Básico
+<b>480 puntos</b><br>
+⚔️ Fuerte
 </td>
 </tr>
 </table>
@@ -92,21 +92,21 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 <br>
 
 **Historia del día:**  
-"Hoy, Cottonee decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Salazzle decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Cottonee es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Salazzle es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3615
+- **CP máximo:** 3209
 - **Clase de combate:** 8
-- **Evento especial:** Cottonee puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Salazzle puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cottonee_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Salazzle_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -596,11 +596,13 @@ Cottonee es conocido por su capacidad para desarrollar habilidades que cambian l
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-14T18:13:22.713474 -->
+<!-- Generated: 2026-07-14T18:14:06.643844 -->
 ### 💬 Frase 🎮 del día
-> "Solo hay una regla: ¡Ganar es lo único que importa!"
+> "Si no estás ganando, ¡estás aprendiendo!"
 <!-- END_FRASE_GAMER -->
+
 
 
 
