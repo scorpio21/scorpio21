@@ -8,42 +8,42 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-14T15:24:49.934597 -->
+<!-- Generated: 2026-07-14T15:38:05.975747 -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/266.png" alt="Silcoon" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🟢 <b>Silcoon</b></td></tr>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png" alt="Ledian" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🟢 <b>Ledian</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
 <img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
 </td></tr>
-<tr><td><b>Tipo(s)</b></td><td>Bicho</td></tr>
-<tr><td><b>Clase</b></td><td>Silcoon</td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>266</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Hoja Afilada, Ataque Psíquico, Puño Fuego</td></tr>
-<tr><td><b>Evolución</b></td><td>Silcoon → Silcoon (Alola)</td></tr>
-<tr><td><b>Estadísticas base</b></td><td>HP: 50<br>Atq: 35<br>Def: 55<br>Vel: 15</td></tr>
+<tr><td><b>Tipo(s)</b></td><td>Bicho, Volador</td></tr>
+<tr><td><b>Clase</b></td><td>Ledian</td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>166</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Hoja Afilada, Rayo Solar, Puño Trueno</td></tr>
+<tr><td><b>Evolución</b></td><td>Ledyba → Ledian</td></tr>
+<tr><td><b>Estadísticas base</b></td><td>HP: 55<br>Atq: 35<br>Def: 50<br>Vel: 85</td></tr>
 </table>
 
 <br>
 
 **Historia del día:**  
-"Hoy, Silcoon decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Ledian decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Silcoon es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Ledian es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3261
+- **CP máximo:** 3647
 - **Clase de combate:** 8
-- **Evento especial:** Silcoon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Ledian puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Silcoon_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Ledian_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -512,11 +512,13 @@ Silcoon es conocido por su capacidad para desarrollar habilidades que cambian la
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-14T15:24:49.934597 -->
+<!-- Generated: 2026-07-14T15:38:05.975747 -->
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
+
 
 
 
