@@ -24,7 +24,7 @@ jobs:
 
     - name: Ejecutar script para actualizar README
       run: |
-        python update-readme.py  # Asegúrate de que el script esté en la raíz
+        python scripts/update-readme.py  # Asegúrate de que el script esté en la raíz
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Usa un token de GitHub como secreto (más abajo)
 
