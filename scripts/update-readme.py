@@ -3,6 +3,27 @@ import random
 import re
 from datetime import datetime
 
+# Tipos de caracteres
+type_chart = {
+    "Normal": {"weak": ["Lucha"], "resist": [], "immune": ["Fantasma"]},
+    "Fuego": {"weak": ["Agua", "Tierra", "Roca"], "resist": ["Fuego", "Planta", "Hielo", "Bicho", "Acero", "Hada"], "immune": []},
+    "Agua": {"weak": ["Planta", "Eléctrico"], "resist": ["Fuego", "Agua", "Hielo", "Acero"], "immune": []},
+    "Planta": {"weak": ["Fuego", "Hielo", "Veneno", "Volador", "Bicho"], "resist": ["Agua", "Planta", "Tierra", "Eléctrico"], "immune": []},
+    "Eléctrico": {"weak": ["Tierra"], "resist": ["Eléctrico", "Volador", "Acero"], "immune": []},
+    "Hielo": {"weak": ["Fuego", "Lucha", "Roca", "Acero"], "resist": ["Hielo"], "immune": []},
+    "Lucha": {"weak": ["Volador", "Psíquico", "Hada"], "resist": ["Bicho", "Roca", "Siniestro"], "immune": []},
+    "Veneno": {"weak": ["Tierra", "Psíquico"], "resist": ["Planta", "Lucha", "Veneno", "Bicho", "Hada"], "immune": []},
+    "Tierra": {"weak": ["Agua", "Planta", "Hielo"], "resist": ["Veneno", "Roca"], "immune": ["Eléctrico"]},
+    "Volador": {"weak": ["Eléctrico", "Hielo", "Roca"], "resist": ["Planta", "Lucha", "Bicho"], "immune": ["Tierra"]},
+    "Psíquico": {"weak": ["Bicho", "Fantasma", "Siniestro"], "resist": ["Lucha", "Psíquico"], "immune": []},
+    "Bicho": {"weak": ["Fuego", "Volador", "Roca"], "resist": ["Planta", "Lucha", "Tierra"], "immune": []},
+    "Roca": {"weak": ["Agua", "Planta", "Lucha", "Tierra", "Acero"], "resist": ["Normal", "Fuego", "Veneno", "Volador"], "immune": []},
+    "Fantasma": {"weak": ["Fantasma", "Siniestro"], "resist": ["Veneno", "Bicho"], "immune": ["Normal", "Lucha"]},
+    "Dragón": {"weak": ["Hielo", "Dragón", "Hada"], "resist": ["Fuego", "Agua", "Planta", "Eléctrico"], "immune": []},
+    "Siniestro": {"weak": ["Lucha", "Bicho", "Hada"], "resist": ["Fantasma", "Siniestro"], "immune": ["Psíquico"]},
+    "Acero": {"weak": ["Fuego", "Lucha", "Tierra"], "resist": ["Normal", "Planta", "Hielo", "Volador", "Psíquico", "Bicho", "Roca", "Dragón", "Acero", "Hada"], "immune": ["Veneno"]},
+    "Hada": {"weak": ["Veneno", "Acero"], "resist": ["Lucha", "Bicho", "Siniestro"], "immune": ["Dragón"]}
+}
 # Lista de legendarios/míticos
 legendarios = [
     144,145,146,150,151,243,244,245,249,250,251,
@@ -22,6 +43,24 @@ neon_rarity_colors = {
     "legendario": "#ffd700"
 }
 
+# Obtener tipo
+def obtener_tipo_info(tipos):
+    debilidades = set()
+    resistencias = set()
+    inmunidades = set()
+
+    for tipo in tipos:
+        datos = type_chart.get(tipo, {})
+        debilidades.update(datos.get("weak", []))
+        resistencias.update(datos.get("resist", []))
+        inmunidades.update(datos.get("immune", []))
+
+    return (
+        sorted(debilidades),
+        sorted(resistencias),
+        sorted(inmunidades)
+    )
+    
 # Función para determinar rareza
 def get_rarity(tipo_principal, pokedex_num):
     if pokedex_num in legendarios:
@@ -294,9 +333,27 @@ stats_md = f"""
 💨 <b>Velocidad</b><br>
 {barra_stat(stats['speed'])} {stats['speed']}
 """
+# Tipos Html
 tipos_html = " ".join(
     f'<img src="{tipo_badges.get(tipo)}" alt="{tipo}">'
     for tipo in tipos_es
+)
+
+debilidades, resistencias, inmunidades = obtener_tipo_info(tipos_es)
+
+debilidades_html = " ".join(
+    f'<img src="{tipo_badges[t]}" alt="{t}">'
+    for t in debilidades if t in tipo_badges
+)
+
+resistencias_html = " ".join(
+    f'<img src="{tipo_badges[t]}" alt="{t}">'
+    for t in resistencias if t in tipo_badges
+)
+
+inmunidades_html = " ".join(
+    f'<img src="{tipo_badges[t]}" alt="{t}">'
+    for t in inmunidades if t in tipo_badges
 )
 
 # Timestamp
@@ -316,6 +373,20 @@ pokemon_info_block = f"""<!-- POKEMON_INFO -->
 </td></tr>
 <tr><td><b>Nº Pokédex</b></td><td>{pokedex_num}</td></tr>
 <tr><td><b>Tipo(s)</b></td><td>{tipos_html}</td></tr>
+<tr>
+<td><b>⚔️ Débil contra</b></td>
+<td>{debilidades_html}</td>
+</tr>
+
+<tr>
+<td><b>🛡️ Resiste</b></td>
+<td>{resistencias_html}</td>
+</tr>
+
+<tr>
+<td><b>✨ Inmune a</b></td>
+<td>{inmunidades_html if inmunidades_html else "Ninguna"}</td>
+</tr>
 <tr><td><b>Clase</b></td><td>{clase.capitalize()}</td></tr>
 <tr><td><b>🎨 Color Pokédex</b></td><td>{colores_pokedex[color_pokedex]}</td></tr>
 <tr><td><b>📏 Altura</b></td><td>{altura} m</td></tr>
