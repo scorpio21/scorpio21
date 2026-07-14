@@ -66,16 +66,18 @@ frase_del_dia = get_gamer_quote()
 
 # Bloque de información de Pokémon en el README
 pokemon_info_block = f"""<!-- POKEMON_INFO -->
-
 ### 🐱‍👤 Pokémon del día
 
 | Imagen | Nombre | Tipo(s) | Clase | Nº Pokédex | Movimientos especiales | Evolución | Estadísticas base |
 |:------:|:------:|:-------:|:-----:|:----------:|:----------------------:|:---------:|:------------------:|
 | ![Pokémon del día]({pokemon_img_url}) | **{nombre}** | {', '.join(tipos_es)} | {clase.capitalize()} | {pokedex_num} | {', '.join([
-    random.choice(["Corte Psíquico", "Hoja Afilada", "Puño Fuego"]),
-    random.choice(["Rayo Solar", "Ataque Psíquico", "Puño Trueno"]),
-    random.choice(["Puño Trueno", "Puño Fuego"])
+random.choice(["Corte Psíquico", "Hoja Afilada", "Puño Fuego"]),
+random.choice(["Rayo Solar", "Ataque Psíquico", "Puño Trueno"]),
+random.choice(["Puño Trueno", "Puño Fuego"])
 ])} | {nombre} → {nombre} (Alola) | HP: {stats["hp"]}, Atq: {stats["attack"]}, Def: {stats["defense"]}, Vel: {stats["speed"]} |
+
+<!-- END_POKEMON_INFO -->
+"""
 
 **Curiosidad:**  
 {nombre} es conocido por su habilidad para {random.choice(["usar ataques poderosos", "alcanzar altas velocidades", "dominar la batalla", "resistir ataques"]).lower()}.
