@@ -8,37 +8,38 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
+<!-- Generated: 2026-07-14T14:14:42.990365 -->
 ### 🐱‍👤 Pokémon del día
 
 | Imagen | Nombre | Tipo(s) | Clase | Nº Pokédex | Movimientos especiales | Evolución | Estadísticas base |
 |:------:|:------:|:-------:|:-----:|:----------:|:----------------------:|:---------:|:------------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png) | **Fearow** | Normal, Volador | Fearow | 22 | Puño Fuego, Rayo Solar, Puño Fuego | Fearow → Fearow (Alola) | HP: 65, Atq: 90, Def: 65, Vel: 100 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/780.png) | **Drampa** | Normal, Dragón | Drampa | 780 | Hoja Afilada, Rayo Solar, Puño Fuego | Drampa → Drampa (Alola) | HP: 78<br>Atq: 60<br>Def: 85<br>Vel: 36 |
 
 **Curiosidad:**  
-Fearow es conocido por su habilidad para dominar la batalla.
+Drampa es conocido por su habilidad para dominar la batalla.
 
 ---
 
-**Habilidad:** Impunidad 
+**Habilidad:** Clorofila 
 
 ---
 
 **Historia del día:**  
-"Hoy, Fearow decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Drampa decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Fearow es conocido por su capacidad para dominar varias tácticas en combate.
+Drampa es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3502
+- **CP máximo:** 3829
 - **Clase de combate:** 8
-- **Evento especial:** Fearow puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Drampa puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Fearow_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Drampa_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -502,11 +503,13 @@ Fearow es conocido por su capacidad para dominar varias tácticas en combate.
 
 
 
-<!-- FRASE_GAMER -->
 
+<!-- FRASE_GAMER -->
+<!-- Generated: 2026-07-14T14:14:42.990365 -->
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
+
 
 ---
 
