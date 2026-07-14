@@ -8,42 +8,52 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-14T16:21:20.075586 -->
+<!-- Generated: 2026-07-14T16:32:17.943649 -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/191.png" alt="Sunkern" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🔵 <b>Sunkern</b></td></tr>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png" alt="Cloyster" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🔵 <b>Cloyster</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
 <img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td></tr>
-<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td></tr>
-<tr><td><b>Clase</b></td><td>Sunkern</td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>191</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Hoja Afilada, Puño Trueno, Puño Fuego</td></tr>
-<tr><td><b>Evolución</b></td><td>Sunkern → Sunflora</td></tr>
-<tr><td><b>Estadísticas base</b></td><td>HP: 30<br>Atq: 30<br>Def: 30<br>Vel: 30</td></tr>
+<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"></td></tr>
+<tr><td><b>Clase</b></td><td>Cloyster</td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>91</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Corte Psíquico, Rayo Solar, Puño Fuego</td></tr>
+<tr><td><b>Evolución</b></td><td>
+                <div style="display:inline-block;text-align:center">
+                    <img src="https://img.pokemondb.net/artwork/large/shellder.jpg" width="70"><br>
+                    <small>Shellder</small>
+                </div>
+                 ➜ 
+                <div style="display:inline-block;text-align:center">
+                    <img src="https://img.pokemondb.net/artwork/large/cloyster.jpg" width="70"><br>
+                    <small>Cloyster</small>
+                </div>
+                </td></tr>
+<tr><td><b>Estadísticas base</b></td><td>HP: 50<br>Atq: 95<br>Def: 180<br>Vel: 70</td></tr>
 </table>
 
 <br>
 
 **Historia del día:**  
-"Hoy, Sunkern decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Cloyster decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Sunkern es conocido por su capacidad para alcanza poderes muy altos.
+Cloyster es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3252
+- **CP máximo:** 3827
 - **Clase de combate:** 8
-- **Evento especial:** Sunkern puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Cloyster puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Sunkern_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cloyster_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -521,11 +531,13 @@ Sunkern es conocido por su capacidad para alcanza poderes muy altos.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-14T16:21:20.075586 -->
+<!-- Generated: 2026-07-14T16:32:17.943649 -->
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
+
 
 
 
