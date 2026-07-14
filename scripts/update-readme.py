@@ -180,39 +180,53 @@ def get_evolution_chain(pokedex_num):
 
         def recorrer(cadena):
             evoluciones.append(cadena["species"]["name"].capitalize())
-
             for evo in cadena["evolves_to"]:
                 recorrer(evo)
 
         recorrer(evo_data["chain"])
 
+        # Si solo tiene una forma, no evoluciona
         if len(evoluciones) == 1:
             return "No evoluciona"
 
-        fila_imagenes = ""
-        fila_nombres = ""
+        # Si hay 4 o menos evoluciones → una sola fila
+        # Si hay más → dividir en dos filas
+        if len(evoluciones) <= 4:
+            filas = [evoluciones]
+        else:
+            filas = [
+                evoluciones[:4],
+                evoluciones[4:]
+            ]
 
-        for i, nombre in enumerate(evoluciones):
+        html = "<table>"
 
-            imagen = f"https://img.pokemondb.net/artwork/large/{nombre.lower()}.jpg"
+        for fila in filas:
+            html += "<tr>"
 
-            fila_imagenes += f'<td align="center"><img src="{imagen}" width="70"></td>'
-            fila_nombres += f'<td align="center"><b>{nombre}</b></td>'
+            for i, nombre in enumerate(fila):
+                imagen = f"https://img.pokemondb.net/artwork/large/{nombre.lower()}.jpg"
 
-            if i < len(evoluciones) - 1:
-                fila_imagenes += '<td align="center"><b>➡️</b></td>'
-                fila_nombres += '<td></td>'
-
-        return f"""
-<table> 
-<tr>
-{fila_imagenes}
-</tr>
-<tr>
-{fila_nombres}
-</tr>
-</table>
+                html += f"""
+<td align="center">
+    <img src="{imagen}" width="70"><br>
+    <small><b>{nombre}</b></small>
+</td>
 """
+
+                # Flecha entre evoluciones
+                if i < len(fila) - 1:
+                    html += '<td align="center"><b>➡️</b></td>'
+
+            html += "</tr>"
+
+        html += "</table>"
+
+        return html
+
+    except Exception as e:
+        return f"Error obteniendo evolución: {e}"
+
     except Exception:
         return "Desconocida"
 
