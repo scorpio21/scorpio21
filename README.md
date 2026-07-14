@@ -8,82 +8,82 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-14T17:45:15.098281 -->
+<!-- Generated: 2026-07-14T17:47:06.200894 -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/832.png" alt="Dubwool" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🟢 <b>Dubwool</b></td></tr>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png" alt="Leafeon" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🔵 <b>Leafeon</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
-<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
+<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>832</td></tr>
-<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"></td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>470</td></tr>
+<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td></tr>
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"></td>
+<td>Ninguna</td>
 </tr>
-<tr><td><b>Clase</b></td><td>Dubwool</td></tr>
-<tr><td><b>🎨 Color Pokédex</b></td><td>⚪ Blanco</td></tr>
-<tr><td><b>📏 Altura</b></td><td>1.3 m</td></tr>
-<tr><td><b>⚖️ Peso</b></td><td>43.0 kg</td></tr>
-<tr><td><b>⭐ Experiencia</b></td><td>172</td></tr>
+<tr><td><b>Clase</b></td><td>Leafeon</td></tr>
+<tr><td><b>🎨 Color Pokédex</b></td><td>🟢 Verde</td></tr>
+<tr><td><b>📏 Altura</b></td><td>1.0 m</td></tr>
+<tr><td><b>⚖️ Peso</b></td><td>25.5 kg</td></tr>
+<tr><td><b>⭐ Experiencia</b></td><td>184</td></tr>
 <tr><td><b>🌍 Hábitat</b></td><td>Desconocido</td></tr>
 <tr><td><b>🥚 Grupo huevo</b></td><td>Ground</td></tr>
-<tr><td><b>❤️ Amistad base</b></td><td>50</td></tr>
-<tr><td><b>🎯 Ratio captura</b></td><td>127</td></tr>
+<tr><td><b>❤️ Amistad base</b></td><td>35</td></tr>
+<tr><td><b>🎯 Ratio captura</b></td><td>45</td></tr>
 <tr><td><b>💪 Habilidades</b></td>
-<td>Fluffy, Steadfast</td></tr>
+<td>Leaf guard</td></tr>
 <tr><td><b>✨ Habilidad oculta</b></td>
-<td>Bulletproof</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Corte Psíquico, Puño Trueno, Puño Trueno</td></tr>
+<td>Chlorophyll</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Hoja Afilada, Ataque Psíquico, Puño Trueno</td></tr>
 <tr><td><b>Evolución</b></td><td>
 <table>
 <tr>
-<td align="center"><img src="https://img.pokemondb.net/artwork/large/wooloo.jpg" width="70"></td><td align="center"><b>➡️</b></td><td align="center"><img src="https://img.pokemondb.net/artwork/large/dubwool.jpg" width="70"></td>
+<td align="center"><img src="https://img.pokemondb.net/artwork/large/eevee.jpg" width="70"></td><td align="center"><b>➡️</b></td><td align="center"><img src="https://img.pokemondb.net/artwork/large/vaporeon.jpg" width="70"></td><td align="center"><b>➡️</b></td><td align="center"><img src="https://img.pokemondb.net/artwork/large/jolteon.jpg" width="70"></td><td align="center"><b>➡️</b></td><td align="center"><img src="https://img.pokemondb.net/artwork/large/flareon.jpg" width="70"></td><td align="center"><b>➡️</b></td><td align="center"><img src="https://img.pokemondb.net/artwork/large/espeon.jpg" width="70"></td><td align="center"><b>➡️</b></td><td align="center"><img src="https://img.pokemondb.net/artwork/large/umbreon.jpg" width="70"></td><td align="center"><b>➡️</b></td><td align="center"><img src="https://img.pokemondb.net/artwork/large/leafeon.jpg" width="70"></td><td align="center"><b>➡️</b></td><td align="center"><img src="https://img.pokemondb.net/artwork/large/glaceon.jpg" width="70"></td><td align="center"><b>➡️</b></td><td align="center"><img src="https://img.pokemondb.net/artwork/large/sylveon.jpg" width="70"></td>
 </tr>
 <tr>
-<td align="center"><b>Wooloo</b></td><td></td><td align="center"><b>Dubwool</b></td>
+<td align="center"><b>Eevee</b></td><td></td><td align="center"><b>Vaporeon</b></td><td></td><td align="center"><b>Jolteon</b></td><td></td><td align="center"><b>Flareon</b></td><td></td><td align="center"><b>Espeon</b></td><td></td><td align="center"><b>Umbreon</b></td><td></td><td align="center"><b>Leafeon</b></td><td></td><td align="center"><b>Glaceon</b></td><td></td><td align="center"><b>Sylveon</b></td>
 </tr>
 </table>
 </td></tr>
 <tr><td><b>Estadísticas base</b></td><td>
 ❤️ <b>PS</b><br>
-🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 72<br>
+🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 65<br>
 
 ⚔️ <b>Ataque</b><br>
-🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 80<br>
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 110
 
 🛡️ <b>Defensa</b><br>
-🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 100<br>
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 130<br>
 
 ✨ <b>Ataque Especial</b><br>
 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 60<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 90<br>
+🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 65<br>
 
 💨 <b>Velocidad</b><br>
-🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 88
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 95
 </td></tr>
 <tr>
 <td><b>🏆 Poder total (BST)</b></td>
 <td>
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
 
-<b>490 puntos</b><br>
-⚔️ Fuerte
+<b>525 puntos</b><br>
+🔥 Muy fuerte
 </td>
 </tr>
 </table>
@@ -91,21 +91,21 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 <br>
 
 **Historia del día:**  
-"Hoy, Dubwool decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Leafeon decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Dubwool es conocido por su capacidad para dominar varias tácticas en combate.
+Leafeon es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3868
+- **CP máximo:** 3933
 - **Clase de combate:** 8
-- **Evento especial:** Dubwool puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Leafeon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Dubwool_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Leafeon_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -592,11 +592,13 @@ Dubwool es conocido por su capacidad para dominar varias tácticas en combate.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-14T17:45:15.098281 -->
+<!-- Generated: 2026-07-14T17:47:06.200894 -->
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
+
 
 
 
