@@ -76,9 +76,6 @@ random.choice(["Rayo Solar", "Ataque Psíquico", "Puño Trueno"]),
 random.choice(["Puño Trueno", "Puño Fuego"])
 ])} | {nombre} → {nombre} (Alola) | HP: {stats["hp"]}, Atq: {stats["attack"]}, Def: {stats["defense"]}, Vel: {stats["speed"]} |
 
-<!-- END_POKEMON_INFO -->
-"""
-
 **Curiosidad:**  
 {nombre} es conocido por su habilidad para {random.choice(["usar ataques poderosos", "alcanzar altas velocidades", "dominar la batalla", "resistir ataques"]).lower()}.
 
