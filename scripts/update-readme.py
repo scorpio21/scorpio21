@@ -59,7 +59,7 @@ def get_pokemon_of_the_day():
     for grupo in species["egg_groups"]
 )
 
-       stats = {stat["stat"]["name"]: stat["base_stat"] for stat in data["stats"]}
+    stats = {stat["stat"]["name"]: stat["base_stat"] for stat in data["stats"]}
 
     altura = data["height"] / 10
     peso = data["weight"] / 10
