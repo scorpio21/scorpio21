@@ -64,7 +64,9 @@ def get_gamer_quote():
 # Obtener la frase gamer del día
 frase_del_dia = get_gamer_quote()
 
+
 # Bloque de información de Pokémon en el README
+stats_md = f"HP: {stats['hp']}<br>Atq: {stats['attack']}<br>Def: {stats['defense']}<br>Vel: {stats['speed']}"
 pokemon_info_block = f"""<!-- POKEMON_INFO -->
 ### 🐱‍👤 Pokémon del día
 
@@ -74,7 +76,7 @@ pokemon_info_block = f"""<!-- POKEMON_INFO -->
 random.choice(["Corte Psíquico", "Hoja Afilada", "Puño Fuego"]),
 random.choice(["Rayo Solar", "Ataque Psíquico", "Puño Trueno"]),
 random.choice(["Puño Trueno", "Puño Fuego"])
-])} | {nombre} → {nombre} (Alola) | HP: {stats["hp"]}, Atq: {stats["attack"]}, Def: {stats["defense"]}, Vel: {stats["speed"]} |
+])} | {nombre} → {nombre} (Alola) | {stats_md} |
 
 **Curiosidad:**  
 {nombre} es conocido por su habilidad para {random.choice(["usar ataques poderosos", "alcanzar altas velocidades", "dominar la batalla", "resistir ataques"]).lower()}.
