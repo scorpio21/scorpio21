@@ -1,4 +1,4 @@
-name: Actualizar README
+name: 🪄 Actualizar PAGINA DE SCORPIO automáticamente
 
 on:
   schedule:
@@ -33,5 +33,5 @@ jobs:
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
         git add README.md
-        git commit -m "Actualización diaria del Pokémon y la frase gamer"
+        git commit -m "🪄 Actualización diaria automática: Pokémon y frase gamer"
         git push
