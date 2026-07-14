@@ -59,9 +59,42 @@ def get_pokemon_type_translation(tipo):
         "dark": "Siniestro", "ground": "Tierra", "shadow": "Sombra"
     }
     return traducciones.get(tipo, tipo)
+    
+# Obtener la cadena de evolución
+def get_evolution_chain(pokedex_num):
+    try:
+        # Obtener la especie
+        species_url = f"https://pokeapi.co/api/v2/pokemon-species/{pokedex_num}"
+        species = requests.get(species_url).json()
+
+        # URL de la cadena evolutiva
+        evo_url = species["evolution_chain"]["url"]
+
+        # Descargar la cadena
+        evo_data = requests.get(evo_url).json()
+
+        nombres = []
+
+        def recorrer(cadena):
+            nombres.append(cadena["species"]["name"].capitalize())
+            for evo in cadena["evolves_to"]:
+                recorrer(evo)
+
+        recorrer(evo_data["chain"])
+
+        if len(nombres) == 1:
+            return "No evoluciona"
+
+        return " → ".join(nombres)
+
+    except Exception:
+        return "Desconocida"
 
 # Obtener Pokémon del día
 nombre, tipos_es, pokemon_img_url, pokedex_num, clase, stats = get_pokemon_of_the_day()
+
+# obtiene la cadena
+cadena_evolucion = get_evolution_chain(pokedex_num)
 
 # Rareza + color
 rareza = get_rarity(tipos_es[0], pokedex_num)
