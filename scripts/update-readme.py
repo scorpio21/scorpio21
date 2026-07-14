@@ -319,7 +319,7 @@ stats_md = f"""
 {barra_stat(stats['hp'])} {stats['hp']}<br>
 
 ⚔️ <b>Ataque</b><br>
-{barra_stat(stats['attack'])} {stats['attack']}<br>
+{barra_stat(stats['attack'])} {stats['attack']}
 
 🛡️ <b>Defensa</b><br>
 {barra_stat(stats['defense'])} {stats['defense']}<br>
