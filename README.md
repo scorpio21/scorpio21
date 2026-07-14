@@ -8,81 +8,81 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-14T17:42:40.320942 -->
+<!-- Generated: 2026-07-14T17:45:15.098281 -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/203.png" alt="Girafarig" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🟢 <b>Girafarig</b></td></tr>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/832.png" alt="Dubwool" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🟢 <b>Dubwool</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
 <img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
 </td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>203</td></tr>
-<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"></td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>832</td></tr>
+<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"></td></tr>
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
+<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"></td>
+<td></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
 <td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"></td>
 </tr>
-<tr><td><b>Clase</b></td><td>Girafarig</td></tr>
-<tr><td><b>🎨 Color Pokédex</b></td><td>🟡 Amarillo</td></tr>
-<tr><td><b>📏 Altura</b></td><td>1.5 m</td></tr>
-<tr><td><b>⚖️ Peso</b></td><td>41.5 kg</td></tr>
-<tr><td><b>⭐ Experiencia</b></td><td>159</td></tr>
-<tr><td><b>🌍 Hábitat</b></td><td>Grassland</td></tr>
+<tr><td><b>Clase</b></td><td>Dubwool</td></tr>
+<tr><td><b>🎨 Color Pokédex</b></td><td>⚪ Blanco</td></tr>
+<tr><td><b>📏 Altura</b></td><td>1.3 m</td></tr>
+<tr><td><b>⚖️ Peso</b></td><td>43.0 kg</td></tr>
+<tr><td><b>⭐ Experiencia</b></td><td>172</td></tr>
+<tr><td><b>🌍 Hábitat</b></td><td>Desconocido</td></tr>
 <tr><td><b>🥚 Grupo huevo</b></td><td>Ground</td></tr>
-<tr><td><b>❤️ Amistad base</b></td><td>70</td></tr>
-<tr><td><b>🎯 Ratio captura</b></td><td>60</td></tr>
+<tr><td><b>❤️ Amistad base</b></td><td>50</td></tr>
+<tr><td><b>🎯 Ratio captura</b></td><td>127</td></tr>
 <tr><td><b>💪 Habilidades</b></td>
-<td>Inner focus, Early bird</td></tr>
+<td>Fluffy, Steadfast</td></tr>
 <tr><td><b>✨ Habilidad oculta</b></td>
-<td>Sap sipper</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Corte Psíquico, Puño Trueno, Puño Fuego</td></tr>
+<td>Bulletproof</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Corte Psíquico, Puño Trueno, Puño Trueno</td></tr>
 <tr><td><b>Evolución</b></td><td>
 <table>
 <tr>
-<td align="center"><img src="https://img.pokemondb.net/artwork/large/girafarig.jpg" width="70"></td><td align="center"><b>➡️</b></td><td align="center"><img src="https://img.pokemondb.net/artwork/large/farigiraf.jpg" width="70"></td>
+<td align="center"><img src="https://img.pokemondb.net/artwork/large/wooloo.jpg" width="70"></td><td align="center"><b>➡️</b></td><td align="center"><img src="https://img.pokemondb.net/artwork/large/dubwool.jpg" width="70"></td>
 </tr>
 <tr>
-<td align="center"><b>Girafarig</b></td><td></td><td align="center"><b>Farigiraf</b></td>
+<td align="center"><b>Wooloo</b></td><td></td><td align="center"><b>Dubwool</b></td>
 </tr>
 </table>
 </td></tr>
 <tr><td><b>Estadísticas base</b></td><td>
 ❤️ <b>PS</b><br>
-🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 70<br><br>
+🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 72<br>
 
 ⚔️ <b>Ataque</b><br>
-🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 80<br><br>
+🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 80<br>
 
 🛡️ <b>Defensa</b><br>
-🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 65<br><br>
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 100<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 90<br><br>
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 60<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 65<br><br>
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 90<br>
 
 💨 <b>Velocidad</b><br>
-🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 85
+🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 88
 </td></tr>
 <tr>
 <td><b>🏆 Poder total (BST)</b></td>
 <td>
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜
 
-<b>455 puntos</b><br>
+<b>490 puntos</b><br>
 ⚔️ Fuerte
 </td>
 </tr>
@@ -91,21 +91,21 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 <br>
 
 **Historia del día:**  
-"Hoy, Girafarig decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Dubwool decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Girafarig es conocido por su capacidad para dominar varias tácticas en combate.
+Dubwool es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3706
+- **CP máximo:** 3868
 - **Clase de combate:** 8
-- **Evento especial:** Girafarig puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Dubwool puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Girafarig_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Dubwool_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -591,11 +591,13 @@ Girafarig es conocido por su capacidad para dominar varias tácticas en combate.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-14T17:42:40.320942 -->
+<!-- Generated: 2026-07-14T17:45:15.098281 -->
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
+
 
 
 
