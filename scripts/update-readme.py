@@ -37,6 +37,7 @@ def get_pokemon_of_the_day():
     url = "https://pokeapi.co/api/v2/pokemon/" + str(random.randint(1, 898))
     response = requests.get(url)
     data = response.json()
+    species = requests.get(data["species"]["url"]).json()
     
     nombre = data["name"].capitalize()
     tipos = [tipo["type"]["name"] for tipo in data["types"]]
@@ -45,14 +46,58 @@ def get_pokemon_of_the_day():
     pokedex_num = data["id"]
     clase = data["species"]["name"]
 
+    color_pokedex = species["color"]["name"]
+
+    habitat = species["habitat"]["name"].capitalize() if species["habitat"] else "Desconocido"
+
+    capture_rate = species["capture_rate"]
+
+    base_happiness = species["base_happiness"]
+
+    egg_groups = ", ".join(
+    grupo["name"].capitalize()
+    for grupo in species["egg_groups"]
+)
+
     species = requests.get(data["species"]["url"]).json()
 
     color_pokedex = species["color"]["name"]
     
     stats = {stat["stat"]["name"]: stat["base_stat"] for stat in data["stats"]}
-    
-    return nombre, tipos_es, imagen, pokedex_num, clase, stats, color_pokedex
+    altura = data["height"] / 10
+    peso = data["weight"] / 10
 
+    experiencia = data["base_experience"]
+    
+    habilidades = []
+
+    habilidad_oculta = None
+
+for habilidad in data["abilities"]:
+    nombre = habilidad["ability"]["name"].replace("-", " ").capitalize()
+
+    if habilidad["is_hidden"]:
+        habilidad_oculta = nombre
+    else:
+        habilidades.append(nombre)
+ return (
+    nombre,
+    tipos_es,
+    imagen,
+    pokedex_num,
+    clase,
+    stats,
+    altura,
+    peso,
+    experiencia,
+    habitat,
+    color_pokedex,
+    capture_rate,
+    base_happiness,
+    egg_groups,
+    habilidades,
+    habilidad_oculta
+)   
 # Traducción de tipos
 def get_pokemon_type_translation(tipo):
     traducciones = {
@@ -138,7 +183,24 @@ def get_evolution_chain(pokedex_num):
         return "Desconocida"
 
 # Obtener Pokémon del día
-nombre, tipos_es, pokemon_img_url, pokedex_num, clase, stats, color_pokedex = get_pokemon_of_the_day()
+(
+    nombre,
+    tipos_es,
+    pokemon_img_url,
+    pokedex_num,
+    clase,
+    stats,
+    altura,
+    peso,
+    experiencia,
+    habitat,
+    color_pokedex,
+    capture_rate,
+    base_happiness,
+    egg_groups,
+    habilidades,
+    habilidad_oculta
+) = get_pokemon_of_the_day()
 
 
 colores_es = {
@@ -153,7 +215,18 @@ colores_es = {
     "white": "Blanco ⚪",
     "yellow": "Amarillo 🟡"
 }
-
+colores_pokedex = {
+    "black": "⚫ Negro",
+    "blue": "🔵 Azul",
+    "brown": "🟤 Marrón",
+    "gray": "⚪ Gris",
+    "green": "🟢 Verde",
+    "pink": "🩷 Rosa",
+    "purple": "🟣 Morado",
+    "red": "🔴 Rojo",
+    "white": "⚪ Blanco",
+    "yellow": "🟡 Amarillo"
+}
 # obtiene la cadena
 cadena_evolucion = get_evolution_chain(pokedex_num)
 
@@ -241,6 +314,18 @@ pokemon_info_block = f"""<!-- POKEMON_INFO -->
 </td></tr>
 <tr><td><b>Tipo(s)</b></td><td>{tipos_html}</td></tr>
 <tr><td><b>Clase</b></td><td>{clase.capitalize()}</td></tr>
+<tr><td><b>🎨 Color Pokédex</b></td><td>{colores_pokedex[color_pokedex]}</td></tr>
+<tr><td><b>📏 Altura</b></td><td>{altura} m</td></tr>
+<tr><td><b>⚖️ Peso</b></td><td>{peso} kg</td></tr>
+<tr><td><b>⭐ Experiencia</b></td><td>{experiencia}</td></tr>
+<tr><td><b>🌍 Hábitat</b></td><td>{habitat}</td></tr>
+<tr><td><b>🥚 Grupo huevo</b></td><td>{egg_groups}</td></tr>
+<tr><td><b>❤️ Amistad base</b></td><td>{base_happiness}</td></tr>
+<tr><td><b>🎯 Ratio captura</b></td><td>{capture_rate}</td></tr>
+<tr><td><b>💪 Habilidades</b></td>
+<td>{", ".join(habilidades)}</td></tr>
+<tr><td><b>✨ Habilidad oculta</b></td>
+<td>{habilidad_oculta if habilidad_oculta else "Ninguna"}</td></tr>
 <tr><td><b>Nº Pokédex</b></td><td>{pokedex_num}</td></tr>
 <tr><td><b>Color Pokédex</b></td><td>{colores_es[color_pokedex]}</td></tr>
 <tr><td><b>Movimientos especiales</b></td><td>{', '.join([
