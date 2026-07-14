@@ -8,29 +8,73 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-14T14:28:16.173530 -->
+<!-- Generated: 2026-07-14T14:36:27.963417 -->
 ### 🐱‍👤 Pokémon del día
 
-| Imagen | Nombre | Tipo(s) | Clase | Nº Pokédex | Movimientos especiales | Evolución | Estadísticas base |
-|:------:|:------:|:-------:|:-----:|:----------:|:----------------------:|:---------:|:------------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/371.png) | <span style="color:#ff1493; font-weight:bold; text-shadow: 0 0 5px #ff1493, 0 0 10px #ff1493, 0 0 20px #ff1493;">Bagon</span> | Dragón | Bagon | 371 | Puño Fuego, Puño Trueno, Puño Trueno | Bagon → Bagon (Alola) | HP: 45<br>Atq: 75<br>Def: 60<br>Vel: 50 |
+<table>
+<tr>
+<td><b>Imagen</b></td>
+<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/256.png" alt="Combusken" /></td>
+</tr>
+
+<tr>
+<td><b>Nombre</b></td>
+<td>
+<span style="color:#1e90ff; font-weight:bold; text-shadow: 0 0 5px #1e90ff, 0 0 10px #1e90ff, 0 0 20px #1e90ff;">
+Combusken
+</span>
+</td>
+</tr>
+
+<tr>
+<td><b>Tipo(s)</b></td>
+<td>Fuego, Lucha</td>
+</tr>
+
+<tr>
+<td><b>Clase</b></td>
+<td>Combusken</td>
+</tr>
+
+<tr>
+<td><b>Nº Pokédex</b></td>
+<td>256</td>
+</tr>
+
+<tr>
+<td><b>Movimientos especiales</b></td>
+<td>Corte Psíquico, Rayo Solar, Puño Trueno</td>
+</tr>
+
+<tr>
+<td><b>Evolución</b></td>
+<td>Combusken → Combusken (Alola)</td>
+</tr>
+
+<tr>
+<td><b>Estadísticas base</b></td>
+<td>HP: 60<br>Atq: 85<br>Def: 60<br>Vel: 55</td>
+</tr>
+</table>
+
+<br>
 
 **Historia del día:**  
-"Hoy, Bagon decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Combusken decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Bagon es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Combusken es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3183
+- **CP máximo:** 3387
 - **Clase de combate:** 8
-- **Evento especial:** Bagon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Combusken puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Bagon_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Combusken_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -497,11 +541,13 @@ Bagon es conocido por su capacidad para desarrollar habilidades que cambian las 
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-14T14:28:16.173530 -->
+<!-- Generated: 2026-07-14T14:36:27.963417 -->
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
+
 
 
 
