@@ -3,6 +3,35 @@ import random
 import re
 from datetime import datetime
 
+# Lista de legendarios/míticos
+legendarios = [
+    144,145,146,150,151,243,244,245,249,250,251,
+    377,378,379,380,381,382,383,384,385,
+    480,481,482,483,484,485,486,487,488,489,490,
+    638,639,640,641,642,643,644,645,646,647,648,649,
+    716,717,718,719,720,721,
+    785,786,787,788,789,790,791,792,800,801,802,
+    888,889,890
+]
+
+# Colores neón según rareza
+neon_rarity_colors = {
+    "comun": "#00ff7f",
+    "no_comun": "#1e90ff",
+    "raro": "#ff1493",
+    "legendario": "#ffd700"
+}
+
+# Función para determinar rareza
+def get_rarity(tipo_principal, pokedex_num):
+    if pokedex_num in legendarios:
+        return "legendario"
+    if tipo_principal in ["Psíquico", "Fantasma", "Acero", "Dragón", "Siniestro", "Hada"]:
+        return "raro"
+    if tipo_principal in ["Planta", "Agua", "Fuego", "Eléctrico", "Veneno", "Lucha", "Roca", "Tierra", "Hielo"]:
+        return "no_comun"
+    return "comun"
+
 # Función para obtener el Pokémon del día
 def get_pokemon_of_the_day():
     url = "https://pokeapi.co/api/v2/pokemon/" + str(random.randint(1, 898))
@@ -34,6 +63,13 @@ def get_pokemon_type_translation(tipo):
 # Obtener Pokémon del día
 nombre, tipos_es, pokemon_img_url, pokedex_num, clase, stats = get_pokemon_of_the_day()
 
+# Rareza + color neón
+rareza = get_rarity(tipos_es[0], pokedex_num)
+color_nombre = neon_rarity_colors[rareza]
+
+# Nombre con borde neón
+nombre_neon = f'<span style="color:{color_nombre}; font-weight:bold; text-shadow: 0 0 5px {color_nombre}, 0 0 10px {color_nombre}, 0 0 20px {color_nombre};">{nombre}</span>'
+
 # Frase gamer
 def get_gamer_quote():
     frases = [
@@ -50,7 +86,7 @@ def get_gamer_quote():
 
 frase_del_dia = get_gamer_quote()
 
-# Stats en vertical con <br>
+# Stats en vertical
 stats_md = (
     f"HP: {stats['hp']}<br>"
     f"Atq: {stats['attack']}<br>"
@@ -58,7 +94,7 @@ stats_md = (
     f"Vel: {stats['speed']}"
 )
 
-# Timestamp para forzar cambios
+# Timestamp
 fecha = datetime.utcnow().isoformat()
 
 # Bloque Pokémon
@@ -68,37 +104,11 @@ pokemon_info_block = f"""<!-- POKEMON_INFO -->
 
 | Imagen | Nombre | Tipo(s) | Clase | Nº Pokédex | Movimientos especiales | Evolución | Estadísticas base |
 |:------:|:------:|:-------:|:-----:|:----------:|:----------------------:|:---------:|:------------------:|
-| ![Pokémon del día]({pokemon_img_url}) | **{nombre}** | {', '.join(tipos_es)} | {clase.capitalize()} | {pokedex_num} | {', '.join([
+| ![Pokémon del día]({pokemon_img_url}) | {nombre_neon} | {', '.join(tipos_es)} | {clase.capitalize()} | {pokedex_num} | {', '.join([
 random.choice(["Corte Psíquico", "Hoja Afilada", "Puño Fuego"]),
 random.choice(["Rayo Solar", "Ataque Psíquico", "Puño Trueno"]),
 random.choice(["Puño Trueno", "Puño Fuego"])
 ])} | {nombre} → {nombre} (Alola) | {stats_md} |
-
-**Curiosidad:**  
-{nombre} es conocido por su habilidad para {random.choice(["usar ataques poderosos", "alcanzar altas velocidades", "dominar la batalla", "resistir ataques"]).lower()}.
-
----
-
-**Habilidad:** {random.choice(["Clorofila", "Ojo Compuesto", "Impunidad"])} 
-
----
-
-**Historia del día:**  
-"Hoy, {nombre} decidió {random.choice(['tomar un descanso', 'explorar un nuevo terreno', 'enfrentar su mayor desafío'])}. ¡Prepárate para ver qué sucede!"
-
----
-
-**¿Sabías que...?**  
-{nombre} es conocido por su capacidad para {random.choice(['alcanza poderes muy altos', 'desarrollar habilidades que cambian las batallas', 'dominar varias tácticas en combate'])}.
-
----
-
-**Pokémon Go:**
-- **CP máximo:** {random.randint(3000, 4000)}
-- **Clase de combate:** 8
-- **Evento especial:** {nombre} puede aparecer más frecuentemente durante el evento "Festival de la primavera".
-
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/{nombre}_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 """
