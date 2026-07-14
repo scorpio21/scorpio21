@@ -95,27 +95,40 @@ def get_evolution_chain(pokedex_num):
         evoluciones = []
 
         def recorrer(cadena):
-            nombre = cadena["species"]["name"]
-
-            imagen = (
-                f"https://img.pokemondb.net/artwork/large/{nombre}.jpg"
-            )
-
-            evoluciones.append(
-                f'''
-                <div style="display:inline-block;text-align:center">
-                    <img src="{imagen}" width="70"><br>
-                    <small>{nombre.capitalize()}</small>
-                </div>
-                '''
-            )
+            evoluciones.append(cadena["species"]["name"].capitalize())
 
             for evo in cadena["evolves_to"]:
                 recorrer(evo)
 
         recorrer(evo_data["chain"])
 
-        return " ➜ ".join(evoluciones)
+        if len(evoluciones) == 1:
+            return "No evoluciona"
+
+        fila_imagenes = ""
+        fila_nombres = ""
+
+        for i, nombre in enumerate(evoluciones):
+
+            imagen = f"https://img.pokemondb.net/artwork/large/{nombre.lower()}.jpg"
+
+            fila_imagenes += f'<td align="center"><img src="{imagen}" width="70"></td>'
+            fila_nombres += f'<td align="center"><b>{nombre}</b></td>'
+
+            if i < len(evoluciones) - 1:
+                fila_imagenes += '<td align="center"><b>➡️</b></td>'
+                fila_nombres += '<td></td>'
+
+        return f"""
+<table>
+<tr>
+{fila_imagenes}
+</tr>
+<tr>
+{fila_nombres}
+</tr>
+</table>
+"""
 
     except Exception:
         return "Desconocida"
