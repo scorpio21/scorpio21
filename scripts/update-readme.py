@@ -269,17 +269,36 @@ def get_gamer_quote():
 
 frase_del_dia = get_gamer_quote()
 
+#Barras
+def barra_stat(valor, maximo=255, ancho=10):
+    bloques = round((valor / maximo) * ancho)
+    return "🟩" * bloques + "⬜" * (ancho - bloques)
+
 # Stats en vertical
-stats_md = (
-    f"HP: {stats['hp']}<br>"
-    f"Atq: {stats['attack']}<br>"
-    f"Def: {stats['defense']}<br>"
-    f"Vel: {stats['speed']}"
-)
+stats_md = f"""
+❤️ <b>PS</b><br>
+{barra_stat(stats['hp'])} {stats['hp']}<br><br>
+
+⚔️ <b>Ataque</b><br>
+{barra_stat(stats['attack'])} {stats['attack']}<br><br>
+
+🛡️ <b>Defensa</b><br>
+{barra_stat(stats['defense'])} {stats['defense']}<br><br>
+
+✨ <b>Ataque Especial</b><br>
+{barra_stat(stats['special-attack'])} {stats['special-attack']}<br><br>
+
+🛡️ <b>Defensa Especial</b><br>
+{barra_stat(stats['special-defense'])} {stats['special-defense']}<br><br>
+
+💨 <b>Velocidad</b><br>
+{barra_stat(stats['speed'])} {stats['speed']}
+"""
 tipos_html = " ".join(
     f'<img src="{tipo_badges.get(tipo)}" alt="{tipo}">'
     for tipo in tipos_es
 )
+
 # Timestamp
 fecha = datetime.utcnow().isoformat()
 
