@@ -84,29 +84,38 @@ tipo_badges = {
 # Obtener la cadena de evolución
 def get_evolution_chain(pokedex_num):
     try:
-        # Obtener la especie
-        species_url = f"https://pokeapi.co/api/v2/pokemon-species/{pokedex_num}"
-        species = requests.get(species_url).json()
+        species = requests.get(
+            f"https://pokeapi.co/api/v2/pokemon-species/{pokedex_num}"
+        ).json()
 
-        # URL de la cadena evolutiva
-        evo_url = species["evolution_chain"]["url"]
+        evo_data = requests.get(
+            species["evolution_chain"]["url"]
+        ).json()
 
-        # Descargar la cadena
-        evo_data = requests.get(evo_url).json()
-
-        nombres = []
+        evoluciones = []
 
         def recorrer(cadena):
-            nombres.append(cadena["species"]["name"].capitalize())
+            nombre = cadena["species"]["name"]
+
+            imagen = (
+                f"https://img.pokemondb.net/artwork/large/{nombre}.jpg"
+            )
+
+            evoluciones.append(
+                f'''
+                <div style="display:inline-block;text-align:center">
+                    <img src="{imagen}" width="70"><br>
+                    <small>{nombre.capitalize()}</small>
+                </div>
+                '''
+            )
+
             for evo in cadena["evolves_to"]:
                 recorrer(evo)
 
         recorrer(evo_data["chain"])
 
-        if len(nombres) == 1:
-            return "No evoluciona"
-
-        return " → ".join(nombres)
+        return " ➜ ".join(evoluciones)
 
     except Exception:
         return "Desconocida"
