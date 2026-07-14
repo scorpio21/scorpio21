@@ -8,42 +8,42 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-14T15:38:05.975747 -->
+<!-- Generated: 2026-07-14T15:42:11.245462 -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png" alt="Ledian" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🟢 <b>Ledian</b></td></tr>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png" alt="Porygon" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🟢 <b>Porygon</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
 <img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
 </td></tr>
-<tr><td><b>Tipo(s)</b></td><td>Bicho, Volador</td></tr>
-<tr><td><b>Clase</b></td><td>Ledian</td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>166</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Hoja Afilada, Rayo Solar, Puño Trueno</td></tr>
-<tr><td><b>Evolución</b></td><td>Ledyba → Ledian</td></tr>
-<tr><td><b>Estadísticas base</b></td><td>HP: 55<br>Atq: 35<br>Def: 50<br>Vel: 85</td></tr>
+<tr><td><b>Tipo(s)</b></td><td>Normal</td></tr>
+<tr><td><b>Clase</b></td><td>Porygon</td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>137</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Corte Psíquico, Rayo Solar, Puño Fuego</td></tr>
+<tr><td><b>Evolución</b></td><td>Porygon → Porygon2 → Porygon-z</td></tr>
+<tr><td><b>Estadísticas base</b></td><td>HP: 65<br>Atq: 60<br>Def: 70<br>Vel: 40</td></tr>
 </table>
 
 <br>
 
 **Historia del día:**  
-"Hoy, Ledian decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Porygon decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Ledian es conocido por su capacidad para dominar varias tácticas en combate.
+Porygon es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3647
+- **CP máximo:** 3530
 - **Clase de combate:** 8
-- **Evento especial:** Ledian puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Porygon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Ledian_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Porygon_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -513,11 +513,13 @@ Ledian es conocido por su capacidad para dominar varias tácticas en combate.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-14T15:38:05.975747 -->
+<!-- Generated: 2026-07-14T15:42:11.245462 -->
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "En cada partida, hay un nuevo desafío esperando ser conquistado."
 <!-- END_FRASE_GAMER -->
+
 
 
 
