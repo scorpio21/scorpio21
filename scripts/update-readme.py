@@ -44,10 +44,14 @@ def get_pokemon_of_the_day():
     imagen = data["sprites"]["front_default"]
     pokedex_num = data["id"]
     clase = data["species"]["name"]
+
+    species = requests.get(data["species"]["url"]).json()
+
+    color_pokedex = species["color"]["name"]
     
     stats = {stat["stat"]["name"]: stat["base_stat"] for stat in data["stats"]}
     
-    return nombre, tipos_es, imagen, pokedex_num, clase, stats
+    return nombre, tipos_es, imagen, pokedex_num, clase, stats, color_pokedex
 
 # Traducción de tipos
 def get_pokemon_type_translation(tipo):
@@ -134,7 +138,21 @@ def get_evolution_chain(pokedex_num):
         return "Desconocida"
 
 # Obtener Pokémon del día
-nombre, tipos_es, pokemon_img_url, pokedex_num, clase, stats = get_pokemon_of_the_day()
+nombre, tipos_es, pokemon_img_url, pokedex_num, clase, stats, color_pokedex = get_pokemon_of_the_day()
+
+
+colores_es = {
+    "black": "Negro ⚫",
+    "blue": "Azul 🔵",
+    "brown": "Marrón 🟤",
+    "gray": "Gris ⚪",
+    "green": "Verde 🟢",
+    "pink": "Rosa 🩷",
+    "purple": "Morado 🟣",
+    "red": "Rojo 🔴",
+    "white": "Blanco ⚪",
+    "yellow": "Amarillo 🟡"
+}
 
 # obtiene la cadena
 cadena_evolucion = get_evolution_chain(pokedex_num)
@@ -224,6 +242,7 @@ pokemon_info_block = f"""<!-- POKEMON_INFO -->
 <tr><td><b>Tipo(s)</b></td><td>{tipos_html}</td></tr>
 <tr><td><b>Clase</b></td><td>{clase.capitalize()}</td></tr>
 <tr><td><b>Nº Pokédex</b></td><td>{pokedex_num}</td></tr>
+<tr><td><b>Color Pokédex</b></td><td>{colores_es[color_pokedex]}</td></tr>
 <tr><td><b>Movimientos especiales</b></td><td>{', '.join([
 random.choice(["Corte Psíquico", "Hoja Afilada", "Puño Fuego"]),
 random.choice(["Rayo Solar", "Ataque Psíquico", "Puño Trueno"]),
