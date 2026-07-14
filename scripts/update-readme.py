@@ -227,9 +227,6 @@ def get_evolution_chain(pokedex_num):
     except Exception as e:
         return f"Error obteniendo evolución: {e}"
 
-    except Exception:
-        return "Desconocida"
-
 # Obtener Pokémon del día
 (
     nombre,
