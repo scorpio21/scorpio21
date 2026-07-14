@@ -8,38 +8,12 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-14T14:14:42.990365 -->
+<!-- Generated: 2026-07-14T14:21:47.380851 -->
 ### 🐱‍👤 Pokémon del día
 
 | Imagen | Nombre | Tipo(s) | Clase | Nº Pokédex | Movimientos especiales | Evolución | Estadísticas base |
 |:------:|:------:|:-------:|:-----:|:----------:|:----------------------:|:---------:|:------------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/780.png) | **Drampa** | Normal, Dragón | Drampa | 780 | Hoja Afilada, Rayo Solar, Puño Fuego | Drampa → Drampa (Alola) | HP: 78<br>Atq: 60<br>Def: 85<br>Vel: 36 |
-
-**Curiosidad:**  
-Drampa es conocido por su habilidad para dominar la batalla.
-
----
-
-**Habilidad:** Clorofila 
-
----
-
-**Historia del día:**  
-"Hoy, Drampa decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
-
----
-
-**¿Sabías que...?**  
-Drampa es conocido por su capacidad para alcanza poderes muy altos.
-
----
-
-**Pokémon Go:**
-- **CP máximo:** 3829
-- **Clase de combate:** 8
-- **Evento especial:** Drampa puede aparecer más frecuentemente durante el evento "Festival de la primavera".
-
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Drampa_(Pokémon))
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/303.png) | <span style="color:#ff1493; font-weight:bold; text-shadow: 0 0 5px #ff1493, 0 0 10px #ff1493, 0 0 20px #ff1493;">Mawile</span> | Acero, Hada | Mawile | 303 | Corte Psíquico, Ataque Psíquico, Puño Trueno | Mawile → Mawile (Alola) | HP: 50<br>Atq: 85<br>Def: 85<br>Vel: 50 |
 
 <!-- END_POKEMON_INFO -->
 
@@ -504,11 +478,13 @@ Drampa es conocido por su capacidad para alcanza poderes muy altos.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-14T14:14:42.990365 -->
+<!-- Generated: 2026-07-14T14:21:47.380851 -->
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
+
 
 
 ---
