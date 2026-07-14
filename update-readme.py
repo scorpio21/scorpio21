@@ -127,10 +127,12 @@ rareza_texto = {
 nombre_md = f"{rareza_iconos[rareza]} <b>{nombre}</b>"
 
 # Badge de Shields.io
+from urllib.parse import quote
+
 badge_rareza = (
     f'<img src="https://img.shields.io/badge/'
-    f'{rareza_texto[rareza]}-{nombre}-'
-    f'{rareza_colores[rareza]}?style=for-the-badge" '
+    f'{quote(nombre)}-{quote(rareza_texto[rareza])}-{rareza_colores[rareza]}'
+    f'?style=for-the-badge" '
     f'alt="{rareza_texto[rareza]}">'
 )
 
