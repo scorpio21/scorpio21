@@ -314,6 +314,7 @@ pokemon_info_block = f"""<!-- POKEMON_INFO -->
 <tr><td><b>Rareza</b></td><td>
 <img src="https://img.shields.io/badge/{rareza_texto[rareza]}-{rareza_colores[rareza]}?style=flat-square">
 </td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>{pokedex_num}</td></tr>
 <tr><td><b>Tipo(s)</b></td><td>{tipos_html}</td></tr>
 <tr><td><b>Clase</b></td><td>{clase.capitalize()}</td></tr>
 <tr><td><b>🎨 Color Pokédex</b></td><td>{colores_pokedex[color_pokedex]}</td></tr>
@@ -328,7 +329,6 @@ pokemon_info_block = f"""<!-- POKEMON_INFO -->
 <td>{", ".join(habilidades)}</td></tr>
 <tr><td><b>✨ Habilidad oculta</b></td>
 <td>{habilidad_oculta if habilidad_oculta else "Ninguna"}</td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>{pokedex_num}</td></tr>
 <tr><td><b>Movimientos especiales</b></td><td>{', '.join([
 random.choice(["Corte Psíquico", "Hoja Afilada", "Puño Fuego"]),
 random.choice(["Rayo Solar", "Ataque Psíquico", "Puño Trueno"]),
