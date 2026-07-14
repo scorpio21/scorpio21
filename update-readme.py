@@ -110,6 +110,23 @@ random.choice(["Rayo Solar", "Ataque Psíquico", "Puño Trueno"]),
 random.choice(["Puño Trueno", "Puño Fuego"])
 ])} | {nombre} → {nombre} (Alola) | {stats_md} |
 
+**Historia del día:**  
+"Hoy, {nombre} decidió {random.choice(['tomar un descanso', 'explorar un nuevo terreno', 'enfrentar su mayor desafío'])}. ¡Prepárate para ver qué sucede!"
+
+---
+
+**¿Sabías que...?**  
+{nombre} es conocido por su capacidad para {random.choice(['alcanza poderes muy altos', 'desarrollar habilidades que cambian las batallas', 'dominar varias tácticas en combate'])}.
+
+---
+
+**Pokémon Go:**
+- **CP máximo:** {random.randint(3000, 4000)}
+- **Clase de combate:** 8
+- **Evento especial:** {nombre} puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/{nombre}_(Pokémon))
+
 <!-- END_POKEMON_INFO -->
 """
 
