@@ -333,6 +333,34 @@ stats_md = f"""
 💨 <b>Velocidad</b><br>
 {barra_stat(stats['speed'])} {stats['speed']}
 """
+
+bst = sum(stats.values())
+
+if bst >= 680:
+    nivel_bst = "🌟 Legendario"
+elif bst >= 600:
+    nivel_bst = "💎 Pseudolegendario"
+elif bst >= 500:
+    nivel_bst = "🔥 Muy fuerte"
+elif bst >= 400:
+    nivel_bst = "⚔️ Fuerte"
+elif bst >= 300:
+    nivel_bst = "👍 Normal"
+else:
+    nivel_bst = "🌱 Básico"
+
+
+def barra_bst(valor, maximo=720, ancho=20):
+    bloques = round(valor / maximo * ancho)
+    return "🟩" * bloques + "⬜" * (ancho - bloques)
+
+bst_html = f"""
+{barra_bst(bst)}
+
+<b>{bst} puntos</b><br>
+{nivel_bst}
+"""
+
 # Tipos Html
 tipos_html = " ".join(
     f'<img src="{tipo_badges.get(tipo)}" alt="{tipo}">'
@@ -407,6 +435,10 @@ random.choice(["Puño Trueno", "Puño Fuego"])
 ])}</td></tr>
 <tr><td><b>Evolución</b></td><td>{cadena_evolucion}</td></tr>
 <tr><td><b>Estadísticas base</b></td><td>{stats_md}</td></tr>
+<tr>
+<td><b>🏆 Poder total (BST)</b></td>
+<td>{bst_html}</td>
+</tr>
 </table>
 
 <br>
