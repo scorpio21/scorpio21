@@ -8,88 +8,88 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-14T18:19:02.358465 -->
+<!-- Generated: 2026-07-14T23:28:47.546298 -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png" alt="Teddiursa" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🟢 <b>Teddiursa</b></td></tr>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png" alt="Hakamo-o" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🟣 <b>Hakamo-o</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
-<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
+<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
 </td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>216</td></tr>
-<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"></td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>783</td></tr>
+<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"></td></tr>
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"></td>
+<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"></td>
+<td>Ninguna</td>
 </tr>
-<tr><td><b>Clase</b></td><td>Teddiursa</td></tr>
-<tr><td><b>🎨 Color Pokédex</b></td><td>🟤 Marrón</td></tr>
-<tr><td><b>📏 Altura</b></td><td>0.6 m</td></tr>
-<tr><td><b>⚖️ Peso</b></td><td>8.8 kg</td></tr>
-<tr><td><b>⭐ Experiencia</b></td><td>66</td></tr>
-<tr><td><b>🌍 Hábitat</b></td><td>Mountain</td></tr>
-<tr><td><b>🥚 Grupo huevo</b></td><td>Ground</td></tr>
+<tr><td><b>Clase</b></td><td>Hakamo-o</td></tr>
+<tr><td><b>🎨 Color Pokédex</b></td><td>⚪ Gris</td></tr>
+<tr><td><b>📏 Altura</b></td><td>1.2 m</td></tr>
+<tr><td><b>⚖️ Peso</b></td><td>47.0 kg</td></tr>
+<tr><td><b>⭐ Experiencia</b></td><td>147</td></tr>
+<tr><td><b>🌍 Hábitat</b></td><td>Desconocido</td></tr>
+<tr><td><b>🥚 Grupo huevo</b></td><td>Dragon</td></tr>
 <tr><td><b>❤️ Amistad base</b></td><td>70</td></tr>
-<tr><td><b>🎯 Ratio captura</b></td><td>120</td></tr>
+<tr><td><b>🎯 Ratio captura</b></td><td>45</td></tr>
 <tr><td><b>💪 Habilidades</b></td>
-<td>Pickup, Quick feet</td></tr>
+<td>Bulletproof, Soundproof</td></tr>
 <tr><td><b>✨ Habilidad oculta</b></td>
-<td>Honey gather</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Hoja Afilada, Ataque Psíquico, Puño Trueno</td></tr>
+<td>Overcoat</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Puño Fuego, Ataque Psíquico, Puño Trueno</td></tr>
 <tr><td><b>Evolución</b></td><td><table><tr>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/teddiursa.jpg" width="70"><br>
-    <small><b>Teddiursa</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/jangmo-o.jpg" width="70"><br>
+    <small><b>Jangmo-o</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/ursaring.jpg" width="70"><br>
-    <small><b>Ursaring</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/hakamo-o.jpg" width="70"><br>
+    <small><b>Hakamo-o</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/ursaluna.jpg" width="70"><br>
-    <small><b>Ursaluna</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/kommo-o.jpg" width="70"><br>
+    <small><b>Kommo-o</b></small>
 </td>
 </tr></table></td></tr>
 <tr><td><b>Estadísticas base</b></td><td>
 ❤️ <b>PS</b><br>
-🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 60<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 55<br>
 
 ⚔️ <b>Ataque</b><br>
-🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 80
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 75
 
 🛡️ <b>Defensa</b><br>
-🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 50<br>
+🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 90<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 50<br>
+🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 65<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 50<br>
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 70<br>
 
 💨 <b>Velocidad</b><br>
-🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 40
+🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 65
 </td></tr>
 <tr>
 <td><b>🏆 Poder total (BST)</b></td>
 <td>
-🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>330 puntos</b><br>
-👍 Normal
+<b>420 puntos</b><br>
+⚔️ Fuerte
 </td>
 </tr>
 </table>
@@ -97,21 +97,21 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 <br>
 
 **Historia del día:**  
-"Hoy, Teddiursa decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Hakamo-o decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Teddiursa es conocido por su capacidad para dominar varias tácticas en combate.
+Hakamo-o es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3109
+- **CP máximo:** 3144
 - **Clase de combate:** 8
-- **Evento especial:** Teddiursa puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Hakamo-o puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Teddiursa_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Hakamo-o_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -603,11 +603,13 @@ Teddiursa es conocido por su capacidad para dominar varias tácticas en combate.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-14T18:19:02.358465 -->
+<!-- Generated: 2026-07-14T23:28:47.546298 -->
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
+
 
 
 
