@@ -8,86 +8,104 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-14T17:36:01.549115 -->
+<!-- Generated: 2026-07-14T17:42:40.320942 -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png" alt="Glastrier" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🔵 <b>Glastrier</b></td></tr>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/203.png" alt="Girafarig" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🟢 <b>Girafarig</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
-<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
 </td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>896</td></tr>
-<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"></td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>203</td></tr>
+<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"></td></tr>
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"></td>
+<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td>Ninguna</td>
+<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"></td>
 </tr>
-<tr><td><b>Clase</b></td><td>Glastrier</td></tr>
-<tr><td><b>🎨 Color Pokédex</b></td><td>⚪ Blanco</td></tr>
-<tr><td><b>📏 Altura</b></td><td>2.2 m</td></tr>
-<tr><td><b>⚖️ Peso</b></td><td>800.0 kg</td></tr>
-<tr><td><b>⭐ Experiencia</b></td><td>290</td></tr>
-<tr><td><b>🌍 Hábitat</b></td><td>Desconocido</td></tr>
-<tr><td><b>🥚 Grupo huevo</b></td><td>No-eggs</td></tr>
-<tr><td><b>❤️ Amistad base</b></td><td>35</td></tr>
-<tr><td><b>🎯 Ratio captura</b></td><td>3</td></tr>
+<tr><td><b>Clase</b></td><td>Girafarig</td></tr>
+<tr><td><b>🎨 Color Pokédex</b></td><td>🟡 Amarillo</td></tr>
+<tr><td><b>📏 Altura</b></td><td>1.5 m</td></tr>
+<tr><td><b>⚖️ Peso</b></td><td>41.5 kg</td></tr>
+<tr><td><b>⭐ Experiencia</b></td><td>159</td></tr>
+<tr><td><b>🌍 Hábitat</b></td><td>Grassland</td></tr>
+<tr><td><b>🥚 Grupo huevo</b></td><td>Ground</td></tr>
+<tr><td><b>❤️ Amistad base</b></td><td>70</td></tr>
+<tr><td><b>🎯 Ratio captura</b></td><td>60</td></tr>
 <tr><td><b>💪 Habilidades</b></td>
-<td>Chilling neigh</td></tr>
+<td>Inner focus, Early bird</td></tr>
 <tr><td><b>✨ Habilidad oculta</b></td>
-<td>Ninguna</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Corte Psíquico, Ataque Psíquico, Puño Trueno</td></tr>
-<tr><td><b>Evolución</b></td><td>No evoluciona</td></tr>
+<td>Sap sipper</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Corte Psíquico, Puño Trueno, Puño Fuego</td></tr>
+<tr><td><b>Evolución</b></td><td>
+<table>
+<tr>
+<td align="center"><img src="https://img.pokemondb.net/artwork/large/girafarig.jpg" width="70"></td><td align="center"><b>➡️</b></td><td align="center"><img src="https://img.pokemondb.net/artwork/large/farigiraf.jpg" width="70"></td>
+</tr>
+<tr>
+<td align="center"><b>Girafarig</b></td><td></td><td align="center"><b>Farigiraf</b></td>
+</tr>
+</table>
+</td></tr>
 <tr><td><b>Estadísticas base</b></td><td>
 ❤️ <b>PS</b><br>
-🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 100<br><br>
+🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 70<br><br>
 
 ⚔️ <b>Ataque</b><br>
-🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 145<br><br>
+🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 80<br><br>
 
 🛡️ <b>Defensa</b><br>
-🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 130<br><br>
-
-✨ <b>Ataque Especial</b><br>
 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 65<br><br>
 
+✨ <b>Ataque Especial</b><br>
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 90<br><br>
+
 🛡️ <b>Defensa Especial</b><br>
-🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 110<br><br>
+🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 65<br><br>
 
 💨 <b>Velocidad</b><br>
-🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 30
+🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 85
 </td></tr>
+<tr>
+<td><b>🏆 Poder total (BST)</b></td>
+<td>
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
+
+<b>455 puntos</b><br>
+⚔️ Fuerte
+</td>
+</tr>
 </table>
 
 <br>
 
 **Historia del día:**  
-"Hoy, Glastrier decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Girafarig decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Glastrier es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Girafarig es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3812
+- **CP máximo:** 3706
 - **Clase de combate:** 8
-- **Evento especial:** Glastrier puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Girafarig puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Glastrier_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Girafarig_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -572,11 +590,13 @@ Glastrier es conocido por su capacidad para desarrollar habilidades que cambian 
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-14T17:36:01.549115 -->
+<!-- Generated: 2026-07-14T17:42:40.320942 -->
 ### 💬 Frase 🎮 del día
 > "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
+
 
 
 
