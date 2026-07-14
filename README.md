@@ -8,51 +8,52 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-14T16:36:41.943490 -->
+<!-- Generated: 2026-07-14T16:44:36.917885 -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/657.png" alt="Frogadier" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🔵 <b>Frogadier</b></td></tr>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/597.png" alt="Ferroseed" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🔵 <b>Ferroseed</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
 <img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td></tr>
-<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"></td></tr>
-<tr><td><b>Clase</b></td><td>Frogadier</td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>657</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Hoja Afilada, Rayo Solar, Puño Fuego</td></tr>
+<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"></td></tr>
+<tr><td><b>Clase</b></td><td>Ferroseed</td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>597</td></tr>
+<tr><td><b>Color Pokédex</b></td><td>Gris ⚪</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Corte Psíquico, Puño Trueno, Puño Fuego</td></tr>
 <tr><td><b>Evolución</b></td><td>
 <table>
 <tr>
-<td align="center"><img src="https://img.pokemondb.net/artwork/large/froakie.jpg" width="70"></td><td align="center"><b>➡️</b></td><td align="center"><img src="https://img.pokemondb.net/artwork/large/frogadier.jpg" width="70"></td><td align="center"><b>➡️</b></td><td align="center"><img src="https://img.pokemondb.net/artwork/large/greninja.jpg" width="70"></td>
+<td align="center"><img src="https://img.pokemondb.net/artwork/large/ferroseed.jpg" width="70"></td><td align="center"><b>➡️</b></td><td align="center"><img src="https://img.pokemondb.net/artwork/large/ferrothorn.jpg" width="70"></td>
 </tr>
 <tr>
-<td align="center"><b>Froakie</b></td><td></td><td align="center"><b>Frogadier</b></td><td></td><td align="center"><b>Greninja</b></td>
+<td align="center"><b>Ferroseed</b></td><td></td><td align="center"><b>Ferrothorn</b></td>
 </tr>
 </table>
 </td></tr>
-<tr><td><b>Estadísticas base</b></td><td>HP: 54<br>Atq: 63<br>Def: 52<br>Vel: 97</td></tr>
+<tr><td><b>Estadísticas base</b></td><td>HP: 44<br>Atq: 50<br>Def: 91<br>Vel: 10</td></tr>
 </table>
 
 <br>
 
 **Historia del día:**  
-"Hoy, Frogadier decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Ferroseed decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Frogadier es conocido por su capacidad para alcanza poderes muy altos.
+Ferroseed es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3464
+- **CP máximo:** 3474
 - **Clase de combate:** 8
-- **Evento especial:** Frogadier puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Ferroseed puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Frogadier_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Ferroseed_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -532,11 +533,13 @@ Frogadier es conocido por su capacidad para alcanza poderes muy altos.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-14T16:36:41.943490 -->
+<!-- Generated: 2026-07-14T16:44:36.917885 -->
 ### 💬 Frase 🎮 del día
 > "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
+
 
 
 
