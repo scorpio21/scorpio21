@@ -110,11 +110,7 @@ pokemon_info_block = f"""<!-- POKEMON_INFO -->
 
 <tr>
 <td><b>Nombre</b></td>
-<td>
-<span style="color:{color_nombre}; font-weight:bold; text-shadow: 0 0 5px {color_nombre}, 0 0 10px {color_nombre}, 0 0 20px {color_nombre};">
-{nombre}
-</span>
-</td>
+<td>{nombre_neon}</td>
 </tr>
 
 <tr>
@@ -173,7 +169,6 @@ random.choice(["Puño Trueno", "Puño Fuego"])
 
 <!-- END_POKEMON_INFO -->
 """
-
 
 # Bloque frase gamer
 frase_info_block = f"""<!-- FRASE_GAMER -->
