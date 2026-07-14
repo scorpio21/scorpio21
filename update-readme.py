@@ -14,7 +14,7 @@ legendarios = [
     888,889,890
 ]
 
-# Colores neón según rareza
+# Colores según rareza (neón falso compatible con GitHub)
 neon_rarity_colors = {
     "comun": "#00ff7f",
     "no_comun": "#1e90ff",
@@ -63,12 +63,12 @@ def get_pokemon_type_translation(tipo):
 # Obtener Pokémon del día
 nombre, tipos_es, pokemon_img_url, pokedex_num, clase, stats = get_pokemon_of_the_day()
 
-# Rareza + color neón
+# Rareza + color
 rareza = get_rarity(tipos_es[0], pokedex_num)
 color_nombre = neon_rarity_colors[rareza]
 
-# Nombre con borde neón
-nombre_neon = f'<span style="color:{color_nombre}; font-weight:bold; text-shadow: 0 0 5px {color_nombre}, 0 0 10px {color_nombre}, 0 0 20px {color_nombre};">{nombre}</span>'
+# Nombre con “neón falso” compatible con GitHub
+nombre_neon = f'<span style="color:{color_nombre}; font-weight:bold; background:rgba(255,255,255,0.15); padding:4px 8px; border-radius:6px;">{nombre}</span>'
 
 # Frase gamer
 def get_gamer_quote():
@@ -97,55 +97,24 @@ stats_md = (
 # Timestamp
 fecha = datetime.utcnow().isoformat()
 
-# Bloque Pokémon
+# Bloque Pokémon (tabla HTML)
 pokemon_info_block = f"""<!-- POKEMON_INFO -->
 <!-- Generated: {fecha} -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
-<tr>
-<td><b>Imagen</b></td>
-<td><img src="{pokemon_img_url}" alt="{nombre}" /></td>
-</tr>
-
-<tr>
-<td><b>Nombre</b></td>
-<td>{nombre_neon}</td>
-</tr>
-
-<tr>
-<td><b>Tipo(s)</b></td>
-<td>{', '.join(tipos_es)}</td>
-</tr>
-
-<tr>
-<td><b>Clase</b></td>
-<td>{clase.capitalize()}</td>
-</tr>
-
-<tr>
-<td><b>Nº Pokédex</b></td>
-<td>{pokedex_num}</td>
-</tr>
-
-<tr>
-<td><b>Movimientos especiales</b></td>
-<td>{', '.join([
+<tr><td><b>Imagen</b></td><td><img src="{pokemon_img_url}" alt="{nombre}" /></td></tr>
+<tr><td><b>Nombre</b></td><td>{nombre_neon}</td></tr>
+<tr><td><b>Tipo(s)</b></td><td>{', '.join(tipos_es)}</td></tr>
+<tr><td><b>Clase</b></td><td>{clase.capitalize()}</td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>{pokedex_num}</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>{', '.join([
 random.choice(["Corte Psíquico", "Hoja Afilada", "Puño Fuego"]),
 random.choice(["Rayo Solar", "Ataque Psíquico", "Puño Trueno"]),
 random.choice(["Puño Trueno", "Puño Fuego"])
-])}</td>
-</tr>
-
-<tr>
-<td><b>Evolución</b></td>
-<td>{nombre} → {nombre} (Alola)</td>
-</tr>
-
-<tr>
-<td><b>Estadísticas base</b></td>
-<td>{stats_md}</td>
-</tr>
+])}</td></tr>
+<tr><td><b>Evolución</b></td><td>{nombre} → {nombre} (Alola)</td></tr>
+<tr><td><b>Estadísticas base</b></td><td>{stats_md}</td></tr>
 </table>
 
 <br>
