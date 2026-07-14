@@ -1,53 +1,40 @@
 import requests
 import random
+import re
+from datetime import datetime
 
 # Función para obtener el Pokémon del día
 def get_pokemon_of_the_day():
-    url = "https://pokeapi.co/api/v2/pokemon/" + str(random.randint(1, 898))  # Hay 898 Pokémon conocidos
+    url = "https://pokeapi.co/api/v2/pokemon/" + str(random.randint(1, 898))
     response = requests.get(url)
     data = response.json()
     
     nombre = data["name"].capitalize()
     tipos = [tipo["type"]["name"] for tipo in data["types"]]
-    tipos_es = [get_pokemon_type_translation(tipo) for tipo in tipos]  # Traducción de los tipos al español
+    tipos_es = [get_pokemon_type_translation(tipo) for tipo in tipos]
     imagen = data["sprites"]["front_default"]
-    pokedex_num = data["id"]  # Número del Pokémon en la Pokédex
+    pokedex_num = data["id"]
     clase = data["species"]["name"]
     
-    # Estadísticas base
     stats = {stat["stat"]["name"]: stat["base_stat"] for stat in data["stats"]}
     
     return nombre, tipos_es, imagen, pokedex_num, clase, stats
 
-# Función para traducir tipos de Pokémon al español
+# Traducción de tipos
 def get_pokemon_type_translation(tipo):
     traducciones = {
-        "fire": "Fuego",
-        "water": "Agua",
-        "grass": "Planta",
-        "electric": "Eléctrico",
-        "bug": "Bicho",
-        "poison": "Veneno",
-        "ghost": "Fantasma",
-        "steel": "Acero",
-        "psychic": "Psíquico",
-        "normal": "Normal",
-        "flying": "Volador",
-        "fighting": "Lucha",
-        "rock": "Roca",
-        "fairy": "Hada",
-        "ice": "Hielo",
-        "dragon": "Dragón",
-        "dark": "Siniestro",
-        "ground": "Tierra",
-        "shadow": "Sombra"
+        "fire": "Fuego", "water": "Agua", "grass": "Planta", "electric": "Eléctrico",
+        "bug": "Bicho", "poison": "Veneno", "ghost": "Fantasma", "steel": "Acero",
+        "psychic": "Psíquico", "normal": "Normal", "flying": "Volador", "fighting": "Lucha",
+        "rock": "Roca", "fairy": "Hada", "ice": "Hielo", "dragon": "Dragón",
+        "dark": "Siniestro", "ground": "Tierra", "shadow": "Sombra"
     }
-    return traducciones.get(tipo, tipo)  # Si no encuentra la traducción, devuelve el nombre del tipo tal cual
+    return traducciones.get(tipo, tipo)
 
-# Obtener el Pokémon del día
+# Obtener Pokémon del día
 nombre, tipos_es, pokemon_img_url, pokedex_num, clase, stats = get_pokemon_of_the_day()
 
-# Función para obtener la frase gamer del día
+# Frase gamer
 def get_gamer_quote():
     frases = [
         "¡Nunca subestimes el poder de un jugador con café!",
@@ -61,11 +48,8 @@ def get_gamer_quote():
     ]
     return random.choice(frases)
 
-# Obtener la frase gamer del día
 frase_del_dia = get_gamer_quote()
 
-
-# Bloque de información de Pokémon en el README
 # Stats en vertical con <br>
 stats_md = (
     f"HP: {stats['hp']}<br>"
@@ -74,7 +58,12 @@ stats_md = (
     f"Vel: {stats['speed']}"
 )
 
+# Timestamp para forzar cambios
+fecha = datetime.utcnow().isoformat()
+
+# Bloque Pokémon
 pokemon_info_block = f"""<!-- POKEMON_INFO -->
+<!-- Generated: {fecha} -->
 ### 🐱‍👤 Pokémon del día
 
 | Imagen | Nombre | Tipo(s) | Clase | Nº Pokédex | Movimientos especiales | Evolución | Estadísticas base |
@@ -114,33 +103,32 @@ random.choice(["Puño Trueno", "Puño Fuego"])
 <!-- END_POKEMON_INFO -->
 """
 
-# Bloque de frase gamer en el README
+# Bloque frase gamer
 frase_info_block = f"""<!-- FRASE_GAMER -->
-
+<!-- Generated: {fecha} -->
 ### 💬 Frase 🎮 del día
 > "{frase_del_dia}"
-<!-- END_FRASE_GAMER -->"""
+<!-- END_FRASE_GAMER -->
+"""
 
-# Verificar los bloques antes de escribirlos
-print(pokemon_info_block)
-print(frase_info_block)
-
-# Abre el archivo README.md para hacer las actualizaciones
+# Actualizar README con regex
 with open("README.md", "r+", encoding="utf-8") as file:
     contenido = file.read()
 
-    # Reemplazar o agregar el bloque del Pokémon y la frase del día
-    if "<!-- POKEMON_INFO -->" in contenido:
-        contenido = contenido.split("<!-- POKEMON_INFO -->")[0] + pokemon_info_block + contenido.split("<!-- END_POKEMON_INFO -->")[1]
-    else:
-        contenido = contenido.replace("<!-- POKEMON_INFO -->", pokemon_info_block)
-    
-    if "<!-- FRASE_GAMER -->" in contenido:
-        contenido = contenido.split("<!-- FRASE_GAMER -->")[0] + frase_info_block + contenido.split("<!-- END_FRASE_GAMER -->")[1]
-    else:
-        contenido = contenido.replace("<!-- FRASE_GAMER -->", frase_info_block)
+    contenido = re.sub(
+        r"<!-- POKEMON_INFO -->.*?<!-- END_POKEMON_INFO -->",
+        pokemon_info_block,
+        contenido,
+        flags=re.DOTALL
+    )
 
-    # Volver a escribir el archivo con las actualizaciones
+    contenido = re.sub(
+        r"<!-- FRASE_GAMER -->.*?<!-- END_FRASE_GAMER -->",
+        frase_info_block,
+        contenido,
+        flags=re.DOTALL
+    )
+
     file.seek(0)
     file.write(contenido)
     file.truncate()
