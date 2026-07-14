@@ -102,13 +102,57 @@ pokemon_info_block = f"""<!-- POKEMON_INFO -->
 <!-- Generated: {fecha} -->
 ### 🐱‍👤 Pokémon del día
 
-| Imagen | Nombre | Tipo(s) | Clase | Nº Pokédex | Movimientos especiales | Evolución | Estadísticas base |
-|:------:|:------:|:-------:|:-----:|:----------:|:----------------------:|:---------:|:------------------:|
-| ![Pokémon del día]({pokemon_img_url}) | {nombre_neon} | {', '.join(tipos_es)} | {clase.capitalize()} | {pokedex_num} | {', '.join([
+<table>
+<tr>
+<td><b>Imagen</b></td>
+<td><img src="{pokemon_img_url}" alt="{nombre}" /></td>
+</tr>
+
+<tr>
+<td><b>Nombre</b></td>
+<td>
+<span style="color:{color_nombre}; font-weight:bold; text-shadow: 0 0 5px {color_nombre}, 0 0 10px {color_nombre}, 0 0 20px {color_nombre};">
+{nombre}
+</span>
+</td>
+</tr>
+
+<tr>
+<td><b>Tipo(s)</b></td>
+<td>{', '.join(tipos_es)}</td>
+</tr>
+
+<tr>
+<td><b>Clase</b></td>
+<td>{clase.capitalize()}</td>
+</tr>
+
+<tr>
+<td><b>Nº Pokédex</b></td>
+<td>{pokedex_num}</td>
+</tr>
+
+<tr>
+<td><b>Movimientos especiales</b></td>
+<td>{', '.join([
 random.choice(["Corte Psíquico", "Hoja Afilada", "Puño Fuego"]),
 random.choice(["Rayo Solar", "Ataque Psíquico", "Puño Trueno"]),
 random.choice(["Puño Trueno", "Puño Fuego"])
-])} | {nombre} → {nombre} (Alola) | {stats_md} |
+])}</td>
+</tr>
+
+<tr>
+<td><b>Evolución</b></td>
+<td>{nombre} → {nombre} (Alola)</td>
+</tr>
+
+<tr>
+<td><b>Estadísticas base</b></td>
+<td>{stats_md}</td>
+</tr>
+</table>
+
+<br>
 
 **Historia del día:**  
 "Hoy, {nombre} decidió {random.choice(['tomar un descanso', 'explorar un nuevo terreno', 'enfrentar su mayor desafío'])}. ¡Prepárate para ver qué sucede!"
@@ -129,6 +173,7 @@ random.choice(["Puño Trueno", "Puño Fuego"])
 
 <!-- END_POKEMON_INFO -->
 """
+
 
 # Bloque frase gamer
 frase_info_block = f"""<!-- FRASE_GAMER -->
