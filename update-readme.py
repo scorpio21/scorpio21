@@ -134,8 +134,9 @@ pokemon_info_block = f"""<!-- POKEMON_INFO -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
+<table>
 <tr><td><b>Imagen</b></td><td><img src="{pokemon_img_url}" alt="{nombre}" /></td></tr>
-<tr><td><b>Nombre</b></td><td>{nombre_neon}</td></tr>
+<tr><td><b>Nombre</b></td><td>{nombre_md}<br>{badge_rareza}</td></tr>
 <tr><td><b>Tipo(s)</b></td><td>{', '.join(tipos_es)}</td></tr>
 <tr><td><b>Clase</b></td><td>{clase.capitalize()}</td></tr>
 <tr><td><b>Nº Pokédex</b></td><td>{pokedex_num}</td></tr>
