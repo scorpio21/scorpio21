@@ -28,10 +28,16 @@ jobs:
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Usa un token de GitHub como secreto (más abajo)
       
-    - name: Confirmar cambios en el repositorio
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git add README.md
-        git commit -m "🪄 Actualización diaria automática: Pokémon y frase gamer"
-        git push
+   - name: Confirmar cambios en el repositorio
+  run: |
+    git config --global user.name "GitHub Actions"
+    git config --global user.email "actions@github.com"
+    git add README.md
+
+    if git diff --cached --quiet; then
+      echo "No hay cambios para confirmar."
+      exit 0
+    fi
+
+    git commit -m "🪄 Actualización diaria automática: Pokémon y frase gamer"
+    git push
