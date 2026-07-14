@@ -65,10 +65,41 @@ nombre, tipos_es, pokemon_img_url, pokedex_num, clase, stats = get_pokemon_of_th
 
 # Rareza + color
 rareza = get_rarity(tipos_es[0], pokedex_num)
-color_nombre = neon_rarity_colors[rareza]
 
-# Nombre con “neón falso” compatible con GitHub
-nombre_neon = f'<span style="color:{color_nombre}; font-weight:bold; background:rgba(255,255,255,0.15); padding:4px 8px; border-radius:6px;">{nombre}</span>'
+# Iconos según rareza
+rareza_iconos = {
+    "comun": "🟢",
+    "no_comun": "🔵",
+    "raro": "🟣",
+    "legendario": "🟡✨"
+}
+
+# Colores para Shields.io
+rareza_colores = {
+    "comun": "brightgreen",
+    "no_comun": "blue",
+    "raro": "purple",
+    "legendario": "gold"
+}
+
+# Texto de la rareza
+rareza_texto = {
+    "comun": "Común",
+    "no_comun": "No común",
+    "raro": "Raro",
+    "legendario": "Legendario"
+}
+
+# Nombre
+nombre_md = f"{rareza_iconos[rareza]} <b>{nombre}</b>"
+
+# Badge de Shields.io
+badge_rareza = (
+    f'<img src="https://img.shields.io/badge/'
+    f'{rareza_texto[rareza]}-{nombre}-'
+    f'{rareza_colores[rareza]}?style=for-the-badge" '
+    f'alt="{rareza_texto[rareza]}">'
+)
 
 # Frase gamer
 def get_gamer_quote():
