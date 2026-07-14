@@ -8,60 +8,40 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-
 ### 🐱‍👤 Pokémon del día
 
-| Imagen | Nombre | Tipo(s) | Clase | Número de Pokédex |
-|:------:|:------:|:-------:|:-----:|:-----------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png) | **Ursaring** | Normal | Ursaring | 217 |
+| Imagen | Nombre | Tipo(s) | Clase | Nº Pokédex | Movimientos especiales | Evolución | Estadísticas base |
+|:------:|:------:|:-------:|:-----:|:----------:|:----------------------:|:---------:|:------------------:|
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png) | **Fearow** | Normal, Volador | Fearow | 22 | Puño Fuego, Rayo Solar, Puño Fuego | Fearow → Fearow (Alola) | HP: 65, Atq: 90, Def: 65, Vel: 100 |
 
 **Curiosidad:**  
-Ursaring es conocido por su habilidad para dominar la batalla.
+Fearow es conocido por su habilidad para dominar la batalla.
 
 ---
 
-**Movimientos especiales:**
-- **Corte Psíquico**
-- **Rayo Solar**
-- **Puño Fuego**
-
----
-
-**Evolución:**  
-- **Ursaring** → **Ursaring (Alola)**
-
----
-
-**Estadísticas base:**
-- **HP:** 90
-- **Ataque:** 130
-- **Defensa:** 75
-- **Velocidad:** 55
-
----
-
-**Habilidad:** Ojo Compuesto 
+**Habilidad:** Impunidad 
 
 ---
 
 **Historia del día:**  
-"Hoy, Ursaring decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Fearow decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Ursaring es conocido por su capacidad para dominar varias tácticas en combate.
+Fearow es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3888
+- **CP máximo:** 3502
 - **Clase de combate:** 8
-- **Evento especial:** Ursaring puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Fearow puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Ursaring_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Fearow_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
+
 
 
 
@@ -525,7 +505,7 @@ Ursaring es conocido por su capacidad para dominar varias tácticas en combate.
 <!-- FRASE_GAMER -->
 
 ### 💬 Frase 🎮 del día
-> "Si no estás ganando, ¡estás aprendiendo!"
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
 
 ---
