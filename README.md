@@ -8,12 +8,29 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-14T14:21:47.380851 -->
+<!-- Generated: 2026-07-14T14:28:16.173530 -->
 ### 🐱‍👤 Pokémon del día
 
 | Imagen | Nombre | Tipo(s) | Clase | Nº Pokédex | Movimientos especiales | Evolución | Estadísticas base |
 |:------:|:------:|:-------:|:-----:|:----------:|:----------------------:|:---------:|:------------------:|
-| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/303.png) | <span style="color:#ff1493; font-weight:bold; text-shadow: 0 0 5px #ff1493, 0 0 10px #ff1493, 0 0 20px #ff1493;">Mawile</span> | Acero, Hada | Mawile | 303 | Corte Psíquico, Ataque Psíquico, Puño Trueno | Mawile → Mawile (Alola) | HP: 50<br>Atq: 85<br>Def: 85<br>Vel: 50 |
+| ![Pokémon del día](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/371.png) | <span style="color:#ff1493; font-weight:bold; text-shadow: 0 0 5px #ff1493, 0 0 10px #ff1493, 0 0 20px #ff1493;">Bagon</span> | Dragón | Bagon | 371 | Puño Fuego, Puño Trueno, Puño Trueno | Bagon → Bagon (Alola) | HP: 45<br>Atq: 75<br>Def: 60<br>Vel: 50 |
+
+**Historia del día:**  
+"Hoy, Bagon decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+
+---
+
+**¿Sabías que...?**  
+Bagon es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+
+---
+
+**Pokémon Go:**
+- **CP máximo:** 3183
+- **Clase de combate:** 8
+- **Evento especial:** Bagon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Bagon_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -479,11 +496,13 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-14T14:21:47.380851 -->
+<!-- Generated: 2026-07-14T14:28:16.173530 -->
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
+
 
 
 
