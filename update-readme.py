@@ -135,7 +135,11 @@ pokemon_info_block = f"""<!-- POKEMON_INFO -->
 
 <table>
 <tr><td><b>Imagen</b></td><td><img src="{pokemon_img_url}" alt="{nombre}" /></td></tr>
-<tr><td><b>Nombre</b></td><td>{nombre_md}<br>{badge_rareza}</td></tr>
+<tr><td><b>Nombre</b></td><td>{rareza_iconos[rareza]} <b>{nombre}</b></td></tr>
+
+<tr><td><b>Rareza</b></td><td>
+<img src="https://img.shields.io/badge/{rareza_texto[rareza]}-{rareza_colores[rareza]}?style=flat-square">
+</td></tr>
 <tr><td><b>Tipo(s)</b></td><td>{', '.join(tipos_es)}</td></tr>
 <tr><td><b>Clase</b></td><td>{clase.capitalize()}</td></tr>
 <tr><td><b>Nº Pokédex</b></td><td>{pokedex_num}</td></tr>
