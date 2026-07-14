@@ -375,7 +375,18 @@ else:
 
 def barra_bst(valor, maximo=720, ancho=20):
     bloques = round(valor / maximo * ancho)
-    return "🟩" * bloques + "⬜" * (ancho - bloques)
+     if valor < 40:
+        color = "🟥"
+    elif valor < 70:
+        color = "🟧"
+    elif valor < 100:
+        color = "🟨"
+    elif valor < 130:
+        color = "🟩"
+    else:
+        color = "🟦"
+
+    return color * bloques + "⬜" * (ancho - bloques)
 
 bst_html = f"""
 {barra_bst(bst)}
