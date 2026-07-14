@@ -203,15 +203,39 @@ def get_evolution_chain(pokedex_num):
                 fila_imagenes += '<td align="center"><b>➡️</b></td>'
                 fila_nombres += '<td></td>'
 
-        return f"""
-<table>
-<tr>
-{fila_imagenes}
-</tr>
-<tr>
-{fila_nombres}
-</tr>
-</table>
+       if len(evoluciones) <= 4:
+    filas = [evoluciones]
+else:
+    filas = [
+        evoluciones[:4],
+        evoluciones[4:]
+    ]
+
+html = "<table>"
+
+for fila in filas:
+
+    html += "<tr>"
+
+    for i, nombre in enumerate(fila):
+
+        imagen = f"https://img.pokemondb.net/artwork/large/{nombre.lower()}.jpg"
+
+        html += f"""
+        <td align="center">
+            <img src="{imagen}" width="70"><br>
+            <small>{nombre}</small>
+        </td>
+        """
+
+        if i < len(fila)-1:
+            html += '<td align="center"><b>➡️</b></td>'
+
+    html += "</tr>"
+
+html += "</table>"
+
+return html
 """
 
     except Exception:
