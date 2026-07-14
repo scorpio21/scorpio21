@@ -66,7 +66,14 @@ frase_del_dia = get_gamer_quote()
 
 
 # Bloque de información de Pokémon en el README
-stats_md = f"HP: {stats['hp']}<br>Atq: {stats['attack']}<br>Def: {stats['defense']}<br>Vel: {stats['speed']}"
+# Stats en vertical con <br>
+stats_md = (
+    f"HP: {stats['hp']}<br>"
+    f"Atq: {stats['attack']}<br>"
+    f"Def: {stats['defense']}<br>"
+    f"Vel: {stats['speed']}"
+)
+
 pokemon_info_block = f"""<!-- POKEMON_INFO -->
 ### 🐱‍👤 Pokémon del día
 
