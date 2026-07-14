@@ -8,42 +8,42 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-14T16:12:48.911157 -->
+<!-- Generated: 2026-07-14T16:14:29.561155 -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/554.png" alt="Darumaka" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🔵 <b>Darumaka</b></td></tr>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/507.png" alt="Herdier" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🟢 <b>Herdier</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
-<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
 </td></tr>
-<tr><td><b>Tipo(s)</b></td><td>Fuego</td></tr>
-<tr><td><b>Clase</b></td><td>Darumaka</td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>554</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Hoja Afilada, Ataque Psíquico, Puño Trueno</td></tr>
-<tr><td><b>Evolución</b></td><td>Darumaka → Darmanitan</td></tr>
-<tr><td><b>Estadísticas base</b></td><td>HP: 70<br>Atq: 90<br>Def: 45<br>Vel: 50</td></tr>
+<tr><td><b>Tipo(s)</b></td><td>Normal</td></tr>
+<tr><td><b>Clase</b></td><td>Herdier</td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>507</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Puño Fuego, Rayo Solar, Puño Trueno</td></tr>
+<tr><td><b>Evolución</b></td><td>Lillipup → Herdier → Stoutland</td></tr>
+<tr><td><b>Estadísticas base</b></td><td>HP: 65<br>Atq: 80<br>Def: 65<br>Vel: 60</td></tr>
 </table>
 
 <br>
 
 **Historia del día:**  
-"Hoy, Darumaka decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Herdier decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Darumaka es conocido por su capacidad para alcanza poderes muy altos.
+Herdier es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3738
+- **CP máximo:** 3159
 - **Clase de combate:** 8
-- **Evento especial:** Darumaka puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Herdier puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Darumaka_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Herdier_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -519,11 +519,13 @@ Darumaka es conocido por su capacidad para alcanza poderes muy altos.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-14T16:12:48.911157 -->
+<!-- Generated: 2026-07-14T16:14:29.561155 -->
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "El verdadero juego comienza cuando apagas la consola."
 <!-- END_FRASE_GAMER -->
+
 
 
 
