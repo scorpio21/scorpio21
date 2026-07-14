@@ -320,8 +320,21 @@ frase_del_dia = get_gamer_quote()
 
 #Barras
 def barra_stat(valor, maximo=255, ancho=10):
+
     bloques = round((valor / maximo) * ancho)
-    return "🟩" * bloques + "⬜" * (ancho - bloques)
+
+    if valor < 40:
+        color = "🟥"
+    elif valor < 70:
+        color = "🟧"
+    elif valor < 100:
+        color = "🟨"
+    elif valor < 130:
+        color = "🟩"
+    else:
+        color = "🟦"
+
+    return color * bloques + "⬜" * (ancho - bloques)
 
 # Stats en vertical
 stats_md = f"""
