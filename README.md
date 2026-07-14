@@ -8,73 +8,42 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-14T14:36:27.963417 -->
+<!-- Generated: 2026-07-14T15:24:49.934597 -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
-<tr>
-<td><b>Imagen</b></td>
-<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/256.png" alt="Combusken" /></td>
-</tr>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/266.png" alt="Silcoon" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🟢 <b>Silcoon</b></td></tr>
 
-<tr>
-<td><b>Nombre</b></td>
-<td>
-<span style="color:#1e90ff; font-weight:bold; text-shadow: 0 0 5px #1e90ff, 0 0 10px #1e90ff, 0 0 20px #1e90ff;">
-Combusken
-</span>
-</td>
-</tr>
-
-<tr>
-<td><b>Tipo(s)</b></td>
-<td>Fuego, Lucha</td>
-</tr>
-
-<tr>
-<td><b>Clase</b></td>
-<td>Combusken</td>
-</tr>
-
-<tr>
-<td><b>Nº Pokédex</b></td>
-<td>256</td>
-</tr>
-
-<tr>
-<td><b>Movimientos especiales</b></td>
-<td>Corte Psíquico, Rayo Solar, Puño Trueno</td>
-</tr>
-
-<tr>
-<td><b>Evolución</b></td>
-<td>Combusken → Combusken (Alola)</td>
-</tr>
-
-<tr>
-<td><b>Estadísticas base</b></td>
-<td>HP: 60<br>Atq: 85<br>Def: 60<br>Vel: 55</td>
-</tr>
+<tr><td><b>Rareza</b></td><td>
+<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
+</td></tr>
+<tr><td><b>Tipo(s)</b></td><td>Bicho</td></tr>
+<tr><td><b>Clase</b></td><td>Silcoon</td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>266</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Hoja Afilada, Ataque Psíquico, Puño Fuego</td></tr>
+<tr><td><b>Evolución</b></td><td>Silcoon → Silcoon (Alola)</td></tr>
+<tr><td><b>Estadísticas base</b></td><td>HP: 50<br>Atq: 35<br>Def: 55<br>Vel: 15</td></tr>
 </table>
 
 <br>
 
 **Historia del día:**  
-"Hoy, Combusken decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Silcoon decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Combusken es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Silcoon es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3387
+- **CP máximo:** 3261
 - **Clase de combate:** 8
-- **Evento especial:** Combusken puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Silcoon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Combusken_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Silcoon_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -542,11 +511,13 @@ Combusken es conocido por su capacidad para desarrollar habilidades que cambian 
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-14T14:36:27.963417 -->
+<!-- Generated: 2026-07-14T15:24:49.934597 -->
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "Gamer de día, héroe de noche."
 <!-- END_FRASE_GAMER -->
+
 
 
 
