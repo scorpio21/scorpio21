@@ -8,63 +8,72 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-14T17:19:11.915764 -->
+<!-- Generated: 2026-07-14T17:29:10.872460 -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png" alt="Dragalge" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🔵 <b>Dragalge</b></td></tr>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png" alt="Arctovish" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🔵 <b>Arctovish</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
 <img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td></tr>
-<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"> <img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"></td></tr>
-<tr><td><b>Clase</b></td><td>Dragalge</td></tr>
-<tr><td><b>🎨 Color Pokédex</b></td><td>🟤 Marrón</td></tr>
-<tr><td><b>📏 Altura</b></td><td>1.8 m</td></tr>
-<tr><td><b>⚖️ Peso</b></td><td>81.5 kg</td></tr>
-<tr><td><b>⭐ Experiencia</b></td><td>173</td></tr>
+<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"></td></tr>
+<tr><td><b>Clase</b></td><td>Arctovish</td></tr>
+<tr><td><b>🎨 Color Pokédex</b></td><td>🔵 Azul</td></tr>
+<tr><td><b>📏 Altura</b></td><td>2.0 m</td></tr>
+<tr><td><b>⚖️ Peso</b></td><td>175.0 kg</td></tr>
+<tr><td><b>⭐ Experiencia</b></td><td>177</td></tr>
 <tr><td><b>🌍 Hábitat</b></td><td>Desconocido</td></tr>
-<tr><td><b>🥚 Grupo huevo</b></td><td>Water1, Dragon</td></tr>
-<tr><td><b>❤️ Amistad base</b></td><td>70</td></tr>
-<tr><td><b>🎯 Ratio captura</b></td><td>55</td></tr>
+<tr><td><b>🥚 Grupo huevo</b></td><td>No-eggs</td></tr>
+<tr><td><b>❤️ Amistad base</b></td><td>50</td></tr>
+<tr><td><b>🎯 Ratio captura</b></td><td>45</td></tr>
 <tr><td><b>💪 Habilidades</b></td>
-<td>Poison point, Poison touch</td></tr>
+<td>Water absorb, Ice body</td></tr>
 <tr><td><b>✨ Habilidad oculta</b></td>
-<td>Adaptability</td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>691</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Hoja Afilada, Rayo Solar, Puño Trueno</td></tr>
-<tr><td><b>Evolución</b></td><td>
-<table>
-<tr>
-<td align="center"><img src="https://img.pokemondb.net/artwork/large/skrelp.jpg" width="70"></td><td align="center"><b>➡️</b></td><td align="center"><img src="https://img.pokemondb.net/artwork/large/dragalge.jpg" width="70"></td>
-</tr>
-<tr>
-<td align="center"><b>Skrelp</b></td><td></td><td align="center"><b>Dragalge</b></td>
-</tr>
-</table>
+<td>Slush rush</td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>883</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Corte Psíquico, Rayo Solar, Puño Trueno</td></tr>
+<tr><td><b>Evolución</b></td><td>No evoluciona</td></tr>
+<tr><td><b>Estadísticas base</b></td><td>
+❤️ <b>PS</b><br>
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 90<br><br>
+
+⚔️ <b>Ataque</b><br>
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 90<br><br>
+
+🛡️ <b>Defensa</b><br>
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 100<br><br>
+
+✨ <b>Ataque Especial</b><br>
+🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 80<br><br>
+
+🛡️ <b>Defensa Especial</b><br>
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 90<br><br>
+
+💨 <b>Velocidad</b><br>
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 55
 </td></tr>
-<tr><td><b>Estadísticas base</b></td><td>HP: 65<br>Atq: 75<br>Def: 90<br>Vel: 44</td></tr>
 </table>
 
 <br>
 
 **Historia del día:**  
-"Hoy, Dragalge decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Arctovish decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Dragalge es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Arctovish es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3800
+- **CP máximo:** 3860
 - **Clase de combate:** 8
-- **Evento especial:** Dragalge puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Arctovish puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Dragalge_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Arctovish_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -546,11 +555,13 @@ Dragalge es conocido por su capacidad para desarrollar habilidades que cambian l
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-14T17:19:11.915764 -->
+<!-- Generated: 2026-07-14T17:29:10.872460 -->
 ### 💬 Frase 🎮 del día
-> "El verdadero juego comienza cuando apagas la consola."
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
+
 
 
 
