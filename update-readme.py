@@ -148,7 +148,7 @@ random.choice(["Corte Psíquico", "Hoja Afilada", "Puño Fuego"]),
 random.choice(["Rayo Solar", "Ataque Psíquico", "Puño Trueno"]),
 random.choice(["Puño Trueno", "Puño Fuego"])
 ])}</td></tr>
-<tr><td><b>Evolución</b></td><td>{nombre} → {nombre} (Alola)</td></tr>
+<tr><td><b>Evolución</b></td><td>{cadena_evolucion}</td></tr>
 <tr><td><b>Estadísticas base</b></td><td>{stats_md}</td></tr>
 </table>
 
