@@ -59,7 +59,28 @@ def get_pokemon_type_translation(tipo):
         "dark": "Siniestro", "ground": "Tierra", "shadow": "Sombra"
     }
     return traducciones.get(tipo, tipo)
-    
+# tipos Badges
+tipo_badges = {
+    "Normal": "https://img.shields.io/badge/Normal-A8A77A?style=flat-square",
+    "Fuego": "https://img.shields.io/badge/Fuego-EE8130?style=flat-square",
+    "Agua": "https://img.shields.io/badge/Agua-6390F0?style=flat-square",
+    "Planta": "https://img.shields.io/badge/Planta-7AC74C?style=flat-square",
+    "Eléctrico": "https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square",
+    "Hielo": "https://img.shields.io/badge/Hielo-96D9D6?style=flat-square",
+    "Lucha": "https://img.shields.io/badge/Lucha-C22E28?style=flat-square",
+    "Veneno": "https://img.shields.io/badge/Veneno-A33EA1?style=flat-square",
+    "Tierra": "https://img.shields.io/badge/Tierra-E2BF65?style=flat-square",
+    "Volador": "https://img.shields.io/badge/Volador-A98FF3?style=flat-square",
+    "Psíquico": "https://img.shields.io/badge/Psíquico-F95587?style=flat-square",
+    "Bicho": "https://img.shields.io/badge/Bicho-A6B91A?style=flat-square",
+    "Roca": "https://img.shields.io/badge/Roca-B6A136?style=flat-square",
+    "Fantasma": "https://img.shields.io/badge/Fantasma-735797?style=flat-square",
+    "Dragón": "https://img.shields.io/badge/Dragón-6F35FC?style=flat-square",
+    "Siniestro": "https://img.shields.io/badge/Siniestro-705746?style=flat-square",
+    "Acero": "https://img.shields.io/badge/Acero-B7B7CE?style=flat-square",
+    "Hada": "https://img.shields.io/badge/Hada-D685AD?style=flat-square"
+}
+
 # Obtener la cadena de evolución
 def get_evolution_chain(pokedex_num):
     try:
@@ -167,7 +188,10 @@ fecha = datetime.utcnow().isoformat()
 pokemon_info_block = f"""<!-- POKEMON_INFO -->
 <!-- Generated: {fecha} -->
 ### 🐱‍👤 Pokémon del día
-
+tipos_html = " ".join(
+    f'<img src="{tipo_badges.get(tipo)}" alt="{tipo}">'
+    for tipo in tipos_es
+)
 <table>
 <tr><td><b>Imagen</b></td><td><img src="{pokemon_img_url}" alt="{nombre}" /></td></tr>
 <tr><td><b>Nombre</b></td><td>{rareza_iconos[rareza]} <b>{nombre}</b></td></tr>
@@ -175,7 +199,7 @@ pokemon_info_block = f"""<!-- POKEMON_INFO -->
 <tr><td><b>Rareza</b></td><td>
 <img src="https://img.shields.io/badge/{rareza_texto[rareza]}-{rareza_colores[rareza]}?style=flat-square">
 </td></tr>
-<tr><td><b>Tipo(s)</b></td><td>{', '.join(tipos_es)}</td></tr>
+<tr><td><b>Tipo(s)</b></td><td>{tipos_html}</td></tr>
 <tr><td><b>Clase</b></td><td>{clase.capitalize()}</td></tr>
 <tr><td><b>Nº Pokédex</b></td><td>{pokedex_num}</td></tr>
 <tr><td><b>Movimientos especiales</b></td><td>{', '.join([
