@@ -204,15 +204,15 @@ def get_evolution_chain(pokedex_num):
                 fila_nombres += '<td></td>'
 
        return f"""
-       <table> 
-       <tr>
-       {fila_imagenes}
-       </tr>
-       <tr>
-       {fila_nombres}
-       </tr>
-       </table>
-       """
+<table> 
+<tr>
+{fila_imagenes}
+</tr>
+<tr>
+{fila_nombres}
+</tr>
+</table>
+"""
     except Exception:
         return "Desconocida"
 
