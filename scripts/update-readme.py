@@ -180,7 +180,10 @@ stats_md = (
     f"Def: {stats['defense']}<br>"
     f"Vel: {stats['speed']}"
 )
-
+tipos_html = " ".join(
+    f'<img src="{tipo_badges.get(tipo)}" alt="{tipo}">'
+    for tipo in tipos_es
+)
 # Timestamp
 fecha = datetime.utcnow().isoformat()
 
@@ -188,10 +191,7 @@ fecha = datetime.utcnow().isoformat()
 pokemon_info_block = f"""<!-- POKEMON_INFO -->
 <!-- Generated: {fecha} -->
 ### 🐱‍👤 Pokémon del día
-tipos_html = " ".join(
-    f'<img src="{tipo_badges.get(tipo)}" alt="{tipo}">'
-    for tipo in tipos_es
-)
+
 <table>
 <tr><td><b>Imagen</b></td><td><img src="{pokemon_img_url}" alt="{nombre}" /></td></tr>
 <tr><td><b>Nombre</b></td><td>{rareza_iconos[rareza]} <b>{nombre}</b></td></tr>
