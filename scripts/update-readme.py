@@ -28,6 +28,7 @@ from updater import update_readme
     experiencia,
     habitat,
     color_pokedex,
+    generation,
     capture_rate,
     base_happiness,
     egg_groups,
@@ -47,7 +48,7 @@ fecha = datetime.datetime.utcnow().isoformat()
 
 pokemon_info_block = build_pokemon_info_block(
     fecha, pokemon_img_url, nombre, rareza, pokedex_num, tipos_html, debilidades_html,
-    resistencias_html, inmunidades_html, clase, color_pokedex, altura, peso, experiencia,
+    resistencias_html, inmunidades_html, generation=generation, clase, color_pokedex, altura, peso, experiencia,
     habitat, egg_groups, base_happiness, capture_rate, habilidades, habilidad_oculta,
     cadena_evolucion, bst_html, stats_md
 )
