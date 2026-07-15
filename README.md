@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-15T14:14:25.782051 -->
+<!-- Generated: 2026-07-15T14:18:02.311245 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -19,23 +19,23 @@ Descubre cada día un Pokémon diferente con sus estadísticas, evolución y cur
 ---
 
 
-    <div align="center">
-    <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/657.png"  alt="Frogadier" width="400" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🔵 <b>Frogadier</b></td></tr>
+<div align="center">
+<table>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png"  alt="Lanturn" width="400" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🔵 <b>Lanturn</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
 <img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>657</td></tr>
-<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"></td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>171</td></tr>
+<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"></td></tr>
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
+<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 <tr>
 <td><b>✨ Inmune a</b></td>
@@ -43,65 +43,60 @@ Descubre cada día un Pokémon diferente con sus estadísticas, evolución y cur
 </tr>
 <tr>
     <td><b>🧬 Generación</b></td>
-    <td>VI (Kalos)</td>
+    <td>II (Johto)</td>
 </tr>
-<tr><td><b>Clase</b></td><td>Frogadier</td></tr>
+<tr><td><b>Clase</b></td><td>Lanturn</td></tr>
 <tr><td><b>🎨 Color Pokédex</b></td><td>🔵 Azul</td></tr>
-<tr><td><b>📏 Altura</b></td><td>0.6 m</td></tr>
-<tr><td><b>⚖️ Peso</b></td><td>10.9 kg</td></tr>
-<tr><td><b>⭐ Experiencia</b></td><td>142</td></tr>
-<tr><td><b>🌍 Hábitat</b></td><td>Desconocido</td></tr>
-<tr><td><b>🥚 Grupo huevo</b></td><td>Water1</td></tr>
+<tr><td><b>📏 Altura</b></td><td>1.2 m</td></tr>
+<tr><td><b>⚖️ Peso</b></td><td>22.5 kg</td></tr>
+<tr><td><b>⭐ Experiencia</b></td><td>161</td></tr>
+<tr><td><b>🌍 Hábitat</b></td><td>Sea</td></tr>
+<tr><td><b>🥚 Grupo huevo</b></td><td>Water2</td></tr>
 <tr><td><b>❤️ Amistad base</b></td><td>70</td></tr>
-<tr><td><b>🎯 Ratio captura</b></td><td>45</td></tr>
+<tr><td><b>🎯 Ratio captura</b></td><td>75</td></tr>
 <tr><td><b>💪 Habilidades</b></td>
-<td>Torrent</td></tr>
+<td>Volt absorb, Illuminate</td></tr>
 <tr><td><b>✨ Habilidad oculta</b></td>
-<td>Protean</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Corte Psíquico, Rayo Solar, Puño Fuego</td></tr>
+<td>Water absorb</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Puño Fuego, Puño Trueno, Puño Fuego</td></tr>
 <tr><td><b>Evolución</b></td><td><table><tr>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/froakie.jpg" width="70"><br>
-    <small><b>Froakie</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/chinchou.jpg" width="70"><br>
+    <small><b>Chinchou</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/frogadier.jpg" width="70"><br>
-    <small><b>Frogadier</b></small>
-</td>
-<td align="center"><b>➡️</b></td>
-<td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/greninja.jpg" width="70"><br>
-    <small><b>Greninja</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/lanturn.jpg" width="70"><br>
+    <small><b>Lanturn</b></small>
 </td>
 </tr></table></td></tr>
 <tr>
 <td><b>🏆 Poder total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜
 
-<b>405 puntos</b><br>
+<b>460 puntos</b><br>
 ⚔️ Fuerte
 </td>
 </tr>
 <tr><td><b>Estadísticas base</b></td><td>
 ❤️ <b>PS</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 54<br>
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 125<br>
 
 ⚔️ <b>Ataque</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 63
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 58
 
 🛡️ <b>Defensa</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 52<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 58<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 83<br>
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 76<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 56<br>
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 76<br>
 
 💨 <b>Velocidad</b><br>
-🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 97
+🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 67
 </td></tr>
 </table>
 
@@ -113,25 +108,25 @@ Descubre cada día un Pokémon diferente con sus estadísticas, evolución y cur
 ## 📖 Historia
 
 **Historia del día:**  
-"Hoy, Frogadier decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Lanturn decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 ## 🧠 ¿Sabías que...?
 
 **¿Sabías que...?**  
-Frogadier es conocido por su capacidad para alcanza poderes muy altos.
+Lanturn es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 ## 📱 Pokémon GO
 
 **Pokémon Go:**
-- **CP máximo:** 3120
+- **CP máximo:** 3616
 - **Clase de combate:** 8
-- **Evento especial:** Frogadier puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Lanturn puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Frogadier_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Lanturn_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -637,16 +632,18 @@ Frogadier es conocido por su capacidad para alcanza poderes muy altos.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-15T14:14:25.782051 -->
+<!-- Generated: 2026-07-15T14:18:02.311245 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"Si no estás ganando, ¡estás aprendiendo!"*
+> *"En cada partida, hay un nuevo desafío esperando ser conquistado."*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
