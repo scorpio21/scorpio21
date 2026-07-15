@@ -372,13 +372,6 @@ elif bst >= 300:
 else:
     nivel_bst = "🌱 Básico"
 
-bst_html = f"""
-<b>{bst} puntos</b><br>
-{barra_bst(bst)}<br>
-{nivel_bst}
-"""
-
-
 def barra_bst(valor, maximo=720, ancho=20):
     bloques = round(valor / maximo * ancho)
     if valor < 40:
@@ -474,21 +467,10 @@ random.choice(["Rayo Solar", "Ataque Psíquico", "Puño Trueno"]),
 random.choice(["Puño Trueno", "Puño Fuego"])
 ])}</td></tr>
 <tr><td><b>Evolución</b></td><td>{cadena_evolucion}</td></tr>
-bst = sum(stats.values())
-
-if bst >= 680:
-    nivel_bst = "🌟 Legendario"
-elif bst >= 600:
-    nivel_bst = "💎 Pseudolegendario"
-elif bst >= 500:
-    nivel_bst = "🔥 Muy fuerte"
-elif bst >= 400:
-    nivel_bst = "⚔️ Fuerte"
-elif bst >= 300:
-    nivel_bst = "👍 Normal"
-else:
-    nivel_bst = "🌱 Básico"
-
+<tr>
+<td><b>🏆 Poder total (BST)</b></td>
+<td>{bst_html}</td>
+</tr>
 <tr><td><b>Estadísticas base</b></td><td>{stats_md}</td></tr>
 <tr>
 <td><b>🏆 Poder total (BST)</b></td>
