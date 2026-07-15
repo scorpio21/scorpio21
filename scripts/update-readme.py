@@ -489,11 +489,6 @@ elif bst >= 300:
 else:
     nivel_bst = "🌱 Básico"
 
-bst_html = f"""
-<b>{bst} puntos</b><br>
-{barra_bst(bst)}<br>
-{nivel_bst}
-"""
 <tr><td><b>Estadísticas base</b></td><td>{stats_md}</td></tr>
 <tr>
 <td><b>🏆 Poder total (BST)</b></td>
