@@ -2,42 +2,41 @@ name: 🪄 Actualizar PAGINA DE SCORPIO automáticamente
 
 on:
   schedule:
-    - cron: '0 9 * * *'  # Ejecuta todos los días a las 9 AM (ajusta a tu horario)
-  workflow_dispatch:  # Permite ejecutar el flujo de trabajo manualmente desde GitHub
+    - cron: '0 9 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Obtener el repositorio
-      uses: actions/checkout@v6
+      - name: Obtener el repositorio
+        uses: actions/checkout@v6
 
-    - name: Configurar Python
-      uses: actions/setup-python@v6
-      with:
-        python-version: '3.9'  # Asegúrate de que sea la versión que necesitas
+      - name: Configurar Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.9'
 
-    - name: Instalar dependencias
-      run: |
-        pip install -r requirements.txt  # Instala las dependencias (si tienes un archivo requirements.txt)
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-    - name: Ejecutar script para actualizar README
-      run: |
-        python scripts/update-readme.py  # Asegúrate de que el script esté en la carpeta/scripts
-      env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Usa un token de GitHub como secreto (más abajo)
+      - name: Ejecutar script
+        run: python scripts/update-readme.py
 
-    - name: Confirmar cambios en el repositorio
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git add README.md
+      - name: Guardar cambios
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
 
-        if git diff --cached --quiet; then
-        echo "No hay cambios para confirmar."
-        exit 0
-        fi
-        
-        git commit -m "🪄 Actualización diaria automática: Pokémon y frase gamer"
-        git push
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "No hay cambios."
+            exit 0
+          fi
+
+          git commit -m "🪄 Actualización diaria automática: Pokémon y frase gamer"
+          git push
