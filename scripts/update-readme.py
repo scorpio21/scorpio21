@@ -5,8 +5,6 @@ from evolution import get_evolution_chain
 from rarity import get_rarity
 from stats import compute_bst
 from badges import (
-    build_nombre_md,
-    build_badge_rareza,
     build_tipos_html,
     build_relations_html,
 )
@@ -18,8 +16,24 @@ from builders.readme_builder import (
 from updater import update_readme
 
 # Obtener Pokémon y calcular variables
-(nombre, tipos_es, pokemon_img_url, pokedex_num, clase, stats, altura, peso, experiencia,
- habitat, color_pokedex, capture_rate, base_happiness, egg_groups, habilidades, habilidad_oculta) = get_pokemon_of_the_day()
+(
+    nombre,
+    tipos_es,
+    pokemon_img_url,
+    pokedex_num,
+    clase,
+    stats,
+    altura,
+    peso,
+    experiencia,
+    habitat,
+    color_pokedex,
+    capture_rate,
+    base_happiness,
+    egg_groups,
+    habilidades,
+    habilidad_oculta,
+) = get_pokemon_of_the_day()
 
 cadena_evolucion = get_evolution_chain(pokedex_num)
 rareza = get_rarity(tipos_es[0], pokedex_num)
