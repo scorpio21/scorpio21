@@ -8,89 +8,74 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-15T12:41:45.057998 -->
+<!-- Generated: 2026-07-15T12:47:05.050214 -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png" alt="Conkeldurr" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🔵 <b>Conkeldurr</b></td></tr>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png" alt="Entei" width="120" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🟡✨ <b>Entei</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
-<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Legendario-gold?style=flat-square">
 </td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>534</td></tr>
-<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"></td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>244</td></tr>
+<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"></td></tr>
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
 <td>Ninguna</td>
 </tr>
-<tr><td><b>Clase</b></td><td>Conkeldurr</td></tr>
+<tr><td><b>Clase</b></td><td>Entei</td></tr>
 <tr><td><b>🎨 Color Pokédex</b></td><td>🟤 Marrón</td></tr>
-<tr><td><b>📏 Altura</b></td><td>1.4 m</td></tr>
-<tr><td><b>⚖️ Peso</b></td><td>87.0 kg</td></tr>
-<tr><td><b>⭐ Experiencia</b></td><td>227</td></tr>
-<tr><td><b>🌍 Hábitat</b></td><td>Desconocido</td></tr>
-<tr><td><b>🥚 Grupo huevo</b></td><td>Humanshape</td></tr>
-<tr><td><b>❤️ Amistad base</b></td><td>70</td></tr>
-<tr><td><b>🎯 Ratio captura</b></td><td>45</td></tr>
+<tr><td><b>📏 Altura</b></td><td>2.1 m</td></tr>
+<tr><td><b>⚖️ Peso</b></td><td>198.0 kg</td></tr>
+<tr><td><b>⭐ Experiencia</b></td><td>261</td></tr>
+<tr><td><b>🌍 Hábitat</b></td><td>Grassland</td></tr>
+<tr><td><b>🥚 Grupo huevo</b></td><td>No-eggs</td></tr>
+<tr><td><b>❤️ Amistad base</b></td><td>35</td></tr>
+<tr><td><b>🎯 Ratio captura</b></td><td>3</td></tr>
 <tr><td><b>💪 Habilidades</b></td>
-<td>Guts, Sheer force</td></tr>
+<td>Pressure</td></tr>
 <tr><td><b>✨ Habilidad oculta</b></td>
-<td>Iron fist</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Hoja Afilada, Puño Trueno, Puño Fuego</td></tr>
-<tr><td><b>Evolución</b></td><td><table><tr>
-<td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/timburr.jpg" width="70"><br>
-    <small><b>Timburr</b></small>
-</td>
-<td align="center"><b>➡️</b></td>
-<td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/gurdurr.jpg" width="70"><br>
-    <small><b>Gurdurr</b></small>
-</td>
-<td align="center"><b>➡️</b></td>
-<td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/conkeldurr.jpg" width="70"><br>
-    <small><b>Conkeldurr</b></small>
-</td>
-</tr></table></td></tr>
+<td>Inner focus</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Puño Fuego, Puño Trueno, Puño Trueno</td></tr>
+<tr><td><b>Evolución</b></td><td>No evoluciona</td></tr>
 <tr>
 <td><b>🏆 Poder total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜
 
-<b>505 puntos</b><br>
+<b>580 puntos</b><br>
 🔥 Muy fuerte
 </td>
 </tr>
 <tr><td><b>Estadísticas base</b></td><td>
 ❤️ <b>PS</b><br>
-🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 105<br>
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 115<br>
 
 ⚔️ <b>Ataque</b><br>
-🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ 140
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 115
 
 🛡️ <b>Defensa</b><br>
-🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 95<br>
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 85<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 55<br>
+🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 90<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 65<br>
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 75<br>
 
 💨 <b>Velocidad</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 45
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 100
 </td></tr>
 <tr>
 </table>
@@ -98,21 +83,21 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 <br>
 
 **Historia del día:**  
-"Hoy, Conkeldurr decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Entei decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Conkeldurr es conocido por su capacidad para alcanza poderes muy altos.
+Entei es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3622
+- **CP máximo:** 3886
 - **Clase de combate:** 8
-- **Evento especial:** Conkeldurr puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Entei puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Conkeldurr_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Entei_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -611,11 +596,13 @@ Conkeldurr es conocido por su capacidad para alcanza poderes muy altos.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-15T12:41:45.057998 -->
+<!-- Generated: 2026-07-15T12:47:05.050214 -->
 ### 💬 Frase 🎮 del día
 > "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
+
 
 
 
