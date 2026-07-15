@@ -8,84 +8,89 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-15T12:29:50.301419 -->
+<!-- Generated: 2026-07-15T12:41:45.057998 -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/504.png" alt="Patrat" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🟢 <b>Patrat</b></td></tr>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png" alt="Conkeldurr" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🔵 <b>Conkeldurr</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
-<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
+<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>504</td></tr>
-<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"></td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>534</td></tr>
+<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"></td></tr>
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"></td>
+<td><img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"></td>
+<td>Ninguna</td>
 </tr>
-<tr><td><b>Clase</b></td><td>Patrat</td></tr>
+<tr><td><b>Clase</b></td><td>Conkeldurr</td></tr>
 <tr><td><b>🎨 Color Pokédex</b></td><td>🟤 Marrón</td></tr>
-<tr><td><b>📏 Altura</b></td><td>0.5 m</td></tr>
-<tr><td><b>⚖️ Peso</b></td><td>11.6 kg</td></tr>
-<tr><td><b>⭐ Experiencia</b></td><td>51</td></tr>
+<tr><td><b>📏 Altura</b></td><td>1.4 m</td></tr>
+<tr><td><b>⚖️ Peso</b></td><td>87.0 kg</td></tr>
+<tr><td><b>⭐ Experiencia</b></td><td>227</td></tr>
 <tr><td><b>🌍 Hábitat</b></td><td>Desconocido</td></tr>
-<tr><td><b>🥚 Grupo huevo</b></td><td>Ground</td></tr>
+<tr><td><b>🥚 Grupo huevo</b></td><td>Humanshape</td></tr>
 <tr><td><b>❤️ Amistad base</b></td><td>70</td></tr>
-<tr><td><b>🎯 Ratio captura</b></td><td>255</td></tr>
+<tr><td><b>🎯 Ratio captura</b></td><td>45</td></tr>
 <tr><td><b>💪 Habilidades</b></td>
-<td>Run away, Keen eye</td></tr>
+<td>Guts, Sheer force</td></tr>
 <tr><td><b>✨ Habilidad oculta</b></td>
-<td>Analytic</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Puño Fuego, Ataque Psíquico, Puño Fuego</td></tr>
+<td>Iron fist</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Hoja Afilada, Puño Trueno, Puño Fuego</td></tr>
 <tr><td><b>Evolución</b></td><td><table><tr>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/patrat.jpg" width="70"><br>
-    <small><b>Patrat</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/timburr.jpg" width="70"><br>
+    <small><b>Timburr</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/watchog.jpg" width="70"><br>
-    <small><b>Watchog</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/gurdurr.jpg" width="70"><br>
+    <small><b>Gurdurr</b></small>
+</td>
+<td align="center"><b>➡️</b></td>
+<td align="center">
+    <img src="https://img.pokemondb.net/artwork/large/conkeldurr.jpg" width="70"><br>
+    <small><b>Conkeldurr</b></small>
 </td>
 </tr></table></td></tr>
 <tr>
 <td><b>🏆 Poder total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜
 
-<b>255 puntos</b><br>
-🌱 Básico
+<b>505 puntos</b><br>
+🔥 Muy fuerte
 </td>
 </tr>
 <tr><td><b>Estadísticas base</b></td><td>
 ❤️ <b>PS</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 45<br>
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 105<br>
 
 ⚔️ <b>Ataque</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 55
+🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ 140
 
 🛡️ <b>Defensa</b><br>
-🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜ 39<br>
+🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 95<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 35<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 55<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜ 39<br>
+🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 65<br>
 
 💨 <b>Velocidad</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 42
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 45
 </td></tr>
 <tr>
 </table>
@@ -93,21 +98,21 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 <br>
 
 **Historia del día:**  
-"Hoy, Patrat decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Conkeldurr decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Patrat es conocido por su capacidad para alcanza poderes muy altos.
+Conkeldurr es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3585
+- **CP máximo:** 3622
 - **Clase de combate:** 8
-- **Evento especial:** Patrat puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Conkeldurr puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Patrat_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Conkeldurr_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -605,11 +610,13 @@ Patrat es conocido por su capacidad para alcanza poderes muy altos.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-15T12:29:50.301419 -->
+<!-- Generated: 2026-07-15T12:41:45.057998 -->
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "Solo hay una regla: ¡Ganar es lo único que importa!"
 <!-- END_FRASE_GAMER -->
+
 
 
 
