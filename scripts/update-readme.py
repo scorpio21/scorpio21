@@ -375,7 +375,7 @@ else:
 
 def barra_bst(valor, maximo=720, ancho=20):
     bloques = round(valor / maximo * ancho)
-     if valor < 40:
+    if valor < 40:
         color = "🟥"
     elif valor < 70:
         color = "🟧"
