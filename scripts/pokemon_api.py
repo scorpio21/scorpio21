@@ -19,6 +19,23 @@ def get_pokemon_of_the_day():
     clase = data["species"]["name"]
 
     color_pokedex = species["color"]["name"]
+    
+    # Generación
+    generation = species["generation"]["name"]
+
+    generaciones = {
+        "generation-i": "I (Kanto)",
+        "generation-ii": "II (Johto)",
+        "generation-iii": "III (Hoenn)",
+        "generation-iv": "IV (Sinnoh)",
+        "generation-v": "V (Teselia)",
+        "generation-vi": "VI (Kalos)",
+        "generation-vii": "VII (Alola)",
+        "generation-viii": "VIII (Galar)",
+        "generation-ix": "IX (Paldea)"
+    }
+
+    generation = generaciones.get(generation, generation)
 
     habitat = species["habitat"]["name"].capitalize() if species["habitat"] else "Desconocido"
 
@@ -60,6 +77,7 @@ def get_pokemon_of_the_day():
         experiencia,
         habitat,
         color_pokedex,
+        generation,
         capture_rate,
         base_happiness,
         egg_groups,
