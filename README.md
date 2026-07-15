@@ -8,88 +8,83 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-14T23:28:47.546298 -->
+<!-- Generated: 2026-07-15T10:53:45.893587 -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png" alt="Hakamo-o" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🟣 <b>Hakamo-o</b></td></tr>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png" alt="Panpour" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🔵 <b>Panpour</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
-<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
+<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>783</td></tr>
-<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"></td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>515</td></tr>
+<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"></td></tr>
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
 <td>Ninguna</td>
 </tr>
-<tr><td><b>Clase</b></td><td>Hakamo-o</td></tr>
-<tr><td><b>🎨 Color Pokédex</b></td><td>⚪ Gris</td></tr>
-<tr><td><b>📏 Altura</b></td><td>1.2 m</td></tr>
-<tr><td><b>⚖️ Peso</b></td><td>47.0 kg</td></tr>
-<tr><td><b>⭐ Experiencia</b></td><td>147</td></tr>
+<tr><td><b>Clase</b></td><td>Panpour</td></tr>
+<tr><td><b>🎨 Color Pokédex</b></td><td>🔵 Azul</td></tr>
+<tr><td><b>📏 Altura</b></td><td>0.6 m</td></tr>
+<tr><td><b>⚖️ Peso</b></td><td>13.5 kg</td></tr>
+<tr><td><b>⭐ Experiencia</b></td><td>63</td></tr>
 <tr><td><b>🌍 Hábitat</b></td><td>Desconocido</td></tr>
-<tr><td><b>🥚 Grupo huevo</b></td><td>Dragon</td></tr>
+<tr><td><b>🥚 Grupo huevo</b></td><td>Ground</td></tr>
 <tr><td><b>❤️ Amistad base</b></td><td>70</td></tr>
-<tr><td><b>🎯 Ratio captura</b></td><td>45</td></tr>
+<tr><td><b>🎯 Ratio captura</b></td><td>190</td></tr>
 <tr><td><b>💪 Habilidades</b></td>
-<td>Bulletproof, Soundproof</td></tr>
+<td>Gluttony</td></tr>
 <tr><td><b>✨ Habilidad oculta</b></td>
-<td>Overcoat</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Puño Fuego, Ataque Psíquico, Puño Trueno</td></tr>
+<td>Torrent</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Hoja Afilada, Rayo Solar, Puño Fuego</td></tr>
 <tr><td><b>Evolución</b></td><td><table><tr>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/jangmo-o.jpg" width="70"><br>
-    <small><b>Jangmo-o</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/panpour.jpg" width="70"><br>
+    <small><b>Panpour</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/hakamo-o.jpg" width="70"><br>
-    <small><b>Hakamo-o</b></small>
-</td>
-<td align="center"><b>➡️</b></td>
-<td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/kommo-o.jpg" width="70"><br>
-    <small><b>Kommo-o</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/simipour.jpg" width="70"><br>
+    <small><b>Simipour</b></small>
 </td>
 </tr></table></td></tr>
 <tr><td><b>Estadísticas base</b></td><td>
 ❤️ <b>PS</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 55<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 50<br>
 
 ⚔️ <b>Ataque</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 75
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 53
 
 🛡️ <b>Defensa</b><br>
-🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 90<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 48<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 65<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 53<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 70<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 48<br>
 
 💨 <b>Velocidad</b><br>
-🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 65
+🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 64
 </td></tr>
 <tr>
 <td><b>🏆 Poder total (BST)</b></td>
 <td>
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>420 puntos</b><br>
-⚔️ Fuerte
+<b>316 puntos</b><br>
+👍 Normal
 </td>
 </tr>
 </table>
@@ -97,21 +92,21 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 <br>
 
 **Historia del día:**  
-"Hoy, Hakamo-o decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Panpour decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Hakamo-o es conocido por su capacidad para dominar varias tácticas en combate.
+Panpour es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3144
+- **CP máximo:** 3634
 - **Clase de combate:** 8
-- **Evento especial:** Hakamo-o puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Panpour puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Hakamo-o_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Panpour_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -604,11 +599,13 @@ Hakamo-o es conocido por su capacidad para dominar varias tácticas en combate.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-14T23:28:47.546298 -->
+<!-- Generated: 2026-07-15T10:53:45.893587 -->
 ### 💬 Frase 🎮 del día
-> "Gamer de día, héroe de noche."
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
+
 
 
 
