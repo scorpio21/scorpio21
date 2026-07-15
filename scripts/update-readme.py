@@ -473,9 +473,6 @@ random.choice(["Puño Trueno", "Puño Fuego"])
 </tr>
 <tr><td><b>Estadísticas base</b></td><td>{stats_md}</td></tr>
 <tr>
-<td><b>🏆 Poder total (BST)</b></td>
-<td>{bst_html}</td>
-</tr>
 </table>
 
 <br>
