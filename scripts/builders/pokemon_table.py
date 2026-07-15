@@ -40,15 +40,17 @@ def build_pokemon_table(
 <td><b>⚔️ Débil contra</b></td>
 <td>{debilidades_html}</td>
 </tr>
-
 <tr>
 <td><b>🛡️ Resiste</b></td>
 <td>{resistencias_html}</td>
 </tr>
-
 <tr>
 <td><b>✨ Inmune a</b></td>
 <td>{inmunidades_html if inmunidades_html else "Ninguna"}</td>
+</tr>
+<tr>
+    <td><b>🧬 Generación</b></td>
+    <td>{generation}</td>
 </tr>
 <tr><td><b>Clase</b></td><td>{clase.capitalize()}</td></tr>
 <tr><td><b>🎨 Color Pokédex</b></td><td>{colores_pokedex[color_pokedex]}</td></tr>
