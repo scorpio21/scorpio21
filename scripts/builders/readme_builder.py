@@ -58,34 +58,50 @@ def build_pokemon_info_block(
     trivia = build_pokemon_trivia(nombre)
     go_info = build_pokemon_go(nombre)
 
-    pokemon_info_block = f"""<!-- POKEMON_INFO -->
+    return f"""<!-- POKEMON_INFO -->
 <!-- Generated: {fecha} -->
-### 🐱‍👤 Pokémon del día
+
+<h2 align="center">🐱‍👤 Pokémon del día</h2>
+
+<p align="center">
+Descubre cada día un Pokémon diferente con sus estadísticas, evolución y curiosidades.
+</p>
+
+---
 
 {table_html}
 
-<br>
+---
+
+## 📖 Historia
 
 {story}
 
 ---
 
+## 🧠 ¿Sabías que...?
+
 {trivia}
 
 ---
+
+## 📱 Pokémon GO
 
 {go_info}
 
 <!-- END_POKEMON_INFO -->
 """
-    return pokemon_info_block
 
 
 def build_frase_info_block(fecha, frase_del_dia):
-    frase_info_block = f"""<!-- FRASE_GAMER -->
+    return f"""<!-- FRASE_GAMER -->
 <!-- Generated: {fecha} -->
-### 💬 Frase 🎮 del día
-> "{frase_del_dia}"
+
+---
+
+## 💬 Frase Gamer del día
+
+> *"{frase_del_dia}"*
+
 <!-- END_FRASE_GAMER -->
 """
-    return frase_info_block
