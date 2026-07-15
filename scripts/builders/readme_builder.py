@@ -14,6 +14,7 @@ def build_pokemon_info_block(
     debilidades_html,
     resistencias_html,
     inmunidades_html,
+    generation,
     clase,
     color_pokedex,
     altura,
