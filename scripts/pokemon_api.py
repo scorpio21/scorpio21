@@ -1,7 +1,7 @@
 import random
 import requests
 
-from types import get_pokemon_type_translation
+from pokemon_types import get_pokemon_type_translation
 
 
 # Función para obtener el Pokémon del día
