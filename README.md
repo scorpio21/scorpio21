@@ -8,89 +8,89 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-15T11:12:24.198276 -->
+<!-- Generated: 2026-07-15T11:54:32.996499 -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/634.png" alt="Zweilous" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🟣 <b>Zweilous</b></td></tr>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png" alt="Swadloon" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🟢 <b>Swadloon</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
-<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
+<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
 </td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>634</td></tr>
-<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"> <img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"></td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>541</td></tr>
+<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td></tr>
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"></td>
+<td>Ninguna</td>
 </tr>
-<tr><td><b>Clase</b></td><td>Zweilous</td></tr>
-<tr><td><b>🎨 Color Pokédex</b></td><td>🔵 Azul</td></tr>
-<tr><td><b>📏 Altura</b></td><td>1.4 m</td></tr>
-<tr><td><b>⚖️ Peso</b></td><td>50.0 kg</td></tr>
-<tr><td><b>⭐ Experiencia</b></td><td>147</td></tr>
+<tr><td><b>Clase</b></td><td>Swadloon</td></tr>
+<tr><td><b>🎨 Color Pokédex</b></td><td>🟢 Verde</td></tr>
+<tr><td><b>📏 Altura</b></td><td>0.5 m</td></tr>
+<tr><td><b>⚖️ Peso</b></td><td>7.3 kg</td></tr>
+<tr><td><b>⭐ Experiencia</b></td><td>133</td></tr>
 <tr><td><b>🌍 Hábitat</b></td><td>Desconocido</td></tr>
-<tr><td><b>🥚 Grupo huevo</b></td><td>Dragon</td></tr>
-<tr><td><b>❤️ Amistad base</b></td><td>35</td></tr>
-<tr><td><b>🎯 Ratio captura</b></td><td>45</td></tr>
+<tr><td><b>🥚 Grupo huevo</b></td><td>Bug</td></tr>
+<tr><td><b>❤️ Amistad base</b></td><td>70</td></tr>
+<tr><td><b>🎯 Ratio captura</b></td><td>120</td></tr>
 <tr><td><b>💪 Habilidades</b></td>
-<td>Hustle</td></tr>
+<td>Leaf guard, Chlorophyll</td></tr>
 <tr><td><b>✨ Habilidad oculta</b></td>
-<td>Ninguna</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Puño Fuego, Ataque Psíquico, Puño Trueno</td></tr>
+<td>Overcoat</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Hoja Afilada, Puño Trueno, Puño Trueno</td></tr>
 <tr><td><b>Evolución</b></td><td><table><tr>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/deino.jpg" width="70"><br>
-    <small><b>Deino</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/sewaddle.jpg" width="70"><br>
+    <small><b>Sewaddle</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/zweilous.jpg" width="70"><br>
-    <small><b>Zweilous</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/swadloon.jpg" width="70"><br>
+    <small><b>Swadloon</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/hydreigon.jpg" width="70"><br>
-    <small><b>Hydreigon</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/leavanny.jpg" width="70"><br>
+    <small><b>Leavanny</b></small>
 </td>
 </tr></table></td></tr>
 <tr>
 <td><b>🏆 Poder total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>420 puntos</b><br>
-⚔️ Fuerte
+<b>380 puntos</b><br>
+👍 Normal
 </td>
 </tr>
 <tr><td><b>Estadísticas base</b></td><td>
 ❤️ <b>PS</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 72<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 55<br>
 
 ⚔️ <b>Ataque</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 85
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 63
 
 🛡️ <b>Defensa</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 70<br>
+🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 90<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 65<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 50<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 70<br>
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 80<br>
 
 💨 <b>Velocidad</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 58
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 42
 </td></tr>
 <tr>
 </table>
@@ -98,21 +98,21 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 <br>
 
 **Historia del día:**  
-"Hoy, Zweilous decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Swadloon decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Zweilous es conocido por su capacidad para dominar varias tácticas en combate.
+Swadloon es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3771
+- **CP máximo:** 3703
 - **Clase de combate:** 8
-- **Evento especial:** Zweilous puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Swadloon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Zweilous_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Swadloon_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -608,11 +608,13 @@ Zweilous es conocido por su capacidad para dominar varias tácticas en combate.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-15T11:12:24.198276 -->
+<!-- Generated: 2026-07-15T11:54:32.996499 -->
 ### 💬 Frase 🎮 del día
 > "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
+
 
 
 
