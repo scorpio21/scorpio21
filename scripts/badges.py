@@ -6,7 +6,7 @@ from config import (
     rareza_texto,
     rareza_colores,
 )
-from types import obtener_tipo_info
+from pokemon_types import obtener_tipo_info
 
 
 # Nombre con icono de rareza
