@@ -28,8 +28,10 @@ def build_pokemon_table(
     bst_html,
     stats_md
 ):
-    return f"""<table>
-<tr><td><b>Imagen</b></td><td><img src="{pokemon_img_url}" width="400" alt="{nombre}" /></td></tr>
+    return f"""
+    <div align="center">
+    <table>
+<tr><td><b>Imagen</b></td><td><img src="{pokemon_img_url}"  alt="{nombre}" width="400" /></td></tr>
 <tr><td><b>Nombre</b></td><td>{rareza_iconos[rareza]} <b>{nombre}</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
@@ -77,5 +79,7 @@ random.choice(["Puño Trueno", "Puño Fuego"])
 <td>{bst_html}</td>
 </tr>
 <tr><td><b>Estadísticas base</b></td><td>{stats_md}</td></tr>
+</table>
 
-</table>"""
+ </div>
+ """
