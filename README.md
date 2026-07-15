@@ -8,86 +8,81 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-15T11:54:32.996499 -->
+<!-- Generated: 2026-07-15T12:29:50.301419 -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png" alt="Swadloon" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🟢 <b>Swadloon</b></td></tr>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/504.png" alt="Patrat" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🟢 <b>Patrat</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
 <img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
 </td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>541</td></tr>
-<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>504</td></tr>
+<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"></td></tr>
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
+<td></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td>Ninguna</td>
+<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"></td>
 </tr>
-<tr><td><b>Clase</b></td><td>Swadloon</td></tr>
-<tr><td><b>🎨 Color Pokédex</b></td><td>🟢 Verde</td></tr>
+<tr><td><b>Clase</b></td><td>Patrat</td></tr>
+<tr><td><b>🎨 Color Pokédex</b></td><td>🟤 Marrón</td></tr>
 <tr><td><b>📏 Altura</b></td><td>0.5 m</td></tr>
-<tr><td><b>⚖️ Peso</b></td><td>7.3 kg</td></tr>
-<tr><td><b>⭐ Experiencia</b></td><td>133</td></tr>
+<tr><td><b>⚖️ Peso</b></td><td>11.6 kg</td></tr>
+<tr><td><b>⭐ Experiencia</b></td><td>51</td></tr>
 <tr><td><b>🌍 Hábitat</b></td><td>Desconocido</td></tr>
-<tr><td><b>🥚 Grupo huevo</b></td><td>Bug</td></tr>
+<tr><td><b>🥚 Grupo huevo</b></td><td>Ground</td></tr>
 <tr><td><b>❤️ Amistad base</b></td><td>70</td></tr>
-<tr><td><b>🎯 Ratio captura</b></td><td>120</td></tr>
+<tr><td><b>🎯 Ratio captura</b></td><td>255</td></tr>
 <tr><td><b>💪 Habilidades</b></td>
-<td>Leaf guard, Chlorophyll</td></tr>
+<td>Run away, Keen eye</td></tr>
 <tr><td><b>✨ Habilidad oculta</b></td>
-<td>Overcoat</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Hoja Afilada, Puño Trueno, Puño Trueno</td></tr>
+<td>Analytic</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Puño Fuego, Ataque Psíquico, Puño Fuego</td></tr>
 <tr><td><b>Evolución</b></td><td><table><tr>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/sewaddle.jpg" width="70"><br>
-    <small><b>Sewaddle</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/patrat.jpg" width="70"><br>
+    <small><b>Patrat</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/swadloon.jpg" width="70"><br>
-    <small><b>Swadloon</b></small>
-</td>
-<td align="center"><b>➡️</b></td>
-<td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/leavanny.jpg" width="70"><br>
-    <small><b>Leavanny</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/watchog.jpg" width="70"><br>
+    <small><b>Watchog</b></small>
 </td>
 </tr></table></td></tr>
 <tr>
 <td><b>🏆 Poder total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>380 puntos</b><br>
-👍 Normal
+<b>255 puntos</b><br>
+🌱 Básico
 </td>
 </tr>
 <tr><td><b>Estadísticas base</b></td><td>
 ❤️ <b>PS</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 55<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 45<br>
 
 ⚔️ <b>Ataque</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 63
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 55
 
 🛡️ <b>Defensa</b><br>
-🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 90<br>
+🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜ 39<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 50<br>
+🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 35<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 80<br>
+🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜ 39<br>
 
 💨 <b>Velocidad</b><br>
 🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 42
@@ -98,21 +93,21 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 <br>
 
 **Historia del día:**  
-"Hoy, Swadloon decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Patrat decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Swadloon es conocido por su capacidad para dominar varias tácticas en combate.
+Patrat es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3703
+- **CP máximo:** 3585
 - **Clase de combate:** 8
-- **Evento especial:** Swadloon puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Patrat puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Swadloon_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Patrat_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -609,11 +604,13 @@ Swadloon es conocido por su capacidad para dominar varias tácticas en combate.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-15T11:54:32.996499 -->
+<!-- Generated: 2026-07-15T12:29:50.301419 -->
 ### 💬 Frase 🎮 del día
-> "La vida es como un videojuego: ¡haz tu movimiento!"
+> "¡Nunca subestimes el poder de un jugador con café!"
 <!-- END_FRASE_GAMER -->
+
 
 
 
