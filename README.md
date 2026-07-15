@@ -8,83 +8,92 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-15T10:53:45.893587 -->
+<!-- Generated: 2026-07-15T11:10:20.310178 -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png" alt="Panpour" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🔵 <b>Panpour</b></td></tr>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png" alt="Drednaw" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🔵 <b>Drednaw</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
 <img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>515</td></tr>
-<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"></td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>834</td></tr>
+<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"></td></tr>
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
 <td>Ninguna</td>
 </tr>
-<tr><td><b>Clase</b></td><td>Panpour</td></tr>
-<tr><td><b>🎨 Color Pokédex</b></td><td>🔵 Azul</td></tr>
-<tr><td><b>📏 Altura</b></td><td>0.6 m</td></tr>
-<tr><td><b>⚖️ Peso</b></td><td>13.5 kg</td></tr>
-<tr><td><b>⭐ Experiencia</b></td><td>63</td></tr>
+<tr><td><b>Clase</b></td><td>Drednaw</td></tr>
+<tr><td><b>🎨 Color Pokédex</b></td><td>🟢 Verde</td></tr>
+<tr><td><b>📏 Altura</b></td><td>1.0 m</td></tr>
+<tr><td><b>⚖️ Peso</b></td><td>115.5 kg</td></tr>
+<tr><td><b>⭐ Experiencia</b></td><td>170</td></tr>
 <tr><td><b>🌍 Hábitat</b></td><td>Desconocido</td></tr>
-<tr><td><b>🥚 Grupo huevo</b></td><td>Ground</td></tr>
-<tr><td><b>❤️ Amistad base</b></td><td>70</td></tr>
-<tr><td><b>🎯 Ratio captura</b></td><td>190</td></tr>
+<tr><td><b>🥚 Grupo huevo</b></td><td>Monster, Water1</td></tr>
+<tr><td><b>❤️ Amistad base</b></td><td>50</td></tr>
+<tr><td><b>🎯 Ratio captura</b></td><td>75</td></tr>
 <tr><td><b>💪 Habilidades</b></td>
-<td>Gluttony</td></tr>
+<td>Strong jaw, Shell armor</td></tr>
 <tr><td><b>✨ Habilidad oculta</b></td>
-<td>Torrent</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Hoja Afilada, Rayo Solar, Puño Fuego</td></tr>
+<td>Swift swim</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Corte Psíquico, Puño Trueno, Puño Fuego</td></tr>
 <tr><td><b>Evolución</b></td><td><table><tr>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/panpour.jpg" width="70"><br>
-    <small><b>Panpour</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/chewtle.jpg" width="70"><br>
+    <small><b>Chewtle</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/simipour.jpg" width="70"><br>
-    <small><b>Simipour</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/drednaw.jpg" width="70"><br>
+    <small><b>Drednaw</b></small>
 </td>
 </tr></table></td></tr>
+<tr>
+<td><b>🏆 Poder total (BST)</b></td>
+<td>
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜
+
+<b>485 puntos</b><br>
+⚔️ Fuerte
+</td>
+</tr>
 <tr><td><b>Estadísticas base</b></td><td>
 ❤️ <b>PS</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 50<br>
+🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 90<br>
 
 ⚔️ <b>Ataque</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 53
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 115
 
 🛡️ <b>Defensa</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 48<br>
+🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 90<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 53<br>
-
-🛡️ <b>Defensa Especial</b><br>
 🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 48<br>
 
+🛡️ <b>Defensa Especial</b><br>
+🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 68<br>
+
 💨 <b>Velocidad</b><br>
-🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 64
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 74
 </td></tr>
 <tr>
 <td><b>🏆 Poder total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜
 
-<b>316 puntos</b><br>
-👍 Normal
+<b>485 puntos</b><br>
+⚔️ Fuerte
 </td>
 </tr>
 </table>
@@ -92,21 +101,21 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 <br>
 
 **Historia del día:**  
-"Hoy, Panpour decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Drednaw decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Panpour es conocido por su capacidad para dominar varias tácticas en combate.
+Drednaw es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3634
+- **CP máximo:** 3085
 - **Clase de combate:** 8
-- **Evento especial:** Panpour puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Drednaw puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Panpour_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Drednaw_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -600,11 +609,13 @@ Panpour es conocido por su capacidad para dominar varias tácticas en combate.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-15T10:53:45.893587 -->
+<!-- Generated: 2026-07-15T11:10:20.310178 -->
 ### 💬 Frase 🎮 del día
-> "¡Nunca subestimes el poder de un jugador con café!"
+> "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
+
 
 
 
