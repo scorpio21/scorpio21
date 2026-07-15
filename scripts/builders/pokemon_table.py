@@ -28,7 +28,7 @@ def build_pokemon_table(
     stats_md
 ):
     return f"""<table>
-<tr><td><b>Imagen</b></td><td><img src="{pokemon_img_url}" alt="{nombre}" /></td></tr>
+<tr><td><b>Imagen</b></td><td><img src="{pokemon_img_url}" alt="{nombre}" width="120" /></td></tr>
 <tr><td><b>Nombre</b></td><td>{rareza_iconos[rareza]} <b>{nombre}</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
