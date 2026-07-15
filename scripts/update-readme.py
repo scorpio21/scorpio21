@@ -1,16 +1,20 @@
 import datetime
-from config import colores_pokedex, rareza_iconos, rareza_texto, rareza_colores
+
 from pokemon_api import get_pokemon_of_the_day
 from evolution import get_evolution_chain
 from rarity import get_rarity
-from stats import barra_stat, barra_bst, compute_bst
-from badges import build_nombre_md, build_badge_rareza, build_tipos_html, build_relations_html
+from stats import compute_bst
+from badges import (
+    build_nombre_md,
+    build_badge_rareza,
+    build_tipos_html,
+    build_relations_html,
+)
 from quotes import get_gamer_quote
-from builders.readme_builder import build_pokemon_info_block, build_frase_info_block
-from builders.pokemon_table import build_pokemon_table
-from builders.pokemon_story import build_pokemon_story
-from builders.pokemon_trivia import build_pokemon_trivia
-from builders.pokemon_go import build_pokemon_go
+from builders.readme_builder import (
+    build_pokemon_info_block,
+    build_frase_info_block,
+)
 from updater import update_readme
 
 # Obtener Pokémon y calcular variables
