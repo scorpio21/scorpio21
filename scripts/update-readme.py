@@ -18,7 +18,11 @@ from badges import (
     build_relations_html,
 )
 from quotes import get_gamer_quote
-from readme_builder import build_pokemon_info_block, build_frase_info_block
+from builders.readme_builder import build_pokemon_info_block, build_frase_info_block
+from builders.pokemon_table import build_pokemon_table
+from builders.pokemon_story import build_pokemon_story
+from builders.pokemon_trivia import build_pokemon_trivia
+from builders.pokemon_go import build_pokemon_go
 from updater import update_readme
 
 # Obtener Pokémon del día
