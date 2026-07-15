@@ -1,6 +1,6 @@
 import random
 
-from config import colores_pokedex, rareza_texto, rareza_colores
+from config import colores_pokedex, rareza_texto, rareza_colores, rareza_iconos
 
 
 def build_pokemon_info_block(
