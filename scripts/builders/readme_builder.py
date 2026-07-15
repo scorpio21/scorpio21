@@ -39,7 +39,7 @@ def build_pokemon_info_block(
         debilidades_html=debilidades_html,
         resistencias_html=resistencias_html,
         inmunidades_html=inmunidades_html,
-        generation=generation, 
+        generation=generation,
         clase=clase,
         color_pokedex=color_pokedex,
         altura=altura,
