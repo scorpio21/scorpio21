@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-15T14:01:44.387773 -->
+<!-- Generated: 2026-07-15T14:14:25.782051 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -18,22 +18,24 @@ Descubre cada día un Pokémon diferente con sus estadísticas, evolución y cur
 
 ---
 
-<table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png" width="400" alt="Slowking" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🔵 <b>Slowking</b></td></tr>
+
+    <div align="center">
+    <table>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/657.png"  alt="Frogadier" width="400" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🔵 <b>Frogadier</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
 <img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>199</td></tr>
-<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"></td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>657</td></tr>
+<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"></td></tr>
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
+<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
 </tr>
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"></td>
 </tr>
 <tr>
 <td><b>✨ Inmune a</b></td>
@@ -41,93 +43,95 @@ Descubre cada día un Pokémon diferente con sus estadísticas, evolución y cur
 </tr>
 <tr>
     <td><b>🧬 Generación</b></td>
-    <td>II (Johto)</td>
+    <td>VI (Kalos)</td>
 </tr>
-<tr><td><b>Clase</b></td><td>Slowking</td></tr>
-<tr><td><b>🎨 Color Pokédex</b></td><td>🩷 Rosa</td></tr>
-<tr><td><b>📏 Altura</b></td><td>2.0 m</td></tr>
-<tr><td><b>⚖️ Peso</b></td><td>79.5 kg</td></tr>
-<tr><td><b>⭐ Experiencia</b></td><td>172</td></tr>
-<tr><td><b>🌍 Hábitat</b></td><td>Waters-edge</td></tr>
-<tr><td><b>🥚 Grupo huevo</b></td><td>Monster, Water1</td></tr>
+<tr><td><b>Clase</b></td><td>Frogadier</td></tr>
+<tr><td><b>🎨 Color Pokédex</b></td><td>🔵 Azul</td></tr>
+<tr><td><b>📏 Altura</b></td><td>0.6 m</td></tr>
+<tr><td><b>⚖️ Peso</b></td><td>10.9 kg</td></tr>
+<tr><td><b>⭐ Experiencia</b></td><td>142</td></tr>
+<tr><td><b>🌍 Hábitat</b></td><td>Desconocido</td></tr>
+<tr><td><b>🥚 Grupo huevo</b></td><td>Water1</td></tr>
 <tr><td><b>❤️ Amistad base</b></td><td>70</td></tr>
-<tr><td><b>🎯 Ratio captura</b></td><td>70</td></tr>
+<tr><td><b>🎯 Ratio captura</b></td><td>45</td></tr>
 <tr><td><b>💪 Habilidades</b></td>
-<td>Oblivious, Own tempo</td></tr>
+<td>Torrent</td></tr>
 <tr><td><b>✨ Habilidad oculta</b></td>
-<td>Regenerator</td></tr>
+<td>Protean</td></tr>
 <tr><td><b>Movimientos especiales</b></td><td>Corte Psíquico, Rayo Solar, Puño Fuego</td></tr>
 <tr><td><b>Evolución</b></td><td><table><tr>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/slowpoke.jpg" width="70"><br>
-    <small><b>Slowpoke</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/froakie.jpg" width="70"><br>
+    <small><b>Froakie</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/slowbro.jpg" width="70"><br>
-    <small><b>Slowbro</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/frogadier.jpg" width="70"><br>
+    <small><b>Frogadier</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/slowking.jpg" width="70"><br>
-    <small><b>Slowking</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/greninja.jpg" width="70"><br>
+    <small><b>Greninja</b></small>
 </td>
 </tr></table></td></tr>
 <tr>
 <td><b>🏆 Poder total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>490 puntos</b><br>
+<b>405 puntos</b><br>
 ⚔️ Fuerte
 </td>
 </tr>
 <tr><td><b>Estadísticas base</b></td><td>
 ❤️ <b>PS</b><br>
-🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 95<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 54<br>
 
 ⚔️ <b>Ataque</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 75
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 63
 
 🛡️ <b>Defensa</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 80<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 52<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 100<br>
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 83<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 110<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 56<br>
 
 💨 <b>Velocidad</b><br>
-🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 30
+🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 97
 </td></tr>
-
 </table>
+
+ </div>
+ 
 
 ---
 
 ## 📖 Historia
 
 **Historia del día:**  
-"Hoy, Slowking decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Frogadier decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 ## 🧠 ¿Sabías que...?
 
 **¿Sabías que...?**  
-Slowking es conocido por su capacidad para dominar varias tácticas en combate.
+Frogadier es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 ## 📱 Pokémon GO
 
 **Pokémon Go:**
-- **CP máximo:** 3907
+- **CP máximo:** 3120
 - **Clase de combate:** 8
-- **Evento especial:** Slowking puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Frogadier puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Slowking_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Frogadier_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -632,16 +636,18 @@ Slowking es conocido por su capacidad para dominar varias tácticas en combate.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-15T14:01:44.387773 -->
+<!-- Generated: 2026-07-15T14:14:25.782051 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"En cada partida, hay un nuevo desafío esperando ser conquistado."*
+> *"Si no estás ganando, ¡estás aprendiendo!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
