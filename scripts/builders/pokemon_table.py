@@ -12,6 +12,7 @@ def build_pokemon_table(
     debilidades_html,
     resistencias_html,
     inmunidades_html,
+    generation,
     clase,
     color_pokedex,
     altura,
