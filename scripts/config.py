@@ -100,4 +100,4 @@ rareza_texto = {
     "raro": "Raro",
     "legendario": "Legendario"
 }
-s
+
