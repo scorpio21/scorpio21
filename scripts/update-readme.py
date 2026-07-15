@@ -37,8 +37,6 @@ from updater import update_readme
 
 cadena_evolucion = get_evolution_chain(pokedex_num)
 rareza = get_rarity(tipos_es[0], pokedex_num)
-nombre_md = build_nombre_md(rareza, nombre)
-badge_rareza = build_badge_rareza(nombre, rareza)
 
 tipos_html = build_tipos_html(tipos_es)
 debilidades_html, resistencias_html, inmunidades_html = build_relations_html(tipos_es)
