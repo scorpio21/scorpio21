@@ -15,7 +15,8 @@ from builders.readme_builder import (
 )
 from updater import update_readme
 
-# Obtener Pokémon y calcular variables
+
+# Obtener Pokémon
 (
     nombre,
     tipos_es,
@@ -36,22 +37,54 @@ from updater import update_readme
     habilidad_oculta,
 ) = get_pokemon_of_the_day()
 
+
+# Datos adicionales
 cadena_evolucion = get_evolution_chain(pokedex_num)
 rareza = get_rarity(tipos_es[0], pokedex_num)
 
 tipos_html = build_tipos_html(tipos_es)
 debilidades_html, resistencias_html, inmunidades_html = build_relations_html(tipos_es)
+
 bst, nivel_bst, bst_html, stats_md = compute_bst(stats)
 
 frase_del_dia = get_gamer_quote()
 fecha = datetime.datetime.utcnow().isoformat()
 
+
+# Construir bloque README
 pokemon_info_block = build_pokemon_info_block(
-    fecha, pokemon_img_url, nombre, rareza, pokedex_num, tipos_html, debilidades_html,
-    resistencias_html, inmunidades_html, generation=generation, clase, color_pokedex, altura, peso, experiencia,
-    habitat, egg_groups, base_happiness, capture_rate, habilidades, habilidad_oculta,
-    cadena_evolucion, bst_html, stats_md
+    fecha=fecha,
+    pokemon_img_url=pokemon_img_url,
+    nombre=nombre,
+    rareza=rareza,
+    pokedex_num=pokedex_num,
+    tipos_html=tipos_html,
+    debilidades_html=debilidades_html,
+    resistencias_html=resistencias_html,
+    inmunidades_html=inmunidades_html,
+    generation=generation,
+    clase=clase,
+    color_pokedex=color_pokedex,
+    altura=altura,
+    peso=peso,
+    experiencia=experiencia,
+    habitat=habitat,
+    egg_groups=egg_groups,
+    base_happiness=base_happiness,
+    capture_rate=capture_rate,
+    habilidades=habilidades,
+    habilidad_oculta=habilidad_oculta,
+    cadena_evolucion=cadena_evolucion,
+    bst_html=bst_html,
+    stats_md=stats_md,
 )
 
-frase_info_block = build_frase_info_block(fecha, frase_del_dia)
-update_readme(pokemon_info_block, frase_info_block)
+frase_info_block = build_frase_info_block(
+    fecha,
+    frase_del_dia
+)
+
+update_readme(
+    pokemon_info_block,
+    frase_info_block
+)
