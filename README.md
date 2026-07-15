@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-15T13:10:20.973902 -->
+<!-- Generated: 2026-07-15T14:01:44.387773 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -19,80 +19,87 @@ Descubre cada día un Pokémon diferente con sus estadísticas, evolución y cur
 ---
 
 <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png" width="400" alt="Sandshrew" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🔵 <b>Sandshrew</b></td></tr>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png" width="400" alt="Slowking" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🔵 <b>Slowking</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
 <img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>27</td></tr>
-<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>199</td></tr>
+<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"></td></tr>
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
 </tr>
-
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"></td>
 </tr>
-
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"></td>
+<td>Ninguna</td>
 </tr>
-<tr><td><b>Clase</b></td><td>Sandshrew</td></tr>
-<tr><td><b>🎨 Color Pokédex</b></td><td>🟡 Amarillo</td></tr>
-<tr><td><b>📏 Altura</b></td><td>0.6 m</td></tr>
-<tr><td><b>⚖️ Peso</b></td><td>12.0 kg</td></tr>
-<tr><td><b>⭐ Experiencia</b></td><td>60</td></tr>
-<tr><td><b>🌍 Hábitat</b></td><td>Rough-terrain</td></tr>
-<tr><td><b>🥚 Grupo huevo</b></td><td>Ground</td></tr>
+<tr>
+    <td><b>🧬 Generación</b></td>
+    <td>II (Johto)</td>
+</tr>
+<tr><td><b>Clase</b></td><td>Slowking</td></tr>
+<tr><td><b>🎨 Color Pokédex</b></td><td>🩷 Rosa</td></tr>
+<tr><td><b>📏 Altura</b></td><td>2.0 m</td></tr>
+<tr><td><b>⚖️ Peso</b></td><td>79.5 kg</td></tr>
+<tr><td><b>⭐ Experiencia</b></td><td>172</td></tr>
+<tr><td><b>🌍 Hábitat</b></td><td>Waters-edge</td></tr>
+<tr><td><b>🥚 Grupo huevo</b></td><td>Monster, Water1</td></tr>
 <tr><td><b>❤️ Amistad base</b></td><td>70</td></tr>
-<tr><td><b>🎯 Ratio captura</b></td><td>255</td></tr>
+<tr><td><b>🎯 Ratio captura</b></td><td>70</td></tr>
 <tr><td><b>💪 Habilidades</b></td>
-<td>Sand veil</td></tr>
+<td>Oblivious, Own tempo</td></tr>
 <tr><td><b>✨ Habilidad oculta</b></td>
-<td>Sand rush</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Corte Psíquico, Puño Trueno, Puño Fuego</td></tr>
+<td>Regenerator</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Corte Psíquico, Rayo Solar, Puño Fuego</td></tr>
 <tr><td><b>Evolución</b></td><td><table><tr>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/sandshrew.jpg" width="70"><br>
-    <small><b>Sandshrew</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/slowpoke.jpg" width="70"><br>
+    <small><b>Slowpoke</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/sandslash.jpg" width="70"><br>
-    <small><b>Sandslash</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/slowbro.jpg" width="70"><br>
+    <small><b>Slowbro</b></small>
+</td>
+<td align="center"><b>➡️</b></td>
+<td align="center">
+    <img src="https://img.pokemondb.net/artwork/large/slowking.jpg" width="70"><br>
+    <small><b>Slowking</b></small>
 </td>
 </tr></table></td></tr>
 <tr>
 <td><b>🏆 Poder total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜
 
-<b>300 puntos</b><br>
-👍 Normal
+<b>490 puntos</b><br>
+⚔️ Fuerte
 </td>
 </tr>
 <tr><td><b>Estadísticas base</b></td><td>
 ❤️ <b>PS</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 50<br>
+🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 95<br>
 
 ⚔️ <b>Ataque</b><br>
 🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 75
 
 🛡️ <b>Defensa</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 85<br>
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 80<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 20<br>
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 100<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 30<br>
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 110<br>
 
 💨 <b>Velocidad</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 40
+🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 30
 </td></tr>
 
 </table>
@@ -102,25 +109,25 @@ Descubre cada día un Pokémon diferente con sus estadísticas, evolución y cur
 ## 📖 Historia
 
 **Historia del día:**  
-"Hoy, Sandshrew decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Slowking decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 ## 🧠 ¿Sabías que...?
 
 **¿Sabías que...?**  
-Sandshrew es conocido por su capacidad para alcanza poderes muy altos.
+Slowking es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 ## 📱 Pokémon GO
 
 **Pokémon Go:**
-- **CP máximo:** 3429
+- **CP máximo:** 3907
 - **Clase de combate:** 8
-- **Evento especial:** Sandshrew puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Slowking puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Sandshrew_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Slowking_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -624,16 +631,18 @@ Sandshrew es conocido por su capacidad para alcanza poderes muy altos.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-15T13:10:20.973902 -->
+<!-- Generated: 2026-07-15T14:01:44.387773 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"¡Nunca subestimes el poder de un jugador con café!"*
+> *"En cada partida, hay un nuevo desafío esperando ser conquistado."*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
