@@ -8,114 +8,111 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-15T11:10:20.310178 -->
+<!-- Generated: 2026-07-15T11:12:24.198276 -->
 ### 🐱‍👤 Pokémon del día
 
 <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png" alt="Drednaw" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🔵 <b>Drednaw</b></td></tr>
+<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/634.png" alt="Zweilous" /></td></tr>
+<tr><td><b>Nombre</b></td><td>🟣 <b>Zweilous</b></td></tr>
 
 <tr><td><b>Rareza</b></td><td>
-<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
 </td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>834</td></tr>
-<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"></td></tr>
+<tr><td><b>Nº Pokédex</b></td><td>634</td></tr>
+<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"> <img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"></td></tr>
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td>Ninguna</td>
+<td><img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"></td>
 </tr>
-<tr><td><b>Clase</b></td><td>Drednaw</td></tr>
-<tr><td><b>🎨 Color Pokédex</b></td><td>🟢 Verde</td></tr>
-<tr><td><b>📏 Altura</b></td><td>1.0 m</td></tr>
-<tr><td><b>⚖️ Peso</b></td><td>115.5 kg</td></tr>
-<tr><td><b>⭐ Experiencia</b></td><td>170</td></tr>
+<tr><td><b>Clase</b></td><td>Zweilous</td></tr>
+<tr><td><b>🎨 Color Pokédex</b></td><td>🔵 Azul</td></tr>
+<tr><td><b>📏 Altura</b></td><td>1.4 m</td></tr>
+<tr><td><b>⚖️ Peso</b></td><td>50.0 kg</td></tr>
+<tr><td><b>⭐ Experiencia</b></td><td>147</td></tr>
 <tr><td><b>🌍 Hábitat</b></td><td>Desconocido</td></tr>
-<tr><td><b>🥚 Grupo huevo</b></td><td>Monster, Water1</td></tr>
-<tr><td><b>❤️ Amistad base</b></td><td>50</td></tr>
-<tr><td><b>🎯 Ratio captura</b></td><td>75</td></tr>
+<tr><td><b>🥚 Grupo huevo</b></td><td>Dragon</td></tr>
+<tr><td><b>❤️ Amistad base</b></td><td>35</td></tr>
+<tr><td><b>🎯 Ratio captura</b></td><td>45</td></tr>
 <tr><td><b>💪 Habilidades</b></td>
-<td>Strong jaw, Shell armor</td></tr>
+<td>Hustle</td></tr>
 <tr><td><b>✨ Habilidad oculta</b></td>
-<td>Swift swim</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Corte Psíquico, Puño Trueno, Puño Fuego</td></tr>
+<td>Ninguna</td></tr>
+<tr><td><b>Movimientos especiales</b></td><td>Puño Fuego, Ataque Psíquico, Puño Trueno</td></tr>
 <tr><td><b>Evolución</b></td><td><table><tr>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/chewtle.jpg" width="70"><br>
-    <small><b>Chewtle</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/deino.jpg" width="70"><br>
+    <small><b>Deino</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/drednaw.jpg" width="70"><br>
-    <small><b>Drednaw</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/zweilous.jpg" width="70"><br>
+    <small><b>Zweilous</b></small>
+</td>
+<td align="center"><b>➡️</b></td>
+<td align="center">
+    <img src="https://img.pokemondb.net/artwork/large/hydreigon.jpg" width="70"><br>
+    <small><b>Hydreigon</b></small>
 </td>
 </tr></table></td></tr>
 <tr>
 <td><b>🏆 Poder total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>485 puntos</b><br>
+<b>420 puntos</b><br>
 ⚔️ Fuerte
 </td>
 </tr>
 <tr><td><b>Estadísticas base</b></td><td>
 ❤️ <b>PS</b><br>
-🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 90<br>
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 72<br>
 
 ⚔️ <b>Ataque</b><br>
-🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 115
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 85
 
 🛡️ <b>Defensa</b><br>
-🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 90<br>
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 70<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 48<br>
+🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 65<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 68<br>
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 70<br>
 
 💨 <b>Velocidad</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 74
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 58
 </td></tr>
 <tr>
-<td><b>🏆 Poder total (BST)</b></td>
-<td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜
-
-<b>485 puntos</b><br>
-⚔️ Fuerte
-</td>
-</tr>
 </table>
 
 <br>
 
 **Historia del día:**  
-"Hoy, Drednaw decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Zweilous decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 **¿Sabías que...?**  
-Drednaw es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Zweilous es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 **Pokémon Go:**
-- **CP máximo:** 3085
+- **CP máximo:** 3771
 - **Clase de combate:** 8
-- **Evento especial:** Drednaw puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Zweilous puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Drednaw_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Zweilous_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -610,11 +607,13 @@ Drednaw es conocido por su capacidad para desarrollar habilidades que cambian la
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-15T11:10:20.310178 -->
+<!-- Generated: 2026-07-15T11:12:24.198276 -->
 ### 💬 Frase 🎮 del día
 > "La vida es como un videojuego: ¡haz tu movimiento!"
 <!-- END_FRASE_GAMER -->
+
 
 
 
