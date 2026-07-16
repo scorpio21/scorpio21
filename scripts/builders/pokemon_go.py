@@ -2,9 +2,11 @@ import random
 
 
 def build_pokemon_go(nombre):
-    return f"""**Pokémon Go:**
-- **CP máximo:** {random.randint(3000, 4000)}
-- **Clase de combate:** 8
-- **Evento especial:** {nombre} puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+    return f"""## 🌐 Más información
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/{nombre}_(Pokémon))"""
+Puedes consultar información completa y actualizada de **{nombre}** en:
+
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/{nombre})
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/{nombre.lower()})
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/{nombre}_(Pokémon))
+"""
