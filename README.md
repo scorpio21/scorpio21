@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-16T10:45:11.525328 -->
+<!-- Generated: 2026-07-16T10:49:00.164341 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/259.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/259.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/821.png" width="220">
 </td>
 
 </tr>
@@ -51,29 +51,29 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🔵 <b>Marshtomp</b></td>
+<td>🟢 <b>Rookidee</b></td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#259</td>
+<td>#821</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>III (Hoenn)</td>
+<td>VIII (Galar)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
+<td><img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
@@ -82,7 +82,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Marshtomp</td>
+<td>Rookidee</td>
 </tr>
 
 <tr>
@@ -92,32 +92,32 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>0.7 m</td>
+<td>0.2 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>28.0 kg</td>
+<td>1.8 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ 87.5% &nbsp;&nbsp;&nbsp; ♀️ 12.5%</td>
+<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
 </tr>
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Waters-edge</td>
+<td>Desconocido</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Monster, Water1</td>
+<td>Flying</td>
 </tr>
 
 <tr>
 <td><b>❤️ Amistad base</b></td>
-<td>70</td>
+<td>50</td>
 </tr>
 
 <tr>
@@ -126,27 +126,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
+<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"></td>
+<td><img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>17.6%</td>
+<td>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩<br>100.0%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>45</td>
+<td>255</td>
 </tr>
 
 <tr>
@@ -156,30 +156,30 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ Torrent<br>⭐ ✨ Damp (Oculta)</td>
+<td>🟢 ⚡ Keen eye<br>🟢 ⚡ Unnerve<br>⭐ ✨ Big pecks (Oculta)</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Mega%20Punch-4C9AFF?style=flat-square"> <img src="https://img.shields.io/badge/Ice%20Punch-4C9AFF?style=flat-square"> <img src="https://img.shields.io/badge/Stomp-4C9AFF?style=flat-square"> <img src="https://img.shields.io/badge/Mega%20Kick-4C9AFF?style=flat-square"> <img src="https://img.shields.io/badge/Headbutt-4C9AFF?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Fly-4C9AFF?style=flat-square"> <img src="https://img.shields.io/badge/Sand%20Attack-4C9AFF?style=flat-square"> <img src="https://img.shields.io/badge/Fury%20Attack-4C9AFF?style=flat-square"> <img src="https://img.shields.io/badge/Take%20Down-4C9AFF?style=flat-square"> <img src="https://img.shields.io/badge/Leer-4C9AFF?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td><table><tr>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/mudkip.jpg" width="70"><br>
-    <small><b>Mudkip</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/rookidee.jpg" width="70"><br>
+    <small><b>Rookidee</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/marshtomp.jpg" width="70"><br>
-    <small><b>Marshtomp</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/corvisquire.jpg" width="70"><br>
+    <small><b>Corvisquire</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/swampert.jpg" width="70"><br>
-    <small><b>Swampert</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/corviknight.jpg" width="70"><br>
+    <small><b>Corviknight</b></small>
 </td>
 </tr></table></td>
 </tr>
@@ -190,7 +190,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>142</td>
+<td>49</td>
 </tr>
 
 <tr>
@@ -201,10 +201,10 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>405 puntos</b><br>
-⚔️ Fuerte
+<b>245 puntos</b><br>
+🌱 Básico
 </td>
 </tr>
 
@@ -212,22 +212,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 <td><b>📊 Estadísticas Base</b></td>
 <td>
 ❤️ <b>PS</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 70<br>
+🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 38<br>
 
 ⚔️ <b>Ataque</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 85
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 47
 
 🛡️ <b>Defensa</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 70<br>
+🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 35<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 60<br>
+🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 33<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 70<br>
+🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 35<br>
 
 💨 <b>Velocidad</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 50
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 57
 </td>
 </tr>
 
@@ -239,31 +239,31 @@ Descubre cada día un Pokémon diferente con su información completa.
 ## 📖 Historia
 
 **Historia del día:**  
-"Hoy, Marshtomp decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Rookidee decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 ## 🧠 ¿Sabías que...?
 
 **¿Sabías que...?**  
-Marshtomp es conocido por su capacidad para dominar varias tácticas en combate.
+Rookidee es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 ## 💡 Curiosidad oficial
 
-> Sus piernas robustas impiden que pierda el equilibrio y caiga, incluso en el barro. Duerme bajo la arena.
+> De naturaleza valiente, planta cara a cualquier rival, por muy fuerte que sea. Los contraataques que recibe le sirven para fortalecerse.
 
 ---
 
 ## 📱 Pokémon GO
 
 **Pokémon Go:**
-- **CP máximo:** 3225
+- **CP máximo:** 3732
 - **Clase de combate:** 8
-- **Evento especial:** Marshtomp puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Rookidee puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Marshtomp_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Rookidee_(Pokémon))
 
 ---
 
@@ -785,16 +785,18 @@ Marshtomp es conocido por su capacidad para dominar varias tácticas en combate.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-16T10:45:11.525328 -->
+<!-- Generated: 2026-07-16T10:49:00.164341 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"El verdadero juego comienza cuando apagas la consola."*
+> *"Solo hay una regla: ¡Ganar es lo único que importa!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
