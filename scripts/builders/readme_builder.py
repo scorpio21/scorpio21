@@ -35,6 +35,7 @@ def build_pokemon_info_block(
     cadena_evolucion,
     bst_html,
     stats_md,
+    curiosidad,
 ):
 
     table_html = build_pokemon_table(
@@ -97,6 +98,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 ## 🧠 ¿Sabías que...?
 
 {trivia}
+
+---
+
+## 💡 Curiosidad oficial
+
+> {curiosidad}
 
 ---
 
