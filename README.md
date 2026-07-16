@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-16T01:41:57.423468 -->
+<!-- Generated: 2026-07-16T10:38:04.213141 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/828.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/620.png" width="220">
 </td>
 
 </tr>
@@ -51,29 +51,29 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟣 <b>Thievul</b></td>
+<td>🔵 <b>Mienshao</b></td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
+<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#828</td>
+<td>#620</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>VIII (Galar)</td>
+<td>V (Teselia)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
+<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"></td>
 </tr>
 
 <tr>
@@ -82,22 +82,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Thievul</td>
+<td>Mienshao</td>
 </tr>
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>🟤 Marrón</td>
+<td>🟣 Morado</td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>1.2 m</td>
+<td>1.4 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>19.9 kg</td>
+<td>35.5 kg</td>
 </tr>
 
 <tr>
@@ -112,12 +112,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Ground</td>
+<td>Ground, Humanshape</td>
 </tr>
 
 <tr>
 <td><b>❤️ Amistad base</b></td>
-<td>50</td>
+<td>70</td>
 </tr>
 
 <tr>
@@ -126,27 +126,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"></td>
+<td><img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"></td>
+<td>Ninguna</td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜<br>49.8%</td>
+<td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>17.6%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>127</td>
+<td>45</td>
 </tr>
 
 <tr>
@@ -156,25 +156,25 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ Run away<br>🟢 ⚡ Unburden<br>⭐ ✨ Stakeout (Oculta)</td>
+<td>🟢 ⚡ Inner focus<br>🟢 ⚡ Regenerator<br>⭐ ✨ Reckless (Oculta)</td>
 </tr>
 
 <tr>
-<td><b>🥊 Movimientos especiales</b></td>
-<td>Hoja Afilada, Puño Trueno, Puño Fuego</td>
+<td><b>🥊 Movimientos</b></td>
+<td>Pound, Double Slap, Mega Punch, Swords Dance, Mega Kick</td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td><table><tr>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/nickit.jpg" width="70"><br>
-    <small><b>Nickit</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/mienfoo.jpg" width="70"><br>
+    <small><b>Mienfoo</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/thievul.jpg" width="70"><br>
-    <small><b>Thievul</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/mienshao.jpg" width="70"><br>
+    <small><b>Mienshao</b></small>
 </td>
 </tr></table></td>
 </tr>
@@ -185,21 +185,21 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>159</td>
+<td>179</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
-<td>800,000 XP</td>
+<td>1,059,860 XP</td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜
 
-<b>455 puntos</b><br>
-⚔️ Fuerte
+<b>510 puntos</b><br>
+🔥 Muy fuerte
 </td>
 </tr>
 
@@ -207,22 +207,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 <td><b>📊 Estadísticas Base</b></td>
 <td>
 ❤️ <b>PS</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 70<br>
+🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 65<br>
 
 ⚔️ <b>Ataque</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 58
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 125
 
 🛡️ <b>Defensa</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 58<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 60<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 87<br>
+🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 95<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 92<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 60<br>
 
 💨 <b>Velocidad</b><br>
-🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 90
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 105
 </td>
 </tr>
 
@@ -234,31 +234,31 @@ Descubre cada día un Pokémon diferente con su información completa.
 ## 📖 Historia
 
 **Historia del día:**  
-"Hoy, Thievul decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Mienshao decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 ## 🧠 ¿Sabías que...?
 
 **¿Sabías que...?**  
-Thievul es conocido por su capacidad para alcanza poderes muy altos.
+Mienshao es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 ## 💡 Curiosidad oficial
 
-> Marca a su presa sin ser advertido. Sigue el olor y, cuando el otro Pokémon baja la guardia, aprovecha para robarle.
+> Usa el pelaje de sus brazos a manera de látigos. Sus ataques alcanzan velocidades de vértigo.
 
 ---
 
 ## 📱 Pokémon GO
 
 **Pokémon Go:**
-- **CP máximo:** 3016
+- **CP máximo:** 3414
 - **Clase de combate:** 8
-- **Evento especial:** Thievul puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Mienshao puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Thievul_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mienshao_(Pokémon))
 
 ---
 
@@ -778,16 +778,18 @@ Thievul es conocido por su capacidad para alcanza poderes muy altos.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-16T01:41:57.423468 -->
+<!-- Generated: 2026-07-16T10:38:04.213141 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"Gamer de día, héroe de noche."*
+> *"El verdadero juego comienza cuando apagas la consola."*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
