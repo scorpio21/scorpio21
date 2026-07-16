@@ -76,7 +76,7 @@ def get_pokemon_of_the_day():
 
     capture_rate = species["capture_rate"]
 
-    # Probabilidad de captura (%)
+    # Probabilidad de captura
     captura_porcentaje = round((capture_rate / 255) * 100, 1)
 
     base_happiness = species["base_happiness"]
@@ -96,7 +96,7 @@ def get_pokemon_of_the_day():
 
     experiencia = data["base_experience"]
 
-    # Experiencia necesaria para nivel 100
+    # Experiencia nivel 100
     growth = requests.get(species["growth_rate"]["url"]).json()
     experiencia_nivel_100 = growth["levels"][-1]["experience"]
 
@@ -129,21 +129,30 @@ def get_pokemon_of_the_day():
             habilidad_oculta = "✨ " + nombre_habilidad
         else:
             habilidades.append("⚡ " + nombre_habilidad)
-        # Movimientos reales
-       movimientos = []
 
-    for move in random.sample(data["moves"], min(4, len(data["moves"]))):
+    # Movimientos reales
+    movimientos = []
 
-    move_data = requests.get(move["move"]["url"]).json()
+    disponibles = data["moves"]
 
-    movimientos.append({
-        "nombre": move_data["names"][5]["name"]
-        if len(move_data["names"]) > 5
-        else move_data["name"].replace("-", " ").title(),
+    if disponibles:
+        for move in random.sample(disponibles, min(4, len(disponibles))):
 
-        "tipo": move_data["type"]["name"]
-    })
-        movimientos.append(nombre_movimiento)
+            move_data = requests.get(move["move"]["url"]).json()
+
+            nombre_movimiento = move_data["name"].replace("-", " ").title()
+
+            # Intentar obtener el nombre en español
+            for n in move_data["names"]:
+                if n["language"]["name"] == "es":
+                    nombre_movimiento = n["name"]
+                    break
+
+            movimientos.append({
+                "nombre": nombre_movimiento,
+                "tipo": move_data["type"]["name"]
+            })
+
     return (
         nombre,
         tipos_es,
