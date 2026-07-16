@@ -41,6 +41,7 @@ from updater import update_readme
     egg_groups,
     habilidades,
     habilidad_oculta,
+    curiosidad,
 ) = get_pokemon_of_the_day()
 
 
@@ -89,6 +90,7 @@ pokemon_info_block = build_pokemon_info_block(
     cadena_evolucion=cadena_evolucion,
     bst_html=bst_html,
     stats_md=stats_md,
+    curiosidad=curiosidad,
 )
 
 # Frase del día
