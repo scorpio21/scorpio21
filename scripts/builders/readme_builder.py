@@ -82,9 +82,10 @@ def build_pokemon_info_block(
     )
 
     datos_interesantes_html = "\n".join(
-    f"- {dato}"
-    for dato in datos_interesantes
-)
+        f"- {dato}"
+        for dato in datos_interesantes
+    )
+    
     go_info = build_pokemon_go(nombre)
 
     return f"""<!-- POKEMON_INFO -->
