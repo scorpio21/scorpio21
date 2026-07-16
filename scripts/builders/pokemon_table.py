@@ -30,6 +30,7 @@ def build_pokemon_table(
     base_happiness,
     capture_rate,
     capture_text,
+    shiny_odds,
     male_rate,
     female_rate,
     habilidades,
@@ -38,17 +39,29 @@ def build_pokemon_table(
     bst_html,
     stats_md,
 ):
+
     habilidades_html = "<br>".join(
-        f"🟢 {habilidad}" for habilidad in habilidades
+        f"🟢 {h}" for h in habilidades
     )
 
     if habilidad_oculta:
         habilidades_html += f"<br>⭐ {habilidad_oculta} (Oculta)"
 
     movimientos = ", ".join([
-        random.choice(["Corte Psíquico", "Hoja Afilada", "Puño Fuego"]),
-        random.choice(["Rayo Solar", "Ataque Psíquico", "Puño Trueno"]),
-        random.choice(["Puño Trueno", "Puño Fuego"])
+        random.choice([
+            "Corte Psíquico",
+            "Hoja Afilada",
+            "Puño Fuego"
+        ]),
+        random.choice([
+            "Rayo Solar",
+            "Ataque Psíquico",
+            "Puño Trueno"
+        ]),
+        random.choice([
+            "Puño Trueno",
+            "Puño Fuego"
+        ])
     ])
 
     return f"""
@@ -134,7 +147,7 @@ def build_pokemon_table(
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ {male_rate} &nbsp;&nbsp; ♀️ {female_rate}</td>
+<td>♂️ {male_rate} &nbsp;&nbsp;&nbsp; ♀️ {female_rate}</td>
 </tr>
 
 <tr>
@@ -143,8 +156,8 @@ def build_pokemon_table(
 </tr>
 
 <tr>
-<td><b>📈 Para subir de nivel</b></td>
-<td>{experience_to_level}</td>
+<td><b>📈 Experiencia Nivel 100</b></td>
+<td>{experience_to_level:,} XP</td>
 </tr>
 
 <tr>
@@ -170,6 +183,11 @@ def build_pokemon_table(
 <tr>
 <td><b>🎲 Ratio captura</b></td>
 <td>{capture_rate}</td>
+</tr>
+
+<tr>
+<td><b>✨ Probabilidad Shiny</b></td>
+<td>{shiny_odds}</td>
 </tr>
 
 <tr>
