@@ -8,6 +8,16 @@ from config import (
 )
 
 
+def barra_porcentaje(texto):
+    try:
+        valor = float(texto.replace("%", "").strip())
+    except Exception:
+        valor = 0
+
+    bloques = round(valor / 10)
+    return "🟩" * bloques + "⬜" * (10 - bloques)
+
+
 def build_pokemon_table(
     pokemon_img_url,
     shiny_img_url,
@@ -64,23 +74,37 @@ def build_pokemon_table(
         ])
     ])
 
+    captura_barra = barra_porcentaje(capture_text)
+
     return f"""
-<table>
+<table width="100%">
 
 <tr>
-<td><b>Imagen</b></td>
-<td>
-<img src="{pokemon_img_url}" width="250"><br>
-<b>Normal</b>
+<td colspan="2" align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<b>Normal</b><br>
+<img src="{pokemon_img_url}" width="220">
+</td>
+
+<td width="40"></td>
+
+<td align="center">
+<b>✨ Shiny</b><br>
+<img src="{shiny_img_url}" width="220">
+</td>
+
+</tr>
+</table>
+
 </td>
 </tr>
 
 <tr>
-<td><b>✨ Sprite Shiny</b></td>
-<td>
-<img src="{shiny_img_url}" width="250"><br>
-<b>Shiny</b>
-</td>
+<td colspan="2"><h3>📋 Información General</h3></td>
 </tr>
 
 <tr>
@@ -111,18 +135,7 @@ def build_pokemon_table(
 </tr>
 
 <tr>
-<td><b>⚔️ Débil contra</b></td>
-<td>{debilidades_html}</td>
-</tr>
-
-<tr>
-<td><b>🛡️ Resiste</b></td>
-<td>{resistencias_html}</td>
-</tr>
-
-<tr>
-<td><b>✨ Inmune a</b></td>
-<td>{inmunidades_html if inmunidades_html else "Ninguna"}</td>
+<td colspan="2"><h3>🧬 Biología</h3></td>
 </tr>
 
 <tr>
@@ -131,7 +144,7 @@ def build_pokemon_table(
 </tr>
 
 <tr>
-<td><b>🎨 Color Pokédex</b></td>
+<td><b>🎨 Color</b></td>
 <td>{colores_pokedex[color_pokedex]}</td>
 </tr>
 
@@ -151,16 +164,6 @@ def build_pokemon_table(
 </tr>
 
 <tr>
-<td><b>⭐ Experiencia Base</b></td>
-<td>{experiencia}</td>
-</tr>
-
-<tr>
-<td><b>📈 Experiencia Nivel 100</b></td>
-<td>{experience_to_level:,} XP</td>
-</tr>
-
-<tr>
 <td><b>🌍 Hábitat</b></td>
 <td>{habitat}</td>
 </tr>
@@ -176,8 +179,27 @@ def build_pokemon_table(
 </tr>
 
 <tr>
-<td><b>🎯 Probabilidad captura</b></td>
-<td>{capture_text}</td>
+<td colspan="2"><h3>⚔️ Combate</h3></td>
+</tr>
+
+<tr>
+<td><b>⚔️ Débil contra</b></td>
+<td>{debilidades_html}</td>
+</tr>
+
+<tr>
+<td><b>🛡️ Resiste</b></td>
+<td>{resistencias_html}</td>
+</tr>
+
+<tr>
+<td><b>✨ Inmune a</b></td>
+<td>{inmunidades_html if inmunidades_html else "Ninguna"}</td>
+</tr>
+
+<tr>
+<td><b>🎯 Captura</b></td>
+<td>{captura_barra}<br>{capture_text}</td>
 </tr>
 
 <tr>
@@ -203,6 +225,20 @@ def build_pokemon_table(
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td>{cadena_evolucion}</td>
+</tr>
+
+<tr>
+<td colspan="2"><h3>📊 Estadísticas</h3></td>
+</tr>
+
+<tr>
+<td><b>⭐ Experiencia Base</b></td>
+<td>{experiencia}</td>
+</tr>
+
+<tr>
+<td><b>📈 Nivel 100</b></td>
+<td>{experience_to_level:,} XP</td>
 </tr>
 
 <tr>
