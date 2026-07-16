@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-16T11:23:03.144067 -->
+<!-- Generated: 2026-07-16T11:50:32.715503 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -17,6 +17,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 </p>
 
 ---
+
 
 
 <table width="100%">
@@ -29,14 +30,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/13.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/563.png" width="220">
 </td>
 
 </tr>
@@ -51,29 +52,29 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟢 <b>Weedle</b></td>
+<td>🟣 <b>Cofagrigus</b></td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
+<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#13</td>
+<td>#563</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>I (Kanto)</td>
+<td>V (Teselia)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
+<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"></td>
 </tr>
 
 <tr>
@@ -82,7 +83,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Weedle</td>
+<td>Cofagrigus</td>
 </tr>
 
 <tr>
@@ -107,17 +108,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>🟤 Marrón</td>
+<td>🟡 Amarillo</td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>0.3 m</td>
+<td>1.7 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>3.2 kg</td>
+<td>76.5 kg</td>
 </tr>
 
 <tr>
@@ -127,12 +128,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Forest</td>
+<td>Desconocido</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Bug</td>
+<td>Mineral, Indeterminate</td>
 </tr>
 
 <tr>
@@ -146,27 +147,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td>Ninguna</td>
+<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"></td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩<br>100.0%</td>
+<td>🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br>35.3%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>255</td>
+<td>90</td>
 </tr>
 
 <tr>
@@ -176,30 +177,30 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ Shield dust<br>⭐ ✨ Run away (Oculta)</td>
+<td>🟢 ⚡ <b>Momia</b><br><small>Changes attacking Pokémon's abilities to Mummy on contact.</small><br><br></td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Picadura-A8B820?style=flat-square"> <img src="https://img.shields.io/badge/Picotazo%20Veneno-A040A0?style=flat-square"> <img src="https://img.shields.io/badge/Disparo%20Demora-A8B820?style=flat-square"> <img src="https://img.shields.io/badge/Electrotela-F8D030?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/T%C3%B3xico-A040A0?style=flat-square"> <img src="https://img.shields.io/badge/Infortunio-705898?style=flat-square"> <img src="https://img.shields.io/badge/Bloqueo-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Isofuerza-F85888?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td><table><tr>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/weedle.jpg" width="70"><br>
-    <small><b>Weedle</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/yamask.jpg" width="70"><br>
+    <small><b>Yamask</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/kakuna.jpg" width="70"><br>
-    <small><b>Kakuna</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/cofagrigus.jpg" width="70"><br>
+    <small><b>Cofagrigus</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/beedrill.jpg" width="70"><br>
-    <small><b>Beedrill</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/runerigus.jpg" width="70"><br>
+    <small><b>Runerigus</b></small>
 </td>
 </tr></table></td>
 </tr>
@@ -210,7 +211,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>39</td>
+<td>169</td>
 </tr>
 
 <tr>
@@ -221,10 +222,10 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜
 
-<b>195 puntos</b><br>
-🌱 Básico
+<b>483 puntos</b><br>
+⚔️ Fuerte
 </td>
 </tr>
 
@@ -232,22 +233,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 <td><b>📊 Estadísticas Base</b></td>
 <td>
 ❤️ <b>PS</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 40<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 58<br>
 
 ⚔️ <b>Ataque</b><br>
-🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 35
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 50
 
 🛡️ <b>Defensa</b><br>
-🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 30<br>
+🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ 145<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 20<br>
+🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 95<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 20<br>
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 105<br>
 
 💨 <b>Velocidad</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 50
+🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 30
 </td>
 </tr>
 
@@ -259,31 +260,31 @@ Descubre cada día un Pokémon diferente con su información completa.
 ## 📖 Historia
 
 **Historia del día:**  
-"Hoy, Weedle decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Cofagrigus decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 ## 🧠 ¿Sabías que...?
 
 **¿Sabías que...?**  
-Weedle es conocido por su capacidad para dominar varias tácticas en combate.
+Cofagrigus es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 ## 💡 Curiosidad oficial
 
-> Suele habitar bosques y praderas. Tiene un afilado y venenoso aguijón de unos 5 cm encima de la cabeza.
+> Se comenta que engulle a todo humano que se le acerca y lo momifica. Su comida favorita son las pepitas de oro.
 
 ---
 
 ## 📱 Pokémon GO
 
 **Pokémon Go:**
-- **CP máximo:** 3746
+- **CP máximo:** 3413
 - **Clase de combate:** 8
-- **Evento especial:** Weedle puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Cofagrigus puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Weedle_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cofagrigus_(Pokémon))
 
 ---
 
@@ -809,16 +810,18 @@ Weedle es conocido por su capacidad para dominar varias tácticas en combate.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-16T11:23:03.144067 -->
+<!-- Generated: 2026-07-16T11:50:32.715503 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"Si no estás ganando, ¡estás aprendiendo!"*
+> *"Gamer de día, héroe de noche."*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
