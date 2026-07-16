@@ -8,120 +8,111 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-16T01:19:13.617427 -->
+<!-- Generated: 2026-07-16T01:26:56.309003 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
 <p align="center">
-Descubre cada día un Pokémon diferente con sus estadísticas, evolución y curiosidades.
+Descubre cada día un Pokémon diferente con su información completa.
 </p>
 
 ---
 
 
-<table>
+<table width="100%">
 
 <tr>
-<td><b>Imagen</b></td>
-<td>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/253.png" width="250"><br>
-<b>Normal</b>
+<td colspan="2" align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<b>Normal</b><br>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png" width="220">
+</td>
+
+<td width="40"></td>
+
+<td align="center">
+<b>✨ Shiny</b><br>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/575.png" width="220">
+</td>
+
+</tr>
+</table>
+
 </td>
 </tr>
 
 <tr>
-<td><b>✨ Sprite Shiny</b></td>
-<td>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/253.png" width="250"><br>
-<b>Shiny</b>
-</td>
+<td colspan="2"><h3>📋 Información General</h3></td>
 </tr>
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🔵 <b>Grovyle</b></td>
+<td>🟣 <b>Gothorita</b></td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#253</td>
+<td>#575</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>III (Hoenn)</td>
+<td>V (Teselia)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
+<td><img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"></td>
 </tr>
 
 <tr>
-<td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
-</tr>
-
-<tr>
-<td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
-</tr>
-
-<tr>
-<td><b>✨ Inmune a</b></td>
-<td>Ninguna</td>
+<td colspan="2"><h3>🧬 Biología</h3></td>
 </tr>
 
 <tr>
 <td><b>Clase</b></td>
-<td>Grovyle</td>
+<td>Gothorita</td>
 </tr>
 
 <tr>
-<td><b>🎨 Color Pokédex</b></td>
-<td>🟢 Verde</td>
+<td><b>🎨 Color</b></td>
+<td>🟣 Morado</td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>0.9 m</td>
+<td>0.7 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>21.6 kg</td>
+<td>18.0 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ 87.5% &nbsp;&nbsp;&nbsp; ♀️ 12.5%</td>
-</tr>
-
-<tr>
-<td><b>⭐ Experiencia Base</b></td>
-<td>142</td>
-</tr>
-
-<tr>
-<td><b>📈 Experiencia Nivel 100</b></td>
-<td>1,059,860 XP</td>
+<td>♂️ 25.0% &nbsp;&nbsp;&nbsp; ♀️ 75.0%</td>
 </tr>
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Forest</td>
+<td>Desconocido</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Monster, Dragon</td>
+<td>Humanshape</td>
 </tr>
 
 <tr>
@@ -130,13 +121,32 @@ Descubre cada día un Pokémon diferente con sus estadísticas, evolución y cur
 </tr>
 
 <tr>
-<td><b>🎯 Probabilidad captura</b></td>
-<td>17.6 %</td>
+<td colspan="2"><h3>⚔️ Combate</h3></td>
+</tr>
+
+<tr>
+<td><b>⚔️ Débil contra</b></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
+</tr>
+
+<tr>
+<td><b>🛡️ Resiste</b></td>
+<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"></td>
+</tr>
+
+<tr>
+<td><b>✨ Inmune a</b></td>
+<td>Ninguna</td>
+</tr>
+
+<tr>
+<td><b>🎯 Captura</b></td>
+<td>🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br>39.2%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>45</td>
+<td>100</td>
 </tr>
 
 <tr>
@@ -146,32 +156,46 @@ Descubre cada día un Pokémon diferente con sus estadísticas, evolución y cur
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ Overgrow<br>⭐ ✨ Unburden (Oculta)</td>
+<td>🟢 ⚡ Frisk<br>🟢 ⚡ Competitive<br>⭐ ✨ Shadow tag (Oculta)</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos especiales</b></td>
-<td>Puño Fuego, Rayo Solar, Puño Trueno</td>
+<td>Hoja Afilada, Ataque Psíquico, Puño Fuego</td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td><table><tr>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/treecko.jpg" width="70"><br>
-    <small><b>Treecko</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/gothita.jpg" width="70"><br>
+    <small><b>Gothita</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/grovyle.jpg" width="70"><br>
-    <small><b>Grovyle</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/gothorita.jpg" width="70"><br>
+    <small><b>Gothorita</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/sceptile.jpg" width="70"><br>
-    <small><b>Sceptile</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/gothitelle.jpg" width="70"><br>
+    <small><b>Gothitelle</b></small>
 </td>
 </tr></table></td>
+</tr>
+
+<tr>
+<td colspan="2"><h3>📊 Estadísticas</h3></td>
+</tr>
+
+<tr>
+<td><b>⭐ Experiencia Base</b></td>
+<td>137</td>
+</tr>
+
+<tr>
+<td><b>📈 Nivel 100</b></td>
+<td>1,059,860 XP</td>
 </tr>
 
 <tr>
@@ -179,8 +203,8 @@ Descubre cada día un Pokémon diferente con sus estadísticas, evolución y cur
 <td>
 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>405 puntos</b><br>
-⚔️ Fuerte
+<b>390 puntos</b><br>
+👍 Normal
 </td>
 </tr>
 
@@ -188,22 +212,22 @@ Descubre cada día un Pokémon diferente con sus estadísticas, evolución y cur
 <td><b>📊 Estadísticas Base</b></td>
 <td>
 ❤️ <b>PS</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 50<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 60<br>
 
 ⚔️ <b>Ataque</b><br>
-🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 65
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 45
 
 🛡️ <b>Defensa</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 45<br>
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 70<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 85<br>
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 75<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 65<br>
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 85<br>
 
 💨 <b>Velocidad</b><br>
-🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 95
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 55
 </td>
 </tr>
 
@@ -215,25 +239,35 @@ Descubre cada día un Pokémon diferente con sus estadísticas, evolución y cur
 ## 📖 Historia
 
 **Historia del día:**  
-"Hoy, Grovyle decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Gothorita decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 ## 🧠 ¿Sabías que...?
 
 **¿Sabías que...?**  
-Grovyle es conocido por su capacidad para alcanza poderes muy altos.
+Gothorita es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 ## 📱 Pokémon GO
 
 **Pokémon Go:**
-- **CP máximo:** 3228
+- **CP máximo:** 3425
 - **Clase de combate:** 8
-- **Evento especial:** Grovyle puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Gothorita puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Grovyle_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gothorita_(Pokémon))
+
+---
+
+<p align="center">
+
+⭐ Datos obtenidos de <b>PokéAPI</b><br>
+🤖 Generado automáticamente con Python<br>
+🗓️ Última actualización: <b>2026-07-16</b>
+
+</p>
 
 <!-- END_POKEMON_INFO -->
 
@@ -741,16 +775,18 @@ Grovyle es conocido por su capacidad para alcanza poderes muy altos.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-16T01:19:13.617427 -->
+<!-- Generated: 2026-07-16T01:26:56.309003 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"¡Nunca subestimes el poder de un jugador con café!"*
+> *"Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
