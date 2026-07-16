@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-16T23:10:35.624049 -->
+<!-- Generated: 2026-07-16T23:25:30.939827 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -30,14 +30,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/398.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/743.png" width="220">
 </td>
 
 </tr>
@@ -52,7 +52,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟢 <b>Staraptor</b></td>
+<td>🟢 <b>Ribombee</b></td>
 </tr>
 
 <tr>
@@ -64,17 +64,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#398</td>
+<td>#743</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>IV (Sinnoh)</td>
+<td>VII (Alola)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"></td>
 </tr>
 
 <tr>
@@ -83,7 +83,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Staraptor</td>
+<td>Ribombee</td>
 </tr>
 
 <tr>
@@ -108,17 +108,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>🟤 Marrón</td>
+<td>🟡 Amarillo</td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>1.2 m</td>
+<td>0.2 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>24.9 kg</td>
+<td>0.5 kg</td>
 </tr>
 
 <tr>
@@ -133,7 +133,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Flying</td>
+<td>Bug, Fairy</td>
 </tr>
 
 <tr>
@@ -147,27 +147,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
+<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"></td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>17.6%</td>
+<td>🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜<br>29.4%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>45</td>
+<td>75</td>
 </tr>
 
 <tr>
@@ -177,47 +177,37 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Intimidación</b><br><small>Lowers opponents' Attack one stage upon entering battle.</small><br><br>⭐ ✨ <b>Audaz</b> (Oculta)<br><small>Strengthens recoil moves to 1.2× their power.</small></td>
+<td>🟢 ⚡ <b>Recogemiel</b><br><small>The Pokémon may pick up Honey after battle.</small><br><br>🟢 ⚡ <b>Polvo Escudo</b><br><small>Protects against incoming moves' extra effects.</small><br><br>⭐ ✨ <b>Velo Dulce</b> (Oculta)<br><small>Prevents friendly Pokémon from sleeping.</small></td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Vuelo-A890F0?style=flat-square"> <img src="https://img.shields.io/badge/Picoteo-A890F0?style=flat-square"> <img src="https://img.shields.io/badge/Viento%20Af%C3%ADn-A890F0?style=flat-square"> <img src="https://img.shields.io/badge/Sustituto-A8A878?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Psicorruido-F85888?style=flat-square"> <img src="https://img.shields.io/badge/Zona%20M%C3%A1gica-F85888?style=flat-square"> <img src="https://img.shields.io/badge/Danza%20Aleteo-A8B820?style=flat-square"> <img src="https://img.shields.io/badge/Red%20Viscosa-A8B820?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td><table><tr>
 <td align="center">
-<img src="https://img.pokemondb.net/artwork/large/starly.jpg" width="70"><br>
-<small><b>Starly</b></small>
+<img src="https://img.pokemondb.net/artwork/large/cutiefly.jpg" width="70"><br>
+<small><b>Cutiefly</b></small>
 </td>
 
 <td align="center">
 ➡️<br>
-<small>Nivel 14</small>
+<small>Nivel 25</small>
 </td>
 
 <td align="center">
-<img src="https://img.pokemondb.net/artwork/large/staravia.jpg" width="70"><br>
-<small><b>Staravia</b></small>
-</td>
-
-<td align="center">
-➡️<br>
-<small>Nivel 34</small>
-</td>
-
-<td align="center">
-<img src="https://img.pokemondb.net/artwork/large/staraptor.jpg" width="70"><br>
-<small><b>Staraptor</b></small>
+<img src="https://img.pokemondb.net/artwork/large/ribombee.jpg" width="70"><br>
+<small><b>Ribombee</b></small>
 </td>
 </tr></table></td>
 </tr>
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td>🎮 Staraptor</td>
+<td>🎮 Ribombee</td>
 </tr>
 
 <tr>
@@ -226,12 +216,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>218</td>
+<td>162</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
-<td>1,059,860 XP</td>
+<td>1,000,000 XP</td>
+</tr>
+
+<tr>
+<td><b>📚 Crecimiento</b></td>
+<td>Medio</td>
 </tr>
 
 <tr>
@@ -239,7 +234,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <td>
 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜
 
-<b>485 puntos</b><br>
+<b>464 puntos</b><br>
 ⚔️ Fuerte
 </td>
 </tr>
@@ -248,22 +243,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 <td><b>📊 Estadísticas Base</b></td>
 <td>
 ❤️ <b>PS</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 85<br>
-
-⚔️ <b>Ataque</b><br>
-🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 120
-
-🛡️ <b>Defensa</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 70<br>
-
-✨ <b>Ataque Especial</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 50<br>
-
-🛡️ <b>Defensa Especial</b><br>
 🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 60<br>
 
+⚔️ <b>Ataque</b><br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 55
+
+🛡️ <b>Defensa</b><br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 60<br>
+
+✨ <b>Ataque Especial</b><br>
+🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 95<br>
+
+🛡️ <b>Defensa Especial</b><br>
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 70<br>
+
 💨 <b>Velocidad</b><br>
-🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 100
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 124
 </td>
 </tr>
 
@@ -274,15 +269,15 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 💡 Curiosidad oficial
 
-> Sus alas y sus patas son muy fuertes. Puede llevarse volando Pokémon pequeños.
+> Fabrica varios tipos de bolas de polen. Algunas se usan como alimento y otras para el combate.
 
 ---
 
 ## 💡 Datos interesantes
 
-- ⚖️ Pesa 24.9 kg.
-- 🥚 Pertenece al grupo huevo Flying.
-- 🧬 Introducido en la generación IV (Sinnoh).
+- 🧬 Introducido en la generación VII (Alola).
+- ❤️ Amistad base: 70.
+- 🎨 Su color en la Pokédex es yellow.
 
 ---
 
@@ -290,11 +285,11 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Staraptor** en:
+Puedes consultar información completa y actualizada de **Ribombee** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Staraptor)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/staraptor)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Staraptor_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Ribombee)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/ribombee)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Ribombee_(Pokémon))
 
 
 ---
@@ -831,16 +826,18 @@ Puedes consultar información completa y actualizada de **Staraptor** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-16T23:10:35.624049 -->
+<!-- Generated: 2026-07-16T23:25:30.939827 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"La vida es como un videojuego: ¡haz tu movimiento!"*
+> *"Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
