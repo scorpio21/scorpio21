@@ -45,6 +45,7 @@ def build_pokemon_table(
     female_rate,
     habilidades,
     habilidad_oculta,
+    movimientos,
     cadena_evolucion,
     bst_html,
     stats_md,
@@ -57,12 +58,7 @@ def build_pokemon_table(
     if habilidad_oculta:
         habilidades_html += f"<br>⭐ {habilidad_oculta} (Oculta)"
 
-    movimientos = ", ".join([
-        random.choice([
-            "Corte Psíquico",
-            "Hoja Afilada",
-            "Puño Fuego"
-        ]),
+    movimientos_html = ", ".join(movimientos)
         random.choice([
             "Rayo Solar",
             "Ataque Psíquico",
@@ -219,7 +215,7 @@ def build_pokemon_table(
 
 <tr>
 <td><b>🥊 Movimientos especiales</b></td>
-<td>{movimientos}</td>
+<td>{movimientos_html}</td>
 </tr>
 
 <tr>
