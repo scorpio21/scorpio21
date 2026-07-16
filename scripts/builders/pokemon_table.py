@@ -44,6 +44,10 @@ def build_pokemon_table(
     female_rate,
     habilidades,
     habilidad_oculta,
+    legendario,
+    mitico,
+    bebe,
+    forma_regional,
     movimientos,
     cadena_evolucion,
     bst_html,
@@ -132,6 +136,26 @@ def build_pokemon_table(
 <tr>
 <td><b>Clase</b></td>
 <td>{clase.capitalize()}</td>
+</tr>
+
+<tr>
+<td><b>⭐ Legendario</b></td>
+<td>{"✅ Sí" if legendario else "❌ No"}</td>
+</tr>
+
+<tr>
+<td><b>🌟 Mítico</b></td>
+<td>{"✅ Sí" if mitico else "❌ No"}</td>
+</tr>
+
+<tr>
+<td><b>👶 Bebé</b></td>
+<td>{"✅ Sí" if bebe else "❌ No"}</td>
+</tr>
+
+<tr>
+<td><b>🌍 Forma regional</b></td>
+<td>{forma_regional}</td>
 </tr>
 
 <tr>
