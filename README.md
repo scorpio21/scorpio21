@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-15T14:18:02.311245 -->
+<!-- Generated: 2026-07-16T01:19:13.617427 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -19,114 +19,221 @@ Descubre cada día un Pokémon diferente con sus estadísticas, evolución y cur
 ---
 
 
-<div align="center">
 <table>
-<tr><td><b>Imagen</b></td><td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png"  alt="Lanturn" width="400" /></td></tr>
-<tr><td><b>Nombre</b></td><td>🔵 <b>Lanturn</b></td></tr>
 
-<tr><td><b>Rareza</b></td><td>
+<tr>
+<td><b>Imagen</b></td>
+<td>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/253.png" width="250"><br>
+<b>Normal</b>
+</td>
+</tr>
+
+<tr>
+<td><b>✨ Sprite Shiny</b></td>
+<td>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/253.png" width="250"><br>
+<b>Shiny</b>
+</td>
+</tr>
+
+<tr>
+<td><b>Nombre</b></td>
+<td>🔵 <b>Grovyle</b></td>
+</tr>
+
+<tr>
+<td><b>Rareza</b></td>
+<td>
 <img src="https://img.shields.io/badge/No común-blue?style=flat-square">
-</td></tr>
-<tr><td><b>Nº Pokédex</b></td><td>171</td></tr>
-<tr><td><b>Tipo(s)</b></td><td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"></td></tr>
+</td>
+</tr>
+
+<tr>
+<td><b>Nº Pokédex</b></td>
+<td>#253</td>
+</tr>
+
+<tr>
+<td><b>🧬 Generación</b></td>
+<td>III (Hoenn)</td>
+</tr>
+
+<tr>
+<td><b>Tipo(s)</b></td>
+<td><img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
+</tr>
+
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
+
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
+
 <tr>
 <td><b>✨ Inmune a</b></td>
 <td>Ninguna</td>
 </tr>
+
 <tr>
-    <td><b>🧬 Generación</b></td>
-    <td>II (Johto)</td>
+<td><b>Clase</b></td>
+<td>Grovyle</td>
 </tr>
-<tr><td><b>Clase</b></td><td>Lanturn</td></tr>
-<tr><td><b>🎨 Color Pokédex</b></td><td>🔵 Azul</td></tr>
-<tr><td><b>📏 Altura</b></td><td>1.2 m</td></tr>
-<tr><td><b>⚖️ Peso</b></td><td>22.5 kg</td></tr>
-<tr><td><b>⭐ Experiencia</b></td><td>161</td></tr>
-<tr><td><b>🌍 Hábitat</b></td><td>Sea</td></tr>
-<tr><td><b>🥚 Grupo huevo</b></td><td>Water2</td></tr>
-<tr><td><b>❤️ Amistad base</b></td><td>70</td></tr>
-<tr><td><b>🎯 Ratio captura</b></td><td>75</td></tr>
-<tr><td><b>💪 Habilidades</b></td>
-<td>Volt absorb, Illuminate</td></tr>
-<tr><td><b>✨ Habilidad oculta</b></td>
-<td>Water absorb</td></tr>
-<tr><td><b>Movimientos especiales</b></td><td>Puño Fuego, Puño Trueno, Puño Fuego</td></tr>
-<tr><td><b>Evolución</b></td><td><table><tr>
+
+<tr>
+<td><b>🎨 Color Pokédex</b></td>
+<td>🟢 Verde</td>
+</tr>
+
+<tr>
+<td><b>📏 Altura</b></td>
+<td>0.9 m</td>
+</tr>
+
+<tr>
+<td><b>⚖️ Peso</b></td>
+<td>21.6 kg</td>
+</tr>
+
+<tr>
+<td><b>♂️ / ♀️</b></td>
+<td>♂️ 87.5% &nbsp;&nbsp;&nbsp; ♀️ 12.5%</td>
+</tr>
+
+<tr>
+<td><b>⭐ Experiencia Base</b></td>
+<td>142</td>
+</tr>
+
+<tr>
+<td><b>📈 Experiencia Nivel 100</b></td>
+<td>1,059,860 XP</td>
+</tr>
+
+<tr>
+<td><b>🌍 Hábitat</b></td>
+<td>Forest</td>
+</tr>
+
+<tr>
+<td><b>🥚 Grupo huevo</b></td>
+<td>Monster, Dragon</td>
+</tr>
+
+<tr>
+<td><b>❤️ Amistad base</b></td>
+<td>70</td>
+</tr>
+
+<tr>
+<td><b>🎯 Probabilidad captura</b></td>
+<td>17.6 %</td>
+</tr>
+
+<tr>
+<td><b>🎲 Ratio captura</b></td>
+<td>45</td>
+</tr>
+
+<tr>
+<td><b>✨ Probabilidad Shiny</b></td>
+<td>1 entre 4096</td>
+</tr>
+
+<tr>
+<td><b>💪 Habilidades</b></td>
+<td>🟢 ⚡ Overgrow<br>⭐ ✨ Unburden (Oculta)</td>
+</tr>
+
+<tr>
+<td><b>🥊 Movimientos especiales</b></td>
+<td>Puño Fuego, Rayo Solar, Puño Trueno</td>
+</tr>
+
+<tr>
+<td><b>🔄 Evolución</b></td>
+<td><table><tr>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/chinchou.jpg" width="70"><br>
-    <small><b>Chinchou</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/treecko.jpg" width="70"><br>
+    <small><b>Treecko</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/lanturn.jpg" width="70"><br>
-    <small><b>Lanturn</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/grovyle.jpg" width="70"><br>
+    <small><b>Grovyle</b></small>
 </td>
-</tr></table></td></tr>
-<tr>
-<td><b>🏆 Poder total (BST)</b></td>
-<td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜
+<td align="center"><b>➡️</b></td>
+<td align="center">
+    <img src="https://img.pokemondb.net/artwork/large/sceptile.jpg" width="70"><br>
+    <small><b>Sceptile</b></small>
+</td>
+</tr></table></td>
+</tr>
 
-<b>460 puntos</b><br>
+<tr>
+<td><b>🏆 Poder Total (BST)</b></td>
+<td>
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜
+
+<b>405 puntos</b><br>
 ⚔️ Fuerte
 </td>
 </tr>
-<tr><td><b>Estadísticas base</b></td><td>
+
+<tr>
+<td><b>📊 Estadísticas Base</b></td>
+<td>
 ❤️ <b>PS</b><br>
-🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 125<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 50<br>
 
 ⚔️ <b>Ataque</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 58
+🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 65
 
 🛡️ <b>Defensa</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 58<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 45<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 76<br>
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 85<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 76<br>
+🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 65<br>
 
 💨 <b>Velocidad</b><br>
-🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 67
-</td></tr>
+🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 95
+</td>
+</tr>
+
 </table>
 
- </div>
- 
 
 ---
 
 ## 📖 Historia
 
 **Historia del día:**  
-"Hoy, Lanturn decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Grovyle decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 ## 🧠 ¿Sabías que...?
 
 **¿Sabías que...?**  
-Lanturn es conocido por su capacidad para dominar varias tácticas en combate.
+Grovyle es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 ## 📱 Pokémon GO
 
 **Pokémon Go:**
-- **CP máximo:** 3616
+- **CP máximo:** 3228
 - **Clase de combate:** 8
-- **Evento especial:** Lanturn puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Grovyle puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Lanturn_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Grovyle_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 
@@ -633,16 +740,18 @@ Lanturn es conocido por su capacidad para dominar varias tácticas en combate.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-15T14:18:02.311245 -->
+<!-- Generated: 2026-07-16T01:19:13.617427 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"En cada partida, hay un nuevo desafío esperando ser conquistado."*
+> *"¡Nunca subestimes el poder de un jugador con café!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
