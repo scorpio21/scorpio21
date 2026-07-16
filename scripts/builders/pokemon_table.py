@@ -4,7 +4,7 @@ from config import (
     rareza_colores,
     rareza_iconos,
 )
-
+from move_colors import MOVE_COLORS
 
 def barra_porcentaje(texto):
     try:
@@ -57,11 +57,24 @@ def build_pokemon_table(
         habilidades_html += f"<br>⭐ {habilidad_oculta} (Oculta)"
 
     # Movimientos reales
+ # Movimientos reales
     movimientos_html = " ".join(
-    f'<img src="https://img.shields.io/badge/{m.replace(" ", "%20")}-4C9AFF?style=flat-square">'
-    for m in movimientos
-)
-
+        f"""
+        <span style="
+            background:{MOVE_COLORS.get(m['tipo'], '#666')};
+            color:white;
+            padding:4px 8px;
+            border-radius:4px;
+            font-size:12px;
+            font-weight:bold;
+            display:inline-block;
+            margin:2px;
+        ">
+            {m['nombre']}
+        </span>
+        """
+        for m in movimientos
+    )
     captura_barra = barra_porcentaje(capture_text)
 
     return f"""
