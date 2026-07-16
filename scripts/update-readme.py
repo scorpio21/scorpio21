@@ -102,6 +102,7 @@ pokemon_info_block = build_pokemon_info_block(
     bebe=bebe,
     forma_regional=forma_regional,
     movimientos=movimientos,
+    objetos=objetos,
     juegos=juegos,
     cadena_evolucion=cadena_evolucion,
     bst_html=bst_html,
