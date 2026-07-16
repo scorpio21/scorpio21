@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-16T10:49:00.164341 -->
+<!-- Generated: 2026-07-16T11:01:20.188204 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/872.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/821.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/872.png" width="220">
 </td>
 
 </tr>
@@ -51,19 +51,19 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟢 <b>Rookidee</b></td>
+<td>🔵 <b>Snom</b></td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
+<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#821</td>
+<td>#872</td>
 </tr>
 
 <tr>
@@ -73,7 +73,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"></td>
 </tr>
 
 <tr>
@@ -82,22 +82,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Rookidee</td>
+<td>Snom</td>
 </tr>
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>🔵 Azul</td>
+<td>⚪ Blanco</td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>0.2 m</td>
+<td>0.3 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>1.8 kg</td>
+<td>3.8 kg</td>
 </tr>
 
 <tr>
@@ -112,7 +112,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Flying</td>
+<td>Bug</td>
 </tr>
 
 <tr>
@@ -126,27 +126,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
+<td><img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
+<td>Ninguna</td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩<br>100.0%</td>
+<td>🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜<br>74.5%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>255</td>
+<td>190</td>
 </tr>
 
 <tr>
@@ -156,30 +156,77 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ Keen eye<br>🟢 ⚡ Unnerve<br>⭐ ✨ Big pecks (Oculta)</td>
+<td>🟢 ⚡ Shield dust<br>⭐ ✨ Ice scales (Oculta)</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Fly-4C9AFF?style=flat-square"> <img src="https://img.shields.io/badge/Sand%20Attack-4C9AFF?style=flat-square"> <img src="https://img.shields.io/badge/Fury%20Attack-4C9AFF?style=flat-square"> <img src="https://img.shields.io/badge/Take%20Down-4C9AFF?style=flat-square"> <img src="https://img.shields.io/badge/Leer-4C9AFF?style=flat-square"></td>
+<td>
+        <span style="
+            background:#A8A878;
+            color:white;
+            padding:4px 8px;
+            border-radius:4px;
+            font-size:12px;
+            font-weight:bold;
+            display:inline-block;
+            margin:2px;
+        ">
+            Sustituto
+        </span>
+         
+        <span style="
+            background:#98D8D8;
+            color:white;
+            padding:4px 8px;
+            border-radius:4px;
+            font-size:12px;
+            font-weight:bold;
+            display:inline-block;
+            margin:2px;
+        ">
+            Carámbano
+        </span>
+         
+        <span style="
+            background:#A8A878;
+            color:white;
+            padding:4px 8px;
+            border-radius:4px;
+            font-size:12px;
+            font-weight:bold;
+            display:inline-block;
+            margin:2px;
+        ">
+            Ronquido
+        </span>
+         
+        <span style="
+            background:#A8A878;
+            color:white;
+            padding:4px 8px;
+            border-radius:4px;
+            font-size:12px;
+            font-weight:bold;
+            display:inline-block;
+            margin:2px;
+        ">
+            Canon
+        </span>
+        </td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td><table><tr>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/rookidee.jpg" width="70"><br>
-    <small><b>Rookidee</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/snom.jpg" width="70"><br>
+    <small><b>Snom</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/corvisquire.jpg" width="70"><br>
-    <small><b>Corvisquire</b></small>
-</td>
-<td align="center"><b>➡️</b></td>
-<td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/corviknight.jpg" width="70"><br>
-    <small><b>Corviknight</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/frosmoth.jpg" width="70"><br>
+    <small><b>Frosmoth</b></small>
 </td>
 </tr></table></td>
 </tr>
@@ -190,20 +237,20 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>49</td>
+<td>37</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
-<td>1,059,860 XP</td>
+<td>1,000,000 XP</td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>245 puntos</b><br>
+<b>185 puntos</b><br>
 🌱 Básico
 </td>
 </tr>
@@ -212,22 +259,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 <td><b>📊 Estadísticas Base</b></td>
 <td>
 ❤️ <b>PS</b><br>
-🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 38<br>
+🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 30<br>
 
 ⚔️ <b>Ataque</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 47
+🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 25
 
 🛡️ <b>Defensa</b><br>
 🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 35<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 33<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 45<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 35<br>
+🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 30<br>
 
 💨 <b>Velocidad</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 57
+🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 20
 </td>
 </tr>
 
@@ -239,31 +286,31 @@ Descubre cada día un Pokémon diferente con su información completa.
 ## 📖 Historia
 
 **Historia del día:**  
-"Hoy, Rookidee decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Snom decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 ## 🧠 ¿Sabías que...?
 
 **¿Sabías que...?**  
-Rookidee es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Snom es conocido por su capacidad para alcanza poderes muy altos.
 
 ---
 
 ## 💡 Curiosidad oficial
 
-> De naturaleza valiente, planta cara a cualquier rival, por muy fuerte que sea. Los contraataques que recibe le sirven para fortalecerse.
+> Teje un hilo gélido que le permite aferrarse a las ramas y simula ser un carámbano mientras duerme.
 
 ---
 
 ## 📱 Pokémon GO
 
 **Pokémon Go:**
-- **CP máximo:** 3732
+- **CP máximo:** 3547
 - **Clase de combate:** 8
-- **Evento especial:** Rookidee puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Snom puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Rookidee_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Snom_(Pokémon))
 
 ---
 
@@ -786,16 +833,18 @@ Rookidee es conocido por su capacidad para desarrollar habilidades que cambian l
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-16T10:49:00.164341 -->
+<!-- Generated: 2026-07-16T11:01:20.188204 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"Solo hay una regla: ¡Ganar es lo único que importa!"*
+> *"Gamer de día, héroe de noche."*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
