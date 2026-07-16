@@ -2,7 +2,7 @@ import random
 import requests
 
 from pokemon_types import get_pokemon_type_translation
-
+from experience_growth import EXPERIENCE_GROWTH
 # Función para obtener el Pokémon del día
 def get_pokemon_of_the_day():
 
@@ -117,6 +117,11 @@ def get_pokemon_of_the_day():
     # Experiencia nivel 100
     growth = requests.get(species["growth_rate"]["url"]).json()
     experiencia_nivel_100 = growth["levels"][-1]["experience"]
+
+    tipo_crecimiento = EXPERIENCE_GROWTH.get(
+        growth["name"],
+        growth["name"].capitalize()
+    )
 
     # Sexo
     gender_rate = species["gender_rate"]
@@ -245,6 +250,7 @@ def get_pokemon_of_the_day():
         peso,
         experiencia,
         experiencia_nivel_100,
+        tipo_crecimiento,
         habitat,
         color_pokedex,
         generation,
