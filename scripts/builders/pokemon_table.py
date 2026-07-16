@@ -53,25 +53,29 @@ def build_pokemon_table(
     bst_html,
     stats_md,
 ):
-    # habilidades
+
+    # ==========================
+    # HABILIDADES
+    # ==========================
+
     habilidades_html = ""
 
-for h in habilidades:
-    habilidades_html += (
-        f"🟢 ⚡ <b>{h['nombre']}</b><br>"
-        f"<small>{h['descripcion']}</small><br><br>"
-    )
-
-if habilidad_oculta:
-    habilidades_html += (
-        f"⭐ ✨ <b>{habilidad_oculta['nombre']}</b> (Oculta)<br>"
-        f"<small>{habilidad_oculta['descripcion']}</small>"
-    )
+    for h in habilidades:
+        habilidades_html += (
+            f"🟢 ⚡ <b>{h['nombre']}</b><br>"
+            f"<small>{h['descripcion']}</small><br><br>"
+        )
 
     if habilidad_oculta:
-        habilidades_html += f"<br>⭐ {habilidad_oculta} (Oculta)"
+        habilidades_html += (
+            f"⭐ ✨ <b>{habilidad_oculta['nombre']}</b> (Oculta)<br>"
+            f"<small>{habilidad_oculta['descripcion']}</small>"
+        )
 
-    # Movimientos reales
+    # ==========================
+    # MOVIMIENTOS
+    # ==========================
+
     movimientos_html = " ".join(
         f'<img src="https://img.shields.io/badge/'
         f'{quote(m["nombre"])}-'
@@ -79,9 +83,11 @@ if habilidad_oculta:
         f'?style=flat-square">'
         for m in movimientos
     )
+
     captura_barra = barra_porcentaje(capture_text)
 
     return f"""
+
 <table width="100%">
 
 <tr>
