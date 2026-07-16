@@ -15,6 +15,7 @@ from builders.readme_builder import (
 )
 from updater import update_readme
 
+
 # Obtener Pokémon
 (
     nombre,
@@ -57,44 +58,46 @@ fecha = datetime.datetime.utcnow().isoformat()
 
 
 # Construir bloque README
-def build_pokemon_info_block(
-    fecha,
-    pokemon_img_url,
-    pokemon_shiny_url,
-    nombre,
-    rareza,
-    pokedex_num,
-    tipos_html,
-    debilidades_html,
-    resistencias_html,
-    inmunidades_html,
-    generation,
-    clase,
-    color_pokedex,
-    altura,
-    peso,
-    experiencia,
-    experiencia_nivel_100,
-    habitat,
-    egg_groups,
-    base_happiness,
-    capture_rate,
-    captura_porcentaje,
-    shiny_odds,
-    macho,
-    hembra,
-    habilidades,
-    habilidad_oculta,
-    cadena_evolucion,
-    bst_html,
-    stats_md,
-):
+pokemon_info_block = build_pokemon_info_block(
+    fecha=fecha,
+    pokemon_img_url=pokemon_img_url,
+    pokemon_shiny_url=pokemon_shiny_url,
+    nombre=nombre,
+    rareza=rareza,
+    pokedex_num=pokedex_num,
+    tipos_html=tipos_html,
+    debilidades_html=debilidades_html,
+    resistencias_html=resistencias_html,
+    inmunidades_html=inmunidades_html,
+    generation=generation,
+    clase=clase,
+    color_pokedex=color_pokedex,
+    altura=altura,
+    peso=peso,
+    experiencia=experiencia,
+    experiencia_nivel_100=experiencia_nivel_100,
+    habitat=habitat,
+    egg_groups=egg_groups,
+    base_happiness=base_happiness,
+    capture_rate=capture_rate,
+    captura_porcentaje=captura_porcentaje,
+    shiny_odds=shiny_odds,
+    macho=macho,
+    hembra=hembra,
+    habilidades=habilidades,
+    habilidad_oculta=habilidad_oculta,
+    cadena_evolucion=cadena_evolucion,
+    bst_html=bst_html,
+    stats_md=stats_md,
+)
 
+# Frase del día
 frase_info_block = build_frase_info_block(
     fecha,
     frase_del_dia
 )
 
+# Actualizar README
 update_readme(
     pokemon_info_block,
     frase_info_block
