@@ -47,6 +47,7 @@ from updater import update_readme
     bebe,
     forma_regional,
     movimientos,
+    objetos,
     juegos,
     datos_interesantes,
     curiosidad,

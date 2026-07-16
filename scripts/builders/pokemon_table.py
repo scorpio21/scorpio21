@@ -50,6 +50,7 @@ def build_pokemon_table(
     bebe,
     forma_regional,
     movimientos,
+    objetos,
     juegos,
     cadena_evolucion,
     bst_html,
@@ -85,6 +86,19 @@ def build_pokemon_table(
         f'?style=flat-square">'
         for m in movimientos
     )
+    # Objetos que puede llevar
+    if objetos:
+
+        objetos_html = "<br>".join(
+            f'📦 <img src="https://img.shields.io/badge/'
+            f'{quote(o["nombre"])}-4C9AFF?style=flat-square"> '
+            f'({o["probabilidad"]}%)'
+            for o in objetos
+        )
+
+    else:
+
+        objetos_html = "No puede llevar objetos."
 
     captura_barra = barra_porcentaje(capture_text)
 
@@ -252,6 +266,11 @@ def build_pokemon_table(
 <tr>
 <td><b>💪 Habilidades</b></td>
 <td>{habilidades_html}</td>
+</tr>
+
+<tr>
+<td><b>📦 Objetos</b></td>
+<td>{objetos_html}</td>
 </tr>
 
 <tr>
