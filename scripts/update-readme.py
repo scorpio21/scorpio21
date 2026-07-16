@@ -17,7 +17,6 @@ from updater import update_readme
 
 
 # Obtener Pokémon
-(
     nombre,
     tipos_es,
     pokemon_img_url,
