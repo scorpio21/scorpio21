@@ -204,7 +204,7 @@ random.choice(["Puño Trueno", "Puño Fuego"])
 - **Clase de combate:** 8
 - **Evento especial:** {nombre} puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/{nombre}_(Pokémon))
+🔗 [Más información en WikiDex](https://www.wikidex.net/wiki/{nombre})
 
 <!-- END_POKEMON_INFO -->
 """
