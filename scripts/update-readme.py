@@ -15,7 +15,6 @@ from builders.readme_builder import (
 )
 from updater import update_readme
 
-
 # Obtener Pokémon
 (
     nombre,
