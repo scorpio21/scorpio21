@@ -1,6 +1,4 @@
 from builders.pokemon_table import build_pokemon_table
-from builders.pokemon_story import build_pokemon_story
-from builders.pokemon_trivia import build_pokemon_trivia
 from builders.pokemon_go import build_pokemon_go
 
 
@@ -82,8 +80,8 @@ def build_pokemon_info_block(
         stats_md=stats_md,
     )
 
-    story = build_pokemon_story(nombre)
-    trivia = build_pokemon_trivia(nombre)
+    # story = build_pokemon_story(nombre)
+    # trivia = build_pokemon_trivia(nombre)
     go_info = build_pokemon_go(nombre)
 
     return f"""<!-- POKEMON_INFO -->
@@ -98,18 +96,6 @@ Descubre cada día un Pokémon diferente con su información completa.
 ---
 
 {table_html}
-
----
-
-## 📖 Historia
-
-{story}
-
----
-
-## 🧠 ¿Sabías que...?
-
-{trivia}
 
 ---
 

@@ -3,7 +3,6 @@ import requests
 
 from pokemon_types import get_pokemon_type_translation
 
-
 # Función para obtener el Pokémon del día
 def get_pokemon_of_the_day():
 
@@ -129,8 +128,23 @@ def get_pokemon_of_the_day():
         hembra = round((gender_rate / 8) * 100, 1)
         macho = round(100 - hembra, 1)
 
-    # Probabilidad shiny
+   # Probabilidad shiny
     shiny_odds = "1 entre 4096"
+
+    #==========================
+    # DATOS INTERESANTES
+    datos_interesantes = [
+        f"🧬 Introducido en la generación {generation}.",
+        f"🎨 Su color en la Pokédex es {color_pokedex}.",
+        f"📏 Mide {altura} m.",
+        f"⚖️ Pesa {peso} kg.",
+        f"🥚 Pertenece al grupo huevo {egg_groups}.",
+        f"❤️ Amistad base: {base_happiness}.",
+        f"🎯 Ratio de captura: {capture_rate}.",
+    ]
+
+    random.shuffle(datos_interesantes)
+    datos_interesantes = datos_interesantes[:3]
 
     # Habilidades
     habilidades = []
