@@ -263,5 +263,6 @@ def get_pokemon_of_the_day():
         forma_regional,
         movimientos,
         juegos,
+        datos_interesantes,
         curiosidad,
     )

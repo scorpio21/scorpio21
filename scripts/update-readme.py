@@ -47,6 +47,7 @@ from updater import update_readme
     forma_regional,
     movimientos,
     juegos,
+    datos_interesantes,
     curiosidad,
 ) = get_pokemon_of_the_day()
 
@@ -102,6 +103,7 @@ pokemon_info_block = build_pokemon_info_block(
     cadena_evolucion=cadena_evolucion,
     bst_html=bst_html,
     stats_md=stats_md,
+    datos_interesantes=datos_interesantes,
     curiosidad=curiosidad,
 )
 

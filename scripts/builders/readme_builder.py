@@ -36,6 +36,7 @@ def build_pokemon_info_block(
     forma_regional,
     movimientos,
     juegos,
+    datos_interesantes,
     cadena_evolucion,
     bst_html,
     stats_md,
@@ -78,10 +79,14 @@ def build_pokemon_info_block(
         cadena_evolucion=cadena_evolucion,
         bst_html=bst_html,
         stats_md=stats_md,
-    )
+        datos_interesantes=datos_interesantes,
+        curiosidad=curiosidad,
+   )
 
-    # story = build_pokemon_story(nombre)
-    # trivia = build_pokemon_trivia(nombre)
+    datos_interesantes_html = "\n".join(
+    f"- {dato}"
+    for dato in datos_interesantes
+)
     go_info = build_pokemon_go(nombre)
 
     return f"""<!-- POKEMON_INFO -->
@@ -102,6 +107,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 ## 💡 Curiosidad oficial
 
 > {curiosidad}
+
+---
+
+## 💡 Datos interesantes
+
+{datos_interesantes_html}
 
 ---
 
