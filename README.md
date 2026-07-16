@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-16T10:38:04.213141 -->
+<!-- Generated: 2026-07-16T10:45:11.525328 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/259.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/620.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/259.png" width="220">
 </td>
 
 </tr>
@@ -51,7 +51,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🔵 <b>Mienshao</b></td>
+<td>🔵 <b>Marshtomp</b></td>
 </tr>
 
 <tr>
@@ -63,17 +63,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#620</td>
+<td>#259</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>V (Teselia)</td>
+<td>III (Hoenn)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
@@ -82,37 +82,37 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Mienshao</td>
+<td>Marshtomp</td>
 </tr>
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>🟣 Morado</td>
+<td>🔵 Azul</td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>1.4 m</td>
+<td>0.7 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>35.5 kg</td>
+<td>28.0 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
+<td>♂️ 87.5% &nbsp;&nbsp;&nbsp; ♀️ 12.5%</td>
 </tr>
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Desconocido</td>
+<td>Waters-edge</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Ground, Humanshape</td>
+<td>Monster, Water1</td>
 </tr>
 
 <tr>
@@ -126,17 +126,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td>Ninguna</td>
+<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"></td>
 </tr>
 
 <tr>
@@ -156,25 +156,30 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ Inner focus<br>🟢 ⚡ Regenerator<br>⭐ ✨ Reckless (Oculta)</td>
+<td>🟢 ⚡ Torrent<br>⭐ ✨ Damp (Oculta)</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td>Pound, Double Slap, Mega Punch, Swords Dance, Mega Kick</td>
+<td><img src="https://img.shields.io/badge/Mega%20Punch-4C9AFF?style=flat-square"> <img src="https://img.shields.io/badge/Ice%20Punch-4C9AFF?style=flat-square"> <img src="https://img.shields.io/badge/Stomp-4C9AFF?style=flat-square"> <img src="https://img.shields.io/badge/Mega%20Kick-4C9AFF?style=flat-square"> <img src="https://img.shields.io/badge/Headbutt-4C9AFF?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td><table><tr>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/mienfoo.jpg" width="70"><br>
-    <small><b>Mienfoo</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/mudkip.jpg" width="70"><br>
+    <small><b>Mudkip</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/mienshao.jpg" width="70"><br>
-    <small><b>Mienshao</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/marshtomp.jpg" width="70"><br>
+    <small><b>Marshtomp</b></small>
+</td>
+<td align="center"><b>➡️</b></td>
+<td align="center">
+    <img src="https://img.pokemondb.net/artwork/large/swampert.jpg" width="70"><br>
+    <small><b>Swampert</b></small>
 </td>
 </tr></table></td>
 </tr>
@@ -185,7 +190,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>179</td>
+<td>142</td>
 </tr>
 
 <tr>
@@ -196,10 +201,10 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>510 puntos</b><br>
-🔥 Muy fuerte
+<b>405 puntos</b><br>
+⚔️ Fuerte
 </td>
 </tr>
 
@@ -207,22 +212,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 <td><b>📊 Estadísticas Base</b></td>
 <td>
 ❤️ <b>PS</b><br>
-🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 65<br>
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 70<br>
 
 ⚔️ <b>Ataque</b><br>
-🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 125
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 85
 
 🛡️ <b>Defensa</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 60<br>
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 70<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 95<br>
-
-🛡️ <b>Defensa Especial</b><br>
 🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 60<br>
 
+🛡️ <b>Defensa Especial</b><br>
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 70<br>
+
 💨 <b>Velocidad</b><br>
-🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 105
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 50
 </td>
 </tr>
 
@@ -234,31 +239,31 @@ Descubre cada día un Pokémon diferente con su información completa.
 ## 📖 Historia
 
 **Historia del día:**  
-"Hoy, Mienshao decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Marshtomp decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 ## 🧠 ¿Sabías que...?
 
 **¿Sabías que...?**  
-Mienshao es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Marshtomp es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 ## 💡 Curiosidad oficial
 
-> Usa el pelaje de sus brazos a manera de látigos. Sus ataques alcanzan velocidades de vértigo.
+> Sus piernas robustas impiden que pierda el equilibrio y caiga, incluso en el barro. Duerme bajo la arena.
 
 ---
 
 ## 📱 Pokémon GO
 
 **Pokémon Go:**
-- **CP máximo:** 3414
+- **CP máximo:** 3225
 - **Clase de combate:** 8
-- **Evento especial:** Mienshao puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Marshtomp puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Mienshao_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Marshtomp_(Pokémon))
 
 ---
 
@@ -779,8 +784,9 @@ Mienshao es conocido por su capacidad para desarrollar habilidades que cambian l
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-16T10:38:04.213141 -->
+<!-- Generated: 2026-07-16T10:45:11.525328 -->
 
 ---
 
@@ -789,6 +795,7 @@ Mienshao es conocido por su capacidad para desarrollar habilidades que cambian l
 > *"El verdadero juego comienza cuando apagas la consola."*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
