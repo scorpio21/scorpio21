@@ -17,6 +17,7 @@ from updater import update_readme
 
 
 # Obtener Pokémon
+(
     nombre,
     tipos_es,
     pokemon_img_url,
@@ -40,6 +41,10 @@ from updater import update_readme
     egg_groups,
     habilidades,
     habilidad_oculta,
+    legendario,
+    mitico,
+    bebe,
+    forma_regional,
     movimientos,
     curiosidad,
 ) = get_pokemon_of_the_day()
@@ -87,6 +92,10 @@ pokemon_info_block = build_pokemon_info_block(
     hembra=hembra,
     habilidades=habilidades,
     habilidad_oculta=habilidad_oculta,
+    legendario=legendario,
+    mitico=mitico,
+    bebe=bebe,
+    forma_regional=forma_regional,
     movimientos=movimientos,
     cadena_evolucion=cadena_evolucion,
     bst_html=bst_html,
