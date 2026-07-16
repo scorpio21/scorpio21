@@ -20,6 +20,7 @@ def build_pokemon_info_block(
     peso,
     experiencia,
     experiencia_nivel_100,
+    tipo_crecimiento,
     habitat,
     egg_groups,
     base_happiness,
@@ -60,6 +61,7 @@ def build_pokemon_info_block(
         peso=peso,
         experiencia=experiencia,
         experience_to_level=experiencia_nivel_100,
+        experience_growth=tipo_crecimiento,
         habitat=habitat,
         egg_groups=egg_groups,
         base_happiness=base_happiness,
@@ -85,7 +87,7 @@ def build_pokemon_info_block(
         f"- {dato}"
         for dato in datos_interesantes
     )
-    
+
     go_info = build_pokemon_go(nombre)
 
     return f"""<!-- POKEMON_INFO -->

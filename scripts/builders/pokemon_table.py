@@ -34,6 +34,7 @@ def build_pokemon_table(
     peso,
     experiencia,
     experience_to_level,
+    experience_growth,
     habitat,
     egg_groups,
     base_happiness,
@@ -280,6 +281,11 @@ def build_pokemon_table(
 <tr>
 <td><b>📈 Nivel 100</b></td>
 <td>{experience_to_level:,} XP</td>
+</tr>
+
+<tr>
+<td><b>📚 Crecimiento</b></td>
+<td>{experience_growth}</td>
 </tr>
 
 <tr>
