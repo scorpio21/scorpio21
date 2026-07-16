@@ -129,7 +129,16 @@ def get_pokemon_of_the_day():
             habilidad_oculta = "✨ " + nombre_habilidad
         else:
             habilidades.append("⚡ " + nombre_habilidad)
+        # Movimientos reales
+        movimientos = []
 
+    for movimiento in data["moves"][:5]:
+        nombre_movimiento = (
+            movimiento["move"]["name"]
+            .replace("-", " ")
+            .title()
+        )
+        movimientos.append(nombre_movimiento)
     return (
         nombre,
         tipos_es,
@@ -154,5 +163,6 @@ def get_pokemon_of_the_day():
         egg_groups,
         habilidades,
         habilidad_oculta,
+        movimientos,
         curiosidad,
     )
