@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-16T01:26:56.309003 -->
+<!-- Generated: 2026-07-16T01:41:57.423468 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/575.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/828.png" width="220">
 </td>
 
 </tr>
@@ -51,7 +51,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟣 <b>Gothorita</b></td>
+<td>🟣 <b>Thievul</b></td>
 </tr>
 
 <tr>
@@ -63,17 +63,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#575</td>
+<td>#828</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>V (Teselia)</td>
+<td>VIII (Galar)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"></td>
+<td><img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
 </tr>
 
 <tr>
@@ -82,27 +82,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Gothorita</td>
+<td>Thievul</td>
 </tr>
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>🟣 Morado</td>
+<td>🟤 Marrón</td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>0.7 m</td>
+<td>1.2 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>18.0 kg</td>
+<td>19.9 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ 25.0% &nbsp;&nbsp;&nbsp; ♀️ 75.0%</td>
+<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
 </tr>
 
 <tr>
@@ -112,12 +112,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Humanshape</td>
+<td>Ground</td>
 </tr>
 
 <tr>
 <td><b>❤️ Amistad base</b></td>
-<td>70</td>
+<td>50</td>
 </tr>
 
 <tr>
@@ -126,27 +126,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"></td>
+<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td>Ninguna</td>
+<td><img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"></td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br>39.2%</td>
+<td>🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜<br>49.8%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>100</td>
+<td>127</td>
 </tr>
 
 <tr>
@@ -156,30 +156,25 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ Frisk<br>🟢 ⚡ Competitive<br>⭐ ✨ Shadow tag (Oculta)</td>
+<td>🟢 ⚡ Run away<br>🟢 ⚡ Unburden<br>⭐ ✨ Stakeout (Oculta)</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos especiales</b></td>
-<td>Hoja Afilada, Ataque Psíquico, Puño Fuego</td>
+<td>Hoja Afilada, Puño Trueno, Puño Fuego</td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td><table><tr>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/gothita.jpg" width="70"><br>
-    <small><b>Gothita</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/nickit.jpg" width="70"><br>
+    <small><b>Nickit</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/gothorita.jpg" width="70"><br>
-    <small><b>Gothorita</b></small>
-</td>
-<td align="center"><b>➡️</b></td>
-<td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/gothitelle.jpg" width="70"><br>
-    <small><b>Gothitelle</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/thievul.jpg" width="70"><br>
+    <small><b>Thievul</b></small>
 </td>
 </tr></table></td>
 </tr>
@@ -190,21 +185,21 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>137</td>
+<td>159</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
-<td>1,059,860 XP</td>
+<td>800,000 XP</td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜
 
-<b>390 puntos</b><br>
-👍 Normal
+<b>455 puntos</b><br>
+⚔️ Fuerte
 </td>
 </tr>
 
@@ -212,22 +207,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 <td><b>📊 Estadísticas Base</b></td>
 <td>
 ❤️ <b>PS</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 60<br>
-
-⚔️ <b>Ataque</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 45
-
-🛡️ <b>Defensa</b><br>
 🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 70<br>
 
+⚔️ <b>Ataque</b><br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 58
+
+🛡️ <b>Defensa</b><br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 58<br>
+
 ✨ <b>Ataque Especial</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 75<br>
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 87<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 85<br>
+🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 92<br>
 
 💨 <b>Velocidad</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 55
+🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 90
 </td>
 </tr>
 
@@ -239,25 +234,31 @@ Descubre cada día un Pokémon diferente con su información completa.
 ## 📖 Historia
 
 **Historia del día:**  
-"Hoy, Gothorita decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, Thievul decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
 
 ---
 
 ## 🧠 ¿Sabías que...?
 
 **¿Sabías que...?**  
-Gothorita es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
+Thievul es conocido por su capacidad para alcanza poderes muy altos.
+
+---
+
+## 💡 Curiosidad oficial
+
+> Marca a su presa sin ser advertido. Sigue el olor y, cuando el otro Pokémon baja la guardia, aprovecha para robarle.
 
 ---
 
 ## 📱 Pokémon GO
 
 **Pokémon Go:**
-- **CP máximo:** 3425
+- **CP máximo:** 3016
 - **Clase de combate:** 8
-- **Evento especial:** Gothorita puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Thievul puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gothorita_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Thievul_(Pokémon))
 
 ---
 
@@ -776,16 +777,18 @@ Gothorita es conocido por su capacidad para desarrollar habilidades que cambian 
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-16T01:26:56.309003 -->
+<!-- Generated: 2026-07-16T01:41:57.423468 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"*
+> *"Gamer de día, héroe de noche."*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
