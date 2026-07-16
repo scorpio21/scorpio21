@@ -31,7 +31,7 @@ def get_pokemon_of_the_day():
         "paldea"
     ]):
         
-    forma_regional = "Sí"
+        forma_regional = "Sí"
     
     # Curiosidad oficial
     curiosidad = "No disponible"
