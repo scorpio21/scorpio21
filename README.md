@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-16T22:48:20.489059 -->
+<!-- Generated: 2026-07-16T23:06:57.398656 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -30,14 +30,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/808.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/808.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/219.png" width="220">
 </td>
 
 </tr>
@@ -52,29 +52,29 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟣 <b>Meltan</b></td>
+<td>🔵 <b>Magcargo</b></td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
+<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#808</td>
+<td>#219</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>VII (Alola)</td>
+<td>II (Johto)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"></td>
+<td><img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"></td>
 </tr>
 
 <tr>
@@ -83,7 +83,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Meltan</td>
+<td>Magcargo</td>
 </tr>
 
 <tr>
@@ -93,7 +93,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🌟 Mítico</b></td>
-<td>✅ Sí</td>
+<td>❌ No</td>
 </tr>
 
 <tr>
@@ -108,37 +108,37 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>⚪ Gris</td>
+<td>🔴 Rojo</td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>0.2 m</td>
+<td>0.8 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>8.0 kg</td>
+<td>55.0 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ Sin género &nbsp;&nbsp;&nbsp; ♀️ Sin género</td>
+<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
 </tr>
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Desconocido</td>
+<td>Mountain</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>No-eggs</td>
+<td>Indeterminate</td>
 </tr>
 
 <tr>
 <td><b>❤️ Amistad base</b></td>
-<td>0</td>
+<td>70</td>
 </tr>
 
 <tr>
@@ -147,27 +147,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
+<td>Ninguna</td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜<br>1.2%</td>
+<td>🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜<br>29.4%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>3</td>
+<td>75</td>
 </tr>
 
 <tr>
@@ -177,22 +177,37 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Imán</b><br><small>Prevents Steel opponents from fleeing or switching out.</small><br><br></td>
+<td>🟢 ⚡ <b>Escudo Magma</b><br><small>Prevents freezing.</small><br><br>🟢 ⚡ <b>Cuerpo Llama</b><br><small>Has a 30% chance of burning attacking Pokémon on contact.</small><br><br>⭐ ✨ <b>Armadura Frágil</b> (Oculta)<br><small>Raises Speed and lowers Defense by one stage each upon being hit by a physical move.</small></td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/T%C3%B3xico-A040A0?style=flat-square"> <img src="https://img.shields.io/badge/Fortaleza-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Golpe%20Cabeza-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Protecci%C3%B3n-A8A878?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Rompecoraza-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Frustraci%C3%B3n-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Alivio-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Tormenta%20de%20Arena-B8A038?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
-<td>No evoluciona</td>
+<td><table><tr>
+<td align="center">
+<img src="https://img.pokemondb.net/artwork/large/slugma.jpg" width="70"><br>
+<small><b>Slugma</b></small>
+</td>
+
+<td align="center">
+➡️<br>
+<small>Nivel 38</small>
+</td>
+
+<td align="center">
+<img src="https://img.pokemondb.net/artwork/large/magcargo.jpg" width="70"><br>
+<small><b>Magcargo</b></small>
+</td>
+</tr></table></td>
 </tr>
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td>🎮 Meltan</td>
+<td>🎮 Magcargo</td>
 </tr>
 
 <tr>
@@ -201,21 +216,21 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>135</td>
+<td>151</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
-<td>1,250,000 XP</td>
+<td>1,000,000 XP</td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>300 puntos</b><br>
-👍 Normal
+<b>430 puntos</b><br>
+⚔️ Fuerte
 </td>
 </tr>
 
@@ -223,22 +238,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 <td><b>📊 Estadísticas Base</b></td>
 <td>
 ❤️ <b>PS</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 46<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 60<br>
 
 ⚔️ <b>Ataque</b><br>
-🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 65
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 50
 
 🛡️ <b>Defensa</b><br>
-🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 65<br>
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 120<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 55<br>
+🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 90<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 35<br>
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 80<br>
 
 💨 <b>Velocidad</b><br>
-🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 34
+🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 30
 </td>
 </tr>
 
@@ -249,15 +264,15 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 💡 Curiosidad oficial
 
-> Su cuerpo está compuesto de acero líquido. Funde las partículas de hierro y otros metales del subsuelo para luego absorberlas.
+> En ocasiones, su resbaladiza concha lanza intensas llamaradas que recorren todo su cuerpo.
 
 ---
 
 ## 💡 Datos interesantes
 
-- 🎨 Su color en la Pokédex es gray.
-- 📏 Mide 0.2 m.
-- ⚖️ Pesa 8.0 kg.
+- 🎨 Su color en la Pokédex es red.
+- 🧬 Introducido en la generación II (Johto).
+- ⚖️ Pesa 55.0 kg.
 
 ---
 
@@ -265,11 +280,11 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Meltan** en:
+Puedes consultar información completa y actualizada de **Magcargo** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Meltan)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/meltan)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Meltan_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Magcargo)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/magcargo)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Magcargo_(Pokémon))
 
 
 ---
@@ -804,16 +819,18 @@ Puedes consultar información completa y actualizada de **Meltan** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-16T22:48:20.489059 -->
+<!-- Generated: 2026-07-16T23:06:57.398656 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"El verdadero juego comienza cuando apagas la consola."*
+> *"Solo hay una regla: ¡Ganar es lo único que importa!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
