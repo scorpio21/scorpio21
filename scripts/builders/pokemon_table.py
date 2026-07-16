@@ -49,6 +49,7 @@ def build_pokemon_table(
     bebe,
     forma_regional,
     movimientos,
+    juegos,
     cadena_evolucion,
     bst_html,
     stats_md,
@@ -86,6 +87,10 @@ def build_pokemon_table(
 
     captura_barra = barra_porcentaje(capture_text)
 
+    juegos_html = "<br>".join(
+    f"🎮 {juego}"
+    for juego in juegos
+)
     return f"""
 
 <table width="100%">
@@ -256,6 +261,11 @@ def build_pokemon_table(
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td>{cadena_evolucion}</td>
+</tr>
+
+<tr>
+<td><b>🎮 Juegos</b></td>
+<td>{juegos_html}</td>
 </tr>
 
 <tr>
