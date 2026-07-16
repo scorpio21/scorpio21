@@ -204,6 +204,20 @@ def get_pokemon_of_the_day():
                 "nombre": nombre_movimiento,
                 "tipo": move_data["type"]["name"]
             })
+    # Juegos donde aparece
+    juegos = []
+
+    for indice in data["game_indices"]:
+        nombre = (
+        indice["version"]["name"]
+        .replace("-", " ")
+        .title()
+    )
+
+    juegos.append(nombre)
+
+    # Eliminar duplicados y ordenar
+    juegos = sorted(list(set(juegos)))
 
     return (
         nombre,
@@ -234,5 +248,6 @@ def get_pokemon_of_the_day():
         bebe,
         forma_regional,
         movimientos,
+        juegos,
         curiosidad,
     )

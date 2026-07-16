@@ -46,6 +46,7 @@ from updater import update_readme
     bebe,
     forma_regional,
     movimientos,
+    juegos,
     curiosidad,
 ) = get_pokemon_of_the_day()
 
