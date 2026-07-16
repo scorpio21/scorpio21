@@ -130,14 +130,19 @@ def get_pokemon_of_the_day():
         else:
             habilidades.append("⚡ " + nombre_habilidad)
         # Movimientos reales
-        movimientos = []
+       movimientos = []
 
-    for movimiento in data["moves"][:5]:
-        nombre_movimiento = (
-            movimiento["move"]["name"]
-            .replace("-", " ")
-            .title()
-        )
+    for move in random.sample(data["moves"], min(4, len(data["moves"]))):
+
+    move_data = requests.get(move["move"]["url"]).json()
+
+    movimientos.append({
+        "nombre": move_data["names"][5]["name"]
+        if len(move_data["names"]) > 5
+        else move_data["name"].replace("-", " ").title(),
+
+        "tipo": move_data["type"]["name"]
+    })
         movimientos.append(nombre_movimiento)
     return (
         nombre,
