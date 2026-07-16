@@ -79,9 +79,7 @@ def build_pokemon_info_block(
         cadena_evolucion=cadena_evolucion,
         bst_html=bst_html,
         stats_md=stats_md,
-        datos_interesantes=datos_interesantes,
-        curiosidad=curiosidad,
-   )
+    )
 
     datos_interesantes_html = "\n".join(
     f"- {dato}"
