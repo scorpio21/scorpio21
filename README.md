@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-16T12:47:19.339624 -->
+<!-- Generated: 2026-07-16T13:20:26.488907 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -30,14 +30,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/703.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/329.png" width="220">
 </td>
 
 </tr>
@@ -52,7 +52,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🔵 <b>Carbink</b></td>
+<td>🔵 <b>White 2</b></td>
 </tr>
 
 <tr>
@@ -64,17 +64,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#703</td>
+<td>#329</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>VI (Kalos)</td>
+<td>III (Hoenn)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"></td>
+<td><img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"> <img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"></td>
 </tr>
 
 <tr>
@@ -83,7 +83,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Carbink</td>
+<td>Vibrava</td>
 </tr>
 
 <tr>
@@ -108,32 +108,32 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>⚪ Gris</td>
+<td>🟢 Verde</td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>0.3 m</td>
+<td>1.1 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>5.7 kg</td>
+<td>15.3 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ Sin género &nbsp;&nbsp;&nbsp; ♀️ Sin género</td>
+<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
 </tr>
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Desconocido</td>
+<td>Rough-terrain</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Fairy, Mineral</td>
+<td>Bug, Dragon</td>
 </tr>
 
 <tr>
@@ -147,27 +147,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"></td>
+<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"></td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>23.5%</td>
+<td>🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜<br>47.1%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>60</td>
+<td>120</td>
 </tr>
 
 <tr>
@@ -177,22 +177,37 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Cuerpo Puro</b><br><small>Prevents stats from being lowered by other Pokémon.</small><br><br>⭐ ✨ <b>Robustez</b> (Oculta)<br><small>Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.</small></td>
+<td>🟢 ⚡ <b>Levitación</b><br><small>Evades Ground moves.</small><br><br></td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Pulimento-B8A038?style=flat-square"> <img src="https://img.shields.io/badge/Fuerza%20Lunar-EE99AC?style=flat-square"> <img src="https://img.shields.io/badge/Fortaleza-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Teraexplosi%C3%B3n-A8A878?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Sustituto-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Impresionar-705898?style=flat-square"> <img src="https://img.shields.io/badge/Triturar-705848?style=flat-square"> <img src="https://img.shields.io/badge/Poder%20Oculto-A8A878?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
-<td>No evoluciona</td>
+<td><table><tr>
+<td align="center">
+    <img src="https://img.pokemondb.net/artwork/large/trapinch.jpg" width="70"><br>
+    <small><b>Trapinch</b></small>
+</td>
+<td align="center"><b>➡️</b></td>
+<td align="center">
+    <img src="https://img.pokemondb.net/artwork/large/vibrava.jpg" width="70"><br>
+    <small><b>Vibrava</b></small>
+</td>
+<td align="center"><b>➡️</b></td>
+<td align="center">
+    <img src="https://img.pokemondb.net/artwork/large/flygon.jpg" width="70"><br>
+    <small><b>Flygon</b></small>
+</td>
+</tr></table></td>
 </tr>
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td>🎮 Carbink</td>
+<td>🎮 White 2</td>
 </tr>
 
 <tr>
@@ -201,21 +216,21 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>100</td>
+<td>119</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
-<td>1,250,000 XP</td>
+<td>1,059,860 XP</td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>500 puntos</b><br>
-🔥 Muy fuerte
+<b>340 puntos</b><br>
+👍 Normal
 </td>
 </tr>
 
@@ -226,19 +241,19 @@ Descubre cada día un Pokémon diferente con su información completa.
 🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 50<br>
 
 ⚔️ <b>Ataque</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 50
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 70
 
 🛡️ <b>Defensa</b><br>
-🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ 150<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 50<br>
 
 ✨ <b>Ataque Especial</b><br>
 🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 50<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ 150<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 50<br>
 
 💨 <b>Velocidad</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 50
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 70
 </td>
 </tr>
 
@@ -249,18 +264,26 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 💡 Curiosidad oficial
 
-> Nace en las profundidades subterráneas, a altas temperaturas y a gran presión. Irradia energía por la roca que tiene en la cabeza.
+> Al agitar a gran velocidad ambas alas, emite ondas ultrasónicas que provocan fuertes dolores de cabeza.
+
+---
+
+## 💡 Datos interesantes
+
+- 🧬 Introducido en la generación III (Hoenn).
+- 🥚 Pertenece al grupo huevo Bug, Dragon.
+- 📏 Mide 1.1 m.
 
 ---
 
 ## 📱 Pokémon GO
 
 **Pokémon Go:**
-- **CP máximo:** 3493
+- **CP máximo:** 3568
 - **Clase de combate:** 8
-- **Evento especial:** Carbink puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** White 2 puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Carbink_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/White 2_(Pokémon))
 
 ---
 
@@ -789,16 +812,18 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-16T12:47:19.339624 -->
+<!-- Generated: 2026-07-16T13:20:26.488907 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"El verdadero juego comienza cuando apagas la consola."*
+> *"La vida es como un videojuego: ¡haz tu movimiento!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
