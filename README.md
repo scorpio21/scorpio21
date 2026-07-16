@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-16T12:16:08.972448 -->
+<!-- Generated: 2026-07-16T12:47:19.339624 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -30,14 +30,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/235.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/703.png" width="220">
 </td>
 
 </tr>
@@ -52,29 +52,29 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟢 <b>White 2</b></td>
+<td>🔵 <b>Carbink</b></td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
+<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#235</td>
+<td>#703</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>II (Johto)</td>
+<td>VI (Kalos)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"></td>
+<td><img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"></td>
 </tr>
 
 <tr>
@@ -83,7 +83,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Smeargle</td>
+<td>Carbink</td>
 </tr>
 
 <tr>
@@ -108,32 +108,32 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>⚪ Blanco</td>
+<td>⚪ Gris</td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>1.2 m</td>
+<td>0.3 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>58.0 kg</td>
+<td>5.7 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
+<td>♂️ Sin género &nbsp;&nbsp;&nbsp; ♀️ Sin género</td>
 </tr>
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Urban</td>
+<td>Desconocido</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Ground</td>
+<td>Fairy, Mineral</td>
 </tr>
 
 <tr>
@@ -147,27 +147,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"></td>
+<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"></td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>17.6%</td>
+<td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>23.5%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>45</td>
+<td>60</td>
 </tr>
 
 <tr>
@@ -177,12 +177,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Ritmo Propio</b><br><small>Prevents confusion.</small><br><br>🟢 ⚡ <b>Experto</b><br><small>Strengthens moves of 60 base power or less to 1.5× their power.</small><br><br>⭐ ✨ <b>Veleta</b> (Oculta)<br><small>Raises a random stat two stages and lowers another one stage after each turn.</small></td>
+<td>🟢 ⚡ <b>Cuerpo Puro</b><br><small>Prevents stats from being lowered by other Pokémon.</small><br><br>⭐ ✨ <b>Robustez</b> (Oculta)<br><small>Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.</small></td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Esquema-A8A878?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Pulimento-B8A038?style=flat-square"> <img src="https://img.shields.io/badge/Fuerza%20Lunar-EE99AC?style=flat-square"> <img src="https://img.shields.io/badge/Fortaleza-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Teraexplosi%C3%B3n-A8A878?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -192,7 +192,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td>🎮 White 2</td>
+<td>🎮 Carbink</td>
 </tr>
 
 <tr>
@@ -201,21 +201,21 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>88</td>
+<td>100</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
-<td>800,000 XP</td>
+<td>1,250,000 XP</td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜
 
-<b>250 puntos</b><br>
-🌱 Básico
+<b>500 puntos</b><br>
+🔥 Muy fuerte
 </td>
 </tr>
 
@@ -223,22 +223,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 <td><b>📊 Estadísticas Base</b></td>
 <td>
 ❤️ <b>PS</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 55<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 50<br>
 
 ⚔️ <b>Ataque</b><br>
-🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 20
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 50
 
 🛡️ <b>Defensa</b><br>
-🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 35<br>
+🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ 150<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 20<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 50<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 45<br>
+🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ 150<br>
 
 💨 <b>Velocidad</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 75
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 50
 </td>
 </tr>
 
@@ -247,34 +247,20 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ---
 
-## 📖 Historia
-
-**Historia del día:**  
-"Hoy, White 2 decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
-
----
-
-## 🧠 ¿Sabías que...?
-
-**¿Sabías que...?**  
-White 2 es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
-
----
-
 ## 💡 Curiosidad oficial
 
-> Marca su territorio usando su cola a modo de pincel. Ha hecho más de 5000 marcas diferentes.
+> Nace en las profundidades subterráneas, a altas temperaturas y a gran presión. Irradia energía por la roca que tiene en la cabeza.
 
 ---
 
 ## 📱 Pokémon GO
 
 **Pokémon Go:**
-- **CP máximo:** 3929
+- **CP máximo:** 3493
 - **Clase de combate:** 8
-- **Evento especial:** White 2 puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Carbink puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/White 2_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Carbink_(Pokémon))
 
 ---
 
@@ -802,16 +788,18 @@ White 2 es conocido por su capacidad para desarrollar habilidades que cambian la
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-16T12:16:08.972448 -->
+<!-- Generated: 2026-07-16T12:47:19.339624 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"*
+> *"El verdadero juego comienza cuando apagas la consola."*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
