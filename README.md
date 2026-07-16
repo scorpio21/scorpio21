@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-16T11:01:20.188204 -->
+<!-- Generated: 2026-07-16T11:07:08.456780 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/872.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/872.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/706.png" width="220">
 </td>
 
 </tr>
@@ -51,29 +51,29 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🔵 <b>Snom</b></td>
+<td>🟣 <b>Goodra</b></td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#872</td>
+<td>#706</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>VIII (Galar)</td>
+<td>VI (Kalos)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"></td>
+<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"></td>
 </tr>
 
 <tr>
@@ -82,22 +82,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Snom</td>
+<td>Goodra</td>
 </tr>
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>⚪ Blanco</td>
+<td>🟣 Morado</td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>0.3 m</td>
+<td>2.0 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>3.8 kg</td>
+<td>150.5 kg</td>
 </tr>
 
 <tr>
@@ -112,12 +112,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Bug</td>
+<td>Dragon</td>
 </tr>
 
 <tr>
 <td><b>❤️ Amistad base</b></td>
-<td>50</td>
+<td>35</td>
 </tr>
 
 <tr>
@@ -126,12 +126,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
 </tr>
 
 <tr>
@@ -141,12 +141,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜<br>74.5%</td>
+<td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>17.6%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>190</td>
+<td>45</td>
 </tr>
 
 <tr>
@@ -156,77 +156,30 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ Shield dust<br>⭐ ✨ Ice scales (Oculta)</td>
+<td>🟢 ⚡ Sap sipper<br>🟢 ⚡ Hydration<br>⭐ ✨ Gooey (Oculta)</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td>
-        <span style="
-            background:#A8A878;
-            color:white;
-            padding:4px 8px;
-            border-radius:4px;
-            font-size:12px;
-            font-weight:bold;
-            display:inline-block;
-            margin:2px;
-        ">
-            Sustituto
-        </span>
-         
-        <span style="
-            background:#98D8D8;
-            color:white;
-            padding:4px 8px;
-            border-radius:4px;
-            font-size:12px;
-            font-weight:bold;
-            display:inline-block;
-            margin:2px;
-        ">
-            Carámbano
-        </span>
-         
-        <span style="
-            background:#A8A878;
-            color:white;
-            padding:4px 8px;
-            border-radius:4px;
-            font-size:12px;
-            font-weight:bold;
-            display:inline-block;
-            margin:2px;
-        ">
-            Ronquido
-        </span>
-         
-        <span style="
-            background:#A8A878;
-            color:white;
-            padding:4px 8px;
-            border-radius:4px;
-            font-size:12px;
-            font-weight:bold;
-            display:inline-block;
-            margin:2px;
-        ">
-            Canon
-        </span>
-        </td>
+<td><img src="https://img.shields.io/badge/Amago-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Hiperrayo-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Protecci%C3%B3n-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Doble%20Equipo-A8A878?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td><table><tr>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/snom.jpg" width="70"><br>
-    <small><b>Snom</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/goomy.jpg" width="70"><br>
+    <small><b>Goomy</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/frosmoth.jpg" width="70"><br>
-    <small><b>Frosmoth</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/sliggoo.jpg" width="70"><br>
+    <small><b>Sliggoo</b></small>
+</td>
+<td align="center"><b>➡️</b></td>
+<td align="center">
+    <img src="https://img.pokemondb.net/artwork/large/goodra.jpg" width="70"><br>
+    <small><b>Goodra</b></small>
 </td>
 </tr></table></td>
 </tr>
@@ -237,21 +190,21 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>37</td>
+<td>270</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
-<td>1,000,000 XP</td>
+<td>1,250,000 XP</td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜
 
-<b>185 puntos</b><br>
-🌱 Básico
+<b>600 puntos</b><br>
+💎 Pseudolegendario
 </td>
 </tr>
 
@@ -259,22 +212,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 <td><b>📊 Estadísticas Base</b></td>
 <td>
 ❤️ <b>PS</b><br>
-🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 30<br>
+🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 90<br>
 
 ⚔️ <b>Ataque</b><br>
-🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 25
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 100
 
 🛡️ <b>Defensa</b><br>
-🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 35<br>
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 70<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 45<br>
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 110<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 30<br>
+🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ 150<br>
 
 💨 <b>Velocidad</b><br>
-🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 20
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 80
 </td>
 </tr>
 
@@ -286,31 +239,31 @@ Descubre cada día un Pokémon diferente con su información completa.
 ## 📖 Historia
 
 **Historia del día:**  
-"Hoy, Snom decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
+"Hoy, Goodra decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 ## 🧠 ¿Sabías que...?
 
 **¿Sabías que...?**  
-Snom es conocido por su capacidad para alcanza poderes muy altos.
+Goodra es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 ## 💡 Curiosidad oficial
 
-> Teje un hilo gélido que le permite aferrarse a las ramas y simula ser un carámbano mientras duerme.
+> Pokémon de tipo Dragón muy afable al que le gusta abrazar con efusión a su Entrenador, aunque después lo deja totalmente pringado.
 
 ---
 
 ## 📱 Pokémon GO
 
 **Pokémon Go:**
-- **CP máximo:** 3547
+- **CP máximo:** 3635
 - **Clase de combate:** 8
-- **Evento especial:** Snom puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Goodra puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Snom_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Goodra_(Pokémon))
 
 ---
 
@@ -834,16 +787,18 @@ Snom es conocido por su capacidad para alcanza poderes muy altos.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-16T11:01:20.188204 -->
+<!-- Generated: 2026-07-16T11:07:08.456780 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"Gamer de día, héroe de noche."*
+> *"Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
