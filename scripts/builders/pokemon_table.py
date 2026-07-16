@@ -1,5 +1,3 @@
-import random
-
 from config import (
     colores_pokedex,
     rareza_texto,
@@ -58,17 +56,8 @@ def build_pokemon_table(
     if habilidad_oculta:
         habilidades_html += f"<br>⭐ {habilidad_oculta} (Oculta)"
 
+    # Movimientos reales
     movimientos_html = ", ".join(movimientos)
-        random.choice([
-            "Rayo Solar",
-            "Ataque Psíquico",
-            "Puño Trueno"
-        ]),
-        random.choice([
-            "Puño Trueno",
-            "Puño Fuego"
-        ])
-    ])
 
     captura_barra = barra_porcentaje(capture_text)
 
@@ -214,7 +203,7 @@ def build_pokemon_table(
 </tr>
 
 <tr>
-<td><b>🥊 Movimientos especiales</b></td>
+<td><b>🥊 Movimientos</b></td>
 <td>{movimientos_html}</td>
 </tr>
 
