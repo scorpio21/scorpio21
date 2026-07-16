@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-16T11:50:32.715503 -->
+<!-- Generated: 2026-07-16T12:16:08.972448 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -30,14 +30,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/563.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/235.png" width="220">
 </td>
 
 </tr>
@@ -52,29 +52,29 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟣 <b>Cofagrigus</b></td>
+<td>🟢 <b>White 2</b></td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
+<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#563</td>
+<td>#235</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>V (Teselia)</td>
+<td>II (Johto)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"></td>
+<td><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"></td>
 </tr>
 
 <tr>
@@ -83,7 +83,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Cofagrigus</td>
+<td>Smeargle</td>
 </tr>
 
 <tr>
@@ -108,17 +108,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>🟡 Amarillo</td>
+<td>⚪ Blanco</td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>1.7 m</td>
+<td>1.2 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>76.5 kg</td>
+<td>58.0 kg</td>
 </tr>
 
 <tr>
@@ -128,12 +128,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Desconocido</td>
+<td>Urban</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Mineral, Indeterminate</td>
+<td>Ground</td>
 </tr>
 
 <tr>
@@ -147,27 +147,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
+<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
+<td></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"></td>
+<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"></td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br>35.3%</td>
+<td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>17.6%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>90</td>
+<td>45</td>
 </tr>
 
 <tr>
@@ -177,32 +177,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Momia</b><br><small>Changes attacking Pokémon's abilities to Mummy on contact.</small><br><br></td>
+<td>🟢 ⚡ <b>Ritmo Propio</b><br><small>Prevents confusion.</small><br><br>🟢 ⚡ <b>Experto</b><br><small>Strengthens moves of 60 base power or less to 1.5× their power.</small><br><br>⭐ ✨ <b>Veleta</b> (Oculta)<br><small>Raises a random stat two stages and lowers another one stage after each turn.</small></td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/T%C3%B3xico-A040A0?style=flat-square"> <img src="https://img.shields.io/badge/Infortunio-705898?style=flat-square"> <img src="https://img.shields.io/badge/Bloqueo-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Isofuerza-F85888?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Esquema-A8A878?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
-<td><table><tr>
-<td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/yamask.jpg" width="70"><br>
-    <small><b>Yamask</b></small>
-</td>
-<td align="center"><b>➡️</b></td>
-<td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/cofagrigus.jpg" width="70"><br>
-    <small><b>Cofagrigus</b></small>
-</td>
-<td align="center"><b>➡️</b></td>
-<td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/runerigus.jpg" width="70"><br>
-    <small><b>Runerigus</b></small>
-</td>
-</tr></table></td>
+<td>No evoluciona</td>
+</tr>
+
+<tr>
+<td><b>🎮 Juegos</b></td>
+<td>🎮 White 2</td>
 </tr>
 
 <tr>
@@ -211,21 +201,21 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>169</td>
+<td>88</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
-<td>1,000,000 XP</td>
+<td>800,000 XP</td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>483 puntos</b><br>
-⚔️ Fuerte
+<b>250 puntos</b><br>
+🌱 Básico
 </td>
 </tr>
 
@@ -233,22 +223,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 <td><b>📊 Estadísticas Base</b></td>
 <td>
 ❤️ <b>PS</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 58<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 55<br>
 
 ⚔️ <b>Ataque</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 50
+🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 20
 
 🛡️ <b>Defensa</b><br>
-🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ 145<br>
+🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 35<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 95<br>
+🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 20<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 105<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 45<br>
 
 💨 <b>Velocidad</b><br>
-🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 30
+🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 75
 </td>
 </tr>
 
@@ -260,31 +250,31 @@ Descubre cada día un Pokémon diferente con su información completa.
 ## 📖 Historia
 
 **Historia del día:**  
-"Hoy, Cofagrigus decidió enfrentar su mayor desafío. ¡Prepárate para ver qué sucede!"
+"Hoy, White 2 decidió explorar un nuevo terreno. ¡Prepárate para ver qué sucede!"
 
 ---
 
 ## 🧠 ¿Sabías que...?
 
 **¿Sabías que...?**  
-Cofagrigus es conocido por su capacidad para dominar varias tácticas en combate.
+White 2 es conocido por su capacidad para desarrollar habilidades que cambian las batallas.
 
 ---
 
 ## 💡 Curiosidad oficial
 
-> Se comenta que engulle a todo humano que se le acerca y lo momifica. Su comida favorita son las pepitas de oro.
+> Marca su territorio usando su cola a modo de pincel. Ha hecho más de 5000 marcas diferentes.
 
 ---
 
 ## 📱 Pokémon GO
 
 **Pokémon Go:**
-- **CP máximo:** 3413
+- **CP máximo:** 3929
 - **Clase de combate:** 8
-- **Evento especial:** Cofagrigus puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** White 2 puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cofagrigus_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/White 2_(Pokémon))
 
 ---
 
@@ -811,16 +801,18 @@ Cofagrigus es conocido por su capacidad para dominar varias tácticas en combate
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-16T11:50:32.715503 -->
+<!-- Generated: 2026-07-16T12:16:08.972448 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"Gamer de día, héroe de noche."*
+> *"Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
