@@ -7,6 +7,7 @@ from builders.pokemon_go import build_pokemon_go
 def build_pokemon_info_block(
     fecha,
     pokemon_img_url,
+    shiny_img_url,
     nombre,
     rareza,
     pokedex_num,
@@ -20,18 +21,22 @@ def build_pokemon_info_block(
     altura,
     peso,
     experiencia,
+    experiencia_nivel,
     habitat,
     egg_groups,
+    gender_rate,
     base_happiness,
     capture_rate,
+    capture_percent,
     habilidades,
     habilidad_oculta,
     cadena_evolucion,
     bst_html,
-    stats_md
+    stats_md,
 ):
     table_html = build_pokemon_table(
         pokemon_img_url=pokemon_img_url,
+        shiny_img_url=shiny_img_url,
         nombre=nombre,
         rareza=rareza,
         pokedex_num=pokedex_num,
@@ -45,15 +50,18 @@ def build_pokemon_info_block(
         altura=altura,
         peso=peso,
         experiencia=experiencia,
+        experiencia_nivel=experiencia_nivel,
         habitat=habitat,
         egg_groups=egg_groups,
+        gender_rate=gender_rate,
         base_happiness=base_happiness,
         capture_rate=capture_rate,
+        capture_percent=capture_percent,
         habilidades=habilidades,
         habilidad_oculta=habilidad_oculta,
         cadena_evolucion=cadena_evolucion,
         bst_html=bst_html,
-        stats_md=stats_md
+        stats_md=stats_md,
     )
 
     story = build_pokemon_story(nombre)
