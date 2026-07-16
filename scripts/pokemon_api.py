@@ -14,6 +14,25 @@ def get_pokemon_of_the_day():
 
     species = requests.get(data["species"]["url"]).json()
 
+    legendario = species["is_legendary"]
+    mitico = species["is_mythical"]
+    bebe = species["is_baby"]
+
+    forma_regional = "No"
+
+    formas = requests.get(species["varieties"][0]["pokemon"]["url"]).json()
+
+    nombre_forma = formas["name"].lower()
+
+    if any(x in nombre_forma for x in [
+        "alola",
+        "galar",
+        "hisui",
+        "paldea"
+    ]):
+        
+    forma_regional = "Sí"
+    
     # Curiosidad oficial
     curiosidad = "No disponible"
 
@@ -177,6 +196,10 @@ def get_pokemon_of_the_day():
         egg_groups,
         habilidades,
         habilidad_oculta,
+        legendario,
+        mitico,
+        bebe,
+        forma_regional,
         movimientos,
         curiosidad,
     )
