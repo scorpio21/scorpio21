@@ -41,6 +41,7 @@ from updater import update_readme
     egg_groups,
     habilidades,
     habilidad_oculta,
+    movimientos,
     curiosidad,
 ) = get_pokemon_of_the_day()
 
@@ -87,6 +88,7 @@ pokemon_info_block = build_pokemon_info_block(
     hembra=hembra,
     habilidades=habilidades,
     habilidad_oculta=habilidad_oculta,
+    movimientos=movimientos,
     cadena_evolucion=cadena_evolucion,
     bst_html=bst_html,
     stats_md=stats_md,
