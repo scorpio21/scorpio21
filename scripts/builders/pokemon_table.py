@@ -57,7 +57,10 @@ def build_pokemon_table(
         habilidades_html += f"<br>⭐ {habilidad_oculta} (Oculta)"
 
     # Movimientos reales
-    movimientos_html = ", ".join(movimientos)
+    movimientos_html = " ".join(
+    f'<img src="https://img.shields.io/badge/{m.replace(" ", "%20")}-4C9AFF?style=flat-square">'
+    for m in movimientos
+)
 
     captura_barra = barra_porcentaje(capture_text)
 
