@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-16T11:07:08.456780 -->
+<!-- Generated: 2026-07-16T11:23:03.144067 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/706.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/13.png" width="220">
 </td>
 
 </tr>
@@ -51,29 +51,29 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟣 <b>Goodra</b></td>
+<td>🟢 <b>Weedle</b></td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
+<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#706</td>
+<td>#13</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>VI (Kalos)</td>
+<td>I (Kanto)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
 </tr>
 
 <tr>
@@ -82,22 +82,42 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Goodra</td>
+<td>Weedle</td>
+</tr>
+
+<tr>
+<td><b>⭐ Legendario</b></td>
+<td>❌ No</td>
+</tr>
+
+<tr>
+<td><b>🌟 Mítico</b></td>
+<td>❌ No</td>
+</tr>
+
+<tr>
+<td><b>👶 Bebé</b></td>
+<td>❌ No</td>
+</tr>
+
+<tr>
+<td><b>🌍 Forma regional</b></td>
+<td>No</td>
 </tr>
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>🟣 Morado</td>
+<td>🟤 Marrón</td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>2.0 m</td>
+<td>0.3 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>150.5 kg</td>
+<td>3.2 kg</td>
 </tr>
 
 <tr>
@@ -107,17 +127,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Desconocido</td>
+<td>Forest</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Dragon</td>
+<td>Bug</td>
 </tr>
 
 <tr>
 <td><b>❤️ Amistad base</b></td>
-<td>35</td>
+<td>70</td>
 </tr>
 
 <tr>
@@ -126,12 +146,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"></td>
+<td><img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
 </tr>
 
 <tr>
@@ -141,12 +161,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>17.6%</td>
+<td>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩<br>100.0%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>45</td>
+<td>255</td>
 </tr>
 
 <tr>
@@ -156,30 +176,30 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ Sap sipper<br>🟢 ⚡ Hydration<br>⭐ ✨ Gooey (Oculta)</td>
+<td>🟢 ⚡ Shield dust<br>⭐ ✨ Run away (Oculta)</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Amago-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Hiperrayo-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Protecci%C3%B3n-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Doble%20Equipo-A8A878?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Picadura-A8B820?style=flat-square"> <img src="https://img.shields.io/badge/Picotazo%20Veneno-A040A0?style=flat-square"> <img src="https://img.shields.io/badge/Disparo%20Demora-A8B820?style=flat-square"> <img src="https://img.shields.io/badge/Electrotela-F8D030?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td><table><tr>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/goomy.jpg" width="70"><br>
-    <small><b>Goomy</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/weedle.jpg" width="70"><br>
+    <small><b>Weedle</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/sliggoo.jpg" width="70"><br>
-    <small><b>Sliggoo</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/kakuna.jpg" width="70"><br>
+    <small><b>Kakuna</b></small>
 </td>
 <td align="center"><b>➡️</b></td>
 <td align="center">
-    <img src="https://img.pokemondb.net/artwork/large/goodra.jpg" width="70"><br>
-    <small><b>Goodra</b></small>
+    <img src="https://img.pokemondb.net/artwork/large/beedrill.jpg" width="70"><br>
+    <small><b>Beedrill</b></small>
 </td>
 </tr></table></td>
 </tr>
@@ -190,21 +210,21 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>270</td>
+<td>39</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
-<td>1,250,000 XP</td>
+<td>1,000,000 XP</td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜
+🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>600 puntos</b><br>
-💎 Pseudolegendario
+<b>195 puntos</b><br>
+🌱 Básico
 </td>
 </tr>
 
@@ -212,22 +232,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 <td><b>📊 Estadísticas Base</b></td>
 <td>
 ❤️ <b>PS</b><br>
-🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 90<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 40<br>
 
 ⚔️ <b>Ataque</b><br>
-🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 100
+🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 35
 
 🛡️ <b>Defensa</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 70<br>
+🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 30<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 110<br>
+🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 20<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ 150<br>
+🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 20<br>
 
 💨 <b>Velocidad</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 80
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 50
 </td>
 </tr>
 
@@ -239,31 +259,31 @@ Descubre cada día un Pokémon diferente con su información completa.
 ## 📖 Historia
 
 **Historia del día:**  
-"Hoy, Goodra decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
+"Hoy, Weedle decidió tomar un descanso. ¡Prepárate para ver qué sucede!"
 
 ---
 
 ## 🧠 ¿Sabías que...?
 
 **¿Sabías que...?**  
-Goodra es conocido por su capacidad para dominar varias tácticas en combate.
+Weedle es conocido por su capacidad para dominar varias tácticas en combate.
 
 ---
 
 ## 💡 Curiosidad oficial
 
-> Pokémon de tipo Dragón muy afable al que le gusta abrazar con efusión a su Entrenador, aunque después lo deja totalmente pringado.
+> Suele habitar bosques y praderas. Tiene un afilado y venenoso aguijón de unos 5 cm encima de la cabeza.
 
 ---
 
 ## 📱 Pokémon GO
 
 **Pokémon Go:**
-- **CP máximo:** 3635
+- **CP máximo:** 3746
 - **Clase de combate:** 8
-- **Evento especial:** Goodra puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+- **Evento especial:** Weedle puede aparecer más frecuentemente durante el evento "Festival de la primavera".
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Goodra_(Pokémon))
+[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Weedle_(Pokémon))
 
 ---
 
@@ -788,16 +808,18 @@ Goodra es conocido por su capacidad para dominar varias tácticas en combate.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-16T11:07:08.456780 -->
+<!-- Generated: 2026-07-16T11:23:03.144067 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"*
+> *"Si no estás ganando, ¡estás aprendiendo!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
