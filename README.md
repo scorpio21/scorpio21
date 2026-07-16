@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-16T22:42:27.927766 -->
+<!-- Generated: 2026-07-16T22:48:20.489059 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -30,14 +30,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/648.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/808.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/648.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/808.png" width="220">
 </td>
 
 </tr>
@@ -52,29 +52,29 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟡✨ <b>Meloetta-aria</b></td>
+<td>🟣 <b>Meltan</b></td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/Legendario-gold?style=flat-square">
+<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#648</td>
+<td>#808</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>V (Teselia)</td>
+<td>VII (Alola)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"></td>
 </tr>
 
 <tr>
@@ -83,7 +83,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Meloetta</td>
+<td>Meltan</td>
 </tr>
 
 <tr>
@@ -108,17 +108,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>⚪ Blanco</td>
+<td>⚪ Gris</td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>0.6 m</td>
+<td>0.2 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>6.5 kg</td>
+<td>8.0 kg</td>
 </tr>
 
 <tr>
@@ -138,7 +138,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>❤️ Amistad base</b></td>
-<td>100</td>
+<td>0</td>
 </tr>
 
 <tr>
@@ -147,17 +147,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
+<td><img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"></td>
+<td><img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
 </tr>
 
 <tr>
@@ -177,12 +177,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Dicha</b><br><small>Doubles the chance of moves' extra effects occurring.</small><br><br></td>
+<td>🟢 ⚡ <b>Imán</b><br><small>Prevents Steel opponents from fleeing or switching out.</small><br><br></td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Da%C3%B1o%20Secreto-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Canto%20Arcaico-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Alboroto-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Danza%20Lluvia-6890F0?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/T%C3%B3xico-A040A0?style=flat-square"> <img src="https://img.shields.io/badge/Fortaleza-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Golpe%20Cabeza-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Protecci%C3%B3n-A8A878?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -192,7 +192,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td>🎮 Meloetta-aria</td>
+<td>🎮 Meltan</td>
 </tr>
 
 <tr>
@@ -201,7 +201,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>270</td>
+<td>135</td>
 </tr>
 
 <tr>
@@ -212,10 +212,10 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>600 puntos</b><br>
-💎 Pseudolegendario
+<b>300 puntos</b><br>
+👍 Normal
 </td>
 </tr>
 
@@ -223,22 +223,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 <td><b>📊 Estadísticas Base</b></td>
 <td>
 ❤️ <b>PS</b><br>
-🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 100<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 46<br>
 
 ⚔️ <b>Ataque</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 77
+🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 65
 
 🛡️ <b>Defensa</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 77<br>
+🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 65<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 128<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 55<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 128<br>
+🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 35<br>
 
 💨 <b>Velocidad</b><br>
-🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 90
+🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ 34
 </td>
 </tr>
 
@@ -249,26 +249,28 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 💡 Curiosidad oficial
 
-> Las melodías que canta Meloetta tienen el poder de hacer sentir felicidad a los Pokémon que hay a su alrededor.
+> Su cuerpo está compuesto de acero líquido. Funde las partículas de hierro y otros metales del subsuelo para luego absorberlas.
 
 ---
 
 ## 💡 Datos interesantes
 
-- 🧬 Introducido en la generación V (Teselia).
-- ❤️ Amistad base: 100.
-- 🎯 Ratio de captura: 3.
+- 🎨 Su color en la Pokédex es gray.
+- 📏 Mide 0.2 m.
+- ⚖️ Pesa 8.0 kg.
 
 ---
 
 ## 📱 Pokémon GO
 
-**Pokémon Go:**
-- **CP máximo:** 3874
-- **Clase de combate:** 8
-- **Evento especial:** Meloetta-aria puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+## 🌐 Más información
 
-[Más información en Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Meloetta-aria_(Pokémon))
+Puedes consultar información completa y actualizada de **Meltan** en:
+
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Meltan)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/meltan)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Meltan_(Pokémon))
+
 
 ---
 
@@ -801,16 +803,18 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-16T22:42:27.927766 -->
+<!-- Generated: 2026-07-16T22:48:20.489059 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"En cada partida, hay un nuevo desafío esperando ser conquistado."*
+> *"El verdadero juego comienza cuando apagas la consola."*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
