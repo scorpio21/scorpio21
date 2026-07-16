@@ -6,6 +6,7 @@ from pokemon_types import get_pokemon_type_translation
 
 # Función para obtener el Pokémon del día
 def get_pokemon_of_the_day():
+
     url = "https://pokeapi.co/api/v2/pokemon/" + str(random.randint(1, 898))
 
     response = requests.get(url)
@@ -13,28 +14,27 @@ def get_pokemon_of_the_day():
 
     species = requests.get(data["species"]["url"]).json()
 
-    # Curiosidad oficial en español
+    # Curiosidad oficial
     curiosidad = "No disponible"
 
-for texto in species["flavor_text_entries"]:
-    if texto["language"]["name"] == "es":
-        curiosidad = (
-            texto["flavor_text"]
-            .replace("\n", " ")
-            .replace("\f", " ")
-        )
-        break
-
-# Si no existe en español, usar inglés
-if curiosidad == "No disponible":
     for texto in species["flavor_text_entries"]:
-        if texto["language"]["name"] == "en":
+        if texto["language"]["name"] == "es":
             curiosidad = (
                 texto["flavor_text"]
                 .replace("\n", " ")
                 .replace("\f", " ")
             )
             break
+
+    if curiosidad == "No disponible":
+        for texto in species["flavor_text_entries"]:
+            if texto["language"]["name"] == "en":
+                curiosidad = (
+                    texto["flavor_text"]
+                    .replace("\n", " ")
+                    .replace("\f", " ")
+                )
+                break
 
     nombre = data["name"].capitalize()
 
@@ -76,6 +76,9 @@ if curiosidad == "No disponible":
 
     capture_rate = species["capture_rate"]
 
+    # Probabilidad de captura (%)
+    captura_porcentaje = round((capture_rate / 255) * 100, 1)
+
     base_happiness = species["base_happiness"]
 
     egg_groups = ", ".join(
@@ -94,9 +97,7 @@ if curiosidad == "No disponible":
     experiencia = data["base_experience"]
 
     # Experiencia necesaria para nivel 100
-    growth_url = species["growth_rate"]["url"]
-    growth = requests.get(growth_url).json()
-
+    growth = requests.get(species["growth_rate"]["url"]).json()
     experiencia_nivel_100 = growth["levels"][-1]["experience"]
 
     # Sexo
@@ -109,12 +110,10 @@ if curiosidad == "No disponible":
         hembra = round((gender_rate / 8) * 100, 1)
         macho = round(100 - hembra, 1)
 
-    # Probabilidad de captura
-    captura_porcentaje = round((capture_rate / 255) * 100, 1)
-
     # Probabilidad shiny
     shiny_odds = "1 entre 4096"
 
+    # Habilidades
     habilidades = []
     habilidad_oculta = None
 
@@ -127,12 +126,9 @@ if curiosidad == "No disponible":
         )
 
         if habilidad["is_hidden"]:
-            habilidad_oculta = nombre_habilidad
+            habilidad_oculta = "✨ " + nombre_habilidad
         else:
             habilidades.append("⚡ " + nombre_habilidad)
-
-    if habilidad_oculta:
-        habilidad_oculta = "✨ " + habilidad_oculta
 
     return (
         nombre,
