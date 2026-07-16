@@ -13,6 +13,29 @@ def get_pokemon_of_the_day():
 
     species = requests.get(data["species"]["url"]).json()
 
+    # Curiosidad oficial en español
+    curiosidad = "No disponible"
+
+for texto in species["flavor_text_entries"]:
+    if texto["language"]["name"] == "es":
+        curiosidad = (
+            texto["flavor_text"]
+            .replace("\n", " ")
+            .replace("\f", " ")
+        )
+        break
+
+# Si no existe en español, usar inglés
+if curiosidad == "No disponible":
+    for texto in species["flavor_text_entries"]:
+        if texto["language"]["name"] == "en":
+            curiosidad = (
+                texto["flavor_text"]
+                .replace("\n", " ")
+                .replace("\f", " ")
+            )
+            break
+
     nombre = data["name"].capitalize()
 
     tipos = [tipo["type"]["name"] for tipo in data["types"]]
@@ -135,4 +158,5 @@ def get_pokemon_of_the_day():
         egg_groups,
         habilidades,
         habilidad_oculta,
+        curiosidad,
     )
