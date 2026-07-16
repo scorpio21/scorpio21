@@ -58,7 +58,7 @@ def build_pokemon_info_block(
         egg_groups=egg_groups,
         base_happiness=base_happiness,
         capture_rate=capture_rate,
-        capture_text=f"{captura_porcentaje} %",
+        capture_text=f"{captura_porcentaje}%",
         shiny_odds=shiny_odds,
         male_rate=f"{macho}%" if macho is not None else "Sin género",
         female_rate=f"{hembra}%" if hembra is not None else "Sin género",
@@ -79,7 +79,7 @@ def build_pokemon_info_block(
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
 <p align="center">
-Descubre cada día un Pokémon diferente con sus estadísticas, evolución y curiosidades.
+Descubre cada día un Pokémon diferente con su información completa.
 </p>
 
 ---
@@ -103,6 +103,16 @@ Descubre cada día un Pokémon diferente con sus estadísticas, evolución y cur
 ## 📱 Pokémon GO
 
 {go_info}
+
+---
+
+<p align="center">
+
+⭐ Datos obtenidos de <b>PokéAPI</b><br>
+🤖 Generado automáticamente con Python<br>
+🗓️ Última actualización: <b>{fecha[:10]}</b>
+
+</p>
 
 <!-- END_POKEMON_INFO -->
 """
