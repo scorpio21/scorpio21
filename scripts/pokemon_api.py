@@ -222,7 +222,7 @@ def get_pokemon_of_the_day():
     juegos = []
 
     for indice in data["game_indices"]:
-        nombre = (
+        nombre_juego = (
         indice["version"]["name"]
         .replace("-", " ")
         .title()
