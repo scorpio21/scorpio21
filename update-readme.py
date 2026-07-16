@@ -199,12 +199,13 @@ random.choice(["Puño Trueno", "Puño Fuego"])
 
 ---
 
-**Pokémon Go:**
-- **CP máximo:** {random.randint(3000, 4000)}
-- **Clase de combate:** 8
-- **Evento especial:** {nombre} puede aparecer más frecuentemente durante el evento "Festival de la primavera".
+## 🌐 Más información
 
-🔗 [Más información en WikiDex](https://www.wikidex.net/wiki/{nombre})
+Puedes consultar información completa y actualizada de **{nombre}** en:
+
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/{nombre.lower()})
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/{nombre})
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/{nombre}_(Pokémon))
 
 <!-- END_POKEMON_INFO -->
 """
