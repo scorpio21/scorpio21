@@ -1,5 +1,5 @@
 import requests
-
+from item_translations import ITEM_TRANSLATIONS
 
 # Obtener la cadena de evolución
 def get_evolution_chain(pokedex_num):
@@ -39,11 +39,13 @@ def get_evolution_chain(pokedex_num):
                     texto = f"Nivel {detalle['min_level']}"
 
                 elif detalle.get("item"):
-                    texto = (
-                        detalle["item"]["name"]
-                        .replace("-", " ")
-                        .title()
-                    )
+
+                    item = detalle["item"]["name"]
+
+                    texto = ITEM_TRANSLATIONS.get(
+                        item,
+                        item.replace("-", " ").title()
+                )
 
                 elif detalle.get("trigger", {}).get("name") == "trade":
                     texto = "Intercambio"
