@@ -133,39 +133,50 @@ def get_pokemon_of_the_day():
     shiny_odds = "1 entre 4096"
 
     # Habilidades
-   habilidades = []
-habilidad_oculta = None
+    habilidades = []
+    habilidad_oculta = None
 
-for habilidad in data["abilities"]:
+    for habilidad in data["abilities"]:
 
-    ability = requests.get(
-        habilidad["ability"]["url"]
-    ).json()
+        ability = requests.get(
+            habilidad["ability"]["url"]
+        ).json()
 
-    descripcion = "Sin descripción"
+        descripcion = "Sin descripción"
 
-    for entry in ability["effect_entries"]:
-        if entry["language"]["name"] == "es":
-            descripcion = entry["short_effect"]
-            break
-
-    if descripcion == "Sin descripción":
+        # Intentar español
         for entry in ability["effect_entries"]:
-            if entry["language"]["name"] == "en":
+            if entry["language"]["name"] == "es":
                 descripcion = entry["short_effect"]
                 break
 
-    info = {
-        "nombre": ability["names"][5]["name"]
-        if len(ability["names"]) > 5
-        else ability["name"].replace("-", " ").title(),
-        "descripcion": descripcion
-    }
+        # Si no existe, inglés
+        if descripcion == "Sin descripción":
+            for entry in ability["effect_entries"]:
+                if entry["language"]["name"] == "en":
+                    descripcion = entry["short_effect"]
+                    break
 
-    if habilidad["is_hidden"]:
-        habilidad_oculta = info
-    else:
-        habilidades.append(info)
+        nombre_habilidad = (
+            ability["name"]
+            .replace("-", " ")
+            .title()
+        )
+
+        for n in ability["names"]:
+            if n["language"]["name"] == "es":
+                nombre_habilidad = n["name"]
+                break
+
+        info = {
+            "nombre": nombre_habilidad,
+            "descripcion": descripcion
+        }
+
+        if habilidad["is_hidden"]:
+            habilidad_oculta = info
+        else:
+            habilidades.append(info)
 
     # Movimientos reales
     movimientos = []
@@ -173,13 +184,17 @@ for habilidad in data["abilities"]:
     disponibles = data["moves"]
 
     if disponibles:
+
         for move in random.sample(disponibles, min(4, len(disponibles))):
 
             move_data = requests.get(move["move"]["url"]).json()
 
-            nombre_movimiento = move_data["name"].replace("-", " ").title()
+            nombre_movimiento = (
+                move_data["name"]
+                .replace("-", " ")
+                .title()
+            )
 
-            # Intentar obtener el nombre en español
             for n in move_data["names"]:
                 if n["language"]["name"] == "es":
                     nombre_movimiento = n["name"]
