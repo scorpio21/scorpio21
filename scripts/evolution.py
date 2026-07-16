@@ -12,53 +12,131 @@ def get_evolution_chain(pokedex_num):
             species["evolution_chain"]["url"]
         ).json()
 
-        evoluciones = []
+        html = '<table><tr>'
 
         def recorrer(cadena):
-            evoluciones.append(cadena["species"]["name"].capitalize())
-            for evo in cadena["evolves_to"]:
-                recorrer(evo)
+            nombre = cadena["species"]["name"].capitalize()
 
-        recorrer(evo_data["chain"])
+            imagen = (
+                f"https://img.pokemondb.net/artwork/large/"
+                f"{nombre.lower()}.jpg"
+            )
 
-        # Si solo tiene una forma, no evoluciona
-        if len(evoluciones) == 1:
-            return "No evoluciona"
-
-        # Si hay 4 o menos evoluciones → una sola fila
-        # Si hay más → dividir en dos filas
-        if len(evoluciones) <= 4:
-            filas = [evoluciones]
-        else:
-            filas = [
-                evoluciones[:4],
-                evoluciones[4:]
-            ]
-
-        html = "<table>"
-
-        for fila in filas:
-            html += "<tr>"
-
-            for i, nombre in enumerate(fila):
-                imagen = f"https://img.pokemondb.net/artwork/large/{nombre.lower()}.jpg"
-
-                html += f"""
+            html_part = f"""
 <td align="center">
-    <img src="{imagen}" width="70"><br>
-    <small><b>{nombre}</b></small>
+<img src="{imagen}" width="70"><br>
+<small><b>{nombre}</b></small>
 </td>
 """
 
-                # Flecha entre evoluciones
-                if i < len(fila) - 1:
-                    html += '<td align="center"><b>➡️</b></td>'
+            for evo in cadena["evolves_to"]:
 
-            html += "</tr>"
+                detalle = evo["evolution_details"][0] if evo["evolution_details"] else {}
 
-        html += "</table>"
+                texto = ""
+
+                if detalle.get("min_level"):
+                    texto = f"Nivel {detalle['min_level']}"
+
+                elif detalle.get("item"):
+                    texto = (
+                        detalle["item"]["name"]
+                        .replace("-", " ")
+                        .title()
+                    )
+
+                elif detalle.get("trigger", {}).get("name") == "trade":
+                    texto = "Intercambio"
+
+                elif detalle.get("min_happiness"):
+                    texto = "Amistad"
+
+                elif detalle.get("known_move"):
+                    texto = (
+                        "Aprende "
+                        + detalle["known_move"]["name"]
+                        .replace("-", " ")
+                        .title()
+                    )
+
+                elif detalle.get("held_item"):
+                    texto = (
+                        "Con "
+                        + detalle["held_item"]["name"]
+                        .replace("-", " ")
+                        .title()
+                    )
+
+                elif detalle.get("time_of_day"):
+                    texto = detalle["time_of_day"].capitalize()
+
+                elif detalle.get("needs_overworld_rain"):
+                    texto = "Lluvia"
+
+                elif detalle.get("turn_upside_down"):
+                    texto = "Consola boca abajo"
+
+                elif detalle.get("min_affection"):
+                    texto = "Afecto"
+
+                elif detalle.get("min_beauty"):
+                    texto = "Belleza"
+
+                elif detalle.get("party_species"):
+                    texto = (
+                        "Con "
+                        + detalle["party_species"]["name"]
+                        .capitalize()
+                    )
+
+                elif detalle.get("party_type"):
+                    texto = (
+                        "Tipo "
+                        + detalle["party_type"]["name"]
+                        .capitalize()
+                    )
+
+                elif detalle.get("relative_physical_stats") == 1:
+                    texto = "Ataque > Defensa"
+
+                elif detalle.get("relative_physical_stats") == -1:
+                    texto = "Ataque < Defensa"
+
+                elif detalle.get("relative_physical_stats") == 0:
+                    texto = "Ataque = Defensa"
+
+                elif nombre == "Meltan":
+                    texto = "400 Caramelos (Pokémon GO)"
+
+                elif detalle.get("trade_species"):
+                    texto = (
+                        "Intercambiar por "
+                        + detalle["trade_species"]["name"]
+                        .capitalize()
+                    )
+
+                elif detalle.get("trigger", {}).get("name") == "use-item":
+                    texto = "Usar objeto"
+
+                else:
+                    texto = "Evoluciona"
+
+                html_part += f"""
+<td align="center">
+➡️<br>
+<small>{texto}</small>
+</td>
+"""
+
+                html_part += recorrer(evo)
+
+            return html_part
+
+        html += recorrer(evo_data["chain"])
+        html += "</tr></table>"
 
         return html
 
     except Exception as e:
         return f"Error obteniendo evolución: {e}"
+        
