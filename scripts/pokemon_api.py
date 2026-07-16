@@ -223,6 +223,23 @@ def get_pokemon_of_the_day():
                 "nombre": nombre_movimiento,
                 "tipo": move_data["type"]["name"]
             })
+                # Objetos que puede llevar
+    objetos = []
+
+    for item in data["held_items"]:
+
+        nombre_objeto = (
+            item["item"]["name"]
+            .replace("-", " ")
+            .title()
+        )
+
+        for version in item["version_details"]:
+
+            objetos.append({
+                "nombre": nombre_objeto,
+                "probabilidad": version["rarity"]
+            })
     # Juegos donde aparece
     juegos = []
 
@@ -233,7 +250,7 @@ def get_pokemon_of_the_day():
         .title()
     )
 
-    juegos.append(nombre)
+    juegos.append(nombre_juego)
 
     # Eliminar duplicados y ordenar
     juegos = sorted(list(set(juegos)))
@@ -268,6 +285,7 @@ def get_pokemon_of_the_day():
         bebe,
         forma_regional,
         movimientos,
+        objetos,
         juegos,
         datos_interesantes,
         curiosidad,
