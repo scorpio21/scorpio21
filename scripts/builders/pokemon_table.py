@@ -53,9 +53,19 @@ def build_pokemon_table(
     bst_html,
     stats_md,
 ):
+    # habilidades
+    habilidades_html = ""
 
-    habilidades_html = "<br>".join(
-        f"🟢 {h}" for h in habilidades
+for h in habilidades:
+    habilidades_html += (
+        f"🟢 ⚡ <b>{h['nombre']}</b><br>"
+        f"<small>{h['descripcion']}</small><br><br>"
+    )
+
+if habilidad_oculta:
+    habilidades_html += (
+        f"⭐ ✨ <b>{habilidad_oculta['nombre']}</b> (Oculta)<br>"
+        f"<small>{habilidad_oculta['descripcion']}</small>"
     )
 
     if habilidad_oculta:
