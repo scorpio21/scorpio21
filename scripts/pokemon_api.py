@@ -133,21 +133,39 @@ def get_pokemon_of_the_day():
     shiny_odds = "1 entre 4096"
 
     # Habilidades
-    habilidades = []
-    habilidad_oculta = None
+   habilidades = []
+habilidad_oculta = None
 
-    for habilidad in data["abilities"]:
+for habilidad in data["abilities"]:
 
-        nombre_habilidad = (
-            habilidad["ability"]["name"]
-            .replace("-", " ")
-            .capitalize()
-        )
+    ability = requests.get(
+        habilidad["ability"]["url"]
+    ).json()
 
-        if habilidad["is_hidden"]:
-            habilidad_oculta = "✨ " + nombre_habilidad
-        else:
-            habilidades.append("⚡ " + nombre_habilidad)
+    descripcion = "Sin descripción"
+
+    for entry in ability["effect_entries"]:
+        if entry["language"]["name"] == "es":
+            descripcion = entry["short_effect"]
+            break
+
+    if descripcion == "Sin descripción":
+        for entry in ability["effect_entries"]:
+            if entry["language"]["name"] == "en":
+                descripcion = entry["short_effect"]
+                break
+
+    info = {
+        "nombre": ability["names"][5]["name"]
+        if len(ability["names"]) > 5
+        else ability["name"].replace("-", " ").title(),
+        "descripcion": descripcion
+    }
+
+    if habilidad["is_hidden"]:
+        habilidad_oculta = info
+    else:
+        habilidades.append(info)
 
     # Movimientos reales
     movimientos = []
