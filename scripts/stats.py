@@ -57,25 +57,25 @@ def compute_bst(stats):
 {nivel_bst}
 """
     stats_md = f"""
-    ❤️ <b>PS</b> <b>{stats['hp']}</b><br>
+    ❤️ PS {stats['hp']}<br>
     {barra_stat(stats['hp'])}<br><br>
 
-    ⚔️ <b>Ataque</b> <b>{stats['attack']}</b><br>
+    ⚔️ Ataque {stats['attack']}<br>
     {barra_stat(stats['attack'])}<br><br>
 
-    🛡️ <b>Defensa</b> <b>{stats['defense']}</b><br>
+    🛡️ Defensa {stats['defense']}<br>
     {barra_stat(stats['defense'])}<br><br>
 
-    ✨ <b>At. Especial</b> <b>{stats['special-attack']}</b><br>
+    ✨ At. Especial {stats['special-attack']}<br>
     {barra_stat(stats['special-attack'])}<br><br>
 
-    🛡️ <b>Def. Especial</b> <b>{stats['special-defense']}</b><br>
+    🛡️ Def. Especial {stats['special-defense']}<br>
     {barra_stat(stats['special-defense'])}<br><br>
 
-    💨 <b>Velocidad</b> <b>{stats['speed']}</b><br>
+    💨 Velocidad {stats['speed']}<br>
     {barra_stat(stats['speed'])}
     """
-    
+
     print(repr(stats_md))
 
     return bst, nivel_bst, bst_html, stats_md
