@@ -76,6 +76,6 @@ def compute_bst(stats):
     {barra_stat(stats['speed'])}
     """
 
-    print(repr(stats_md))
+    stats_md = "HOLA MUNDO"
 
     return bst, nivel_bst, bst_html, stats_md
