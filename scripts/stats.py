@@ -58,23 +58,44 @@ def compute_bst(stats):
 """
 
     stats_md = f"""
-❤️ <b>PS</b><br>
-{barra_stat(stats['hp'])} {stats['hp']}<br>
+    <table>
 
-⚔️ <b>Ataque</b><br>
-{barra_stat(stats['attack'])} {stats['attack']}
+    <tr>
+    <td>❤️ <b>PS</b></td>
+    <td>{barra_stat(stats['hp'])}</td>
+    <td><b>{stats['hp']}</b></td>
+    </tr>
 
-🛡️ <b>Defensa</b><br>
-{barra_stat(stats['defense'])} {stats['defense']}<br>
+    <tr>
+    <td>⚔️ <b>Ataque</b></td>
+    <td>{barra_stat(stats['attack'])}</td>
+    <td><b>{stats['attack']}</b></td>
+    </tr>
 
-✨ <b>Ataque Especial</b><br>
-{barra_stat(stats['special-attack'])} {stats['special-attack']}<br>
+    <tr>
+    <td>🛡️ <b>Defensa</b></td>
+    <td>{barra_stat(stats['defense'])}</td>
+    <td><b>{stats['defense']}</b></td>
+    </tr>
 
-🛡️ <b>Defensa Especial</b><br>
-{barra_stat(stats['special-defense'])} {stats['special-defense']}<br>
+    <tr>
+    <td>✨ <b>At. Especial</b></td>
+    <td>{barra_stat(stats['special-attack'])}</td>
+    <td><b>{stats['special-attack']}</b></td>
+    </tr>
 
-💨 <b>Velocidad</b><br>
-{barra_stat(stats['speed'])} {stats['speed']}
-"""
+    <tr>
+    <td>🛡️ <b>Def. Especial</b></td>
+    <td>{barra_stat(stats['special-defense'])}</td>
+    <td><b>{stats['special-defense']}</b></td>
+    </tr>
 
+    <tr>
+    <td>💨 <b>Velocidad</b></td>
+    <td>{barra_stat(stats['speed'])}</td>
+    <td><b>{stats['speed']}</b></td>
+    </tr>
+
+    </table>
+    """
     return bst, nivel_bst, bst_html, stats_md
