@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-17T08:42:41.310109 -->
+<!-- Generated: 2026-07-17T08:55:47.429670 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/292.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/265.png" width="220">
 </td>
 
 </tr>
@@ -51,7 +51,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟢 <b>Shedinja</b></td>
+<td>🟢 <b>Wurmple</b></td>
 </tr>
 
 <tr>
@@ -63,7 +63,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#292</td>
+<td>#265</td>
 </tr>
 
 <tr>
@@ -73,7 +73,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"></td>
 </tr>
 
 <tr>
@@ -82,7 +82,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Shedinja</td>
+<td>Wurmple</td>
 </tr>
 
 <tr>
@@ -107,22 +107,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>🟤 Marrón</td>
+<td>🔴 Rojo</td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>0.8 m</td>
+<td>0.3 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>1.2 kg</td>
+<td>3.6 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ Sin género &nbsp;&nbsp;&nbsp; ♀️ Sin género</td>
+<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
 </tr>
 
 <tr>
@@ -132,7 +132,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Mineral</td>
+<td>Bug</td>
 </tr>
 
 <tr>
@@ -146,27 +146,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
+<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"></td>
+<td>Ninguna</td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>17.6%</td>
+<td>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩<br>100.0%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>45</td>
+<td>255</td>
 </tr>
 
 <tr>
@@ -176,45 +176,65 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Superguarda</b><br><small>Protects against damaging moves that are not super effective.</small><br><br></td>
+<td>🟢 ⚡ <b>Polvo Escudo</b><br><small>Protects against incoming moves' extra effects.</small><br><br>⭐ ✨ <b>Fuga</b> (Oculta)<br><small>Ensures success fleeing from wild battles.</small></td>
 </tr>
 
 <tr>
 <td><b>📦 Objetos</b></td>
-<td>No puede llevar objetos.</td>
+<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pecha-berry.png" width="28" height="28"> <b>Pecha Berry</b> (50%)<br><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bright-powder.png" width="28" height="28"> <b>Bright Powder</b> (5%)</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Golpes%20Furia-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Doble%20Filo-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Pesadilla-705898?style=flat-square"> <img src="https://img.shields.io/badge/D%C3%ADa%20Soleado-F08030?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Picotazo%20Veneno-A040A0?style=flat-square"> <img src="https://img.shields.io/badge/Electrotela-F8D030?style=flat-square"> <img src="https://img.shields.io/badge/Placaje-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Picadura-A8B820?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td><table><tr>
 <td align="center">
-<img src="https://img.pokemondb.net/artwork/large/nincada.jpg" width="70"><br>
-<small><b>Nincada</b></small>
+<img src="https://img.pokemondb.net/artwork/large/wurmple.jpg" width="70"><br>
+<small><b>Wurmple</b></small>
 </td>
 
 <td align="center">
 ➡️<br>
-<small>Nivel 20</small>
+<small>Nivel 7</small>
 </td>
 
 <td align="center">
-<img src="https://img.pokemondb.net/artwork/large/ninjask.jpg" width="70"><br>
-<small><b>Ninjask</b></small>
+<img src="https://img.pokemondb.net/artwork/large/silcoon.jpg" width="70"><br>
+<small><b>Silcoon</b></small>
 </td>
 
 <td align="center">
 ➡️<br>
-<small>Evoluciona</small>
+<small>Nivel 10</small>
 </td>
 
 <td align="center">
-<img src="https://img.pokemondb.net/artwork/large/shedinja.jpg" width="70"><br>
-<small><b>Shedinja</b></small>
+<img src="https://img.pokemondb.net/artwork/large/beautifly.jpg" width="70"><br>
+<small><b>Beautifly</b></small>
+</td>
+
+<td align="center">
+➡️<br>
+<small>Nivel 7</small>
+</td>
+
+<td align="center">
+<img src="https://img.pokemondb.net/artwork/large/cascoon.jpg" width="70"><br>
+<small><b>Cascoon</b></small>
+</td>
+
+<td align="center">
+➡️<br>
+<small>Nivel 10</small>
+</td>
+
+<td align="center">
+<img src="https://img.pokemondb.net/artwork/large/dustox.jpg" width="70"><br>
+<small><b>Dustox</b></small>
 </td>
 </tr></table></td>
 </tr>
@@ -230,25 +250,25 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>83</td>
+<td>56</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
-<td>600,000 XP</td>
+<td>1,000,000 XP</td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Slow-then-very-fast-lightgrey?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Medio-lightgrey?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>236 puntos</b><br>
+<b>195 puntos</b><br>
 🌱 Básico
 </td>
 </tr>
@@ -256,23 +276,23 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
 <td style="background:red">
-    ❤️ <b>PS</b> <b>1</b><br>
-    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-
-    ⚔️ <b>Ataque</b> <b>90</b><br>
-    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br><br>
-
-    🛡️ <b>Defensa</b> <b>45</b><br>
+    ❤️ <b>PS</b> <b>45</b><br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
 
-    ✨ <b>At. Especial</b> <b>30</b><br>
+    ⚔️ <b>Ataque</b> <b>45</b><br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+
+    🛡️ <b>Defensa</b> <b>35</b><br>
+    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+
+    ✨ <b>At. Especial</b> <b>20</b><br>
     🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
 
     🛡️ <b>Def. Especial</b> <b>30</b><br>
     🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
 
-    💨 <b>Velocidad</b> <b>40</b><br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜
+    💨 <b>Velocidad</b> <b>20</b><br>
+    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜
     </td>
 </tr>
 
@@ -283,15 +303,15 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 💡 Curiosidad oficial
 
-> Es el caparazón de un bicho que cobró vida. Si alguien lo mira por la espalda, le robará el alma.
+> Le encanta comer hojas. Si le ataca un Starly, se defenderá con sus púas.
 
 ---
 
 ## 💡 Datos interesantes
 
-- ⚖️ Pesa 1.2 kg.
-- 📏 Mide 0.8 m.
-- 🧬 Introducido en la generación III (Hoenn).
+- ⚖️ Pesa 3.6 kg.
+- ❤️ Amistad base: 70.
+- 🎨 Su color en la Pokédex es red.
 
 ---
 
@@ -299,11 +319,11 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Shedinja** en:
+Puedes consultar información completa y actualizada de **Wurmple** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Shedinja)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/shedinja)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Shedinja_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Wurmple)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/wurmple)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Wurmple_(Pokémon))
 
 
 ---
@@ -851,16 +871,18 @@ Puedes consultar información completa y actualizada de **Shedinja** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-17T08:42:41.310109 -->
+<!-- Generated: 2026-07-17T08:55:47.429670 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"Solo hay una regla: ¡Ganar es lo único que importa!"*
+> *"El verdadero juego comienza cuando apagas la consola."*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
