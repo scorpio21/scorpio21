@@ -1,6 +1,7 @@
 #==========================
 # IMPORTS
 #=========================
+print(">>> EJECUTANDO builders/pokemon_table.py <<<")
 
 from config import (
     colores_pokedex,
@@ -140,6 +141,8 @@ def build_pokemon_table(
         f'{quote(badge[0])}-{badge[1]}?style=flat-square">'
     )
     
+    print(">>> stats_md =", repr(stats_md))
+
     return render_table(
         pokemon_img_url=pokemon_img_url,
         shiny_img_url=shiny_img_url,
