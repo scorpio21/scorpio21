@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-17T11:19:32.533460 -->
+<!-- Generated: 2026-07-17T11:24:03.437258 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/703.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/472.png" width="220">
 </td>
 
 </tr>
@@ -51,7 +51,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🔵 <b>Carbink</b></td>
+<td>🔵 <b>Gliscor</b></td>
 </tr>
 
 <tr>
@@ -63,17 +63,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#703</td>
+<td>#472</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>VI (Kalos)</td>
+<td>IV (Sinnoh)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"></td>
+<td><img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
@@ -82,7 +82,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Carbink</td>
+<td>Gliscor</td>
 </tr>
 
 <tr>
@@ -107,22 +107,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>⚪ Gris</td>
+<td>🟣 Morado</td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>0.3 m</td>
+<td>2.0 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>5.7 kg</td>
+<td>42.5 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ Sin género &nbsp;&nbsp;&nbsp; ♀️ Sin género</td>
+<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
 </tr>
 
 <tr>
@@ -132,7 +132,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Fairy, Mineral</td>
+<td>Bug</td>
 </tr>
 
 <tr>
@@ -146,27 +146,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"></td>
+<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>23.5%</td>
+<td>🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜<br>11.8%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>60</td>
+<td>30</td>
 </tr>
 
 <tr>
@@ -176,7 +176,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Cuerpo Puro</b><br><small>Prevents stats from being lowered by other Pokémon.</small><br><br>⭐ ✨ <b>Robustez</b> (Oculta)<br><small>Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.</small></td>
+<td>🟢 ⚡ <b>Corte Fuerte</b><br><small>Prevents Attack from being lowered by other Pokémon.</small><br><br>🟢 ⚡ <b>Velo Arena</b><br><small>Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage.</small><br><br>⭐ ✨ <b>Antídoto</b> (Oculta)<br><small>Heals for 1/8 max HP after each turn when poisoned in place of damage.</small></td>
 </tr>
 
 <tr>
@@ -186,7 +186,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Antia%C3%A9reo-B8A038?style=flat-square"> <img src="https://img.shields.io/badge/Frustraci%C3%B3n-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Velo%20Sagrado-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Pulso%20de%20Campo-A8A878?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Avalancha-B8A038?style=flat-square"> <img src="https://img.shields.io/badge/T%C3%B3xico-A040A0?style=flat-square"> <img src="https://img.shields.io/badge/Fortaleza-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Bofet%C3%B3n%20Lodo-E0C068?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -196,7 +196,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td></td>
+<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Diamante<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino</td>
 </tr>
 
 <tr>
@@ -205,17 +205,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>100</td>
+<td>179</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
-<td>1,250,000 XP</td>
+<td>1,059,860 XP</td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Lento-red?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Medio%20lento-yellow?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -223,18 +223,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 <td>
 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜
 
-<b>500 puntos</b><br>
+<b>510 puntos</b><br>
 🔥 Muy fuerte
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">
-PRUEBA 1<br>
-PRUEBA 2<br>
-PRUEBA 3
-</td>
+<td style="background:red">HOLA MUNDO</td>
 </tr>
 
 </table>
@@ -244,15 +240,15 @@ PRUEBA 3
 
 ## 💡 Curiosidad oficial
 
-> Nace en las profundidades subterráneas, a altas temperaturas y a gran presión. Irradia energía por la roca que tiene en la cabeza.
+> Espera a sus presas colgado de una rama bocabajo. Cuando llega su oportunidad, se lanza en picado.
 
 ---
 
 ## 💡 Datos interesantes
 
-- 🥚 Pertenece al grupo huevo Fairy, Mineral.
-- 📏 Mide 0.3 m.
-- 🎯 Ratio de captura: 60.
+- ❤️ Amistad base: 70.
+- 🎯 Ratio de captura: 30.
+- ⚖️ Pesa 42.5 kg.
 
 ---
 
@@ -260,11 +256,11 @@ PRUEBA 3
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Carbink** en:
+Puedes consultar información completa y actualizada de **Gliscor** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Carbink)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/carbink)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Carbink_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Gliscor)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/gliscor)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gliscor_(Pokémon))
 
 
 ---
@@ -820,16 +816,18 @@ Puedes consultar información completa y actualizada de **Carbink** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-17T11:19:32.533460 -->
+<!-- Generated: 2026-07-17T11:24:03.437258 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"¡Nunca subestimes el poder de un jugador con café!"*
+> *"Si no estás ganando, ¡estás aprendiendo!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
