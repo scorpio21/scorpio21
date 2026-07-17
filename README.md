@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-17T22:42:37.434320 -->
+<!-- Generated: 2026-07-17T22:49:34.135229 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/621.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/797.png" width="220">
 </td>
 
 </tr>
@@ -51,7 +51,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟣 <b>Druddigon</b></td>
+<td>🟣 <b>Celesteela</b></td>
 </tr>
 
 <tr>
@@ -63,17 +63,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#621</td>
+<td>#797</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>V (Teselia)</td>
+<td>VII (Alola)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
@@ -82,7 +82,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Druddigon</td>
+<td>Celesteela</td>
 </tr>
 
 <tr>
@@ -107,22 +107,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>🔴 Rojo</td>
+<td>🟢 Verde</td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>1.6 m</td>
+<td>9.2 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>139.0 kg</td>
+<td>999.9 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
+<td>♂️ Sin género &nbsp;&nbsp;&nbsp; ♀️ Sin género</td>
 </tr>
 
 <tr>
@@ -132,12 +132,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Dragon, Monster</td>
+<td>No-eggs</td>
 </tr>
 
 <tr>
 <td><b>❤️ Amistad base</b></td>
-<td>70</td>
+<td>0</td>
 </tr>
 
 <tr>
@@ -146,17 +146,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"></td>
+<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td>Ninguna</td>
+<td><img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
 </tr>
 
 <tr>
@@ -176,32 +176,32 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Piel Tosca</b><br><small>Damages attacking Pokémon for 1/8 their max HP on contact.</small><br><br>🟢 ⚡ <b>Potencia Bruta</b><br><small>Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.</small><br><br>⭐ ✨ <b>Rompemoldes</b> (Oculta)<br><small>Bypasses targets' abilities if they could hinder or prevent a move.</small></td>
+<td>🟢 ⚡ <b>Ultraimpulso</b><br><small>Raises this Pokémon's highest stat by one stage when it faints another Pokémon.</small><br><br></td>
 </tr>
 
 <tr>
 <td><b>📦 Objetos</b></td>
-<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-fang.png" width="28" height="28"> <b>Dragon Fang</b> (5%)</td>
+<td>No puede llevar objetos.</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Onda%20Certera-C03028?style=flat-square"> <img src="https://img.shields.io/badge/Excavar-E0C068?style=flat-square"> <img src="https://img.shields.io/badge/Lanzamugre-A040A0?style=flat-square"> <img src="https://img.shields.io/badge/Corte-A8A878?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Energibola-78C850?style=flat-square"> <img src="https://img.shields.io/badge/Ronquido-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Terremoto-E0C068?style=flat-square"> <img src="https://img.shields.io/badge/Nitrocarga-F08030?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td><table><tr>
 <td align="center">
-<img src="https://img.pokemondb.net/artwork/large/druddigon.jpg" width="70"><br>
-<small><b>Druddigon</b></small>
+<img src="https://img.pokemondb.net/artwork/large/celesteela.jpg" width="70"><br>
+<small><b>Celesteela</b></small>
 </td>
 </tr></table></td>
 </tr>
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2</td>
+<td></td>
 </tr>
 
 <tr>
@@ -210,50 +210,43 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>170</td>
+<td>257</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
-<td>1,000,000 XP</td>
+<td>1,250,000 XP</td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Medio-lightgrey?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Lento-red?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜
 
-<b>485 puntos</b><br>
-⚔️ Fuerte
+<b>570 puntos</b><br>
+🔥 Muy fuerte
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">
-    ❤️ PS 77
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜
-
-    ⚔️ Ataque 120
-    🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
-
-    🛡️ Defensa 90
-    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜
-
-    ✨ At. Especial 60
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜
-
-    🛡️ Def. Especial 90
-    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜
-
-    💨 Velocidad 48
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜
-    </td>
+<td style="background:red">❤️ PS 97<br>
+    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br><br>
+    ⚔️ Ataque 101<br>
+    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Defensa 103<br>
+    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
+    ✨ At. Especial 107<br>
+    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Def. Especial 101<br>
+    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
+    💨 Velocidad 61<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜</td>
 </tr>
 
 </table>
@@ -263,15 +256,15 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 💡 Curiosidad oficial
 
-> Corre por estrechas cavernas y atrapa a sus presas con sus afiladas garras. La piel de la cara es más dura que una roca.
+> Este Ultraente surgió de un Ultraumbral. Parece haber sido avistado surcando los cielos a velocidades vertiginosas.
 
 ---
 
 ## 💡 Datos interesantes
 
-- 🎨 Su color en la Pokédex es red.
+- 🥚 Pertenece al grupo huevo No-eggs.
+- ⚖️ Pesa 999.9 kg.
 - 🎯 Ratio de captura: 45.
-- 🥚 Pertenece al grupo huevo Dragon, Monster.
 
 ---
 
@@ -279,11 +272,11 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Druddigon** en:
+Puedes consultar información completa y actualizada de **Celesteela** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Druddigon)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/druddigon)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Druddigon_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Celesteela)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/celesteela)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Celesteela_(Pokémon))
 
 
 ---
@@ -847,16 +840,18 @@ Puedes consultar información completa y actualizada de **Druddigon** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-17T22:42:37.434320 -->
+<!-- Generated: 2026-07-17T22:49:34.135229 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"La vida es como un videojuego: ¡haz tu movimiento!"*
+> *"Gamer de día, héroe de noche."*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
