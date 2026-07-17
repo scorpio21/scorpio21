@@ -1,5 +1,5 @@
 #print(">>> EJECUTANDO pokemon_table_template.py <<<")
-
+from color_badges import COLOR_BADGES
 #==========================
 # FUNCIONES
 #=========================
@@ -38,7 +38,6 @@ def render_table(
     juegos_html,
     bst_html,
     stats_md,
-    colores_pokedex,
     rareza_iconos,
     rareza_texto,
     rareza_colores,
@@ -144,7 +143,7 @@ def render_table(
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>{colores_pokedex[color_pokedex]}</td>
+<td>{COLOR_BADGES[color_pokedex]}</td>
 </tr>
 
 <tr>

@@ -63,20 +63,6 @@ tipo_badges = {
     "Hada": "https://img.shields.io/badge/Hada-D685AD?style=flat-square"
 }
 
-# Colores Pokédex
-colores_pokedex = {
-    "black": "⚫ Negro",
-    "blue": "🔵 Azul",
-    "brown": "🟤 Marrón",
-    "gray": "⚪ Gris",
-    "green": "🟢 Verde",
-    "pink": "🩷 Rosa",
-    "purple": "🟣 Morado",
-    "red": "🔴 Rojo",
-    "white": "⚪ Blanco",
-    "yellow": "🟡 Amarillo"
-}
-
 # Iconos según rareza
 rareza_iconos = {
     "comun": "🟢",
