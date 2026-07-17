@@ -235,6 +235,9 @@ with open("README.md", "r+", encoding="utf-8") as file:
         contenido,
         flags=re.DOTALL
     )
+    print("=========== README FINAL ===========")
+    print(contenido)
+    print("=========== FIN README ===========")
 
     file.seek(0)
     file.write(contenido)

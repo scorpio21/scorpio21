@@ -95,6 +95,10 @@ def build_pokemon_info_block(
 
     go_info = build_pokemon_go(nombre)
 
+    print("=========== POKEMON_INFO_BLOCK ===========")
+    print(table_html)
+    print("=========== FIN POKEMON_INFO_BLOCK =======")
+
     return f"""<!-- POKEMON_INFO -->
 <!-- Generated: {fecha} -->
 
