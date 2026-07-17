@@ -84,6 +84,9 @@ def build_pokemon_info_block(
         bst_html=bst_html,
         stats_md=stats_md,
     )
+    print("=========== TABLE_HTML ===========")
+    print(table_html)
+    print("=========== FIN TABLE_HTML =======")
 
     datos_interesantes_html = "\n".join(
         f"- {dato}"
