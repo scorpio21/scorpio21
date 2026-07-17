@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-17T00:52:05.439356 -->
+<!-- Generated: 2026-07-17T01:03:58.706833 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/741.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/423.png" width="220">
 </td>
 
 </tr>
@@ -51,7 +51,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🔵 <b>Oricorio-baile</b></td>
+<td>🔵 <b>Gastrodon</b></td>
 </tr>
 
 <tr>
@@ -63,17 +63,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#741</td>
+<td>#423</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>VII (Alola)</td>
+<td>IV (Sinnoh)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
@@ -82,7 +82,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Oricorio</td>
+<td>Gastrodon</td>
 </tr>
 
 <tr>
@@ -107,22 +107,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>🔴 Rojo</td>
+<td>🟣 Morado</td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>0.6 m</td>
+<td>0.9 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>3.4 kg</td>
+<td>29.9 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ 25.0% &nbsp;&nbsp;&nbsp; ♀️ 75.0%</td>
+<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
 </tr>
 
 <tr>
@@ -132,7 +132,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Flying</td>
+<td>Water1, Indeterminate</td>
 </tr>
 
 <tr>
@@ -146,27 +146,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
+<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"></td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>17.6%</td>
+<td>🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜<br>29.4%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>45</td>
+<td>75</td>
 </tr>
 
 <tr>
@@ -176,32 +176,42 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Pareja de Baile</b><br><small>Whenever another Pokémon uses a dance move, this Pokémon will use the same move immediately afterwards.</small><br><br></td>
+<td>🟢 ⚡ <b>Viscosidad</b><br><small>Prevents a held item from being removed by other Pokémon.</small><br><br>🟢 ⚡ <b>Colector</b><br><small>Redirects single-target Water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage.</small><br><br>⭐ ✨ <b>Poder Arena</b> (Oculta)<br><small>Strengthens Rock, Ground, and Steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage.</small></td>
 </tr>
 
 <tr>
 <td><b>📦 Objetos</b></td>
-<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/honey.png" width="28" height="28"> <b>Honey</b> (5%)</td>
+<td>No puede llevar objetos.</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Agilidad-F85888?style=flat-square"> <img src="https://img.shields.io/badge/Fanfarronear-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Tajo%20A%C3%A9reo-A890F0?style=flat-square"> <img src="https://img.shields.io/badge/Teraexplosi%C3%B3n-A8A878?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Granizo-98D8D8?style=flat-square"> <img src="https://img.shields.io/badge/Hidrobomba-6890F0?style=flat-square"> <img src="https://img.shields.io/badge/Confidencia-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Golpe%20Roca-C03028?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td><table><tr>
 <td align="center">
-<img src="https://img.pokemondb.net/artwork/large/oricorio.jpg" width="70"><br>
-<small><b>Oricorio</b></small>
+<img src="https://img.pokemondb.net/artwork/large/shellos.jpg" width="70"><br>
+<small><b>Shellos</b></small>
+</td>
+
+<td align="center">
+➡️<br>
+<small>Nivel 30</small>
+</td>
+
+<td align="center">
+<img src="https://img.pokemondb.net/artwork/large/gastrodon.jpg" width="70"><br>
+<small><b>Gastrodon</b></small>
 </td>
 </tr></table></td>
 </tr>
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td></td>
+<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Diamante<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino</td>
 </tr>
 
 <tr>
@@ -210,7 +220,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>167</td>
+<td>166</td>
 </tr>
 
 <tr>
@@ -228,7 +238,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <td>
 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜
 
-<b>476 puntos</b><br>
+<b>475 puntos</b><br>
 ⚔️ Fuerte
 </td>
 </tr>
@@ -236,46 +246,46 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
 <td>
-    <table>
+        <table>
 
-    <tr>
-    <td>❤️ <b>PS</b></td>
-    <td>🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜</td>
-    <td><b>75</b></td>
-    </tr>
+        <tr>
+        <td>❤️ <b>PS</b></td>
+        <td>🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜</td>
+        <td><b>111</b></td>
+        </tr>
 
-    <tr>
-    <td>⚔️ <b>Ataque</b></td>
-    <td>🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜</td>
-    <td><b>70</b></td>
-    </tr>
+        <tr>
+        <td>⚔️ <b>Ataque</b></td>
+        <td>🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜</td>
+        <td><b>83</b></td>
+        </tr>
 
-    <tr>
-    <td>🛡️ <b>Defensa</b></td>
-    <td>🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜</td>
-    <td><b>70</b></td>
-    </tr>
+        <tr>
+        <td>🛡️ <b>Defensa</b></td>
+        <td>🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜</td>
+        <td><b>68</b></td>
+        </tr>
 
-    <tr>
-    <td>✨ <b>At. Especial</b></td>
-    <td>🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜</td>
-    <td><b>98</b></td>
-    </tr>
+        <tr>
+        <td>✨ <b>At. Especial</b></td>
+        <td>🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜</td>
+        <td><b>92</b></td>
+        </tr>
 
-    <tr>
-    <td>🛡️ <b>Def. Especial</b></td>
-    <td>🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜</td>
-    <td><b>70</b></td>
-    </tr>
+        <tr>
+        <td>🛡️ <b>Def. Especial</b></td>
+        <td>🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜</td>
+        <td><b>82</b></td>
+        </tr>
 
-    <tr>
-    <td>💨 <b>Velocidad</b></td>
-    <td>🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜</td>
-    <td><b>93</b></td>
-    </tr>
+        <tr>
+        <td>💨 <b>Velocidad</b></td>
+        <td>🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜</td>
+        <td><b>39</b></td>
+        </tr>
 
-    </table>
-    </td>
+        </table>
+        </td>
 </tr>
 
 </table>
@@ -285,15 +295,15 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 💡 Curiosidad oficial
 
-> Junta las alas y lanza voraces llamas al rival. Su ataque se asemeja a una elaborada coreografía de fuego.
+> Si se ve amenazado por sus enemigos naturales, segrega un líquido morado y huye rápidamente.
 
 ---
 
 ## 💡 Datos interesantes
 
-- 🎯 Ratio de captura: 45.
+- 🥚 Pertenece al grupo huevo Water1, Indeterminate.
 - ❤️ Amistad base: 70.
-- 📏 Mide 0.6 m.
+- 🧬 Introducido en la generación IV (Sinnoh).
 
 ---
 
@@ -301,11 +311,11 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Oricorio-baile** en:
+Puedes consultar información completa y actualizada de **Gastrodon** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Oricorio-baile)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/oricorio-baile)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Oricorio-baile_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Gastrodon)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/gastrodon)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gastrodon_(Pokémon))
 
 
 ---
@@ -847,16 +857,18 @@ Puedes consultar información completa y actualizada de **Oricorio-baile** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-17T00:52:05.439356 -->
+<!-- Generated: 2026-07-17T01:03:58.706833 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"¡Nunca subestimes el poder de un jugador con café!"*
+> *"La vida es como un videojuego: ¡haz tu movimiento!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
