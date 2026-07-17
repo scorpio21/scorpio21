@@ -1,5 +1,11 @@
 #print(">>> EJECUTANDO pokemon_table_template.py <<<")
-from color_badges import COLOR_BADGES
+
+#==========================
+# FUNCIONES
+#==========================
+
+from color_badges import build_color_badge
+
 #==========================
 # FUNCIONES
 #=========================
@@ -143,7 +149,7 @@ def render_table(
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>{COLOR_BADGES[color_pokedex]}</td>
+<td>{build_color_badge(color_pokedex)}</td>
 </tr>
 
 <tr>

@@ -14,3 +14,11 @@ COLOR_BADGES = {
     "white":  "https://img.shields.io/badge/Blanco-FFFFFF?style=flat-square&logoColor=black",
     "yellow": "https://img.shields.io/badge/Amarillo-FFEB3B?style=flat-square&logoColor=black",
 }
+
+
+def build_color_badge(color):
+    url = COLOR_BADGES.get(color)
+    if not url:
+        return color
+
+    return f'<img src="{url}" alt="{color}">'
