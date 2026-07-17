@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-17T23:23:04.051197 -->
+<!-- Generated: 2026-07-17T23:27:33.540009 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/895.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/157.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/895.png" width="220">
 </td>
 
 </tr>
@@ -51,29 +51,29 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🔵 <b>Typhlosion</b></td>
+<td>🟣 <b>Regidrago</b></td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#157</td>
+<td>#895</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>II (Johto)</td>
+<td>VIII (Galar)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://archives.bulbagarden.net/media/upload/a/ab/Fire_icon_SwSh.png" width="22" alt="Fuego" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego" style="vertical-align:middle;"></td>
+<td><img src="https://archives.bulbagarden.net/media/upload/7/70/Dragon_icon_SwSh.png" width="22" alt="Dragón" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón" style="vertical-align:middle;"></td>
 </tr>
 
 <tr>
@@ -82,12 +82,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Typhlosion</td>
+<td>Regidrago</td>
 </tr>
 
 <tr>
 <td><b>⭐ Legendario</b></td>
-<td>❌ No</td>
+<td>✅ Sí</td>
 </tr>
 
 <tr>
@@ -107,37 +107,37 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>https://img.shields.io/badge/Amarillo-FFEB3B?style=flat-square&logoColor=black</td>
+<td><img src="https://img.shields.io/badge/Verde-4CAF50?style=flat-square" alt="green"></td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>1.7 m</td>
+<td>2.1 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>79.5 kg</td>
+<td>200.0 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ 87.5% &nbsp;&nbsp;&nbsp; ♀️ 12.5%</td>
+<td>♂️ Sin género &nbsp;&nbsp;&nbsp; ♀️ Sin género</td>
 </tr>
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Grassland</td>
+<td>Desconocido</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Ground</td>
+<td>No-eggs</td>
 </tr>
 
 <tr>
 <td><b>❤️ Amistad base</b></td>
-<td>70</td>
+<td>35</td>
 </tr>
 
 <tr>
@@ -146,12 +146,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
+<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
 </tr>
 
 <tr>
@@ -161,12 +161,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>17.6%</td>
+<td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜<br>1.2%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>45</td>
+<td>3</td>
 </tr>
 
 <tr>
@@ -176,7 +176,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Mar Llamas</b><br><small>Strengthens Fire moves to inflict 1.5× damage at 1/3 max HP or less.</small><br><br>⭐ ✨ <b>Absorbe Fuego</b> (Oculta)<br><small>Protects against Fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle.</small></td>
+<td>🟢 ⚡ <b>Mandíbula Dragón</b><br><small>Powers up Dragon-type moves.</small><br><br></td>
 </tr>
 
 <tr>
@@ -186,42 +186,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Mim%C3%A9tico-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/C%C3%B3lera%20Ardiente-F08030?style=flat-square"> <img src="https://img.shields.io/badge/Pu%C3%B1o%20Din%C3%A1mico-C03028?style=flat-square"> <img src="https://img.shields.io/badge/Meteoros-A8A878?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Aguzar-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Bramido%20Drag%C3%B3n-7038F8?style=flat-square"> <img src="https://img.shields.io/badge/Agarre-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Colmillo%20%C3%8Dgneo-F08030?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td><table><tr>
 <td align="center">
-<img src="https://img.pokemondb.net/artwork/large/cyndaquil.jpg" width="70"><br>
-<small><b>Cyndaquil</b></small>
-</td>
-
-<td align="center">
-➡️<br>
-<small>Nivel 14</small>
-</td>
-
-<td align="center">
-<img src="https://img.pokemondb.net/artwork/large/quilava.jpg" width="70"><br>
-<small><b>Quilava</b></small>
-</td>
-
-<td align="center">
-➡️<br>
-<small>Nivel 36</small>
-</td>
-
-<td align="center">
-<img src="https://img.pokemondb.net/artwork/large/typhlosion.jpg" width="70"><br>
-<small><b>Typhlosion</b></small>
+<img src="https://img.pokemondb.net/artwork/large/regidrago.jpg" width="70"><br>
+<small><b>Regidrago</b></small>
 </td>
 </tr></table></td>
 </tr>
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Cristal<br>🎮 Pokémon Diamante<br>🎮 Pokémon Esmeralda<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino<br>🎮 Pokémon Rojo Fuego<br>🎮 Pokémon Rubí<br>🎮 Pokémon Verde Hoja<br>🎮 Pokémon Zafiro</td>
+<td></td>
 </tr>
 
 <tr>
@@ -230,43 +210,43 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>240</td>
+<td>290</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
-<td>1,059,860 XP</td>
+<td>1,250,000 XP</td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Medio%20lento-yellow?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Lento-red?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜
 
-<b>534 puntos</b><br>
+<b>580 puntos</b><br>
 🔥 Muy fuerte
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">❤️ PS 78<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ⚔️ Ataque 84<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Defensa 78<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ✨ At. Especial 109<br>
+<td style="background:red">❤️ PS 200<br>
+    🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜<br><br>
+    ⚔️ Ataque 100<br>
     🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Def. Especial 85<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
-    💨 Velocidad 100<br>
-    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜</td>
+    🛡️ Defensa 50<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    ✨ At. Especial 100<br>
+    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Def. Especial 50<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    💨 Velocidad 80<br>
+    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜</td>
 </tr>
 
 </table>
@@ -276,15 +256,15 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 💡 Curiosidad oficial
 
-> Si su furia crece, se calienta tanto que cualquier cosa que toque se prenderá al instante.
+> Cierta teoría afirma que la forma de sus brazos representa la cabeza de un Pokémon dragón ancestral, aunque esto no ha podido verificarse.
 
 ---
 
 ## 💡 Datos interesantes
 
-- 🧬 Introducido en la generación II (Johto).
-- 🎨 Su color en la Pokédex es yellow.
-- ❤️ Amistad base: 70.
+- ❤️ Amistad base: 35.
+- 🎨 Su color en la Pokédex es green.
+- 🥚 Pertenece al grupo huevo No-eggs.
 
 ---
 
@@ -292,11 +272,11 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Typhlosion** en:
+Puedes consultar información completa y actualizada de **Regidrago** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Typhlosion)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/typhlosion)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Typhlosion_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Regidrago)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/regidrago)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Regidrago_(Pokémon))
 
 
 ---
@@ -863,16 +843,18 @@ Puedes consultar información completa y actualizada de **Typhlosion** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-17T23:23:04.051197 -->
+<!-- Generated: 2026-07-17T23:27:33.540009 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"*
+> *"La vida es como un videojuego: ¡haz tu movimiento!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
