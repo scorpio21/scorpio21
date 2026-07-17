@@ -1,14 +1,23 @@
+#==========================
+# IMPORTS
+#=========================
+
 from config import (
     colores_pokedex,
     rareza_texto,
     rareza_colores,
     rareza_iconos,
 )
+
 from move_colors import MOVE_COLORS
 from urllib.parse import quote
 from builders.pokemon_table_template import render_table
 from item_icons import ITEM_ICON_URL
+from experience_growth_badges import EXPERIENCE_GROWTH_BADGES
 
+#==========================
+# FUNCIONES
+#=========================
 
 def barra_porcentaje(texto):
     try:
@@ -90,16 +99,24 @@ def build_pokemon_table(
         for m in movimientos
     )
 
-    # Objetos que puede llevar
-    if objetos:
+    # ==========================
+    # OBJETOS
+    # ==========================
+    objetos_unicos = []
+
+    for obj in objetos:
+        if obj not in objetos_unicos:
+            objetos_unicos.append(obj)
+
+    if objetos_unicos:
 
         objetos_html = "<br>".join(
 
-            f'<img src="{ITEM_ICON_URL.format(o["id"])}" width="24"> '
+            f'<img src="{ITEM_ICON_URL.format(o["id"])}" width="28" height="28"> '
             f'<b>{o["nombre"]}</b> '
-             f'({o["probabilidad"]}%)'
-             
-            for o in objetos
+            f'({o["probabilidad"]}%)'
+
+            for o in objetos_unicos
         )
 
     else:
@@ -112,6 +129,17 @@ def build_pokemon_table(
         f"🎮 {juego}"
         for juego in juegos
     )
+
+    badge = EXPERIENCE_GROWTH_BADGES.get(
+        experience_growth,
+        (experience_growth, "lightgrey")
+    )
+
+    experience_growth_html = (
+        f'<img src="https://img.shields.io/badge/'
+        f'{quote(badge[0])}-{badge[1]}?style=flat-square">'
+    )
+    
     return render_table(
         pokemon_img_url=pokemon_img_url,
         shiny_img_url=shiny_img_url,
@@ -129,7 +157,7 @@ def build_pokemon_table(
         peso=peso,
         experiencia=experiencia,
         experience_to_level=experience_to_level,
-        experience_growth=experience_growth,
+        experience_growth=experience_growth_html,
         habitat=habitat,
         egg_groups=egg_groups,
         base_happiness=base_happiness,
