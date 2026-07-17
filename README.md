@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-17T08:31:52.538043 -->
+<!-- Generated: 2026-07-17T08:34:40.479759 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/895.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/401.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/895.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/401.png" width="220">
 </td>
 
 </tr>
@@ -51,29 +51,29 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟣 <b>Regidrago</b></td>
+<td>🟢 <b>Kricketot</b></td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
+<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#895</td>
+<td>#401</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>VIII (Galar)</td>
+<td>IV (Sinnoh)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"></td>
 </tr>
 
 <tr>
@@ -82,12 +82,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Regidrago</td>
+<td>Kricketot</td>
 </tr>
 
 <tr>
 <td><b>⭐ Legendario</b></td>
-<td>✅ Sí</td>
+<td>❌ No</td>
 </tr>
 
 <tr>
@@ -107,22 +107,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>🟢 Verde</td>
+<td>🔴 Rojo</td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>2.1 m</td>
+<td>0.3 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>200.0 kg</td>
+<td>2.2 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ Sin género &nbsp;&nbsp;&nbsp; ♀️ Sin género</td>
+<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
 </tr>
 
 <tr>
@@ -132,12 +132,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>No-eggs</td>
+<td>Bug</td>
 </tr>
 
 <tr>
 <td><b>❤️ Amistad base</b></td>
-<td>35</td>
+<td>70</td>
 </tr>
 
 <tr>
@@ -146,12 +146,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"></td>
+<td><img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
+<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
@@ -161,12 +161,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜<br>1.2%</td>
+<td>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩<br>100.0%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>3</td>
+<td>255</td>
 </tr>
 
 <tr>
@@ -176,32 +176,42 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Mandíbula Dragón</b><br><small>Powers up Dragon-type moves.</small><br><br></td>
+<td>🟢 ⚡ <b>Mudar</b><br><small>Has a 33% chance of curing any major status ailment after each turn.</small><br><br>⭐ ✨ <b>Fuga</b> (Oculta)<br><small>Ensures success fleeing from wild battles.</small></td>
 </tr>
 
 <tr>
 <td><b>📦 Objetos</b></td>
-<td>No puede llevar objetos.</td>
+<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metronome.png" width="28" height="28"> <b>Metronome</b> (5%)</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Terremoto-E0C068?style=flat-square"> <img src="https://img.shields.io/badge/Tierra%20Viva-E0C068?style=flat-square"> <img src="https://img.shields.io/badge/Machada-C03028?style=flat-square"> <img src="https://img.shields.io/badge/Foco%20Energ%C3%ADa-A8A878?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Destructor-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Teraexplosi%C3%B3n-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Golpe%20Rastrero-A8B820?style=flat-square"> <img src="https://img.shields.io/badge/Disparo%20Demora-A8B820?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td><table><tr>
 <td align="center">
-<img src="https://img.pokemondb.net/artwork/large/regidrago.jpg" width="70"><br>
-<small><b>Regidrago</b></small>
+<img src="https://img.pokemondb.net/artwork/large/kricketot.jpg" width="70"><br>
+<small><b>Kricketot</b></small>
+</td>
+
+<td align="center">
+➡️<br>
+<small>Nivel 10</small>
+</td>
+
+<td align="center">
+<img src="https://img.pokemondb.net/artwork/large/kricketune.jpg" width="70"><br>
+<small><b>Kricketune</b></small>
 </td>
 </tr></table></td>
 </tr>
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td></td>
+<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Diamante<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino</td>
 </tr>
 
 <tr>
@@ -210,49 +220,49 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>290</td>
+<td>39</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
-<td>1,250,000 XP</td>
+<td>1,059,860 XP</td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Lento-red?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Medio%20lento-yellow?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜
+🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>580 puntos</b><br>
-🔥 Muy fuerte
+<b>194 puntos</b><br>
+🌱 Básico
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
 <td style="background:red">
-    ❤️ <b>PS</b> <b>200</b><br>
-    🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜<br><br>
+    ❤️ <b>PS</b> <b>37</b><br>
+    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
 
-    ⚔️ <b>Ataque</b> <b>100</b><br>
-    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
+    ⚔️ <b>Ataque</b> <b>25</b><br>
+    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
 
-    🛡️ <b>Defensa</b> <b>50</b><br>
+    🛡️ <b>Defensa</b> <b>41</b><br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
 
-    ✨ <b>At. Especial</b> <b>100</b><br>
-    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
+    ✨ <b>At. Especial</b> <b>25</b><br>
+    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
 
-    🛡️ <b>Def. Especial</b> <b>50</b><br>
+    🛡️ <b>Def. Especial</b> <b>41</b><br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
 
-    💨 <b>Velocidad</b> <b>80</b><br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜
+    💨 <b>Velocidad</b> <b>25</b><br>
+    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜
     </td>
 </tr>
 
@@ -263,15 +273,15 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 💡 Curiosidad oficial
 
-> Cierta teoría afirma que la forma de sus brazos representa la cabeza de un Pokémon dragón ancestral, aunque esto no ha podido verificarse.
+> Hablan entre sí chocando las antenas. Los sonidos producidos son muy característicos.
 
 ---
 
 ## 💡 Datos interesantes
 
-- 🎨 Su color en la Pokédex es green.
-- 📏 Mide 2.1 m.
-- ❤️ Amistad base: 35.
+- 🥚 Pertenece al grupo huevo Bug.
+- 🎯 Ratio de captura: 255.
+- ⚖️ Pesa 2.2 kg.
 
 ---
 
@@ -279,11 +289,11 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Regidrago** en:
+Puedes consultar información completa y actualizada de **Kricketot** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Regidrago)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/regidrago)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Regidrago_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Kricketot)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/kricketot)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Kricketot_(Pokémon))
 
 
 ---
@@ -828,16 +838,18 @@ Puedes consultar información completa y actualizada de **Regidrago** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-17T08:31:52.538043 -->
+<!-- Generated: 2026-07-17T08:34:40.479759 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"Solo hay una regla: ¡Ganar es lo único que importa!"*
+> *"Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
