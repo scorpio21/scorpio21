@@ -75,6 +75,7 @@ def compute_bst(stats):
     💨 <b>Velocidad</b> <b>{stats['speed']}</b><br>
     {barra_stat(stats['speed'])}
     """
-    print(stats_md)
     
+    print(repr(stats_md))
+
     return bst, nivel_bst, bst_html, stats_md
