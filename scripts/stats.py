@@ -58,19 +58,19 @@ def compute_bst(stats):
 """
     stats_md = f"""
     ❤️ PS {stats['hp']}<br>
-    {barra_stat(stats['hp'])}<br><br>
+    {barra_stat(stats['hp'])}
 
     ⚔️ Ataque {stats['attack']}<br>
-    {barra_stat(stats['attack'])}<br><br>
+    {barra_stat(stats['attack'])}
 
     🛡️ Defensa {stats['defense']}<br>
-    {barra_stat(stats['defense'])}<br><br>
+    {barra_stat(stats['defense'])}
 
     ✨ At. Especial {stats['special-attack']}<br>
-    {barra_stat(stats['special-attack'])}<br><br>
+    {barra_stat(stats['special-attack'])}
 
     🛡️ Def. Especial {stats['special-defense']}<br>
-    {barra_stat(stats['special-defense'])}<br><br>
+    {barra_stat(stats['special-defense'])}
 
     💨 Velocidad {stats['speed']}<br>
     {barra_stat(stats['speed'])}
