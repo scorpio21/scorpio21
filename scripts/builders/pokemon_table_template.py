@@ -41,7 +41,8 @@ def render_table(
     bebe,
     forma_regional,
 ):
-    print(stats_md)
+    print(repr(stats_md))
+    
     return f"""
 <table width="100%">
 
