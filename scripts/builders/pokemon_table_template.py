@@ -248,7 +248,7 @@ def render_table(
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td>{stats_md}</td>
+<td style="background:red">{stats_md}</td>
 </tr>
 
 </table>
