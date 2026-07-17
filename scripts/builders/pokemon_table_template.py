@@ -1,3 +1,4 @@
+print(">>> EJECUTANDO pokemon_table_template.py <<<")
 def render_table(
     pokemon_img_url,
     shiny_img_url,
@@ -41,6 +42,8 @@ def render_table(
     bebe,
     forma_regional,
 ):
+    print(">>> render_table:", repr(stats_md))
+
     print(repr(stats_md))
 
     return f"""
@@ -250,11 +253,7 @@ def render_table(
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">
-PRUEBA 1<br>
-PRUEBA 2<br>
-PRUEBA 3
-</td>
+<td style="background:red">{stats_md}</td>
 </tr>
 
 </table>
