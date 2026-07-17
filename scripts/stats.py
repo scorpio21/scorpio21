@@ -56,7 +56,6 @@ def compute_bst(stats):
 <b>{bst} puntos</b><br>
 {nivel_bst}
 """
-
     stats_md = f"""
     ❤️ <b>PS</b> <b>{stats['hp']}</b><br>
     {barra_stat(stats['hp'])}<br><br>
@@ -76,5 +75,6 @@ def compute_bst(stats):
     💨 <b>Velocidad</b> <b>{stats['speed']}</b><br>
     {barra_stat(stats['speed'])}
     """
+    print(stats_md)
     
     return bst, nivel_bst, bst_html, stats_md
