@@ -42,7 +42,7 @@ def render_table(
     forma_regional,
 ):
     print(repr(stats_md))
-    
+
     return f"""
 <table width="100%">
 
@@ -250,7 +250,11 @@ def render_table(
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">{stats_md}</td>
+<td style="background:red">
+PRUEBA 1<br>
+PRUEBA 2<br>
+PRUEBA 3
+</td>
 </tr>
 
 </table>
