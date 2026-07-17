@@ -252,7 +252,10 @@ def render_table(
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
-<td>{experience_to_level:,} XP</td>
+<td>
+💠 <b>{f"{experience_to_level:,}".replace(",", ".")} XP</b><br>
+<small>Necesaria para alcanzar el nivel 100</small>
+</td>
 </tr>
 
 <tr>
