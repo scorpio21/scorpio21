@@ -55,7 +55,8 @@ from updater import update_readme
 
 
 # Datos adicionales
-cadena_evolucion = get_evolution_chain(pokedex_num)
+# cadena_evolucion = get_evolution_chain(pokedex_num)
+cadena_evolucion = "Prueba"
 rareza = get_rarity(tipos_es[0], pokedex_num)
 
 tipos_html = build_tipos_html(tipos_es)
