@@ -75,7 +75,5 @@ def compute_bst(stats):
     💨 Velocidad {stats['speed']}<br>
     {barra_stat(stats['speed'])}
     """
-
-    stats_md = "HOLA MUNDO"
-
+    
     return bst, nivel_bst, bst_html, stats_md
