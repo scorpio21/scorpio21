@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-17T22:38:20.126014 -->
+<!-- Generated: 2026-07-17T22:42:37.434320 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/604.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/604.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/621.png" width="220">
 </td>
 
 </tr>
@@ -51,19 +51,19 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🔵 <b>Eelektross</b></td>
+<td>🟣 <b>Druddigon</b></td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#604</td>
+<td>#621</td>
 </tr>
 
 <tr>
@@ -73,7 +73,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"></td>
+<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"></td>
 </tr>
 
 <tr>
@@ -82,7 +82,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Eelektross</td>
+<td>Druddigon</td>
 </tr>
 
 <tr>
@@ -107,17 +107,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>🔵 Azul</td>
+<td>🔴 Rojo</td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>2.1 m</td>
+<td>1.6 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>80.5 kg</td>
+<td>139.0 kg</td>
 </tr>
 
 <tr>
@@ -132,7 +132,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Indeterminate</td>
+<td>Dragon, Monster</td>
 </tr>
 
 <tr>
@@ -146,12 +146,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
+<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
 </tr>
 
 <tr>
@@ -161,12 +161,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜<br>11.8%</td>
+<td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>17.6%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>30</td>
+<td>45</td>
 </tr>
 
 <tr>
@@ -176,45 +176,25 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Levitación</b><br><small>Evades Ground moves.</small><br><br></td>
+<td>🟢 ⚡ <b>Piel Tosca</b><br><small>Damages attacking Pokémon for 1/8 their max HP on contact.</small><br><br>🟢 ⚡ <b>Potencia Bruta</b><br><small>Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.</small><br><br>⭐ ✨ <b>Rompemoldes</b> (Oculta)<br><small>Bypasses targets' abilities if they could hinder or prevent a move.</small></td>
 </tr>
 
 <tr>
 <td><b>📦 Objetos</b></td>
-<td>No puede llevar objetos.</td>
+<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-fang.png" width="28" height="28"> <b>Dragon Fang</b> (5%)</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Gigadrenado-78C850?style=flat-square"> <img src="https://img.shields.io/badge/Teraexplosi%C3%B3n-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Bilis-A040A0?style=flat-square"> <img src="https://img.shields.io/badge/Golpe%20Roca-C03028?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Onda%20Certera-C03028?style=flat-square"> <img src="https://img.shields.io/badge/Excavar-E0C068?style=flat-square"> <img src="https://img.shields.io/badge/Lanzamugre-A040A0?style=flat-square"> <img src="https://img.shields.io/badge/Corte-A8A878?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td><table><tr>
 <td align="center">
-<img src="https://img.pokemondb.net/artwork/large/tynamo.jpg" width="70"><br>
-<small><b>Tynamo</b></small>
-</td>
-
-<td align="center">
-➡️<br>
-<small>Nivel 39</small>
-</td>
-
-<td align="center">
-<img src="https://img.pokemondb.net/artwork/large/eelektrik.jpg" width="70"><br>
-<small><b>Eelektrik</b></small>
-</td>
-
-<td align="center">
-➡️<br>
-<small>Piedra Trueno</small>
-</td>
-
-<td align="center">
-<img src="https://img.pokemondb.net/artwork/large/eelektross.jpg" width="70"><br>
-<small><b>Eelektross</b></small>
+<img src="https://img.pokemondb.net/artwork/large/druddigon.jpg" width="70"><br>
+<small><b>Druddigon</b></small>
 </td>
 </tr></table></td>
 </tr>
@@ -230,48 +210,48 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>232</td>
+<td>170</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
-<td>1,250,000 XP</td>
+<td>1,000,000 XP</td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Lento-red?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Medio-lightgrey?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜
 
-<b>515 puntos</b><br>
-🔥 Muy fuerte
+<b>485 puntos</b><br>
+⚔️ Fuerte
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
 <td style="background:red">
-    ❤️ PS 85<br>
+    ❤️ PS 77
     🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜
 
-    ⚔️ Ataque 115<br>
+    ⚔️ Ataque 120
     🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
 
-    🛡️ Defensa 80<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜
+    🛡️ Defensa 90
+    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜
 
-    ✨ At. Especial 105<br>
-    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜
+    ✨ At. Especial 60
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜
 
-    🛡️ Def. Especial 80<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜
+    🛡️ Def. Especial 90
+    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜
 
-    💨 Velocidad 50<br>
+    💨 Velocidad 48
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜
     </td>
 </tr>
@@ -283,15 +263,15 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 💡 Curiosidad oficial
 
-> Pega la ventosa de su boca en su presa y la electrocuta con sus colmillos.
+> Corre por estrechas cavernas y atrapa a sus presas con sus afiladas garras. La piel de la cara es más dura que una roca.
 
 ---
 
 ## 💡 Datos interesantes
 
-- 🥚 Pertenece al grupo huevo Indeterminate.
-- ❤️ Amistad base: 70.
-- 📏 Mide 2.1 m.
+- 🎨 Su color en la Pokédex es red.
+- 🎯 Ratio de captura: 45.
+- 🥚 Pertenece al grupo huevo Dragon, Monster.
 
 ---
 
@@ -299,11 +279,11 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Eelektross** en:
+Puedes consultar información completa y actualizada de **Druddigon** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Eelektross)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/eelektross)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Eelektross_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Druddigon)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/druddigon)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Druddigon_(Pokémon))
 
 
 ---
@@ -866,8 +846,9 @@ Puedes consultar información completa y actualizada de **Eelektross** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-17T22:38:20.126014 -->
+<!-- Generated: 2026-07-17T22:42:37.434320 -->
 
 ---
 
@@ -876,6 +857,7 @@ Puedes consultar información completa y actualizada de **Eelektross** en:
 > *"La vida es como un videojuego: ¡haz tu movimiento!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
