@@ -1,4 +1,9 @@
+#------------------------------
+# scripts/badges.py
+#------------------------------
+
 from urllib.parse import quote
+from type_icons import TYPE_ICONS
 
 from config import (
     tipo_badges,
@@ -23,16 +28,35 @@ def build_badge_rareza(nombre, rareza):
         f'alt="{rareza_texto[rareza]}">'
     )
 
-
+#------------------------------
 # Tipos Html
+#------------------------------
+
 def build_tipos_html(tipos_es):
-    return " ".join(
-        f'<img src="{tipo_badges.get(tipo)}" alt="{tipo}">'
-        for tipo in tipos_es
-    )
+    html = []
 
+    for tipo in tipos_es:
+        icono = TYPE_ICONS.get(tipo)
+        badge = tipo_badges.get(tipo)
 
+        if icono:
+            html.append(
+                f'<img src="{icono}" width="22" alt="{tipo}" '
+                f'style="vertical-align:middle;">'
+            )
+
+        if badge:
+            html.append(
+                f'<img src="{badge}" alt="{tipo}" '
+                f'style="vertical-align:middle;">'
+            )
+
+    return " ".join(html)
+
+#------------------------------
 # Debilidades, resistencias e inmunidades en HTML
+#------------------------------
+
 def build_relations_html(tipos_es):
     debilidades, resistencias, inmunidades = obtener_tipo_info(tipos_es)
 
