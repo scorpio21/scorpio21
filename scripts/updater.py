@@ -1,7 +1,5 @@
 import re
 
-
-# Actualizar README con regex
 def update_readme(pokemon_info_block, frase_info_block, readme_path="README.md"):
     with open(readme_path, "r+", encoding="utf-8") as file:
         contenido = file.read()
@@ -19,6 +17,10 @@ def update_readme(pokemon_info_block, frase_info_block, readme_path="README.md")
             contenido,
             flags=re.DOTALL
         )
+
+        print("=========== README FINAL ===========")
+        print(contenido)
+        print("=========== FIN README ===========")
 
         file.seek(0)
         file.write(contenido)
