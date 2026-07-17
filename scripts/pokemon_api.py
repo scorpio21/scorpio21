@@ -4,7 +4,7 @@ import requests
 from pokemon_types import get_pokemon_type_translation
 from experience_growth import EXPERIENCE_GROWTH
 from item_translations import ITEM_TRANSLATIONS
-
+from game_translations import GAME_TRANSLATIONS
 
 # Función para obtener el Pokémon del día
 def get_pokemon_of_the_day():
@@ -229,7 +229,7 @@ def get_pokemon_of_the_day():
     # ==========================
     # Objetos que puede llevar 
     # ==========================
-    
+
     objetos = []
 
     for item in data["held_items"]:
@@ -244,9 +244,11 @@ def get_pokemon_of_the_day():
         for version in item["version_details"]:
 
             objetos.append({
+                "id": item["item"]["name"],
                 "nombre": nombre_objeto,
                 "probabilidad": version["rarity"]
             })
+            
     # Juegos donde aparece
     juegos = []
 
@@ -255,6 +257,11 @@ def get_pokemon_of_the_day():
             indice["version"]["name"]
             .replace("-", " ")
             .title()
+        )
+
+        nombre_juego = GAME_TRANSLATIONS.get(
+            nombre_juego,
+            nombre_juego
         )
 
         juegos.append(nombre_juego)

@@ -7,7 +7,7 @@ from config import (
 from move_colors import MOVE_COLORS
 from urllib.parse import quote
 from builders.pokemon_table_template import render_table
-
+from item_icons import ITEM_ICON_URL
 
 
 def barra_porcentaje(texto):
@@ -94,9 +94,11 @@ def build_pokemon_table(
     if objetos:
 
         objetos_html = "<br>".join(
-            f'📦 <img src="https://img.shields.io/badge/'
-            f'{quote(o["nombre"])}-4C9AFF?style=flat-square"> '
-            f'({o["probabilidad"]}%)'
+
+            f'<img src="{ITEM_ICON_URL.format(o["id"])}" width="24"> '
+            f'<b>{o["nombre"]}</b> '
+             f'({o["probabilidad"]}%)'
+             
             for o in objetos
         )
 
