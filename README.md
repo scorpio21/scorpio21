@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-17T11:26:39.868286 -->
+<!-- Generated: 2026-07-17T11:37:18.041186 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/546.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/773.png" width="220">
 </td>
 
 </tr>
@@ -51,29 +51,29 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🔵 <b>Cottonee</b></td>
+<td>🟢 <b>Silvally</b></td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#546</td>
+<td>#773</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>V (Teselia)</td>
+<td>VII (Alola)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"></td>
+<td><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"></td>
 </tr>
 
 <tr>
@@ -82,12 +82,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Cottonee</td>
+<td>Silvally</td>
 </tr>
 
 <tr>
 <td><b>⭐ Legendario</b></td>
-<td>❌ No</td>
+<td>✅ Sí</td>
 </tr>
 
 <tr>
@@ -107,22 +107,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>🟢 Verde</td>
+<td>⚪ Gris</td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>0.3 m</td>
+<td>2.3 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>0.6 kg</td>
+<td>100.5 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
+<td>♂️ Sin género &nbsp;&nbsp;&nbsp; ♀️ Sin género</td>
 </tr>
 
 <tr>
@@ -132,12 +132,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Plant, Fairy</td>
+<td>No-eggs</td>
 </tr>
 
 <tr>
 <td><b>❤️ Amistad base</b></td>
-<td>70</td>
+<td>0</td>
 </tr>
 
 <tr>
@@ -146,27 +146,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
+<td></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"></td>
+<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"></td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜<br>74.5%</td>
+<td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜<br>1.2%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>190</td>
+<td>3</td>
 </tr>
 
 <tr>
@@ -176,17 +176,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Bromista</b><br><small>Raises non-damaging moves' priority by one stage.</small><br><br>🟢 ⚡ <b>Allanamiento</b><br><small>Bypasses Light Screen, Reflect, and Safeguard.</small><br><br>⭐ ✨ <b>Clorofila</b> (Oculta)<br><small>Doubles Speed during strong sunlight.</small></td>
+<td>🟢 ⚡ <b>Sistema Alfa</b><br><small>Changes this Pokémon's type to match its held Memory.</small><br><br></td>
 </tr>
 
 <tr>
 <td><b>📦 Objetos</b></td>
-<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/absorb-bulb.png" width="28" height="28"> <b>Absorb Bulb</b> (5%)</td>
+<td>No puede llevar objetos.</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Seducci%C3%B3n-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Doble%20Equipo-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Rayo%20Solar-78C850?style=flat-square"> <img src="https://img.shields.io/badge/Absorber-78C850?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Canon-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Onda%20Trueno-F8D030?style=flat-square"> <img src="https://img.shields.io/badge/Ca%C3%B1%C3%B3n%20Resplandor-B8B8D0?style=flat-square"> <img src="https://img.shields.io/badge/Doble%20Equipo-A8A878?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -196,7 +196,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2</td>
+<td></td>
 </tr>
 
 <tr>
@@ -205,26 +205,26 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>56</td>
+<td>257</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
-<td>1,000,000 XP</td>
+<td>1,250,000 XP</td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Medio-lightgrey?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Lento-red?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜
 
-<b>280 puntos</b><br>
-🌱 Básico
+<b>570 puntos</b><br>
+🔥 Muy fuerte
 </td>
 </tr>
 
@@ -240,15 +240,15 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 💡 Curiosidad oficial
 
-> Despide motas de algodón cuando lo atacan para confundir a los enemigos y poner pies en polvorosa.
+> La confianza con su Entrenador ha despertado su potencial. Ahora es capaz de cambiar de tipo a voluntad durante el combate.
 
 ---
 
 ## 💡 Datos interesantes
 
-- ❤️ Amistad base: 70.
-- 🎨 Su color en la Pokédex es green.
-- 🧬 Introducido en la generación V (Teselia).
+- 🎨 Su color en la Pokédex es gray.
+- ❤️ Amistad base: 0.
+- 📏 Mide 2.3 m.
 
 ---
 
@@ -256,11 +256,11 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Cottonee** en:
+Puedes consultar información completa y actualizada de **Silvally** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Cottonee)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/cottonee)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cottonee_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Silvally)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/silvally)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Silvally_(Pokémon))
 
 
 ---
@@ -818,16 +818,18 @@ Puedes consultar información completa y actualizada de **Cottonee** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-17T11:26:39.868286 -->
+<!-- Generated: 2026-07-17T11:37:18.041186 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"Solo hay una regla: ¡Ganar es lo único que importa!"*
+> *"Si no estás ganando, ¡estás aprendiendo!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
