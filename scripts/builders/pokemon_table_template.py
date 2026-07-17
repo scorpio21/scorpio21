@@ -1,4 +1,9 @@
-print(">>> EJECUTANDO pokemon_table_template.py <<<")
+#print(">>> EJECUTANDO pokemon_table_template.py <<<")
+
+#==========================
+# FUNCIONES
+#=========================
+
 def render_table(
     pokemon_img_url,
     shiny_img_url,
@@ -42,10 +47,14 @@ def render_table(
     bebe,
     forma_regional,
 ):
-    print(">>> render_table:", repr(stats_md))
+    # print(">>> render_table:", repr(stats_md))
 
-    print(repr(stats_md))
+    # print(repr(stats_md))
 
+    #==========================
+    # TABLA DE INFORMACIÓN
+    #==========================
+    
     return f"""
 <table width="100%">
 

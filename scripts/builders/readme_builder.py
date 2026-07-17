@@ -1,6 +1,9 @@
 from builders.pokemon_table import build_pokemon_table
 from builders.pokemon_go import build_pokemon_go
 
+#==========================
+# FUNCIONES
+#=========================
 
 def build_pokemon_info_block(
     fecha,
@@ -44,6 +47,15 @@ def build_pokemon_info_block(
     stats_md,
     curiosidad,
 ):
+    #==========================
+    # JUEGOS
+    #==========================
+
+    juegos_html = "<br>".join(f"🎮 {j}" for j in juegos) if juegos else "No disponible"
+
+    #==========================
+    # TABLA DE INFORMACIÓN
+    #==========================
 
     table_html = build_pokemon_table(
         pokemon_img_url=pokemon_img_url,
@@ -84,9 +96,9 @@ def build_pokemon_info_block(
         bst_html=bst_html,
         stats_md=stats_md,
     )
-    print("=========== TABLE_HTML ===========")
-    print(table_html)
-    print("=========== FIN TABLE_HTML =======")
+    # print("=========== TABLE_HTML ===========")
+    # print(table_html)
+    # print("=========== FIN TABLE_HTML =======")
 
     datos_interesantes_html = "\n".join(
         f"- {dato}"
@@ -95,9 +107,9 @@ def build_pokemon_info_block(
 
     go_info = build_pokemon_go(nombre)
 
-    print("=========== POKEMON_INFO_BLOCK ===========")
-    print(table_html)
-    print("=========== FIN POKEMON_INFO_BLOCK =======")
+    # print("=========== POKEMON_INFO_BLOCK ===========")
+    # print(table_html)
+    # print("=========== FIN POKEMON_INFO_BLOCK =======")
 
     return f"""<!-- POKEMON_INFO -->
 <!-- Generated: {fecha} -->

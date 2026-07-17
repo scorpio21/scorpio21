@@ -18,9 +18,9 @@ def update_readme(pokemon_info_block, frase_info_block, readme_path="README.md")
             flags=re.DOTALL
         )
 
-        print("=========== README FINAL ===========")
-        print(contenido)
-        print("=========== FIN README ===========")
+        # print("=========== README FINAL ===========")
+        # print(contenido)
+        # print("=========== FIN README ===========")
 
         file.seek(0)
         file.write(contenido)
