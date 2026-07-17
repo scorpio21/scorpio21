@@ -3,6 +3,9 @@ import requests
 
 from pokemon_types import get_pokemon_type_translation
 from experience_growth import EXPERIENCE_GROWTH
+from item_translations import ITEM_TRANSLATIONS
+
+
 # Función para obtener el Pokémon del día
 def get_pokemon_of_the_day():
 
@@ -223,15 +226,19 @@ def get_pokemon_of_the_day():
                 "nombre": nombre_movimiento,
                 "tipo": move_data["type"]["name"]
             })
-                # Objetos que puede llevar
+    # ==========================
+    # Objetos que puede llevar 
+    # ==========================
+    
     objetos = []
 
     for item in data["held_items"]:
+        
+        nombre_objeto = item["item"]["name"]
 
-        nombre_objeto = (
-            item["item"]["name"]
-            .replace("-", " ")
-            .title()
+        nombre_objeto = ITEM_TRANSLATIONS.get(
+            nombre_objeto,
+            nombre_objeto.replace("-", " ").title()
         )
 
         for version in item["version_details"]:
@@ -245,12 +252,12 @@ def get_pokemon_of_the_day():
 
     for indice in data["game_indices"]:
         nombre_juego = (
-        indice["version"]["name"]
-        .replace("-", " ")
-        .title()
-    )
+            indice["version"]["name"]
+            .replace("-", " ")
+            .title()
+        )
 
-    juegos.append(nombre_juego)
+        juegos.append(nombre_juego)
 
     # Eliminar duplicados y ordenar
     juegos = sorted(list(set(juegos)))
