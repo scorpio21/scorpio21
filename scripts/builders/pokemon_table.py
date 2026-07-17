@@ -5,12 +5,12 @@
 #=========================
 
 from config import (
-    colores_pokedex,
     rareza_texto,
     rareza_colores,
     rareza_iconos,
 )
 
+from color_badges import COLOR_BADGES
 from move_colors import MOVE_COLORS
 from urllib.parse import quote
 from builders.pokemon_table_template import render_table
@@ -182,7 +182,6 @@ def build_pokemon_table(
         juegos_html=juegos_html,
         bst_html=bst_html,
         stats_md=stats_md,
-        colores_pokedex=colores_pokedex,
         rareza_iconos=rareza_iconos,
         rareza_texto=rareza_texto,
         rareza_colores=rareza_colores,
