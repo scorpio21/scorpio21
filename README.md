@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-17T08:55:47.429670 -->
+<!-- Generated: 2026-07-17T08:57:55.617247 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/265.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/67.png" width="220">
 </td>
 
 </tr>
@@ -51,29 +51,29 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟢 <b>Wurmple</b></td>
+<td>🔵 <b>Machoke</b></td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
+<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#265</td>
+<td>#67</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>III (Hoenn)</td>
+<td>I (Kanto)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"></td>
+<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"></td>
 </tr>
 
 <tr>
@@ -82,7 +82,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Wurmple</td>
+<td>Machoke</td>
 </tr>
 
 <tr>
@@ -107,32 +107,32 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>🔴 Rojo</td>
+<td>⚪ Gris</td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>0.3 m</td>
+<td>1.5 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>3.6 kg</td>
+<td>70.5 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
+<td>♂️ 75.0% &nbsp;&nbsp;&nbsp; ♀️ 25.0%</td>
 </tr>
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Forest</td>
+<td>Mountain</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Bug</td>
+<td>Humanshape</td>
 </tr>
 
 <tr>
@@ -146,12 +146,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
 </tr>
 
 <tr>
@@ -161,12 +161,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩<br>100.0%</td>
+<td>🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br>35.3%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>255</td>
+<td>90</td>
 </tr>
 
 <tr>
@@ -176,72 +176,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Polvo Escudo</b><br><small>Protects against incoming moves' extra effects.</small><br><br>⭐ ✨ <b>Fuga</b> (Oculta)<br><small>Ensures success fleeing from wild battles.</small></td>
+<td>🟢 ⚡ <b>Agallas</b><br><small>Increases Attack to 1.5× with a major status ailment.</small><br><br>🟢 ⚡ <b>Indefenso</b><br><small>Ensures all moves used by and against the Pokémon hit.</small><br><br>⭐ ✨ <b>Impasible</b> (Oculta)<br><small>Raises Speed one stage upon flinching.</small></td>
 </tr>
 
 <tr>
 <td><b>📦 Objetos</b></td>
-<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pecha-berry.png" width="28" height="28"> <b>Pecha Berry</b> (50%)<br><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bright-powder.png" width="28" height="28"> <b>Bright Powder</b> (5%)</td>
+<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-band.png" width="28" height="28"> <b>Focus Band</b> (5%)</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Picotazo%20Veneno-A040A0?style=flat-square"> <img src="https://img.shields.io/badge/Electrotela-F8D030?style=flat-square"> <img src="https://img.shields.io/badge/Placaje-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Picadura-A8B820?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Onda%20Certera-C03028?style=flat-square"> <img src="https://img.shields.io/badge/Doble%20Equipo-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/D%C3%ADa%20Soleado-F08030?style=flat-square"> <img src="https://img.shields.io/badge/Excavar-E0C068?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
-<td><table><tr>
-<td align="center">
-<img src="https://img.pokemondb.net/artwork/large/wurmple.jpg" width="70"><br>
-<small><b>Wurmple</b></small>
-</td>
-
-<td align="center">
-➡️<br>
-<small>Nivel 7</small>
-</td>
-
-<td align="center">
-<img src="https://img.pokemondb.net/artwork/large/silcoon.jpg" width="70"><br>
-<small><b>Silcoon</b></small>
-</td>
-
-<td align="center">
-➡️<br>
-<small>Nivel 10</small>
-</td>
-
-<td align="center">
-<img src="https://img.pokemondb.net/artwork/large/beautifly.jpg" width="70"><br>
-<small><b>Beautifly</b></small>
-</td>
-
-<td align="center">
-➡️<br>
-<small>Nivel 7</small>
-</td>
-
-<td align="center">
-<img src="https://img.pokemondb.net/artwork/large/cascoon.jpg" width="70"><br>
-<small><b>Cascoon</b></small>
-</td>
-
-<td align="center">
-➡️<br>
-<small>Nivel 10</small>
-</td>
-
-<td align="center">
-<img src="https://img.pokemondb.net/artwork/large/dustox.jpg" width="70"><br>
-<small><b>Dustox</b></small>
-</td>
-</tr></table></td>
+<td>Prueba</td>
 </tr>
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Diamante<br>🎮 Pokémon Esmeralda<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino<br>🎮 Pokémon Rojo Fuego<br>🎮 Pokémon Rubí<br>🎮 Pokémon Verde Hoja<br>🎮 Pokémon Zafiro</td>
+<td>🎮 Pokémon Amarillo<br>🎮 Pokémon Azul<br>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Cristal<br>🎮 Pokémon Diamante<br>🎮 Pokémon Esmeralda<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino<br>🎮 Pokémon Rojo<br>🎮 Pokémon Rojo Fuego<br>🎮 Pokémon Rubí<br>🎮 Pokémon Verde Hoja<br>🎮 Pokémon Zafiro</td>
 </tr>
 
 <tr>
@@ -250,49 +205,49 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>56</td>
+<td>142</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
-<td>1,000,000 XP</td>
+<td>1,059,860 XP</td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Medio-lightgrey?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Medio%20lento-yellow?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>195 puntos</b><br>
-🌱 Básico
+<b>405 puntos</b><br>
+⚔️ Fuerte
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
 <td style="background:red">
-    ❤️ <b>PS</b> <b>45</b><br>
+    ❤️ <b>PS</b> <b>80</b><br>
+    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
+
+    ⚔️ <b>Ataque</b> <b>100</b><br>
+    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
+
+    🛡️ <b>Defensa</b> <b>70</b><br>
+    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
+
+    ✨ <b>At. Especial</b> <b>50</b><br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
 
-    ⚔️ <b>Ataque</b> <b>45</b><br>
+    🛡️ <b>Def. Especial</b> <b>60</b><br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
 
-    🛡️ <b>Defensa</b> <b>35</b><br>
-    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-
-    ✨ <b>At. Especial</b> <b>20</b><br>
-    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-
-    🛡️ <b>Def. Especial</b> <b>30</b><br>
-    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-
-    💨 <b>Velocidad</b> <b>20</b><br>
-    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜
+    💨 <b>Velocidad</b> <b>45</b><br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜
     </td>
 </tr>
 
@@ -303,15 +258,15 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 💡 Curiosidad oficial
 
-> Le encanta comer hojas. Si le ataca un Starly, se defenderá con sus púas.
+> Su musculoso cuerpo es tan fuerte que usa un cinto antifuerza para controlar sus movimientos.
 
 ---
 
 ## 💡 Datos interesantes
 
-- ⚖️ Pesa 3.6 kg.
-- ❤️ Amistad base: 70.
-- 🎨 Su color en la Pokédex es red.
+- 📏 Mide 1.5 m.
+- 🎯 Ratio de captura: 90.
+- 🥚 Pertenece al grupo huevo Humanshape.
 
 ---
 
@@ -319,11 +274,11 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Wurmple** en:
+Puedes consultar información completa y actualizada de **Machoke** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Wurmple)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/wurmple)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Wurmple_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Machoke)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/machoke)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Machoke_(Pokémon))
 
 
 ---
@@ -872,16 +827,18 @@ Puedes consultar información completa y actualizada de **Wurmple** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-17T08:55:47.429670 -->
+<!-- Generated: 2026-07-17T08:57:55.617247 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"El verdadero juego comienza cuando apagas la consola."*
+> *"La vida es como un videojuego: ¡haz tu movimiento!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
