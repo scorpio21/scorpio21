@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-17T08:57:55.617247 -->
+<!-- Generated: 2026-07-17T09:03:27.907691 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/67.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/98.png" width="220">
 </td>
 
 </tr>
@@ -51,7 +51,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🔵 <b>Machoke</b></td>
+<td>🔵 <b>Krabby</b></td>
 </tr>
 
 <tr>
@@ -63,7 +63,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#67</td>
+<td>#98</td>
 </tr>
 
 <tr>
@@ -73,7 +73,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"></td>
 </tr>
 
 <tr>
@@ -82,7 +82,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Machoke</td>
+<td>Krabby</td>
 </tr>
 
 <tr>
@@ -107,32 +107,32 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>⚪ Gris</td>
+<td>🔴 Rojo</td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>1.5 m</td>
+<td>0.4 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>70.5 kg</td>
+<td>6.5 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ 75.0% &nbsp;&nbsp;&nbsp; ♀️ 25.0%</td>
+<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
 </tr>
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Mountain</td>
+<td>Waters-edge</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Humanshape</td>
+<td>Water3</td>
 </tr>
 
 <tr>
@@ -146,12 +146,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"></td>
 </tr>
 
 <tr>
@@ -161,12 +161,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br>35.3%</td>
+<td>🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜<br>88.2%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>90</td>
+<td>225</td>
 </tr>
 
 <tr>
@@ -176,17 +176,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Agallas</b><br><small>Increases Attack to 1.5× with a major status ailment.</small><br><br>🟢 ⚡ <b>Indefenso</b><br><small>Ensures all moves used by and against the Pokémon hit.</small><br><br>⭐ ✨ <b>Impasible</b> (Oculta)<br><small>Raises Speed one stage upon flinching.</small></td>
+<td>🟢 ⚡ <b>Corte Fuerte</b><br><small>Prevents Attack from being lowered by other Pokémon.</small><br><br>🟢 ⚡ <b>Caparazón</b><br><small>Protects against critical hits.</small><br><br>⭐ ✨ <b>Potencia Bruta</b> (Oculta)<br><small>Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.</small></td>
 </tr>
 
 <tr>
 <td><b>📦 Objetos</b></td>
-<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-band.png" width="28" height="28"> <b>Focus Band</b> (5%)</td>
+<td>No puede llevar objetos.</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Onda%20Certera-C03028?style=flat-square"> <img src="https://img.shields.io/badge/Doble%20Equipo-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/D%C3%ADa%20Soleado-F08030?style=flat-square"> <img src="https://img.shields.io/badge/Excavar-E0C068?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Amnesia-F85888?style=flat-square"> <img src="https://img.shields.io/badge/Fuerza%20Bruta-C03028?style=flat-square"> <img src="https://img.shields.io/badge/Fachada-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Aguante-A8A878?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -205,48 +205,48 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>142</td>
+<td>65</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
-<td>1,059,860 XP</td>
+<td>1,000,000 XP</td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Medio%20lento-yellow?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Medio-lightgrey?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>405 puntos</b><br>
-⚔️ Fuerte
+<b>325 puntos</b><br>
+👍 Normal
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
 <td style="background:red">
-    ❤️ <b>PS</b> <b>80</b><br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
+    ❤️ PS 30<br>
+    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
 
-    ⚔️ <b>Ataque</b> <b>100</b><br>
+    ⚔️ Ataque 105<br>
     🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
 
-    🛡️ <b>Defensa</b> <b>70</b><br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Defensa 90<br>
+    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br><br>
 
-    ✨ <b>At. Especial</b> <b>50</b><br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    ✨ At. Especial 25<br>
+    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
 
-    🛡️ <b>Def. Especial</b> <b>60</b><br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Def. Especial 25<br>
+    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
 
-    💨 <b>Velocidad</b> <b>45</b><br>
+    💨 Velocidad 50<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜
     </td>
 </tr>
@@ -258,15 +258,15 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 💡 Curiosidad oficial
 
-> Su musculoso cuerpo es tan fuerte que usa un cinto antifuerza para controlar sus movimientos.
+> Ante el peligro, se camufla con las burbujas que desprende su boca, para parecer más grande.
 
 ---
 
 ## 💡 Datos interesantes
 
-- 📏 Mide 1.5 m.
-- 🎯 Ratio de captura: 90.
-- 🥚 Pertenece al grupo huevo Humanshape.
+- ⚖️ Pesa 6.5 kg.
+- 🧬 Introducido en la generación I (Kanto).
+- 🎯 Ratio de captura: 225.
 
 ---
 
@@ -274,11 +274,11 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Machoke** en:
+Puedes consultar información completa y actualizada de **Krabby** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Machoke)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/machoke)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Machoke_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Krabby)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/krabby)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Krabby_(Pokémon))
 
 
 ---
@@ -828,16 +828,18 @@ Puedes consultar información completa y actualizada de **Machoke** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-17T08:57:55.617247 -->
+<!-- Generated: 2026-07-17T09:03:27.907691 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"La vida es como un videojuego: ¡haz tu movimiento!"*
+> *"Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
