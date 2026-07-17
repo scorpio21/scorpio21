@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-16T23:43:07.131961 -->
+<!-- Generated: 2026-07-17T00:37:33.313857 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -17,7 +17,6 @@ Descubre cada día un Pokémon diferente con su información completa.
 </p>
 
 ---
-
 
 
 <table width="100%">
@@ -30,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/171.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/135.png" width="220">
 </td>
 
 </tr>
@@ -52,7 +51,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🔵 <b>Lanturn</b></td>
+<td>🔵 <b>Jolteon</b></td>
 </tr>
 
 <tr>
@@ -64,17 +63,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#171</td>
+<td>#135</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>II (Johto)</td>
+<td>I (Kanto)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"></td>
+<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"></td>
 </tr>
 
 <tr>
@@ -83,7 +82,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Lanturn</td>
+<td>Jolteon</td>
 </tr>
 
 <tr>
@@ -108,32 +107,32 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>🔵 Azul</td>
+<td>🟡 Amarillo</td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>1.2 m</td>
+<td>0.8 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>22.5 kg</td>
+<td>24.5 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
+<td>♂️ 87.5% &nbsp;&nbsp;&nbsp; ♀️ 12.5%</td>
 </tr>
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Sea</td>
+<td>Urban</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Water2</td>
+<td>Ground</td>
 </tr>
 
 <tr>
@@ -147,12 +146,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
+<td><img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
@@ -162,12 +161,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜<br>29.4%</td>
+<td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>17.6%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>75</td>
+<td>45</td>
 </tr>
 
 <tr>
@@ -177,42 +176,112 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Absorbe Electricidad</b><br><small>Absorbs Electric moves, healing for 1/4 max HP.</small><br><br>🟢 ⚡ <b>Iluminación</b><br><small>Doubles the wild encounter rate.</small><br><br>⭐ ✨ <b>Absorbe Agua</b> (Oculta)<br><small>Absorbs Water moves, healing for 1/4 max HP.</small></td>
+<td>🟢 ⚡ <b>Absorbe Electricidad</b><br><small>Absorbs Electric moves, healing for 1/4 max HP.</small><br><br>⭐ ✨ <b>Pies Rápidos</b> (Oculta)<br><small>Increases Speed to 1.5× with a major status ailment.</small></td>
 </tr>
 
 <tr>
 <td><b>📦 Objetos</b></td>
-<td>📦 <img src="https://img.shields.io/badge/Yellow%20Shard-4C9AFF?style=flat-square"> (5%)<br>📦 <img src="https://img.shields.io/badge/Yellow%20Shard-4C9AFF?style=flat-square"> (5%)<br>📦 <img src="https://img.shields.io/badge/Yellow%20Shard-4C9AFF?style=flat-square"> (5%)<br>📦 <img src="https://img.shields.io/badge/Yellow%20Shard-4C9AFF?style=flat-square"> (5%)<br>📦 <img src="https://img.shields.io/badge/Yellow%20Shard-4C9AFF?style=flat-square"> (5%)<br>📦 <img src="https://img.shields.io/badge/Deep%20Sea%20Scale-4C9AFF?style=flat-square"> (5%)<br>📦 <img src="https://img.shields.io/badge/Deep%20Sea%20Scale-4C9AFF?style=flat-square"> (5%)<br>📦 <img src="https://img.shields.io/badge/Deep%20Sea%20Scale-4C9AFF?style=flat-square"> (5%)<br>📦 <img src="https://img.shields.io/badge/Deep%20Sea%20Scale-4C9AFF?style=flat-square"> (5%)<br>📦 <img src="https://img.shields.io/badge/Deep%20Sea%20Scale-4C9AFF?style=flat-square"> (5%)<br>📦 <img src="https://img.shields.io/badge/Deep%20Sea%20Scale-4C9AFF?style=flat-square"> (5%)<br>📦 <img src="https://img.shields.io/badge/Deep%20Sea%20Scale-4C9AFF?style=flat-square"> (5%)<br>📦 <img src="https://img.shields.io/badge/Deep%20Sea%20Scale-4C9AFF?style=flat-square"> (5%)<br>📦 <img src="https://img.shields.io/badge/Deep%20Sea%20Scale-4C9AFF?style=flat-square"> (5%)<br>📦 <img src="https://img.shields.io/badge/Deep%20Sea%20Scale-4C9AFF?style=flat-square"> (5%)<br>📦 <img src="https://img.shields.io/badge/Deep%20Sea%20Scale-4C9AFF?style=flat-square"> (5%)<br>📦 <img src="https://img.shields.io/badge/Deep%20Sea%20Scale-4C9AFF?style=flat-square"> (5%)<br>📦 <img src="https://img.shields.io/badge/Deep%20Sea%20Scale-4C9AFF?style=flat-square"> (5%)<br>📦 <img src="https://img.shields.io/badge/Deep%20Sea%20Scale-4C9AFF?style=flat-square"> (5%)<br>📦 <img src="https://img.shields.io/badge/Deep%20Sea%20Scale-4C9AFF?style=flat-square"> (5%)<br>📦 <img src="https://img.shields.io/badge/Deep%20Sea%20Scale-4C9AFF?style=flat-square"> (5%)<br>📦 <img src="https://img.shields.io/badge/Deep%20Sea%20Scale-4C9AFF?style=flat-square"> (5%)</td>
+<td>No puede llevar objetos.</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Onda%20Trueno-F8D030?style=flat-square"> <img src="https://img.shields.io/badge/Voltio%20Cruel-F8D030?style=flat-square"> <img src="https://img.shields.io/badge/Acua%20Cola-6890F0?style=flat-square"> <img src="https://img.shields.io/badge/Frustraci%C3%B3n-A8A878?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Ojitos%20Tiernos-EE99AC?style=flat-square"> <img src="https://img.shields.io/badge/D%C3%ADa%20de%20Pago-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Meteoros-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Danza%20Lluvia-6890F0?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td><table><tr>
 <td align="center">
-<img src="https://img.pokemondb.net/artwork/large/chinchou.jpg" width="70"><br>
-<small><b>Chinchou</b></small>
+<img src="https://img.pokemondb.net/artwork/large/eevee.jpg" width="70"><br>
+<small><b>Eevee</b></small>
 </td>
 
 <td align="center">
 ➡️<br>
-<small>Nivel 27</small>
+<small>Piedra Agua</small>
 </td>
 
 <td align="center">
-<img src="https://img.pokemondb.net/artwork/large/lanturn.jpg" width="70"><br>
-<small><b>Lanturn</b></small>
+<img src="https://img.pokemondb.net/artwork/large/vaporeon.jpg" width="70"><br>
+<small><b>Vaporeon</b></small>
+</td>
+
+<td align="center">
+➡️<br>
+<small>Piedra Trueno</small>
+</td>
+
+<td align="center">
+<img src="https://img.pokemondb.net/artwork/large/jolteon.jpg" width="70"><br>
+<small><b>Jolteon</b></small>
+</td>
+
+<td align="center">
+➡️<br>
+<small>Piedra Fuego</small>
+</td>
+
+<td align="center">
+<img src="https://img.pokemondb.net/artwork/large/flareon.jpg" width="70"><br>
+<small><b>Flareon</b></small>
+</td>
+
+<td align="center">
+➡️<br>
+<small>Amistad</small>
+</td>
+
+<td align="center">
+<img src="https://img.pokemondb.net/artwork/large/espeon.jpg" width="70"><br>
+<small><b>Espeon</b></small>
+</td>
+
+<td align="center">
+➡️<br>
+<small>Amistad</small>
+</td>
+
+<td align="center">
+<img src="https://img.pokemondb.net/artwork/large/umbreon.jpg" width="70"><br>
+<small><b>Umbreon</b></small>
+</td>
+
+<td align="center">
+➡️<br>
+<small>Evoluciona</small>
+</td>
+
+<td align="center">
+<img src="https://img.pokemondb.net/artwork/large/leafeon.jpg" width="70"><br>
+<small><b>Leafeon</b></small>
+</td>
+
+<td align="center">
+➡️<br>
+<small>Evoluciona</small>
+</td>
+
+<td align="center">
+<img src="https://img.pokemondb.net/artwork/large/glaceon.jpg" width="70"><br>
+<small><b>Glaceon</b></small>
+</td>
+
+<td align="center">
+➡️<br>
+<small>Afecto</small>
+</td>
+
+<td align="center">
+<img src="https://img.pokemondb.net/artwork/large/sylveon.jpg" width="70"><br>
+<small><b>Sylveon</b></small>
 </td>
 </tr></table></td>
 </tr>
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td>🎮 White 2</td>
+<td>🎮 Pokémon Amarillo<br>🎮 Pokémon Azul<br>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Cristal<br>🎮 Pokémon Diamante<br>🎮 Pokémon Esmeralda<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino<br>🎮 Pokémon Rojo<br>🎮 Pokémon Rojo Fuego<br>🎮 Pokémon Rubí<br>🎮 Pokémon Verde Hoja<br>🎮 Pokémon Zafiro</td>
 </tr>
 
 <tr>
@@ -221,26 +290,26 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>161</td>
+<td>184</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
-<td>1,250,000 XP</td>
+<td>1,000,000 XP</td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td>Lento</td>
+<td><img src="https://img.shields.io/badge/Medio-lightgrey?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜
 
-<b>460 puntos</b><br>
-⚔️ Fuerte
+<b>525 puntos</b><br>
+🔥 Muy fuerte
 </td>
 </tr>
 
@@ -248,22 +317,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 <td><b>📊 Estadísticas Base</b></td>
 <td>
 ❤️ <b>PS</b><br>
-🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 125<br>
+🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 65<br>
 
 ⚔️ <b>Ataque</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 58
+🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 65
 
 🛡️ <b>Defensa</b><br>
-🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 58<br>
+🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ 60<br>
 
 ✨ <b>Ataque Especial</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 76<br>
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 110<br>
 
 🛡️ <b>Defensa Especial</b><br>
-🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜ 76<br>
+🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 95<br>
 
 💨 <b>Velocidad</b><br>
-🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ 67
+🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ 130
 </td>
 </tr>
 
@@ -274,15 +343,15 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 💡 Curiosidad oficial
 
-> La luz de Lanturn se puede ver desde lo más profundo. Se le llama la Estrella de Alta Mar.
+> Todos los pelos de su cuerpo se ponen de punta si empieza a cargarse de electricidad.
 
 ---
 
 ## 💡 Datos interesantes
 
-- ⚖️ Pesa 22.5 kg.
-- 🥚 Pertenece al grupo huevo Water2.
-- 🧬 Introducido en la generación II (Johto).
+- 📏 Mide 0.8 m.
+- 🧬 Introducido en la generación I (Kanto).
+- ⚖️ Pesa 24.5 kg.
 
 ---
 
@@ -290,11 +359,11 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Lanturn** en:
+Puedes consultar información completa y actualizada de **Jolteon** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Lanturn)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/lanturn)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Lanturn_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Jolteon)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/jolteon)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Jolteon_(Pokémon))
 
 
 ---
@@ -303,7 +372,7 @@ Puedes consultar información completa y actualizada de **Lanturn** en:
 
 ⭐ Datos obtenidos de <b>PokéAPI</b><br>
 🤖 Generado automáticamente con Python<br>
-🗓️ Última actualización: <b>2026-07-16</b>
+🗓️ Última actualización: <b>2026-07-17</b>
 
 </p>
 
@@ -833,8 +902,10 @@ Puedes consultar información completa y actualizada de **Lanturn** en:
 
 
 
+
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-16T23:43:07.131961 -->
+<!-- Generated: 2026-07-17T00:37:33.313857 -->
 
 ---
 
@@ -843,6 +914,8 @@ Puedes consultar información completa y actualizada de **Lanturn** en:
 > *"Solo hay una regla: ¡Ganar es lo único que importa!"*
 
 <!-- END_FRASE_GAMER -->
+
+
 
 
 
