@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-17T22:34:55.591471 -->
+<!-- Generated: 2026-07-17T22:38:20.126014 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/307.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/604.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/307.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/604.png" width="220">
 </td>
 
 </tr>
@@ -51,7 +51,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🔵 <b>Meditite</b></td>
+<td>🔵 <b>Eelektross</b></td>
 </tr>
 
 <tr>
@@ -63,17 +63,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#307</td>
+<td>#604</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>III (Hoenn)</td>
+<td>V (Teselia)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"></td>
+<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"></td>
 </tr>
 
 <tr>
@@ -82,7 +82,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Meditite</td>
+<td>Eelektross</td>
 </tr>
 
 <tr>
@@ -112,12 +112,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>0.6 m</td>
+<td>2.1 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>11.2 kg</td>
+<td>80.5 kg</td>
 </tr>
 
 <tr>
@@ -127,12 +127,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Mountain</td>
+<td>Desconocido</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Humanshape</td>
+<td>Indeterminate</td>
 </tr>
 
 <tr>
@@ -146,12 +146,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
@@ -161,12 +161,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜<br>70.6%</td>
+<td>🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜<br>11.8%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>180</td>
+<td>30</td>
 </tr>
 
 <tr>
@@ -176,42 +176,52 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Energía Pura</b><br><small>Doubles Attack in battle.</small><br><br>⭐ ✨ <b>Telepatía</b> (Oculta)<br><small>Protects against friendly Pokémon's damaging moves.</small></td>
+<td>🟢 ⚡ <b>Levitación</b><br><small>Evades Ground moves.</small><br><br></td>
 </tr>
 
 <tr>
 <td><b>📦 Objetos</b></td>
-<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/twisted-spoon.png" width="28" height="28"> <b>Twisted Spoon</b> (100%)</td>
+<td>No puede llevar objetos.</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Reflejo-F85888?style=flat-square"> <img src="https://img.shields.io/badge/Destructor-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Gravedad-F85888?style=flat-square"> <img src="https://img.shields.io/badge/Puntapi%C3%A9-C03028?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Gigadrenado-78C850?style=flat-square"> <img src="https://img.shields.io/badge/Teraexplosi%C3%B3n-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Bilis-A040A0?style=flat-square"> <img src="https://img.shields.io/badge/Golpe%20Roca-C03028?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td><table><tr>
 <td align="center">
-<img src="https://img.pokemondb.net/artwork/large/meditite.jpg" width="70"><br>
-<small><b>Meditite</b></small>
+<img src="https://img.pokemondb.net/artwork/large/tynamo.jpg" width="70"><br>
+<small><b>Tynamo</b></small>
 </td>
 
 <td align="center">
 ➡️<br>
-<small>Nivel 37</small>
+<small>Nivel 39</small>
 </td>
 
 <td align="center">
-<img src="https://img.pokemondb.net/artwork/large/medicham.jpg" width="70"><br>
-<small><b>Medicham</b></small>
+<img src="https://img.pokemondb.net/artwork/large/eelektrik.jpg" width="70"><br>
+<small><b>Eelektrik</b></small>
+</td>
+
+<td align="center">
+➡️<br>
+<small>Piedra Trueno</small>
+</td>
+
+<td align="center">
+<img src="https://img.pokemondb.net/artwork/large/eelektross.jpg" width="70"><br>
+<small><b>Eelektross</b></small>
 </td>
 </tr></table></td>
 </tr>
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Diamante<br>🎮 Pokémon Esmeralda<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino<br>🎮 Pokémon Rojo Fuego<br>🎮 Pokémon Rubí<br>🎮 Pokémon Verde Hoja<br>🎮 Pokémon Zafiro</td>
+<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2</td>
 </tr>
 
 <tr>
@@ -220,48 +230,48 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>56</td>
+<td>232</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
-<td>1,000,000 XP</td>
+<td>1,250,000 XP</td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Medio-lightgrey?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Lento-red?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜
 
-<b>280 puntos</b><br>
-🌱 Básico
+<b>515 puntos</b><br>
+🔥 Muy fuerte
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
 <td style="background:red">
-    ❤️ PS 30<br>
-    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    ❤️ PS 85<br>
+    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜
 
-    ⚔️ Ataque 40<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    ⚔️ Ataque 115<br>
+    🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
 
-    🛡️ Defensa 55<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Defensa 80<br>
+    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜
 
-    ✨ At. Especial 40<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    ✨ At. Especial 105<br>
+    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜
 
-    🛡️ Def. Especial 55<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Def. Especial 80<br>
+    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜
 
-    💨 Velocidad 60<br>
+    💨 Velocidad 50<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜
     </td>
 </tr>
@@ -273,15 +283,15 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 💡 Curiosidad oficial
 
-> Se entrena en la profundidad de las montañas. Cuando aumenta su poder espiritual con meditación, levita.
+> Pega la ventosa de su boca en su presa y la electrocuta con sus colmillos.
 
 ---
 
 ## 💡 Datos interesantes
 
-- 🎯 Ratio de captura: 180.
-- 📏 Mide 0.6 m.
+- 🥚 Pertenece al grupo huevo Indeterminate.
 - ❤️ Amistad base: 70.
+- 📏 Mide 2.1 m.
 
 ---
 
@@ -289,11 +299,11 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Meditite** en:
+Puedes consultar información completa y actualizada de **Eelektross** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Meditite)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/meditite)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Meditite_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Eelektross)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/eelektross)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Eelektross_(Pokémon))
 
 
 ---
@@ -855,16 +865,18 @@ Puedes consultar información completa y actualizada de **Meditite** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-17T22:34:55.591471 -->
+<!-- Generated: 2026-07-17T22:38:20.126014 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"Gamer de día, héroe de noche."*
+> *"La vida es como un videojuego: ¡haz tu movimiento!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
