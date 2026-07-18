@@ -65,6 +65,12 @@ def get_pokemon_of_the_day():
     # Imágenes
     imagen = data["sprites"]["other"]["official-artwork"]["front_default"]
     imagen_shiny = data["sprites"]["other"]["official-artwork"]["front_shiny"]
+    
+    # Sonido del Pokémon
+    cry_url = data["cries"]["latest"]
+    
+    if cry_url is None:
+        cry_url = data["cries"]["legacy"]
 
     pokedex_num = data["id"]
     clase = data["species"]["name"]
@@ -274,6 +280,7 @@ def get_pokemon_of_the_day():
         tipos_es,
         imagen,
         imagen_shiny,
+        cry_url,
         pokedex_num,
         clase,
         stats,

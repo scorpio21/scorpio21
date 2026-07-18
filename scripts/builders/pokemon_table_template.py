@@ -13,6 +13,7 @@ from color_badges import build_color_badge
 def render_table(
     pokemon_img_url,
     shiny_img_url,
+    cry_url,
     nombre,
     rareza,
     pokedex_num,
