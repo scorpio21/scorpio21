@@ -1,14 +1,11 @@
 from builders.pokemon_table import build_pokemon_table
 from builders.pokemon_go import build_pokemon_go
 
-#==========================
-# FUNCIONES
-#=========================
-
 def build_pokemon_info_block(
     fecha,
     pokemon_img_url,
     pokemon_shiny_url,
+    cry_url,
     nombre,
     rareza,
     pokedex_num,
@@ -60,6 +57,7 @@ def build_pokemon_info_block(
     table_html = build_pokemon_table(
         pokemon_img_url=pokemon_img_url,
         shiny_img_url=pokemon_shiny_url,
+        cry_url=cry_url,
         nombre=nombre,
         rareza=rareza,
         pokedex_num=pokedex_num,
