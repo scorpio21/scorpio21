@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-18T00:11:43.703081 -->
+<!-- Generated: 2026-07-18T00:23:45.679271 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/176.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/765.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/176.png" width="220">
 </td>
 
 </tr>
@@ -50,7 +50,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <b>🔊 Grito oficial</b><br>
 
 <audio controls preload="none">
-    <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/765.ogg" type="audio/ogg">
+    <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/176.ogg" type="audio/ogg">
 </audio>
 
 </td>
@@ -62,29 +62,29 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟢 <b>Oranguru</b></td>
+<td>🟣 <b>Togetic</b></td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
+<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#765</td>
+<td>#176</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>VII (Alola)</td>
+<td>II (Johto)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://archives.bulbagarden.net/media/upload/8/89/Normal_icon_SwSh.png" width="22" alt="Normal" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal" style="vertical-align:middle;"> <img src="https://archives.bulbagarden.net/media/upload/7/73/Psychic_icon_SwSh.png" width="22" alt="Psíquico" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico" style="vertical-align:middle;"></td>
+<td><img src="https://archives.bulbagarden.net/media/upload/c/c6/Fairy_icon_SwSh.png" width="22" alt="Hada" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada" style="vertical-align:middle;"> <img src="https://archives.bulbagarden.net/media/upload/b/b5/Flying_icon_SwSh.png" width="22" alt="Volador" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador" style="vertical-align:middle;"></td>
 </tr>
 
 <tr>
@@ -93,7 +93,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Oranguru</td>
+<td>Togetic</td>
 </tr>
 
 <tr>
@@ -123,27 +123,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>1.5 m</td>
+<td>0.6 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>76.0 kg</td>
+<td>3.2 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
+<td>♂️ 87.5% &nbsp;&nbsp;&nbsp; ♀️ 12.5%</td>
 </tr>
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Desconocido</td>
+<td>Forest</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Ground</td>
+<td>Flying, Fairy</td>
 </tr>
 
 <tr>
@@ -157,27 +157,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"></td>
+<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>17.6%</td>
+<td>🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜<br>29.4%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>45</td>
+<td>75</td>
 </tr>
 
 <tr>
@@ -187,7 +187,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Fuerza Mental</b><br><small>Prevents flinching.</small><br><br>🟢 ⚡ <b>Telepatía</b><br><small>Protects against friendly Pokémon's damaging moves.</small><br><br>⭐ ✨ <b>Simbiosis</b> (Oculta)<br><small>Passes the bearer's held item to an ally when the ally uses up its item.</small></td>
+<td>🟢 ⚡ <b>Entusiasmo</b><br><small>Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×.</small><br><br>🟢 ⚡ <b>Dicha</b><br><small>Doubles the chance of moves' extra effects occurring.</small><br><br>⭐ ✨ <b>Afortunado</b> (Oculta)<br><small>Raises moves' critical hit rates one stage.</small></td>
 </tr>
 
 <tr>
@@ -197,22 +197,42 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Rencor-705898?style=flat-square"> <img src="https://img.shields.io/badge/Demolici%C3%B3n-C03028?style=flat-square"> <img src="https://img.shields.io/badge/Capa%20M%C3%A1gica-F85888?style=flat-square"> <img src="https://img.shields.io/badge/D%C3%ADa%20Soleado-F08030?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Caranto%C3%B1a-EE99AC?style=flat-square"> <img src="https://img.shields.io/badge/Cede%20Paso-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Bostezo-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Sustituto-A8A878?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td><table><tr>
 <td align="center">
-<img src="https://img.pokemondb.net/artwork/large/oranguru.jpg" width="70"><br>
-<small><b>Oranguru</b></small>
+<img src="https://img.pokemondb.net/artwork/large/togepi.jpg" width="70"><br>
+<small><b>Togepi</b></small>
+</td>
+
+<td align="center">
+➡️<br>
+<small>Amistad</small>
+</td>
+
+<td align="center">
+<img src="https://img.pokemondb.net/artwork/large/togetic.jpg" width="70"><br>
+<small><b>Togetic</b></small>
+</td>
+
+<td align="center">
+➡️<br>
+<small>Piedra Día</small>
+</td>
+
+<td align="center">
+<img src="https://img.pokemondb.net/artwork/large/togekiss.jpg" width="70"><br>
+<small><b>Togekiss</b></small>
 </td>
 </tr></table></td>
 </tr>
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td></td>
+<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Cristal<br>🎮 Pokémon Diamante<br>🎮 Pokémon Esmeralda<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino<br>🎮 Pokémon Rojo Fuego<br>🎮 Pokémon Rubí<br>🎮 Pokémon Verde Hoja<br>🎮 Pokémon Zafiro</td>
 </tr>
 
 <tr>
@@ -221,45 +241,45 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>172</td>
+<td>142</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
 <td>
-💠 <b>1.250.000 XP</b><br>
+💠 <b>800.000 XP</b><br>
 <small>Necesaria para alcanzar el nivel 100</small>
 </td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Lento-red?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/R%C3%A1pido-blue?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>490 puntos</b><br>
+<b>405 puntos</b><br>
 ⚔️ Fuerte
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">❤️ PS 90<br>
-    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br><br>
-    ⚔️ Ataque 60<br>
+<td style="background:red">❤️ PS 55<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Defensa 80<br>
+    ⚔️ Ataque 40<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Defensa 85<br>
     🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ✨ At. Especial 90<br>
-    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Def. Especial 110<br>
+    ✨ At. Especial 80<br>
+    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Def. Especial 105<br>
     🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
-    💨 Velocidad 60<br>
+    💨 Velocidad 40<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜</td>
 </tr>
 
@@ -270,15 +290,15 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 💡 Curiosidad oficial
 
-> Es un Pokémon famoso por su astucia e ingenio. Desprecia a los Entrenadores novatos y prefiere a los más veteranos.
+> Si no está con gente amable, se entristece. Puede flotar en el aire sin mover las alas.
 
 ---
 
 ## 💡 Datos interesantes
 
-- ⚖️ Pesa 76.0 kg.
-- 🥚 Pertenece al grupo huevo Ground.
-- 🎨 Su color en la Pokédex es white.
+- 🧬 Introducido en la generación II (Johto).
+- 🎯 Ratio de captura: 75.
+- ❤️ Amistad base: 70.
 
 ---
 
@@ -286,11 +306,11 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Oranguru** en:
+Puedes consultar información completa y actualizada de **Togetic** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Oranguru)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/oranguru)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Oranguru_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Togetic)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/togetic)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Togetic_(Pokémon))
 
 
 ---
@@ -860,16 +880,18 @@ Puedes consultar información completa y actualizada de **Oranguru** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-18T00:11:43.703081 -->
+<!-- Generated: 2026-07-18T00:23:45.679271 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"*
+> *"La vida es como un videojuego: ¡haz tu movimiento!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
