@@ -89,6 +89,17 @@ def render_table(
 </tr>
 
 <tr>
+<td colspan="2" align="center">
+<b>🔊 Grito oficial</b><br>
+
+<audio controls preload="none">
+    <source src="{cry_url}" type="audio/ogg">
+</audio>
+
+</td>
+</tr>
+
+<tr>
 <td colspan="2"><h3>📋 Información General</h3></td>
 </tr>
 
