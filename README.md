@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-20T11:22:55.518576 -->
+<!-- Generated: 2026-07-20T11:35:15.419983 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/674.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/130.png" width="220">
 </td>
 
 </tr>
@@ -47,12 +47,9 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td colspan="2" align="center">
-<b>🔊 Grito oficial</b><br>
-
-<audio controls preload="none">
-    <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/674.ogg" type="audio/ogg">
-</audio>
-
+<a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Gyarados-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+</a>
 </td>
 </tr>
 
@@ -62,7 +59,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🔵 <b>Pancham</b></td>
+<td>🔵 <b>Gyarados</b></td>
 </tr>
 
 <tr>
@@ -74,17 +71,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#674</td>
+<td>#130</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>VI (Kalos)</td>
+<td>I (Kanto)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://archives.bulbagarden.net/media/upload/3/3b/Fighting_icon_SwSh.png" width="22" alt="Lucha" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha" style="vertical-align:middle;"></td>
+<td><img src="https://archives.bulbagarden.net/media/upload/8/80/Water_icon_SwSh.png" width="22" alt="Agua" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;"> <img src="https://archives.bulbagarden.net/media/upload/b/b5/Flying_icon_SwSh.png" width="22" alt="Volador" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador" style="vertical-align:middle;"></td>
 </tr>
 
 <tr>
@@ -93,7 +90,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Pancham</td>
+<td>Gyarados</td>
 </tr>
 
 <tr>
@@ -118,17 +115,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Blanco-FFFFFF?style=flat-square&logoColor=black" alt="white"></td>
+<td><img src="https://img.shields.io/badge/Azul-2196F3?style=flat-square" alt="blue"></td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>0.6 m</td>
+<td>6.5 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>8.0 kg</td>
+<td>235.0 kg</td>
 </tr>
 
 <tr>
@@ -138,12 +135,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Desconocido</td>
+<td>Waters-edge</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Ground, Humanshape</td>
+<td>Water2, Dragon</td>
 </tr>
 
 <tr>
@@ -157,27 +154,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td>Ninguna</td>
+<td><img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜<br>86.3%</td>
+<td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>17.6%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>220</td>
+<td>45</td>
 </tr>
 
 <tr>
@@ -187,42 +184,42 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Puño Férreo</b><br><small>Strengthens punch-based moves to 1.2× their power.</small><br><br>🟢 ⚡ <b>Rompemoldes</b><br><small>Bypasses targets' abilities if they could hinder or prevent a move.</small><br><br>⭐ ✨ <b>Intrépido</b> (Oculta)<br><small>Lets the Pokémon's Normal and Fighting moves hit Ghost Pokémon.</small></td>
+<td>🟢 ⚡ <b>Intimidación</b><br><small>Lowers opponents' Attack one stage upon entering battle.</small><br><br>⭐ ✨ <b>Autoestima</b> (Oculta)<br><small>Raises Attack one stage upon KOing a Pokémon.</small></td>
 </tr>
 
 <tr>
 <td><b>📦 Objetos</b></td>
-<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mental-herb.png" width="28" height="28"> <b>Mental Herb</b> (5%)</td>
+<td>No puede llevar objetos.</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Lanzamiento-705848?style=flat-square"> <img src="https://img.shields.io/badge/Represalia-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Triturar-705848?style=flat-square"> <img src="https://img.shields.io/badge/Da%C3%B1o%20Secreto-A8A878?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Pulso%20Drag%C3%B3n-7038F8?style=flat-square"> <img src="https://img.shields.io/badge/Da%C3%B1o%20Secreto-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Golpe%20Cabeza-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Cabeza%20de%20Hierro-B8B8D0?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td><table><tr>
 <td align="center">
-<img src="https://img.pokemondb.net/artwork/large/pancham.jpg" width="70"><br>
-<small><b>Pancham</b></small>
+<img src="https://img.pokemondb.net/artwork/large/magikarp.jpg" width="70"><br>
+<small><b>Magikarp</b></small>
 </td>
 
 <td align="center">
 ➡️<br>
-<small>Nivel 32</small>
+<small>Nivel 20</small>
 </td>
 
 <td align="center">
-<img src="https://img.pokemondb.net/artwork/large/pangoro.jpg" width="70"><br>
-<small><b>Pangoro</b></small>
+<img src="https://img.pokemondb.net/artwork/large/gyarados.jpg" width="70"><br>
+<small><b>Gyarados</b></small>
 </td>
 </tr></table></td>
 </tr>
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td></td>
+<td>🎮 Pokémon Amarillo<br>🎮 Pokémon Azul<br>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Cristal<br>🎮 Pokémon Diamante<br>🎮 Pokémon Esmeralda<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino<br>🎮 Pokémon Rojo<br>🎮 Pokémon Rojo Fuego<br>🎮 Pokémon Rubí<br>🎮 Pokémon Verde Hoja<br>🎮 Pokémon Zafiro</td>
 </tr>
 
 <tr>
@@ -231,46 +228,46 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>70</td>
+<td>189</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
 <td>
-💠 <b>1.000.000 XP</b><br>
+💠 <b>1.250.000 XP</b><br>
 <small>Necesaria para alcanzar el nivel 100</small>
 </td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Medio-lightgrey?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Lento-red?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜
 
-<b>348 puntos</b><br>
-👍 Normal
+<b>540 puntos</b><br>
+🔥 Muy fuerte
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">❤️ PS 67<br>
-    🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ⚔️ Ataque 82<br>
+<td style="background:red">❤️ PS 95<br>
+    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br><br>
+    ⚔️ Ataque 125<br>
+    🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜<br><br>
+    🛡️ Defensa 79<br>
     🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Defensa 62<br>
+    ✨ At. Especial 60<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ✨ At. Especial 46<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Def. Especial 48<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    💨 Velocidad 43<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜</td>
+    🛡️ Def. Especial 100<br>
+    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
+    💨 Velocidad 81<br>
+    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜</td>
 </tr>
 
 </table>
@@ -280,15 +277,15 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 💡 Curiosidad oficial
 
-> Se esfuerza mucho para que el enemigo no lo menosprecie, pero su mirada no intimida demasiado. Se caracteriza por mascar siempre una hoja.
+> En la literatura antigua se dice que un Gyarados rebosante de violencia arrasó un poblado.
 
 ---
 
 ## 💡 Datos interesantes
 
-- 🎨 Su color en la Pokédex es white.
-- 📏 Mide 0.6 m.
-- 🥚 Pertenece al grupo huevo Ground, Humanshape.
+- 🥚 Pertenece al grupo huevo Water2, Dragon.
+- 🧬 Introducido en la generación I (Kanto).
+- 🎯 Ratio de captura: 45.
 
 ---
 
@@ -296,11 +293,11 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Pancham** en:
+Puedes consultar información completa y actualizada de **Gyarados** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Pancham)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/pancham)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Pancham_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Gyarados)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/gyarados)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gyarados_(Pokémon))
 
 
 ---
@@ -875,16 +872,20 @@ Puedes consultar información completa y actualizada de **Pancham** en:
 
 
 
+
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-20T11:22:55.518576 -->
+<!-- Generated: 2026-07-20T11:35:15.419983 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"*
+> *"Gamer de día, héroe de noche."*
 
 <!-- END_FRASE_GAMER -->
+
+
 
 
 
