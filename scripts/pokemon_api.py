@@ -19,6 +19,14 @@ def get_pokemon_of_the_day():
 
     species = requests.get(data["species"]["url"]).json()
 
+    # Nombre japonés
+    nombre_japones = "Desconocido"
+
+    for n in species["names"]:
+        if n["language"]["name"] == "ja-Hrkt":
+            nombre_japones = n["name"]
+            break
+
     legendario = species["is_legendary"]
     mitico = species["is_mythical"]
     bebe = species["is_baby"]
@@ -280,6 +288,7 @@ def get_pokemon_of_the_day():
 
     return (
         nombre,
+        nombre_japones,
         tipos_es,
         imagen,
         imagen_shiny,

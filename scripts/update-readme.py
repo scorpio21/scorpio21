@@ -19,6 +19,7 @@ from download_cry import download_cry
 # Obtener Pokémon
 (
     nombre,
+    nombre_japones,
     tipos_es,
     pokemon_img_url,
     pokemon_shiny_url,
@@ -76,6 +77,7 @@ pokemon_info_block = build_pokemon_info_block(
     pokemon_img_url=pokemon_img_url,
     pokemon_shiny_url=pokemon_shiny_url,
     nombre=nombre,
+    nombre_japones=nombre_japones,
     rareza=rareza,
     cry_url=cry_url,
         pokedex_num=pokedex_num,
