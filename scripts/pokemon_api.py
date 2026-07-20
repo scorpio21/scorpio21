@@ -1,5 +1,8 @@
 import random
 import requests
+import os
+import shutil
+
 
 from pokemon_types import get_pokemon_type_translation
 from experience_growth import EXPERIENCE_GROWTH
