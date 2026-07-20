@@ -23,7 +23,6 @@ def render_table(
     resistencias_html,
     inmunidades_html,
     generation,
-    region_map,
     region,
     clase,
     color_pokedex,
