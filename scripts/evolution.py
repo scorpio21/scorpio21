@@ -1,5 +1,7 @@
 import requests
 from item_translations import ITEM_TRANSLATIONS
+from pokemon_types import get_pokemon_type_translation
+from badges import build_tipos_html
 
 # Obtener la cadena de evolución
 def get_evolution_chain(pokedex_num):
@@ -12,10 +14,31 @@ def get_evolution_chain(pokedex_num):
             species["evolution_chain"]["url"]
         ).json()
 
-        html = '<table><tr>'
+        html = """
+<table align="center">
+<tr>
+"""
 
         def recorrer(cadena):
             nombre = cadena["species"]["name"].capitalize()
+
+            pokemon = requests.get(
+                f"https://pokeapi.co/api/v2/pokemon/{cadena['species']['name']}"
+            ).json()
+            
+            numero = pokemon["id"]
+
+            tipos_es = [
+                get_pokemon_type_translation(t["type"]["name"])
+                for t in pokemon["types"]
+            ]
+
+            tipos_html = build_tipos_html(tipos_es)
+
+            imagen = (
+                f"https://img.pokemondb.net/artwork/large/"
+                f"{nombre.lower()}.jpg"
+            )
 
             imagen = (
                 f"https://img.pokemondb.net/artwork/large/"
@@ -23,9 +46,55 @@ def get_evolution_chain(pokedex_num):
             )
 
             html_part = f"""
+<td align="center" valign="top">
+
+<table style="
+background:#EAF4F7;
+border:2px solid #3F4E5A;
+border-radius:12px;
+padding:8px;
+width:130px;
+">
+
+<tr>
 <td align="center">
-<img src="{imagen}" width="70"><br>
-<small><b>{nombre}</b></small>
+
+<div style="
+background:#98C2D1;
+border:2px solid #492A49;
+border-radius:50%;
+width:90px;
+height:90px;
+display:flex;
+align-items:center;
+justify-content:center;
+margin:auto;
+">
+
+<img src="{imagen}" width="74">
+
+</div>
+
+<br>
+
+<b style="font-size:15px;">{nombre}</b><br>
+
+<small style="
+color:#333;
+font-weight:bold;
+">
+#{numero:04d}
+</small>
+
+<br><br>
+
+{tipos_html}
+
+</td>
+</tr>
+
+</table>
+
 </td>
 """
 
@@ -124,9 +193,27 @@ def get_evolution_chain(pokedex_num):
                     texto = "Evoluciona"
 
                 html_part += f"""
-<td align="center">
-➡️<br>
-<small>{texto}</small>
+<td align="center" valign="middle" width="120">
+
+<div style="
+font-size:13px;
+font-weight:bold;
+color:#FFD700;
+margin-bottom:6px;
+">
+
+{texto}
+
+</div>
+
+<div style="
+font-size:34px;
+">
+
+➜
+
+</div>
+
 </td>
 """
 
@@ -135,7 +222,10 @@ def get_evolution_chain(pokedex_num):
             return html_part
 
         html += recorrer(evo_data["chain"])
-        html += "</tr></table>"
+        html += """
+</tr>
+</table>
+"""
 
         return html
 
