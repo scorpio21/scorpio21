@@ -54,20 +54,23 @@ align-items:center;
 width:95px;
 ">
 
-<div style="
+<table align="center" cellspacing="0" cellpadding="0">
+<tr>
+<td
+align="center"
+width="78"
+height="78"
+style="
 background:#98C2D1;
 border:2px solid #492A49;
 border-radius:50%;
-width:78px;
-height:78px;
-display:flex;
-align-items:center;
-justify-content:center;
 ">
 
 <img src="{imagen}" width="62">
 
-</div>
+</td>
+</tr>
+</table>
 
 <div style="
 margin-top:8px;
