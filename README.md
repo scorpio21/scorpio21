@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-20T14:53:00.457529 -->
+<!-- Generated: 2026-07-20T14:59:08.593417 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/494.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/646.png" width="220">
 </td>
 
 </tr>
@@ -48,7 +48,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar%20Victini-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Kyurem-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
 </a>
 </td>
 </tr>
@@ -59,24 +59,24 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟣 <b>Victini</b></td>
+<td>🟡✨ <b>Kyurem</b></td>
 </tr>
 
 <tr>
 <td><b>🇯🇵 Nombre original</b></td>
-<td>ビクティニ</td>
+<td>キュレム</td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
+<img src="https://img.shields.io/badge/Legendario-gold?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#494</td>
+<td>#646</td>
 </tr>
 
 <tr>
@@ -91,7 +91,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://archives.bulbagarden.net/media/upload/7/73/Psychic_icon_SwSh.png" width="22" alt="Psíquico" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico" style="vertical-align:middle;"><br><img src="https://archives.bulbagarden.net/media/upload/a/ab/Fire_icon_SwSh.png" width="22" alt="Fuego" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego" style="vertical-align:middle;"></td>
+<td><img src="https://archives.bulbagarden.net/media/upload/7/70/Dragon_icon_SwSh.png" width="22" alt="Dragón" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón" style="vertical-align:middle;"><br><img src="https://archives.bulbagarden.net/media/upload/1/15/Ice_icon_SwSh.png" width="22" alt="Hielo" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo" style="vertical-align:middle;"></td>
 </tr>
 
 <tr>
@@ -100,17 +100,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Victini</td>
+<td>Kyurem</td>
 </tr>
 
 <tr>
 <td><b>⭐ Legendario</b></td>
-<td>❌ No</td>
+<td>✅ Sí</td>
 </tr>
 
 <tr>
 <td><b>🌟 Mítico</b></td>
-<td>✅ Sí</td>
+<td>❌ No</td>
 </tr>
 
 <tr>
@@ -125,17 +125,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Amarillo-FFEB3B?style=flat-square&logoColor=black" alt="yellow"></td>
+<td><img src="https://img.shields.io/badge/Gris-9E9E9E?style=flat-square" alt="gray"></td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>0.4 m</td>
+<td>3.0 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>4.0 kg</td>
+<td>325.0 kg</td>
 </tr>
 
 <tr>
@@ -155,7 +155,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>❤️ Amistad base</b></td>
-<td>100</td>
+<td>0</td>
 </tr>
 
 <tr>
@@ -164,12 +164,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
 </tr>
 
 <tr>
@@ -194,7 +194,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Tinovictoria</b><br><small>Increases moves' accuracy to 1.1× for friendly Pokémon.</small><br><br></td>
+<td>🟢 ⚡ <b>Presión</b><br><small>Increases the PP cost of moves targetting the Pokémon by one.</small><br><br></td>
 </tr>
 
 <tr>
@@ -204,7 +204,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Gigaimpacto-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Canon-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Rayo-F8D030?style=flat-square"> <img src="https://img.shields.io/badge/Voltio%20Cruel-F8D030?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Pantalla%20de%20Luz-F85888?style=flat-square"> <img src="https://img.shields.io/badge/Rugido%20de%20Guerra-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Poder%20Oculto-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Meteoros-A8A878?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -234,7 +234,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/victini.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/kyurem.jpg" width="62">
 
 </td>
 </tr>
@@ -257,7 +257,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Victini
+Kyurem
 </b>
 
 <br>
@@ -266,12 +266,12 @@ Victini
 color:#555;
 font-weight:bold;
 ">
-#0494
+#0646
 </small>
 
 <br><br>
 
-<img src="https://archives.bulbagarden.net/media/upload/7/73/Psychic_icon_SwSh.png" width="18" alt="Psíquico" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico" style="vertical-align:middle;"><br><img src="https://archives.bulbagarden.net/media/upload/a/ab/Fire_icon_SwSh.png" width="18" alt="Fuego" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego" style="vertical-align:middle;">
+<img src="https://archives.bulbagarden.net/media/upload/7/70/Dragon_icon_SwSh.png" width="18" alt="Dragón" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón" style="vertical-align:middle;"><br><img src="https://archives.bulbagarden.net/media/upload/1/15/Ice_icon_SwSh.png" width="18" alt="Hielo" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo" style="vertical-align:middle;">
 
 </div>
 
@@ -295,7 +295,7 @@ font-weight:bold;
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>270</td>
+<td>297</td>
 </tr>
 
 <tr>
@@ -314,27 +314,27 @@ font-weight:bold;
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜
 
-<b>600 puntos</b><br>
+<b>660 puntos</b><br>
 💎 Pseudolegendario
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">❤️ PS 100<br>
-    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
-    ⚔️ Ataque 100<br>
-    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Defensa 100<br>
-    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
-    ✨ At. Especial 100<br>
-    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Def. Especial 100<br>
-    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
-    💨 Velocidad 100<br>
-    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜</td>
+<td style="background:red">❤️ PS 125<br>
+    🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜<br><br>
+    ⚔️ Ataque 130<br>
+    🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜<br><br>
+    🛡️ Defensa 90<br>
+    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br><br>
+    ✨ At. Especial 130<br>
+    🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜<br><br>
+    🛡️ Def. Especial 90<br>
+    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br><br>
+    💨 Velocidad 95<br>
+    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜</td>
 </tr>
 
 </table>
@@ -344,14 +344,14 @@ font-weight:bold;
 
 ## 💡 Curiosidad oficial
 
-> Pokémon que atrae la victoria. Dicen que el Entrenador que lo lleve saldrá vencedor de cualquier batalla.
+> Pokémon legendario que aguarda al héroe que compense el vacío de su cuerpo de hielo con verdad e ideales.
 
 ---
 
 ## 💡 Datos interesantes
 
-- 🎯 Ratio de captura: 3.
-- ❤️ Amistad base: 100.
+- 🥚 Pertenece al grupo huevo No-eggs.
+- 🎨 Su color en la Pokédex es gray.
 - 🧬 Introducido en la generación V (Teselia).
 
 ---
@@ -360,11 +360,11 @@ font-weight:bold;
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Victini** en:
+Puedes consultar información completa y actualizada de **Kyurem** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Victini)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/victini)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Victini_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Kyurem)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/kyurem)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Kyurem_(Pokémon))
 
 
 ---
@@ -950,16 +950,18 @@ Puedes consultar información completa y actualizada de **Victini** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-20T14:53:00.457529 -->
+<!-- Generated: 2026-07-20T14:59:08.593417 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"La vida es como un videojuego: ¡haz tu movimiento!"*
+> *"Si no estás ganando, ¡estás aprendiendo!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
