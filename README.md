@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-20T12:12:01.029457 -->
+<!-- Generated: 2026-07-20T12:41:11.410816 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/370.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/680.png" width="220">
 </td>
 
 </tr>
@@ -48,7 +48,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar%20Luvdisc-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Doublade-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
 </a>
 </td>
 </tr>
@@ -59,37 +59,39 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🔵 <b>Luvdisc</b></td>
+<td>🟣 <b>Doublade</b></td>
 </tr>
 
 <tr>
 <td><b>🇯🇵 Nombre original</b></td>
-<td>ラブカス</td>
+<td>ニダンギル</td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#370</td>
+<td>#680</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>
-<b>III (Hoenn)</b><br><br>
-<img src="https://archives.bulbagarden.net/media/upload/8/85/Hoenn_ORAS_Map.png" width="180">
-</td>
+<td>VI (Kalos)</td>
+</tr>
+
+<tr>
+<td><b>🗺️ Región</b></td>
+<td>🏝️ Kalos</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://archives.bulbagarden.net/media/upload/8/80/Water_icon_SwSh.png" width="22" alt="Agua" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;"></td>
+<td><img src="https://archives.bulbagarden.net/media/upload/0/09/Steel_icon_SwSh.png" width="22" alt="Acero" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero" style="vertical-align:middle;"> <img src="https://archives.bulbagarden.net/media/upload/0/01/Ghost_icon_SwSh.png" width="22" alt="Fantasma" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma" style="vertical-align:middle;"></td>
 </tr>
 
 <tr>
@@ -98,7 +100,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Luvdisc</td>
+<td>Doublade</td>
 </tr>
 
 <tr>
@@ -123,32 +125,32 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Rosa-E91E63?style=flat-square" alt="pink"></td>
+<td><img src="https://img.shields.io/badge/Marrón-795548?style=flat-square" alt="brown"></td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>0.6 m</td>
+<td>0.8 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>8.7 kg</td>
+<td>4.5 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ 25.0% &nbsp;&nbsp;&nbsp; ♀️ 75.0%</td>
+<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
 </tr>
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Sea</td>
+<td>Desconocido</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Water2</td>
+<td>Mineral</td>
 </tr>
 
 <tr>
@@ -162,27 +164,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
+<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td>Ninguna</td>
+<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜<br>88.2%</td>
+<td>🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br>35.3%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>225</td>
+<td>90</td>
 </tr>
 
 <tr>
@@ -192,32 +194,52 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Nado Rápido</b><br><small>Doubles Speed during rain.</small><br><br>⭐ ✨ <b>Hidratación</b> (Oculta)<br><small>Cures any major status ailment after each turn during rain.</small></td>
+<td>🟢 ⚡ <b>Indefenso</b><br><small>Ensures all moves used by and against the Pokémon hit.</small><br><br></td>
 </tr>
 
 <tr>
 <td><b>📦 Objetos</b></td>
-<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heart-scale.png" width="28" height="28"> <b>Heart Scale</b> (50%)</td>
+<td>No puede llevar objetos.</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Empapar-6890F0?style=flat-square"> <img src="https://img.shields.io/badge/Encanto-EE99AC?style=flat-square"> <img src="https://img.shields.io/badge/Fanfarronear-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Acua%20Jet-6890F0?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Corte-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Poder%20Oculto-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Demolici%C3%B3n-C03028?style=flat-square"> <img src="https://img.shields.io/badge/Danza%20Lluvia-6890F0?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td><table><tr>
 <td align="center">
-<img src="https://img.pokemondb.net/artwork/large/luvdisc.jpg" width="70"><br>
-<small><b>Luvdisc</b></small>
+<img src="https://img.pokemondb.net/artwork/large/honedge.jpg" width="70"><br>
+<small><b>Honedge</b></small>
+</td>
+
+<td align="center">
+➡️<br>
+<small>Nivel 35</small>
+</td>
+
+<td align="center">
+<img src="https://img.pokemondb.net/artwork/large/doublade.jpg" width="70"><br>
+<small><b>Doublade</b></small>
+</td>
+
+<td align="center">
+➡️<br>
+<small>Piedra Noche</small>
+</td>
+
+<td align="center">
+<img src="https://img.pokemondb.net/artwork/large/aegislash.jpg" width="70"><br>
+<small><b>Aegislash</b></small>
 </td>
 </tr></table></td>
 </tr>
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Diamante<br>🎮 Pokémon Esmeralda<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino<br>🎮 Pokémon Rojo Fuego<br>🎮 Pokémon Rubí<br>🎮 Pokémon Verde Hoja<br>🎮 Pokémon Zafiro</td>
+<td></td>
 </tr>
 
 <tr>
@@ -226,46 +248,46 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>116</td>
+<td>157</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
 <td>
-💠 <b>800.000 XP</b><br>
+💠 <b>1.000.000 XP</b><br>
 <small>Necesaria para alcanzar el nivel 100</small>
 </td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/R%C3%A1pido-blue?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Medio-lightgrey?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>330 puntos</b><br>
-👍 Normal
+<b>448 puntos</b><br>
+⚔️ Fuerte
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">❤️ PS 43<br>
+<td style="background:red">❤️ PS 59<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ⚔️ Ataque 30<br>
-    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Defensa 55<br>
+    ⚔️ Ataque 110<br>
+    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Defensa 150<br>
+    🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜<br><br>
+    ✨ At. Especial 45<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ✨ At. Especial 40<br>
+    🛡️ Def. Especial 49<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Def. Especial 65<br>
-    🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜<br><br>
-    💨 Velocidad 97<br>
-    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜</td>
+    💨 Velocidad 35<br>
+    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
 </tr>
 
 </table>
@@ -275,15 +297,15 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 💡 Curiosidad oficial
 
-> Vive en mares cálidos. Se dice que, si una pareja lo encuentra, será bendecida con amor eterno.
+> Al evolucionar se divide en dos espadas. Se comunican entre sí mediante telepatía y coordinan los ataques para rebanar al enemigo.
 
 ---
 
 ## 💡 Datos interesantes
 
-- 🎯 Ratio de captura: 225.
-- 🧬 Introducido en la generación III (Hoenn).
-- 🎨 Su color en la Pokédex es pink.
+- ⚖️ Pesa 4.5 kg.
+- 🥚 Pertenece al grupo huevo Mineral.
+- 🧬 Introducido en la generación VI (Kalos).
 
 ---
 
@@ -291,11 +313,11 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Luvdisc** en:
+Puedes consultar información completa y actualizada de **Doublade** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Luvdisc)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/luvdisc)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Luvdisc_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Doublade)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/doublade)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Doublade_(Pokémon))
 
 
 ---
@@ -875,8 +897,9 @@ Puedes consultar información completa y actualizada de **Luvdisc** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-20T12:12:01.029457 -->
+<!-- Generated: 2026-07-20T12:41:11.410816 -->
 
 ---
 
@@ -885,6 +908,7 @@ Puedes consultar información completa y actualizada de **Luvdisc** en:
 > *"Si no estás ganando, ¡estás aprendiendo!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
