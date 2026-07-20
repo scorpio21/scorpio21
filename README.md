@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-20T11:30:37.453404 -->
+<!-- Generated: 2026-07-20T11:35:15.419983 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/121.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/130.png" width="220">
 </td>
 
 </tr>
@@ -48,7 +48,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar%20Starmie-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Gyarados-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
 </a>
 </td>
 </tr>
@@ -59,7 +59,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🔵 <b>Starmie</b></td>
+<td>🔵 <b>Gyarados</b></td>
 </tr>
 
 <tr>
@@ -71,7 +71,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#121</td>
+<td>#130</td>
 </tr>
 
 <tr>
@@ -81,7 +81,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://archives.bulbagarden.net/media/upload/8/80/Water_icon_SwSh.png" width="22" alt="Agua" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;"> <img src="https://archives.bulbagarden.net/media/upload/7/73/Psychic_icon_SwSh.png" width="22" alt="Psíquico" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico" style="vertical-align:middle;"></td>
+<td><img src="https://archives.bulbagarden.net/media/upload/8/80/Water_icon_SwSh.png" width="22" alt="Agua" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;"> <img src="https://archives.bulbagarden.net/media/upload/b/b5/Flying_icon_SwSh.png" width="22" alt="Volador" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador" style="vertical-align:middle;"></td>
 </tr>
 
 <tr>
@@ -90,7 +90,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Starmie</td>
+<td>Gyarados</td>
 </tr>
 
 <tr>
@@ -115,32 +115,32 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Morado-9C27B0?style=flat-square" alt="purple"></td>
+<td><img src="https://img.shields.io/badge/Azul-2196F3?style=flat-square" alt="blue"></td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>1.1 m</td>
+<td>6.5 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>80.0 kg</td>
+<td>235.0 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ Sin género &nbsp;&nbsp;&nbsp; ♀️ Sin género</td>
+<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
 </tr>
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Sea</td>
+<td>Waters-edge</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Water3</td>
+<td>Water2, Dragon</td>
 </tr>
 
 <tr>
@@ -154,27 +154,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
+<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td>Ninguna</td>
+<td><img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>23.5%</td>
+<td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>17.6%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>60</td>
+<td>45</td>
 </tr>
 
 <tr>
@@ -184,35 +184,35 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Iluminación</b><br><small>Doubles the wild encounter rate.</small><br><br>🟢 ⚡ <b>Cura Natural</b><br><small>Cures any major status ailment upon switching out.</small><br><br>⭐ ✨ <b>Cálculo Final</b> (Oculta)<br><small>Strengthens moves to 1.3× their power when moving last.</small></td>
+<td>🟢 ⚡ <b>Intimidación</b><br><small>Lowers opponents' Attack one stage upon entering battle.</small><br><br>⭐ ✨ <b>Autoestima</b> (Oculta)<br><small>Raises Attack one stage upon KOing a Pokémon.</small></td>
 </tr>
 
 <tr>
 <td><b>📦 Objetos</b></td>
-<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/stardust.png" width="28" height="28"> <b>Stardust</b> (50%)<br><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/star-piece.png" width="28" height="28"> <b>Star Piece</b> (5%)</td>
+<td>No puede llevar objetos.</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Meteoros-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Autosugesti%C3%B3n-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Viraje-6890F0?style=flat-square"> <img src="https://img.shields.io/badge/Hidropulso-6890F0?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Pulso%20Drag%C3%B3n-7038F8?style=flat-square"> <img src="https://img.shields.io/badge/Da%C3%B1o%20Secreto-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Golpe%20Cabeza-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Cabeza%20de%20Hierro-B8B8D0?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td><table><tr>
 <td align="center">
-<img src="https://img.pokemondb.net/artwork/large/staryu.jpg" width="70"><br>
-<small><b>Staryu</b></small>
+<img src="https://img.pokemondb.net/artwork/large/magikarp.jpg" width="70"><br>
+<small><b>Magikarp</b></small>
 </td>
 
 <td align="center">
 ➡️<br>
-<small>Piedra Agua</small>
+<small>Nivel 20</small>
 </td>
 
 <td align="center">
-<img src="https://img.pokemondb.net/artwork/large/starmie.jpg" width="70"><br>
-<small><b>Starmie</b></small>
+<img src="https://img.pokemondb.net/artwork/large/gyarados.jpg" width="70"><br>
+<small><b>Gyarados</b></small>
 </td>
 </tr></table></td>
 </tr>
@@ -228,7 +228,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>182</td>
+<td>189</td>
 </tr>
 
 <tr>
@@ -247,27 +247,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜
 
-<b>520 puntos</b><br>
+<b>540 puntos</b><br>
 🔥 Muy fuerte
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">❤️ PS 60<br>
+<td style="background:red">❤️ PS 95<br>
+    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br><br>
+    ⚔️ Ataque 125<br>
+    🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜<br><br>
+    🛡️ Defensa 79<br>
+    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
+    ✨ At. Especial 60<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ⚔️ Ataque 75<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Defensa 85<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ✨ At. Especial 100<br>
+    🛡️ Def. Especial 100<br>
     🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Def. Especial 85<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
-    💨 Velocidad 115<br>
-    🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜</td>
+    💨 Velocidad 81<br>
+    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜</td>
 </tr>
 
 </table>
@@ -277,15 +277,15 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 💡 Curiosidad oficial
 
-> Su núcleo central brilla con los colores del arcoíris. Para algunos tiene el valor de una gema.
+> En la literatura antigua se dice que un Gyarados rebosante de violencia arrasó un poblado.
 
 ---
 
 ## 💡 Datos interesantes
 
-- 🎨 Su color en la Pokédex es purple.
-- ❤️ Amistad base: 70.
-- ⚖️ Pesa 80.0 kg.
+- 🥚 Pertenece al grupo huevo Water2, Dragon.
+- 🧬 Introducido en la generación I (Kanto).
+- 🎯 Ratio de captura: 45.
 
 ---
 
@@ -293,11 +293,11 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Starmie** en:
+Puedes consultar información completa y actualizada de **Gyarados** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Starmie)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/starmie)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Starmie_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Gyarados)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/gyarados)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gyarados_(Pokémon))
 
 
 ---
@@ -873,16 +873,18 @@ Puedes consultar información completa y actualizada de **Starmie** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-20T11:30:37.453404 -->
+<!-- Generated: 2026-07-20T11:35:15.419983 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"El verdadero juego comienza cuando apagas la consola."*
+> *"Gamer de día, héroe de noche."*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
