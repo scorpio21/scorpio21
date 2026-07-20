@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-20T11:47:19.809653 -->
+<!-- Generated: 2026-07-20T11:53:08.402872 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/272.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/697.png" width="220">
 </td>
 
 </tr>
@@ -48,7 +48,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar%20Ludicolo-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Tyrantrum-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
 </a>
 </td>
 </tr>
@@ -59,12 +59,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🔵 <b>Ludicolo</b></td>
+<td>🔵 <b>Tyrantrum</b></td>
 </tr>
 
 <tr>
 <td><b>🇯🇵 Nombre japonés</b></td>
-<td>Desconocido</td>
+<td>ガチゴラス</td>
 </tr>
 
 <tr>
@@ -76,17 +76,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#272</td>
+<td>#697</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>III (Hoenn)</td>
+<td>VI (Kalos)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://archives.bulbagarden.net/media/upload/8/80/Water_icon_SwSh.png" width="22" alt="Agua" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;"> <img src="https://archives.bulbagarden.net/media/upload/a/a8/Grass_icon_SwSh.png" width="22" alt="Planta" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta" style="vertical-align:middle;"></td>
+<td><img src="https://archives.bulbagarden.net/media/upload/1/11/Rock_icon_SwSh.png" width="22" alt="Roca" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca" style="vertical-align:middle;"> <img src="https://archives.bulbagarden.net/media/upload/7/70/Dragon_icon_SwSh.png" width="22" alt="Dragón" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón" style="vertical-align:middle;"></td>
 </tr>
 
 <tr>
@@ -95,7 +95,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Ludicolo</td>
+<td>Tyrantrum</td>
 </tr>
 
 <tr>
@@ -120,32 +120,32 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Verde-4CAF50?style=flat-square" alt="green"></td>
+<td><img src="https://img.shields.io/badge/Rojo-F44336?style=flat-square" alt="red"></td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>1.5 m</td>
+<td>2.5 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>55.0 kg</td>
+<td>270.0 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
+<td>♂️ 87.5% &nbsp;&nbsp;&nbsp; ♀️ 12.5%</td>
 </tr>
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Waters-edge</td>
+<td>Desconocido</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Water1, Plant</td>
+<td>Monster, Dragon</td>
 </tr>
 
 <tr>
@@ -159,12 +159,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
@@ -189,52 +189,42 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Nado Rápido</b><br><small>Doubles Speed during rain.</small><br><br>🟢 ⚡ <b>Cura Lluvia</b><br><small>Heals for 1/16 max HP after each turn during rain.</small><br><br>⭐ ✨ <b>Ritmo Propio</b> (Oculta)<br><small>Prevents confusion.</small></td>
+<td>🟢 ⚡ <b>Mandíbula Fuerte</b><br><small>Strengthens biting moves to 1.5× their power.</small><br><br>⭐ ✨ <b>Cabeza Roca</b> (Oculta)<br><small>Protects against recoil damage.</small></td>
 </tr>
 
 <tr>
 <td><b>📦 Objetos</b></td>
-<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mental-herb.png" width="28" height="28"> <b>Mental Herb</b> (5%)</td>
+<td>No puede llevar objetos.</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Da%C3%B1o%20Secreto-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Pu%C3%B1o%20Hielo-98D8D8?style=flat-square"> <img src="https://img.shields.io/badge/Megapu%C3%B1o-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Don%20Natural-A8A878?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Atracci%C3%B3n-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Frustraci%C3%B3n-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Trampa%20Rocas-B8A038?style=flat-square"> <img src="https://img.shields.io/badge/Poder%20Oculto-A8A878?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td><table><tr>
 <td align="center">
-<img src="https://img.pokemondb.net/artwork/large/lotad.jpg" width="70"><br>
-<small><b>Lotad</b></small>
+<img src="https://img.pokemondb.net/artwork/large/tyrunt.jpg" width="70"><br>
+<small><b>Tyrunt</b></small>
 </td>
 
 <td align="center">
 ➡️<br>
-<small>Nivel 14</small>
+<small>Nivel 39</small>
 </td>
 
 <td align="center">
-<img src="https://img.pokemondb.net/artwork/large/lombre.jpg" width="70"><br>
-<small><b>Lombre</b></small>
-</td>
-
-<td align="center">
-➡️<br>
-<small>Piedra Agua</small>
-</td>
-
-<td align="center">
-<img src="https://img.pokemondb.net/artwork/large/ludicolo.jpg" width="70"><br>
-<small><b>Ludicolo</b></small>
+<img src="https://img.pokemondb.net/artwork/large/tyrantrum.jpg" width="70"><br>
+<small><b>Tyrantrum</b></small>
 </td>
 </tr></table></td>
 </tr>
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Diamante<br>🎮 Pokémon Esmeralda<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino<br>🎮 Pokémon Rojo Fuego<br>🎮 Pokémon Rubí<br>🎮 Pokémon Verde Hoja<br>🎮 Pokémon Zafiro</td>
+<td></td>
 </tr>
 
 <tr>
@@ -243,45 +233,45 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>216</td>
+<td>182</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
 <td>
-💠 <b>1.059.860 XP</b><br>
+💠 <b>1.000.000 XP</b><br>
 <small>Necesaria para alcanzar el nivel 100</small>
 </td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Medio%20lento-yellow?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Medio-lightgrey?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜
 
-<b>480 puntos</b><br>
-⚔️ Fuerte
+<b>521 puntos</b><br>
+🔥 Muy fuerte
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">❤️ PS 80<br>
+<td style="background:red">❤️ PS 82<br>
     🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ⚔️ Ataque 70<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Defensa 70<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ✨ At. Especial 90<br>
-    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Def. Especial 100<br>
-    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
-    💨 Velocidad 70<br>
+    ⚔️ Ataque 121<br>
+    🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜<br><br>
+    🛡️ Defensa 119<br>
+    🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜<br><br>
+    ✨ At. Especial 69<br>
+    🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Def. Especial 59<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    💨 Velocidad 71<br>
     🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜</td>
 </tr>
 
@@ -292,15 +282,15 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 💡 Curiosidad oficial
 
-> Cuando oye música alegre, sus músculos se llenan de energía, y no puede evitar ponerse a bailar.
+> En el mundo antiguo en el que habitaba no tenía rivales gracias a sus mandíbulas, con las que podría despedazar con facilidad gruesas placas de acero.
 
 ---
 
 ## 💡 Datos interesantes
 
-- ⚖️ Pesa 55.0 kg.
-- 📏 Mide 1.5 m.
-- ❤️ Amistad base: 70.
+- 🎯 Ratio de captura: 45.
+- 🎨 Su color en la Pokédex es red.
+- 📏 Mide 2.5 m.
 
 ---
 
@@ -308,11 +298,11 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Ludicolo** en:
+Puedes consultar información completa y actualizada de **Tyrantrum** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Ludicolo)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/ludicolo)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Ludicolo_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Tyrantrum)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/tyrantrum)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Tyrantrum_(Pokémon))
 
 
 ---
@@ -890,16 +880,18 @@ Puedes consultar información completa y actualizada de **Ludicolo** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-20T11:47:19.809653 -->
+<!-- Generated: 2026-07-20T11:53:08.402872 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"El verdadero juego comienza cuando apagas la consola."*
+> *"Si no estás ganando, ¡estás aprendiendo!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
