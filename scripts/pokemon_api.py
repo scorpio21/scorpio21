@@ -23,7 +23,7 @@ def get_pokemon_of_the_day():
     nombre_japones = "Desconocido"
 
     for n in species["names"]:
-        if n["language"]["name"] == "ja-Hrkt":
+        if n["language"]["name"] == "ja":
             nombre_japones = n["name"]
             break
 
