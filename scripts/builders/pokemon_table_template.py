@@ -15,6 +15,7 @@ def render_table(
     shiny_img_url,
     cry_url,
     nombre,
+    nombre_japones,
     rareza,
     pokedex_num,
     tipos_html,
