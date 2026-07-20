@@ -12,7 +12,19 @@ from config import (
     rareza_colores,
 )
 from pokemon_types import obtener_tipo_info
+from urllib.parse import quote
 
+#------------------------------
+# Gritos
+#------------------------------
+
+def build_cry_badge(nombre):
+    nombre = quote(nombre)
+    return (
+        f'https://img.shields.io/badge/'
+        f'▶️%20Escuchar%20{nombre}-'
+        f'Grito%20Oficial-4CAF50?style=for-the-badge'
+    )
 
 # Nombre con icono de rareza
 def build_nombre_md(rareza, nombre):

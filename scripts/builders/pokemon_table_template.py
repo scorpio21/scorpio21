@@ -5,7 +5,7 @@
 #==========================
 
 from color_badges import build_color_badge
-
+from badges import build_cry_badge
 #==========================
 # FUNCIONES
 #=========================
@@ -91,7 +91,7 @@ def render_table(
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="{build_cry_badge(nombre)}" alt="Escuchar grito">
 </a>
 </td>
 </tr>
