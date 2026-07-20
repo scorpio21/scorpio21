@@ -31,7 +31,11 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
 
+          echo "=== Contenido de cries ==="
+          ls -la cries || true
+
           git add README.md
+          git add cries/
 
           if git diff --cached --quiet; then
             echo "No hay cambios."
