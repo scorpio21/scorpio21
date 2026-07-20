@@ -106,6 +106,11 @@ def render_table(
 </tr>
 
 <tr>
+<td><b>🇯🇵 Nombre japonés</b></td>
+<td>{nombre_japones}</td>
+</tr>
+
+<tr>
 <td><b>Rareza</b></td>
 <td>
 <img src="https://img.shields.io/badge/{rareza_texto[rareza]}-{rareza_colores[rareza]}?style=flat-square">
