@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-18T00:05:51.305266 -->
+<!-- Generated: 2026-07-19T10:18:32.044324 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,18 +29,29 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/276.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/401.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/276.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/401.png" width="220">
 </td>
 
 </tr>
 </table>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<b>🔊 Grito oficial</b><br>
+
+<audio controls preload="none">
+    <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/401.ogg" type="audio/ogg">
+</audio>
 
 </td>
 </tr>
@@ -51,7 +62,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟢 <b>Taillow</b></td>
+<td>🟢 <b>Kricketot</b></td>
 </tr>
 
 <tr>
@@ -63,17 +74,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#276</td>
+<td>#401</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>III (Hoenn)</td>
+<td>IV (Sinnoh)</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://archives.bulbagarden.net/media/upload/8/89/Normal_icon_SwSh.png" width="22" alt="Normal" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal" style="vertical-align:middle;"> <img src="https://archives.bulbagarden.net/media/upload/b/b5/Flying_icon_SwSh.png" width="22" alt="Volador" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador" style="vertical-align:middle;"></td>
+<td><img src="https://archives.bulbagarden.net/media/upload/9/9c/Bug_icon_SwSh.png" width="22" alt="Bicho" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho" style="vertical-align:middle;"></td>
 </tr>
 
 <tr>
@@ -82,7 +93,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Taillow</td>
+<td>Kricketot</td>
 </tr>
 
 <tr>
@@ -107,7 +118,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Azul-2196F3?style=flat-square" alt="blue"></td>
+<td><img src="https://img.shields.io/badge/Rojo-F44336?style=flat-square" alt="red"></td>
 </tr>
 
 <tr>
@@ -117,7 +128,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>2.3 kg</td>
+<td>2.2 kg</td>
 </tr>
 
 <tr>
@@ -127,12 +138,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Grassland</td>
+<td>Desconocido</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Flying</td>
+<td>Bug</td>
 </tr>
 
 <tr>
@@ -146,27 +157,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"></td>
+<td><img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
+<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
+<td>Ninguna</td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜<br>78.4%</td>
+<td>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩<br>100.0%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>200</td>
+<td>255</td>
 </tr>
 
 <tr>
@@ -176,42 +187,42 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Agallas</b><br><small>Increases Attack to 1.5× with a major status ailment.</small><br><br>⭐ ✨ <b>Intrépido</b> (Oculta)<br><small>Lets the Pokémon's Normal and Fighting moves hit Ghost Pokémon.</small></td>
+<td>🟢 ⚡ <b>Mudar</b><br><small>Has a 33% chance of curing any major status ailment after each turn.</small><br><br>⭐ ✨ <b>Fuga</b> (Oculta)<br><small>Ensures success fleeing from wild battles.</small></td>
 </tr>
 
 <tr>
 <td><b>📦 Objetos</b></td>
-<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charti-berry.png" width="28" height="28"> <b>Charti Berry</b> (5%)</td>
+<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metronome.png" width="28" height="28"> <b>Metronome</b> (5%)</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/T%C3%B3xico-A040A0?style=flat-square"> <img src="https://img.shields.io/badge/Confidencia-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Persecuci%C3%B3n-705848?style=flat-square"> <img src="https://img.shields.io/badge/Agilidad-F85888?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Destructor-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Ronquido-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Absorber-78C850?style=flat-square"> <img src="https://img.shields.io/badge/Disparo%20Demora-A8B820?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🔄 Evolución</b></td>
 <td><table><tr>
 <td align="center">
-<img src="https://img.pokemondb.net/artwork/large/taillow.jpg" width="70"><br>
-<small><b>Taillow</b></small>
+<img src="https://img.pokemondb.net/artwork/large/kricketot.jpg" width="70"><br>
+<small><b>Kricketot</b></small>
 </td>
 
 <td align="center">
 ➡️<br>
-<small>Nivel 22</small>
+<small>Nivel 10</small>
 </td>
 
 <td align="center">
-<img src="https://img.pokemondb.net/artwork/large/swellow.jpg" width="70"><br>
-<small><b>Swellow</b></small>
+<img src="https://img.pokemondb.net/artwork/large/kricketune.jpg" width="70"><br>
+<small><b>Kricketune</b></small>
 </td>
 </tr></table></td>
 </tr>
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Diamante<br>🎮 Pokémon Esmeralda<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino<br>🎮 Pokémon Rojo Fuego<br>🎮 Pokémon Rubí<br>🎮 Pokémon Verde Hoja<br>🎮 Pokémon Zafiro</td>
+<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Diamante<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino</td>
 </tr>
 
 <tr>
@@ -220,7 +231,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>54</td>
+<td>39</td>
 </tr>
 
 <tr>
@@ -239,27 +250,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>270 puntos</b><br>
+<b>194 puntos</b><br>
 🌱 Básico
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">❤️ PS 40<br>
+<td style="background:red">❤️ PS 37<br>
+    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    ⚔️ Ataque 25<br>
+    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Defensa 41<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ⚔️ Ataque 55<br>
+    ✨ At. Especial 25<br>
+    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Def. Especial 41<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Defensa 30<br>
-    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ✨ At. Especial 30<br>
-    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Def. Especial 30<br>
-    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    💨 Velocidad 85<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜</td>
+    💨 Velocidad 25<br>
+    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
 </tr>
 
 </table>
@@ -269,15 +280,15 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 💡 Curiosidad oficial
 
-> Es un Pokémon valiente que no teme a los rivales fuertes. Vuela en busca de climas templados.
+> Hablan entre sí chocando las antenas. Los sonidos producidos son muy característicos.
 
 ---
 
 ## 💡 Datos interesantes
 
-- 🥚 Pertenece al grupo huevo Flying.
-- ⚖️ Pesa 2.3 kg.
-- ❤️ Amistad base: 70.
+- 🎯 Ratio de captura: 255.
+- 📏 Mide 0.3 m.
+- ⚖️ Pesa 2.2 kg.
 
 ---
 
@@ -285,11 +296,11 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Taillow** en:
+Puedes consultar información completa y actualizada de **Kricketot** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Taillow)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/taillow)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Taillow_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Kricketot)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/kricketot)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Kricketot_(Pokémon))
 
 
 ---
@@ -298,7 +309,7 @@ Puedes consultar información completa y actualizada de **Taillow** en:
 
 ⭐ Datos obtenidos de <b>PokéAPI</b><br>
 🤖 Generado automáticamente con Python<br>
-🗓️ Última actualización: <b>2026-07-18</b>
+🗓️ Última actualización: <b>2026-07-19</b>
 
 </p>
 
@@ -858,16 +869,24 @@ Puedes consultar información completa y actualizada de **Taillow** en:
 
 
 
+
+
+
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-18T00:05:51.305266 -->
+<!-- Generated: 2026-07-19T10:18:32.044324 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"Solo hay una regla: ¡Ganar es lo único que importa!"*
+> *"La vida es como un videojuego: ¡haz tu movimiento!"*
 
 <!-- END_FRASE_GAMER -->
+
+
+
+
 
 
 
