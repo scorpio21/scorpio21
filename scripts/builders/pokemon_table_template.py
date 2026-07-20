@@ -90,12 +90,9 @@ def render_table(
 
 <tr>
 <td colspan="2" align="center">
-<b>🔊 Grito oficial</b><br>
-
-<audio controls preload="none">
-    <source src="{cry_url}" type="audio/ogg">
-</audio>
-
+<a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
+<img src="https://img.shields.io/badge/▶️%20Escuchar-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+</a>
 </td>
 </tr>
 
