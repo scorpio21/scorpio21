@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-20T13:02:58.955916 -->
+<!-- Generated: 2026-07-20T14:31:56.675624 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/68.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/663.png" width="220">
 </td>
 
 </tr>
@@ -48,7 +48,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar%20Machamp-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Talonflame-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
 </a>
 </td>
 </tr>
@@ -59,12 +59,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🔵 <b>Machamp</b></td>
+<td>🔵 <b>Talonflame</b></td>
 </tr>
 
 <tr>
 <td><b>🇯🇵 Nombre original</b></td>
-<td>カイリキー</td>
+<td>ファイアロー</td>
 </tr>
 
 <tr>
@@ -76,22 +76,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#68</td>
+<td>#663</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>I (Kanto)</td>
+<td>VI (Kalos)</td>
 </tr>
 
 <tr>
 <td><b>🗺️ Región</b></td>
-<td>🏝️ Kanto</td>
+<td>🏝️ Kalos</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://archives.bulbagarden.net/media/upload/3/3b/Fighting_icon_SwSh.png" width="22" alt="Lucha" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha" style="vertical-align:middle;"></td>
+<td><img src="https://archives.bulbagarden.net/media/upload/a/ab/Fire_icon_SwSh.png" width="22" alt="Fuego" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego" style="vertical-align:middle;"> <img src="https://archives.bulbagarden.net/media/upload/b/b5/Flying_icon_SwSh.png" width="22" alt="Volador" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador" style="vertical-align:middle;"></td>
 </tr>
 
 <tr>
@@ -100,7 +100,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Machamp</td>
+<td>Talonflame</td>
 </tr>
 
 <tr>
@@ -125,32 +125,32 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Gris-9E9E9E?style=flat-square" alt="gray"></td>
+<td><img src="https://img.shields.io/badge/Rojo-F44336?style=flat-square" alt="red"></td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>1.6 m</td>
+<td>1.2 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>130.0 kg</td>
+<td>24.5 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ 75.0% &nbsp;&nbsp;&nbsp; ♀️ 25.0%</td>
+<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
 </tr>
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Mountain</td>
+<td>Desconocido</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Humanshape</td>
+<td>Flying</td>
 </tr>
 
 <tr>
@@ -164,17 +164,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td>Ninguna</td>
+<td><img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
@@ -194,17 +194,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Agallas</b><br><small>Increases Attack to 1.5× with a major status ailment.</small><br><br>🟢 ⚡ <b>Indefenso</b><br><small>Ensures all moves used by and against the Pokémon hit.</small><br><br>⭐ ✨ <b>Impasible</b> (Oculta)<br><small>Raises Speed one stage upon flinching.</small></td>
+<td>🟢 ⚡ <b>Cuerpo Llama</b><br><small>Has a 30% chance of burning attacking Pokémon on contact.</small><br><br>⭐ ✨ <b>Alas Vendaval</b> (Oculta)<br><small>Raises Flying moves' priority by one stage.</small></td>
 </tr>
 
 <tr>
 <td><b>📦 Objetos</b></td>
-<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-band.png" width="28" height="28"> <b>Focus Band</b> (5%)</td>
+<td>No puede llevar objetos.</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Represalia-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Otra%20Vez-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Lanzallamas-F08030?style=flat-square"> <img src="https://img.shields.io/badge/Desquite-C03028?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Son%C3%A1mbulo-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Despejar-A890F0?style=flat-square"> <img src="https://img.shields.io/badge/Vuelo-A890F0?style=flat-square"> <img src="https://img.shields.io/badge/Calcinaci%C3%B3n-F08030?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -215,70 +215,83 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center" valign="top">
 
-<table style="
-background:#EAF4F7;
-border:2px solid #3F4E5A;
-border-radius:12px;
-padding:8px;
-width:130px;
+<div style="
+display:flex;
+flex-direction:column;
+align-items:center;
+width:150px;
 ">
-
-<tr>
-<td align="center">
 
 <div style="
 background:#98C2D1;
 border:2px solid #492A49;
 border-radius:50%;
-width:90px;
-height:90px;
+width:96px;
+height:96px;
 display:flex;
 align-items:center;
 justify-content:center;
-margin:auto;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/machop.jpg" width="74">
+<img src="https://img.pokemondb.net/artwork/large/fletchling.jpg" width="82">
 
 </div>
 
+<div style="
+margin-top:8px;
+font-size:12px;
+color:#9aa6b2;
+">
+
+</div>
+
+<div style="
+margin-top:6px;
+padding:6px 10px;
+background:#EAF4F7;
+border-radius:8px;
+min-width:120px;
+">
+
+<b style="font-size:18px;color:#000;">
+Fletchling
+</b>
+
 <br>
 
-<b style="font-size:15px;">Machop</b><br>
-
 <small style="
-color:#333;
+color:#555;
 font-weight:bold;
 ">
-#0066
+#0661
 </small>
 
 <br><br>
 
-<img src="https://archives.bulbagarden.net/media/upload/3/3b/Fighting_icon_SwSh.png" width="22" alt="Lucha" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha" style="vertical-align:middle;">
+<img src="https://archives.bulbagarden.net/media/upload/8/89/Normal_icon_SwSh.png" width="22" alt="Normal" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal" style="vertical-align:middle;"> <img src="https://archives.bulbagarden.net/media/upload/b/b5/Flying_icon_SwSh.png" width="22" alt="Volador" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador" style="vertical-align:middle;">
+
+</div>
+
+</div>
 
 </td>
-</tr>
 
-</table>
-
-</td>
-
-<td align="center" valign="middle" width="120">
+<td align="center" valign="middle" width="110">
 
 <div style="
-font-size:13px;
+font-size:14px;
 font-weight:bold;
-color:#FFD700;
-margin-bottom:6px;
+color:#FFD54F;
+margin-bottom:10px;
 ">
 
-Nivel 28
+Nivel 17
 
 </div>
 
 <div style="
-font-size:34px;
+font-size:32px;
+font-weight:bold;
 ">
 
 ➜
@@ -289,70 +302,83 @@ font-size:34px;
 
 <td align="center" valign="top">
 
-<table style="
-background:#EAF4F7;
-border:2px solid #3F4E5A;
-border-radius:12px;
-padding:8px;
-width:130px;
+<div style="
+display:flex;
+flex-direction:column;
+align-items:center;
+width:150px;
 ">
-
-<tr>
-<td align="center">
 
 <div style="
 background:#98C2D1;
 border:2px solid #492A49;
 border-radius:50%;
-width:90px;
-height:90px;
+width:96px;
+height:96px;
 display:flex;
 align-items:center;
 justify-content:center;
-margin:auto;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/machoke.jpg" width="74">
+<img src="https://img.pokemondb.net/artwork/large/fletchinder.jpg" width="82">
 
 </div>
 
+<div style="
+margin-top:8px;
+font-size:12px;
+color:#9aa6b2;
+">
+
+</div>
+
+<div style="
+margin-top:6px;
+padding:6px 10px;
+background:#EAF4F7;
+border-radius:8px;
+min-width:120px;
+">
+
+<b style="font-size:18px;color:#000;">
+Fletchinder
+</b>
+
 <br>
 
-<b style="font-size:15px;">Machoke</b><br>
-
 <small style="
-color:#333;
+color:#555;
 font-weight:bold;
 ">
-#0067
+#0662
 </small>
 
 <br><br>
 
-<img src="https://archives.bulbagarden.net/media/upload/3/3b/Fighting_icon_SwSh.png" width="22" alt="Lucha" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha" style="vertical-align:middle;">
+<img src="https://archives.bulbagarden.net/media/upload/a/ab/Fire_icon_SwSh.png" width="22" alt="Fuego" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego" style="vertical-align:middle;"> <img src="https://archives.bulbagarden.net/media/upload/b/b5/Flying_icon_SwSh.png" width="22" alt="Volador" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador" style="vertical-align:middle;">
+
+</div>
+
+</div>
 
 </td>
-</tr>
 
-</table>
-
-</td>
-
-<td align="center" valign="middle" width="120">
+<td align="center" valign="middle" width="110">
 
 <div style="
-font-size:13px;
+font-size:14px;
 font-weight:bold;
-color:#FFD700;
-margin-bottom:6px;
+color:#FFD54F;
+margin-bottom:10px;
 ">
 
-Intercambio
+Nivel 35
 
 </div>
 
 <div style="
-font-size:34px;
+font-size:32px;
+font-weight:bold;
 ">
 
 ➜
@@ -363,52 +389,64 @@ font-size:34px;
 
 <td align="center" valign="top">
 
-<table style="
-background:#EAF4F7;
-border:2px solid #3F4E5A;
-border-radius:12px;
-padding:8px;
-width:130px;
+<div style="
+display:flex;
+flex-direction:column;
+align-items:center;
+width:150px;
 ">
-
-<tr>
-<td align="center">
 
 <div style="
 background:#98C2D1;
 border:2px solid #492A49;
 border-radius:50%;
-width:90px;
-height:90px;
+width:96px;
+height:96px;
 display:flex;
 align-items:center;
 justify-content:center;
-margin:auto;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/machamp.jpg" width="74">
+<img src="https://img.pokemondb.net/artwork/large/talonflame.jpg" width="82">
 
 </div>
 
+<div style="
+margin-top:8px;
+font-size:12px;
+color:#9aa6b2;
+">
+
+</div>
+
+<div style="
+margin-top:6px;
+padding:6px 10px;
+background:#EAF4F7;
+border-radius:8px;
+min-width:120px;
+">
+
+<b style="font-size:18px;color:#000;">
+Talonflame
+</b>
+
 <br>
 
-<b style="font-size:15px;">Machamp</b><br>
-
 <small style="
-color:#333;
+color:#555;
 font-weight:bold;
 ">
-#0068
+#0663
 </small>
 
 <br><br>
 
-<img src="https://archives.bulbagarden.net/media/upload/3/3b/Fighting_icon_SwSh.png" width="22" alt="Lucha" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha" style="vertical-align:middle;">
+<img src="https://archives.bulbagarden.net/media/upload/a/ab/Fire_icon_SwSh.png" width="22" alt="Fuego" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego" style="vertical-align:middle;"> <img src="https://archives.bulbagarden.net/media/upload/b/b5/Flying_icon_SwSh.png" width="22" alt="Volador" style="vertical-align:middle;"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador" style="vertical-align:middle;">
 
-</td>
-</tr>
+</div>
 
-</table>
+</div>
 
 </td>
 
@@ -419,7 +457,7 @@ font-weight:bold;
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td>🎮 Pokémon Amarillo<br>🎮 Pokémon Azul<br>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Cristal<br>🎮 Pokémon Diamante<br>🎮 Pokémon Esmeralda<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino<br>🎮 Pokémon Rojo<br>🎮 Pokémon Rojo Fuego<br>🎮 Pokémon Rubí<br>🎮 Pokémon Verde Hoja<br>🎮 Pokémon Zafiro</td>
+<td></td>
 </tr>
 
 <tr>
@@ -428,7 +466,7 @@ font-weight:bold;
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>227</td>
+<td>175</td>
 </tr>
 
 <tr>
@@ -449,25 +487,25 @@ font-weight:bold;
 <td>
 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜
 
-<b>505 puntos</b><br>
-🔥 Muy fuerte
+<b>499 puntos</b><br>
+⚔️ Fuerte
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">❤️ PS 90<br>
-    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br><br>
-    ⚔️ Ataque 130<br>
-    🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜<br><br>
-    🛡️ Defensa 80<br>
+<td style="background:red">❤️ PS 78<br>
     🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ✨ At. Especial 65<br>
+    ⚔️ Ataque 81<br>
+    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Defensa 71<br>
+    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
+    ✨ At. Especial 74<br>
+    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Def. Especial 69<br>
     🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Def. Especial 85<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
-    💨 Velocidad 55<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜</td>
+    💨 Velocidad 126<br>
+    🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜</td>
 </tr>
 
 </table>
@@ -477,15 +515,15 @@ font-weight:bold;
 
 ## 💡 Curiosidad oficial
 
-> Tiene cuatro brazos tan bien desarrollados que puede dar una serie de 1000 puñetazos en cuestión de dos segundos.
+> Si se exalta durante un combate reñido, arroja chispas y ascuas de los intersticios entre su plumaje mientras vuela.
 
 ---
 
 ## 💡 Datos interesantes
 
-- ⚖️ Pesa 130.0 kg.
-- ❤️ Amistad base: 70.
-- 🧬 Introducido en la generación I (Kanto).
+- 🎨 Su color en la Pokédex es red.
+- 📏 Mide 1.2 m.
+- 🥚 Pertenece al grupo huevo Flying.
 
 ---
 
@@ -493,11 +531,11 @@ font-weight:bold;
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Machamp** en:
+Puedes consultar información completa y actualizada de **Talonflame** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Machamp)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/machamp)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Machamp_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Talonflame)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/talonflame)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Talonflame_(Pokémon))
 
 
 ---
@@ -1079,16 +1117,18 @@ Puedes consultar información completa y actualizada de **Machamp** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-20T13:02:58.955916 -->
+<!-- Generated: 2026-07-20T14:31:56.675624 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"La vida es como un videojuego: ¡haz tu movimiento!"*
+> *"Gamer de día, héroe de noche."*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
