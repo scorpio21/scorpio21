@@ -40,47 +40,55 @@ def get_evolution_chain(pokedex_num):
                 f"{nombre.lower()}.jpg"
             )
 
-            imagen = (
-                f"https://img.pokemondb.net/artwork/large/"
-                f"{nombre.lower()}.jpg"
-            )
-
             html_part = f"""
 <td align="center" valign="top">
 
-<table style="
-background:#EAF4F7;
-border:2px solid #3F4E5A;
-border-radius:12px;
-padding:8px;
-width:130px;
+<div style="
+display:flex;
+flex-direction:column;
+align-items:center;
+width:150px;
 ">
-
-<tr>
-<td align="center">
 
 <div style="
 background:#98C2D1;
 border:2px solid #492A49;
 border-radius:50%;
-width:90px;
-height:90px;
+width:96px;
+height:96px;
 display:flex;
 align-items:center;
 justify-content:center;
-margin:auto;
 ">
 
-<img src="{imagen}" width="74">
+<img src="{imagen}" width="82">
 
 </div>
 
+<div style="
+margin-top:8px;
+font-size:12px;
+color:#9aa6b2;
+">
+
+</div>
+
+<div style="
+margin-top:6px;
+padding:6px 10px;
+background:#EAF4F7;
+border-radius:8px;
+min-width:120px;
+">
+
+<b style="font-size:18px;color:#000;">
+{nombre}
+</b>
+
 <br>
 
-<b style="font-size:15px;">{nombre}</b><br>
-
 <small style="
-color:#333;
+color:#555;
 font-weight:bold;
 ">
 #{numero:04d}
@@ -90,10 +98,9 @@ font-weight:bold;
 
 {tipos_html}
 
-</td>
-</tr>
+</div>
 
-</table>
+</div>
 
 </td>
 """
@@ -193,13 +200,13 @@ font-weight:bold;
                     texto = "Evoluciona"
 
                 html_part += f"""
-<td align="center" valign="middle" width="120">
+<td align="center" valign="middle" width="110">
 
 <div style="
-font-size:13px;
+font-size:14px;
 font-weight:bold;
-color:#FFD700;
-margin-bottom:6px;
+color:#FFD54F;
+margin-bottom:10px;
 ">
 
 {texto}
@@ -207,7 +214,8 @@ margin-bottom:6px;
 </div>
 
 <div style="
-font-size:34px;
+font-size:32px;
+font-weight:bold;
 ">
 
 ➜
