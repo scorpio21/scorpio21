@@ -34,12 +34,16 @@ def get_evolution_chain(pokedex_num):
             ]
 
             tipos_html = build_tipos_html(tipos_es)
+            tipos_html = tipos_html.replace(
+                'width="22"',
+                'width="18"'
+            )
 
             imagen = (
                 f"https://img.pokemondb.net/artwork/large/"
                 f"{nombre.lower()}.jpg"
             )
-
+           
             html_part = f"""
 <td align="center" valign="top">
 
@@ -47,21 +51,21 @@ def get_evolution_chain(pokedex_num):
 display:flex;
 flex-direction:column;
 align-items:center;
-width:150px;
+width:95px;
 ">
 
 <div style="
 background:#98C2D1;
 border:2px solid #492A49;
 border-radius:50%;
-width:96px;
-height:96px;
+width:78px;
+height:78px;
 display:flex;
 align-items:center;
 justify-content:center;
 ">
 
-<img src="{imagen}" width="82">
+<img src="{imagen}" width="62">
 
 </div>
 
@@ -78,10 +82,10 @@ margin-top:6px;
 padding:6px 10px;
 background:#EAF4F7;
 border-radius:8px;
-min-width:120px;
+min-width:95px;
 ">
 
-<b style="font-size:18px;color:#000;">
+<b style="font-size:15px;color:#000;">
 {nombre}
 </b>
 
