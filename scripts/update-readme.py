@@ -14,7 +14,7 @@ from builders.readme_builder import (
     build_frase_info_block,
 )
 from updater import update_readme
-
+from download_cry import download_cry
 
 # Obtener Pokémon
 (
@@ -54,6 +54,7 @@ from updater import update_readme
     curiosidad,
 ) = get_pokemon_of_the_day()
 
+download_cry(cry_url)
 
 # Datos adicionales
 # cadena_evolucion = get_evolution_chain(pokedex_num)
