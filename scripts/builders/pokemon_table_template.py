@@ -107,7 +107,7 @@ def render_table(
 </tr>
 
 <tr>
-<td><b>🇯🇵 Nombre japonés</b></td>
+<td><b>🇯🇵 Nombre original</b></td>
 <td>{nombre_japones}</td>
 </tr>
 
