@@ -1,5 +1,6 @@
 from builders.pokemon_table import build_pokemon_table
 from builders.pokemon_go import build_pokemon_go
+from mapas.region_maps import get_region_map
 
 def build_pokemon_info_block(
     fecha,
