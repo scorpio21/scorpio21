@@ -16,7 +16,6 @@ from urllib.parse import quote
 from builders.pokemon_table_template import render_table
 from item_icons import ITEM_ICON_URL
 from experience_growth_badges import EXPERIENCE_GROWTH_BADGES
-from mapas.region_maps import get_region_map
 
 #==========================
 # FUNCIONES
@@ -145,8 +144,8 @@ def build_pokemon_table(
         f'{quote(badge[0])}-{badge[1]}?style=flat-square">'
     )
     
-    region_map = get_region_map(generation)
-
+    region = generation.split("(")[1].replace(")", "")
+    
     # print(">>> stats_md =", repr(stats_md))
 
     #==========================
@@ -166,7 +165,7 @@ def build_pokemon_table(
         resistencias_html=resistencias_html,
         inmunidades_html=inmunidades_html,
         generation=generation,
-        region_map=region_map,
+        region=region,
         clase=clase,
         color_pokedex=color_pokedex,
         altura=altura,

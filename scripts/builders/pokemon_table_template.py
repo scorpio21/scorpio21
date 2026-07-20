@@ -24,6 +24,7 @@ def render_table(
     inmunidades_html,
     generation,
     region_map,
+    region,
     clase,
     color_pokedex,
     altura,
@@ -126,10 +127,12 @@ def render_table(
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>
-<b>{generation}</b><br><br>
-<img src="{region_map}" width="180">
-</td>
+<td>{generation}</td>
+</tr>
+
+<tr>
+<td><b>🗺️ Región</b></td>
+<td>🏝️ {region}</td>
 </tr>
 
 <tr>
