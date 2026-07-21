@@ -56,24 +56,17 @@ width:95px;
 
 <table align="center" cellspacing="0" cellpadding="0">
 <tr>
-<td align="center">
-
-<div style="position:relative;width:96px;height:96px;">
-
-<img
-src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/assets/evolution_circle.png"
-width="96">
-
-<img
-src="{imagen}"
-width="72"
+<td
+align="center"
+width="78"
+height="78"
 style="
-position:absolute;
-left:12px;
-top:12px;
+background:#98C2D1;
+border:2px solid #492A49;
+border-radius:50%;
 ">
 
-</div>
+<img src="{imagen}" width="62">
 
 </td>
 </tr>
