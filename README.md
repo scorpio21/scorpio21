@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-21T01:59:52.417868 -->
+<!-- Generated: 2026-07-21T10:56:11.252227 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/867.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/867.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/47.png" width="220">
 </td>
 
 </tr>
@@ -48,7 +48,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar%20Runerigus-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Parasect-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
 </a>
 </td>
 </tr>
@@ -59,39 +59,39 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🔵 <b>Runerigus</b></td>
+<td>🟢 <b>Parasect</b></td>
 </tr>
 
 <tr>
 <td><b>🇯🇵 Nombre original</b></td>
-<td>デスバーン</td>
+<td>パラセクト</td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#867</td>
+<td>#47</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>VIII (Galar)</td>
+<td>I (Kanto)</td>
 </tr>
 
 <tr>
 <td><b>🗺️ Región</b></td>
-<td>🏝️ Galar</td>
+<td>🏝️ Kanto</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://archives.bulbagarden.net/media/upload/2/27/Ground_icon_SwSh.png" width="22" alt="Tierra" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra" style="vertical-align:middle;"><br><img src="https://archives.bulbagarden.net/media/upload/0/01/Ghost_icon_SwSh.png" width="22" alt="Fantasma" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma" style="vertical-align:middle;"></td>
+<td><img src="https://archives.bulbagarden.net/media/upload/9/9c/Bug_icon_SwSh.png" width="22" alt="Bicho" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho" style="vertical-align:middle;"><br><img src="https://archives.bulbagarden.net/media/upload/a/a8/Grass_icon_SwSh.png" width="22" alt="Planta" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta" style="vertical-align:middle;"></td>
 </tr>
 
 <tr>
@@ -100,7 +100,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Runerigus</td>
+<td>Parasect</td>
 </tr>
 
 <tr>
@@ -125,17 +125,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Gris-9E9E9E?style=flat-square" alt="gray"></td>
+<td><img src="https://img.shields.io/badge/Rojo-F44336?style=flat-square" alt="red"></td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>1.6 m</td>
+<td>1.0 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>66.6 kg</td>
+<td>29.5 kg</td>
 </tr>
 
 <tr>
@@ -145,17 +145,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Desconocido</td>
+<td>Forest</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Mineral, Indeterminate</td>
+<td>Bug, Plant</td>
 </tr>
 
 <tr>
 <td><b>❤️ Amistad base</b></td>
-<td>50</td>
+<td>70</td>
 </tr>
 
 <tr>
@@ -164,27 +164,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"></td>
+<td>Ninguna</td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br>35.3%</td>
+<td>🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜<br>29.4%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>90</td>
+<td>75</td>
 </tr>
 
 <tr>
@@ -194,17 +194,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Alma Errante</b><br><small>Swaps abilities with opponents on contact.</small><br><br></td>
+<td>🟢 ⚡ <b>Efecto Espora</b><br><small>Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact.</small><br><br>🟢 ⚡ <b>Piel Seca</b><br><small>Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from Fire moves to 1.25×, but absorbs Water moves, healing for 1/4 max HP.</small><br><br>⭐ ✨ <b>Humedad</b> (Oculta)<br><small>Prevents Self-Destruct, Explosion, and Aftermath from working while the Pokémon is in battle.</small></td>
 </tr>
 
 <tr>
 <td><b>📦 Objetos</b></td>
-<td>No puede llevar objetos.</td>
+<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tiny-mushroom.png" width="28" height="28"> <b>Tiny Mushroom</b> (50%)<br><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-mushroom.png" width="28" height="28"> <b>Big Mushroom</b> (5%)<br><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/balm-mushroom.png" width="28" height="28"> <b>Balm Mushroom</b> (1%)</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Plancha%20Corporal-C03028?style=flat-square"> <img src="https://img.shields.io/badge/Roca%20Afilada-B8A038?style=flat-square"> <img src="https://img.shields.io/badge/Mal%20de%20Ojo-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Pulso%20Umbr%C3%ADo-705848?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Cabezazo-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Rayo%20Solar-78C850?style=flat-square"> <img src="https://img.shields.io/badge/Excavar-E0C068?style=flat-square"> <img src="https://img.shields.io/badge/Seducci%C3%B3n-A8A878?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -234,7 +234,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/yamask.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/paras.jpg" width="62">
 
 </td>
 </tr>
@@ -257,7 +257,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Yamask
+Paras
 </b>
 
 <br>
@@ -266,12 +266,12 @@ Yamask
 color:#555;
 font-weight:bold;
 ">
-#0562
+#0046
 </small>
 
 <br><br>
 
-<img src="https://archives.bulbagarden.net/media/upload/0/01/Ghost_icon_SwSh.png" width="18" alt="Fantasma" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma" style="vertical-align:middle;">
+<img src="https://archives.bulbagarden.net/media/upload/9/9c/Bug_icon_SwSh.png" width="18" alt="Bicho" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho" style="vertical-align:middle;"><br><img src="https://archives.bulbagarden.net/media/upload/a/a8/Grass_icon_SwSh.png" width="18" alt="Planta" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta" style="vertical-align:middle;">
 
 </div>
 
@@ -288,7 +288,7 @@ color:#FFD54F;
 margin-bottom:10px;
 ">
 
-Nivel 34
+Nivel 24
 
 </div>
 
@@ -324,7 +324,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/cofagrigus.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/parasect.jpg" width="62">
 
 </td>
 </tr>
@@ -347,7 +347,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Cofagrigus
+Parasect
 </b>
 
 <br>
@@ -356,102 +356,12 @@ Cofagrigus
 color:#555;
 font-weight:bold;
 ">
-#0563
+#0047
 </small>
 
 <br><br>
 
-<img src="https://archives.bulbagarden.net/media/upload/0/01/Ghost_icon_SwSh.png" width="18" alt="Fantasma" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma" style="vertical-align:middle;">
-
-</div>
-
-</div>
-
-</td>
-
-<td align="center" valign="middle" width="110">
-
-<div style="
-font-size:14px;
-font-weight:bold;
-color:#FFD54F;
-margin-bottom:10px;
-">
-
-Evoluciona
-
-</div>
-
-<div style="
-font-size:32px;
-font-weight:bold;
-">
-
-➜
-
-</div>
-
-</td>
-
-<td align="center" valign="top">
-
-<div style="
-display:flex;
-flex-direction:column;
-align-items:center;
-width:95px;
-">
-
-<table align="center" cellspacing="0" cellpadding="0">
-<tr>
-<td
-align="center"
-width="78"
-height="78"
-style="
-background:#98C2D1;
-border:2px solid #492A49;
-border-radius:50%;
-">
-
-<img src="https://img.pokemondb.net/artwork/large/runerigus.jpg" width="62">
-
-</td>
-</tr>
-</table>
-
-<div style="
-margin-top:8px;
-font-size:12px;
-color:#9aa6b2;
-">
-
-</div>
-
-<div style="
-margin-top:6px;
-padding:6px 10px;
-background:#EAF4F7;
-border-radius:8px;
-min-width:95px;
-">
-
-<b style="font-size:15px;color:#000;">
-Runerigus
-</b>
-
-<br>
-
-<small style="
-color:#555;
-font-weight:bold;
-">
-#0867
-</small>
-
-<br><br>
-
-<img src="https://archives.bulbagarden.net/media/upload/2/27/Ground_icon_SwSh.png" width="18" alt="Tierra" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra" style="vertical-align:middle;"><br><img src="https://archives.bulbagarden.net/media/upload/0/01/Ghost_icon_SwSh.png" width="18" alt="Fantasma" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma" style="vertical-align:middle;">
+<img src="https://archives.bulbagarden.net/media/upload/9/9c/Bug_icon_SwSh.png" width="18" alt="Bicho" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho" style="vertical-align:middle;"><br><img src="https://archives.bulbagarden.net/media/upload/a/a8/Grass_icon_SwSh.png" width="18" alt="Planta" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta" style="vertical-align:middle;">
 
 </div>
 
@@ -466,7 +376,7 @@ font-weight:bold;
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td></td>
+<td>🎮 Pokémon Amarillo<br>🎮 Pokémon Azul<br>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Cristal<br>🎮 Pokémon Diamante<br>🎮 Pokémon Esmeralda<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino<br>🎮 Pokémon Rojo<br>🎮 Pokémon Rojo Fuego<br>🎮 Pokémon Rubí<br>🎮 Pokémon Verde Hoja<br>🎮 Pokémon Zafiro</td>
 </tr>
 
 <tr>
@@ -475,7 +385,7 @@ font-weight:bold;
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>169</td>
+<td>142</td>
 </tr>
 
 <tr>
@@ -494,25 +404,25 @@ font-weight:bold;
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>483 puntos</b><br>
+<b>405 puntos</b><br>
 ⚔️ Fuerte
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">❤️ PS 58<br>
+<td style="background:red">❤️ PS 60<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
     ⚔️ Ataque 95<br>
     🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Defensa 145<br>
-    🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜<br><br>
-    ✨ At. Especial 50<br>
+    🛡️ Defensa 80<br>
+    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
+    ✨ At. Especial 60<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Def. Especial 105<br>
-    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Def. Especial 80<br>
+    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
     💨 Velocidad 30<br>
     🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
 </tr>
@@ -524,15 +434,15 @@ font-weight:bold;
 
 ## 💡 Curiosidad oficial
 
-> Una poderosa maldición pesa sobre esta antigua imagen grabada, que ha cobrado vida tras adueñarse del alma de Yamask.
+> Parasect está dominado por una seta parásita mayor que él. Dispersa esporas venenosas.
 
 ---
 
 ## 💡 Datos interesantes
 
-- ⚖️ Pesa 66.6 kg.
-- 🥚 Pertenece al grupo huevo Mineral, Indeterminate.
-- ❤️ Amistad base: 50.
+- ⚖️ Pesa 29.5 kg.
+- ❤️ Amistad base: 70.
+- 🧬 Introducido en la generación I (Kanto).
 
 ---
 
@@ -540,11 +450,11 @@ font-weight:bold;
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Runerigus** en:
+Puedes consultar información completa y actualizada de **Parasect** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Runerigus)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/runerigus)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Runerigus_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Parasect)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/parasect)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Parasect_(Pokémon))
 
 
 ---
@@ -1133,16 +1043,18 @@ Puedes consultar información completa y actualizada de **Runerigus** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-21T01:59:52.417868 -->
+<!-- Generated: 2026-07-21T10:56:11.252227 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"Si no estás ganando, ¡estás aprendiendo!"*
+> *"El verdadero juego comienza cuando apagas la consola."*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
