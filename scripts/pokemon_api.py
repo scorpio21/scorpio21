@@ -290,8 +290,13 @@ def get_pokemon_of_the_day():
     # Juegos donde aparece
     juegos = []
 
-    for indice in data["game_indices"]:
-        clave = indice["version"]["name"]
+    
+    for entrada in species["flavor_text_entries"]:
+
+        if entrada["language"]["name"] != "es":
+            continue
+    
+        clave = entrada["version"]["name"]
 
         print(clave)  # <-- para ver qué nombres llegan
 
@@ -300,13 +305,16 @@ def get_pokemon_of_the_day():
             clave.replace("-", " ").title()
         )
 
-        juegos.append(nombre_juego)
+        if nombre_juego not in juegos:
+            juegos.append(nombre_juego)
 
-    # Eliminar duplicados y ordenar
-    juegos = sorted(list(set(juegos)))
-    # Si la API no devuelve juegos, usar al menos el juego de debut
-    if not juegos:
-        juegos = [juego_debut]
+        # Si no hay juegos en las entradas de la Pokédex,
+        # usar el juego de debut
+        if not juegos:
+            juegos = [juego_debut]
+
+        # Ordenar alfabéticamente
+        juegos.sort()
 
     #==========================
     # Retornar todos los datos
