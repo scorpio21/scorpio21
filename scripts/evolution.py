@@ -51,30 +51,27 @@ def get_evolution_chain(pokedex_num):
 display:flex;
 flex-direction:column;
 align-items:center;
-width:95px;
 ">
 
 <div style="
-width: 78px;
-height: 78px;
-border-radius: 50%;
-overflow: hidden;
-background: #98C2D1;
-border: 2px solid #492A49;
-display: flex;
-align-items: center;
-justify-content: center;
+width:78px;
+height:78px;
+border-radius:50%;
+overflow:hidden;
+background:#98C2D1;
+border:2px solid #492A49;
+display:flex;
+align-items:center;
+justify-content:center;
 ">
-    <img src="{imagen}" style="width: 62px; height: auto;">
+    <img src="{imagen}" style="width:62px; height:auto;">
 </div>
-
 
 <div style="
 margin-top:8px;
 font-size:12px;
 color:#9aa6b2;
 ">
-
 </div>
 
 <div style="
@@ -105,6 +102,7 @@ font-weight:bold;
 </div>
 
 </div>
+
 
 </td>
 """
