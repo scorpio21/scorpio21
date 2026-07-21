@@ -10,6 +10,7 @@ from translation.item_translations import ITEM_TRANSLATIONS
 from music.game_music import get_game_music
 from shields.color_badges import build_color_badge
 from translation.habitat_translations import HABITAT_TRANSLATIONS
+from translation.game_translations import GAME_TRANSLATIONS
 
 # Función para obtener el Pokémon del día
 def get_pokemon_of_the_day():
@@ -291,16 +292,12 @@ def get_pokemon_of_the_day():
 
     for indice in data["game_indices"]:
 
-        version_data = requests.get(indice["version"]["url"]).json()
+        nombre_juego = GAME_TRANSLATIONS.get(
+        indice["version"]["name"],
+        indice["version"]["name"].replace("-", " ").title()
+    )
 
-        nombre_juego = indice["version"]["name"]
-
-        for n in version_data["names"]:
-            if n["language"]["name"] == "es":
-                nombre_juego = n["name"]
-                break
-
-        juegos.append(nombre_juego)
+    juegos.append(nombre_juego)
 
     # Eliminar duplicados y ordenar
     juegos = sorted(list(set(juegos)))
@@ -308,7 +305,7 @@ def get_pokemon_of_the_day():
     #==========================
     # Retornar todos los datos
     #==========================
-    
+
     return (
         nombre,
         nombre_japones,
