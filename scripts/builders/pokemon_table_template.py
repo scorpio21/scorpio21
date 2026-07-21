@@ -283,7 +283,7 @@ def render_table(
 </tr>
 
 <tr>
-<td><b>⭐ Experiencia Base</b></td>
+<td style="white-space: nowrap;"><b>⭐ Experiencia Base</b></td>
 <td>{experiencia}</td>
 </tr>
 
