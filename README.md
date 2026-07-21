@@ -202,7 +202,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 </tr>
 
 <tr>
-<td><b>✨ Probabilidad Shiny</b></td>
+<td style="white-space: nowrap;"><b>✨ Probabilidad Shiny</b></td>
 <td>1 entre 4096</td>
 </tr>
 
