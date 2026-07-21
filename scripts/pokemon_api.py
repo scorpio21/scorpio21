@@ -7,7 +7,6 @@ import shutil
 from translation.pokemon_types import get_pokemon_type_translation
 from experience_growth import EXPERIENCE_GROWTH
 from translation.item_translations import ITEM_TRANSLATIONS
-from translation.game_translations import GAME_TRANSLATIONS
 from music.game_music import get_game_music
 from shields.color_badges import build_color_badge
 from translation.habitat_translations import HABITAT_TRANSLATIONS
@@ -290,20 +289,26 @@ def get_pokemon_of_the_day():
     # Juegos donde aparece
     juegos = []
 
-    version_data = requests.get(indice["version"]["url"]).json()
+    for indice in data["game_indices"]:
 
-    nombre_juego = indice["version"]["name"]
+        version_data = requests.get(indice["version"]["url"]).json()
 
-    for n in version_data["names"]:
-        if n["language"]["name"] == "es":
-            nombre_juego = n["name"]
-            break
+        nombre_juego = indice["version"]["name"]
 
-    juegos.append(nombre_juego)
+        for n in version_data["names"]:
+            if n["language"]["name"] == "es":
+                nombre_juego = n["name"]
+                break
+
+        juegos.append(nombre_juego)
 
     # Eliminar duplicados y ordenar
     juegos = sorted(list(set(juegos)))
 
+    #==========================
+    # Retornar todos los datos
+    #==========================
+    
     return (
         nombre,
         nombre_japones,
