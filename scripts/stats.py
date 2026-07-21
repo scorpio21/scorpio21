@@ -65,8 +65,7 @@ def compute_bst(stats):
     bst_html = f"""
 {barra_bst(bst)}
 
-<b>{bst} puntos</b><br>
-{nivel_bst}
+<b>{bst} puntos</b>{nivel_bst}<br>
 """
     stats_md = f"""❤️ PS {stats['hp']}<br>
     {barra_stat(stats['hp'])}<br>
