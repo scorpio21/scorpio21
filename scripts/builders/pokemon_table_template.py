@@ -4,8 +4,8 @@
 # FUNCIONES
 #==========================
 
-from color_badges import build_color_badge
-from badges import build_cry_badge
+from shields.color_badges import build_color_badge
+from shields.badges import build_cry_badge
 #==========================
 # FUNCIONES
 #=========================

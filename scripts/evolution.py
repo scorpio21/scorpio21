@@ -1,7 +1,7 @@
 import requests
 from translation.item_translations import ITEM_TRANSLATIONS
-from pokemon_types import get_pokemon_type_translation
-from badges import build_tipos_html
+from translation.pokemon_types import get_pokemon_type_translation
+from shields.badges import build_tipos_html
 
 # Obtener la cadena de evolución
 def get_evolution_chain(pokedex_num):
