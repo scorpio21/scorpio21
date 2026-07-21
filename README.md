@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-21T12:25:11.494573 -->
+<!-- Generated: 2026-07-21T12:28:23.981748 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/670.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/670.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/309.png" width="220">
 </td>
 
 </tr>
@@ -48,7 +48,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar%20Floette-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Electrike-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
 </a>
 </td>
 </tr>
@@ -59,45 +59,45 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟣 <b>Floette</b></td>
+<td>🔵 <b>Electrike</b></td>
 </tr>
 
 <tr>
 <td><b>🇯🇵 Nombre original</b></td>
-<td>フラエッテ</td>
+<td>ラクライ</td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
+<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#670</td>
+<td>#309</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>VI (Kalos)</td>
+<td>III (Hoenn)</td>
 </tr>
 
 <tr>
 <td><b>🗺️ Región</b></td>
-<td>🏝️ Kalos</td>
+<td>🏝️ Hoenn</td>
 </tr>
 
 <tr>
 <td><b>🎮 Juego debut</b></td>
-<td>Pokémon X / Y</td>
+<td>Pokémon Rubí / Zafiro</td>
 </tr>
 
 <tr>
 <td><b>🎵 Música</b></td>
 <td>
-<a href="https://www.youtube.com/results?search_query=Pokemon+X+Y+Wild+Pokemon+Theme" target="_blank">
+<a href="https://www.youtube.com/results?search_query=Pokemon+Ruby+Sapphire+Wild+Pokemon+Theme" target="_blank">
 🎧 Escuchar en YouTube
 </a>
 </td>
@@ -105,7 +105,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/b/b7/latest/20230128125233/Tipo_hada_icono_EP.svg" width="22" alt="Hada" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada" style="vertical-align:middle;"></td>
+<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/8/84/latest/20230128125008/Tipo_el%C3%A9ctrico_icono_EP.svg" width="22" alt="Eléctrico" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico" style="vertical-align:middle;"></td>
 </tr>
 
 <tr>
@@ -114,7 +114,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Floette</td>
+<td>Electrike</td>
 </tr>
 
 <tr>
@@ -139,32 +139,32 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Blanco-FFFFFF?style=flat-square&logoColor=black" alt="white"></td>
+<td><img src="https://img.shields.io/badge/Verde-4CAF50?style=flat-square" alt="green"></td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>0.2 m</td>
+<td>0.6 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>0.9 kg</td>
+<td>15.2 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ 0.0% &nbsp;&nbsp;&nbsp; ♀️ 100.0%</td>
+<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
 </tr>
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Desconocido</td>
+<td>Grassland</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Fairy</td>
+<td>Ground</td>
 </tr>
 
 <tr>
@@ -178,17 +178,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
+<td><img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"></td>
+<td>Ninguna</td>
 </tr>
 
 <tr>
@@ -208,7 +208,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Velo Flor</b><br><small>Protects friendly Grass Pokémon from having their stats lowered by other Pokémon.</small><br><br>⭐ ✨ <b>Simbiosis</b> (Oculta)<br><small>Passes the bearer's held item to an ally when the ally uses up its item.</small></td>
+<td>🟢 ⚡ <b>Electricidad Estática</b><br><small>Has a 30% chance of paralyzing attacking Pokémon on contact.</small><br><br>🟢 ⚡ <b>Pararrayos</b><br><small>Redirects single-target Electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.</small><br><br>⭐ ✨ <b>Menos</b> (Oculta)<br><small>Increases Special Attack to 1.5× when a friendly Pokémon has Plus or Minus.</small></td>
 </tr>
 
 <tr>
@@ -218,7 +218,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Cascabel%20Cura-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Esfuerzo-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Pantalla%20de%20Luz-F85888?style=flat-square"> <img src="https://img.shields.io/badge/Fanfarronear-A8A878?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Fuerza-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Aguante-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Doble%20Equipo-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Colmillo%20Hielo-98D8D8?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -233,30 +233,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 display:flex;
 flex-direction:column;
 align-items:center;
-width:95px;
 ">
 
 <div style="
-width: 78px;
-height: 78px;
-border-radius: 50%;
-overflow: hidden;
-background: #98C2D1;
-border: 2px solid #492A49;
-display: flex;
-align-items: center;
-justify-content: center;
+width:78px;
+height:78px;
+border-radius:50%;
+overflow:hidden;
+background:#98C2D1;
+border:2px solid #492A49;
+display:flex;
+align-items:center;
+justify-content:center;
 ">
-    <img src="https://img.pokemondb.net/artwork/large/flabebe.jpg" style="width: 62px; height: auto;">
+    <img src="https://img.pokemondb.net/artwork/large/electrike.jpg" style="width:62px; height:auto;">
 </div>
-
 
 <div style="
 margin-top:8px;
 font-size:12px;
 color:#9aa6b2;
 ">
-
 </div>
 
 <div style="
@@ -268,7 +265,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Flabebe
+Electrike
 </b>
 
 <br>
@@ -277,16 +274,17 @@ Flabebe
 color:#555;
 font-weight:bold;
 ">
-#0669
+#0309
 </small>
 
 <br><br>
 
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/b/b7/latest/20230128125233/Tipo_hada_icono_EP.svg" width="18" alt="Hada" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada" style="vertical-align:middle;">
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/8/84/latest/20230128125008/Tipo_el%C3%A9ctrico_icono_EP.svg" width="18" alt="Eléctrico" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico" style="vertical-align:middle;">
 
 </div>
 
 </div>
+
 
 </td>
 
@@ -299,7 +297,7 @@ color:#FFD54F;
 margin-bottom:10px;
 ">
 
-Nivel 19
+Nivel 26
 
 </div>
 
@@ -320,117 +318,27 @@ font-weight:bold;
 display:flex;
 flex-direction:column;
 align-items:center;
-width:95px;
 ">
 
 <div style="
-width: 78px;
-height: 78px;
-border-radius: 50%;
-overflow: hidden;
-background: #98C2D1;
-border: 2px solid #492A49;
-display: flex;
-align-items: center;
-justify-content: center;
-">
-    <img src="https://img.pokemondb.net/artwork/large/floette.jpg" style="width: 62px; height: auto;">
-</div>
-
-
-<div style="
-margin-top:8px;
-font-size:12px;
-color:#9aa6b2;
-">
-
-</div>
-
-<div style="
-margin-top:6px;
-padding:6px 10px;
-background:#EAF4F7;
-border-radius:8px;
-min-width:95px;
-">
-
-<b style="font-size:15px;color:#000;">
-Floette
-</b>
-
-<br>
-
-<small style="
-color:#555;
-font-weight:bold;
-">
-#0670
-</small>
-
-<br><br>
-
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/b/b7/latest/20230128125233/Tipo_hada_icono_EP.svg" width="18" alt="Hada" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada" style="vertical-align:middle;">
-
-</div>
-
-</div>
-
-</td>
-
-<td align="center" valign="middle" style="width:auto; padding:10px;">
-
-<div style="
-font-size:14px;
-font-weight:bold;
-color:#FFD54F;
-margin-bottom:10px;
-">
-
-Piedra Día
-
-</div>
-
-<div style="
-font-size:32px;
-font-weight:bold;
-">
-
-➜
-
-</div>
-
-</td>
-
-<td align="center" valign="top">
-
-<div style="
+width:78px;
+height:78px;
+border-radius:50%;
+overflow:hidden;
+background:#98C2D1;
+border:2px solid #492A49;
 display:flex;
-flex-direction:column;
 align-items:center;
-width:95px;
+justify-content:center;
 ">
-
-<div style="
-width: 78px;
-height: 78px;
-border-radius: 50%;
-overflow: hidden;
-background: #98C2D1;
-border: 2px solid #492A49;
-display: flex;
-align-items: center;
-justify-content: center;
-">
-    <img src="https://img.pokemondb.net/artwork/large/florges.jpg" style="width: 62px; height: auto;">
+    <img src="https://img.pokemondb.net/artwork/large/manectric.jpg" style="width:62px; height:auto;">
 </div>
-
 
 <div style="
 margin-top:8px;
 font-size:12px;
 color:#9aa6b2;
 ">
-
 </div>
 
 <div style="
@@ -442,7 +350,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Florges
+Manectric
 </b>
 
 <br>
@@ -451,16 +359,17 @@ Florges
 color:#555;
 font-weight:bold;
 ">
-#0671
+#0310
 </small>
 
 <br><br>
 
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/b/b7/latest/20230128125233/Tipo_hada_icono_EP.svg" width="18" alt="Hada" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada" style="vertical-align:middle;">
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/8/84/latest/20230128125008/Tipo_el%C3%A9ctrico_icono_EP.svg" width="18" alt="Eléctrico" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico" style="vertical-align:middle;">
 
 </div>
 
 </div>
+
 
 </td>
 
@@ -471,7 +380,7 @@ font-weight:bold;
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td></td>
+<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Diamante<br>🎮 Pokémon Esmeralda<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino<br>🎮 Pokémon Rojo Fuego<br>🎮 Pokémon Rubí<br>🎮 Pokémon Verde Hoja<br>🎮 Pokémon Zafiro</td>
 </tr>
 
 <tr>
@@ -480,46 +389,46 @@ font-weight:bold;
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>130</td>
+<td>59</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
 <td>
-💠 <b>1.000.000 XP</b><br>
+💠 <b>1.250.000 XP</b><br>
 <small>Necesaria para alcanzar el nivel 100</small>
 </td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Medio-lightgrey?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Lento-red?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>371 puntos</b><br>
-👍 Normal
+<b>295 puntos</b><br>
+🌱 Básico
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">❤️ PS 54<br>
+<td style="background:red">❤️ PS 40<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
     ⚔️ Ataque 45<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Defensa 47<br>
+    🛡️ Defensa 40<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ✨ At. Especial 75<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Def. Especial 98<br>
-    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br><br>
-    💨 Velocidad 52<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜</td>
+    ✨ At. Especial 65<br>
+    🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Def. Especial 40<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    💨 Velocidad 65<br>
+    🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜</td>
 </tr>
 
 </table>
@@ -529,15 +438,15 @@ font-weight:bold;
 
 ## 💡 Curiosidad oficial
 
-> Revolotea alrededor de campos de flores y cuida de aquellas que empiezan a marchitarse. Usa en combate el poder oculto de las flores.
+> Acumula electricidad estática en el pelaje para lanzar descargas. Cuando va a haber tormenta, suelta chispas por todo el cuerpo.
 
 ---
 
 ## 💡 Datos interesantes
 
-- ⚖️ Pesa 0.9 kg.
-- 🎨 Su color en la Pokédex es white.
-- 🧬 Introducido en la generación VI (Kalos).
+- 📏 Mide 0.6 m.
+- ⚖️ Pesa 15.2 kg.
+- ❤️ Amistad base: 70.
 
 ---
 
@@ -545,11 +454,11 @@ font-weight:bold;
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Floette** en:
+Puedes consultar información completa y actualizada de **Electrike** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Floette)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/floette)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Floette_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Electrike)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/electrike)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Electrike_(Pokémon))
 
 
 ---
@@ -1152,16 +1061,18 @@ Puedes consultar información completa y actualizada de **Floette** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-21T12:25:11.494573 -->
+<!-- Generated: 2026-07-21T12:28:23.981748 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"¡Nunca subestimes el poder de un jugador con café!"*
+> *"La vida es como un videojuego: ¡haz tu movimiento!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
