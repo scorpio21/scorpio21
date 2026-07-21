@@ -207,7 +207,7 @@ font-weight:bold;
                     texto = "Evoluciona"
 
                 html_part += f"""
-<td align="center" valign="middle" width="110">
+<td align="center" valign="middle" style="width:auto; padding:10px;">
 
 <div style="
 font-size:14px;
