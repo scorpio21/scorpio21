@@ -110,7 +110,7 @@ def render_table(
 </tr>
 
 <tr>
-<td><b>🇯🇵 Nombre original</b></td>
+<td style="white-space: nowrap;"><b>🇯🇵 Nombre original</b></td>
 <td>{nombre_japones}</td>
 </tr>
 
