@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-20T14:43:20.259403 -->
+<!-- Generated: 2026-07-20T14:59:08.593417 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/175.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/646.png" width="220">
 </td>
 
 </tr>
@@ -48,7 +48,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar%20Togepi-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Kyurem-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
 </a>
 </td>
 </tr>
@@ -59,39 +59,39 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟣 <b>Togepi</b></td>
+<td>🟡✨ <b>Kyurem</b></td>
 </tr>
 
 <tr>
 <td><b>🇯🇵 Nombre original</b></td>
-<td>トゲピー</td>
+<td>キュレム</td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
+<img src="https://img.shields.io/badge/Legendario-gold?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#175</td>
+<td>#646</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>II (Johto)</td>
+<td>V (Teselia)</td>
 </tr>
 
 <tr>
 <td><b>🗺️ Región</b></td>
-<td>🏝️ Johto</td>
+<td>🏝️ Teselia</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://archives.bulbagarden.net/media/upload/c/c6/Fairy_icon_SwSh.png" width="22" alt="Hada" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada" style="vertical-align:middle;"></td>
+<td><img src="https://archives.bulbagarden.net/media/upload/7/70/Dragon_icon_SwSh.png" width="22" alt="Dragón" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón" style="vertical-align:middle;"><br><img src="https://archives.bulbagarden.net/media/upload/1/15/Ice_icon_SwSh.png" width="22" alt="Hielo" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo" style="vertical-align:middle;"></td>
 </tr>
 
 <tr>
@@ -100,12 +100,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Togepi</td>
+<td>Kyurem</td>
 </tr>
 
 <tr>
 <td><b>⭐ Legendario</b></td>
-<td>❌ No</td>
+<td>✅ Sí</td>
 </tr>
 
 <tr>
@@ -115,7 +115,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>👶 Bebé</b></td>
-<td>✅ Sí</td>
+<td>❌ No</td>
 </tr>
 
 <tr>
@@ -125,27 +125,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Blanco-FFFFFF?style=flat-square&logoColor=black" alt="white"></td>
+<td><img src="https://img.shields.io/badge/Gris-9E9E9E?style=flat-square" alt="gray"></td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>0.3 m</td>
+<td>3.0 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>1.5 kg</td>
+<td>325.0 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ 87.5% &nbsp;&nbsp;&nbsp; ♀️ 12.5%</td>
+<td>♂️ Sin género &nbsp;&nbsp;&nbsp; ♀️ Sin género</td>
 </tr>
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Forest</td>
+<td>Desconocido</td>
 </tr>
 
 <tr>
@@ -155,7 +155,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>❤️ Amistad base</b></td>
-<td>70</td>
+<td>0</td>
 </tr>
 
 <tr>
@@ -164,27 +164,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"></td>
+<td>Ninguna</td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜<br>74.5%</td>
+<td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜<br>1.2%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>190</td>
+<td>3</td>
 </tr>
 
 <tr>
@@ -194,7 +194,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Entusiasmo</b><br><small>Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×.</small><br><br>🟢 ⚡ <b>Dicha</b><br><small>Doubles the chance of moves' extra effects occurring.</small><br><br>⭐ ✨ <b>Afortunado</b> (Oculta)<br><small>Raises moves' critical hit rates one stage.</small></td>
+<td>🟢 ⚡ <b>Presión</b><br><small>Increases the PP cost of moves targetting the Pokémon by one.</small><br><br></td>
 </tr>
 
 <tr>
@@ -204,7 +204,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Otra%20Vez-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Da%C3%B1o%20Secreto-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Poder%20Oculto-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Viento%20Fe%C3%A9rico-EE99AC?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Pantalla%20de%20Luz-F85888?style=flat-square"> <img src="https://img.shields.io/badge/Rugido%20de%20Guerra-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Poder%20Oculto-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Meteoros-A8A878?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -222,20 +222,23 @@ align-items:center;
 width:95px;
 ">
 
-<div style="
+<table align="center" cellspacing="0" cellpadding="0">
+<tr>
+<td
+align="center"
+width="78"
+height="78"
+style="
 background:#98C2D1;
 border:2px solid #492A49;
 border-radius:50%;
-width:78px;
-height:78px;
-display:flex;
-align-items:center;
-justify-content:center;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/togepi.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/kyurem.jpg" width="62">
 
-</div>
+</td>
+</tr>
+</table>
 
 <div style="
 margin-top:8px;
@@ -254,7 +257,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Togepi
+Kyurem
 </b>
 
 <br>
@@ -263,186 +266,12 @@ Togepi
 color:#555;
 font-weight:bold;
 ">
-#0175
+#0646
 </small>
 
 <br><br>
 
-<img src="https://archives.bulbagarden.net/media/upload/c/c6/Fairy_icon_SwSh.png" width="18" alt="Hada" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada" style="vertical-align:middle;">
-
-</div>
-
-</div>
-
-</td>
-
-<td align="center" valign="middle" width="110">
-
-<div style="
-font-size:14px;
-font-weight:bold;
-color:#FFD54F;
-margin-bottom:10px;
-">
-
-Amistad
-
-</div>
-
-<div style="
-font-size:32px;
-font-weight:bold;
-">
-
-➜
-
-</div>
-
-</td>
-
-<td align="center" valign="top">
-
-<div style="
-display:flex;
-flex-direction:column;
-align-items:center;
-width:95px;
-">
-
-<div style="
-background:#98C2D1;
-border:2px solid #492A49;
-border-radius:50%;
-width:78px;
-height:78px;
-display:flex;
-align-items:center;
-justify-content:center;
-">
-
-<img src="https://img.pokemondb.net/artwork/large/togetic.jpg" width="62">
-
-</div>
-
-<div style="
-margin-top:8px;
-font-size:12px;
-color:#9aa6b2;
-">
-
-</div>
-
-<div style="
-margin-top:6px;
-padding:6px 10px;
-background:#EAF4F7;
-border-radius:8px;
-min-width:95px;
-">
-
-<b style="font-size:15px;color:#000;">
-Togetic
-</b>
-
-<br>
-
-<small style="
-color:#555;
-font-weight:bold;
-">
-#0176
-</small>
-
-<br><br>
-
-<img src="https://archives.bulbagarden.net/media/upload/c/c6/Fairy_icon_SwSh.png" width="18" alt="Hada" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada" style="vertical-align:middle;"><br><img src="https://archives.bulbagarden.net/media/upload/b/b5/Flying_icon_SwSh.png" width="18" alt="Volador" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador" style="vertical-align:middle;">
-
-</div>
-
-</div>
-
-</td>
-
-<td align="center" valign="middle" width="110">
-
-<div style="
-font-size:14px;
-font-weight:bold;
-color:#FFD54F;
-margin-bottom:10px;
-">
-
-Piedra Día
-
-</div>
-
-<div style="
-font-size:32px;
-font-weight:bold;
-">
-
-➜
-
-</div>
-
-</td>
-
-<td align="center" valign="top">
-
-<div style="
-display:flex;
-flex-direction:column;
-align-items:center;
-width:95px;
-">
-
-<div style="
-background:#98C2D1;
-border:2px solid #492A49;
-border-radius:50%;
-width:78px;
-height:78px;
-display:flex;
-align-items:center;
-justify-content:center;
-">
-
-<img src="https://img.pokemondb.net/artwork/large/togekiss.jpg" width="62">
-
-</div>
-
-<div style="
-margin-top:8px;
-font-size:12px;
-color:#9aa6b2;
-">
-
-</div>
-
-<div style="
-margin-top:6px;
-padding:6px 10px;
-background:#EAF4F7;
-border-radius:8px;
-min-width:95px;
-">
-
-<b style="font-size:15px;color:#000;">
-Togekiss
-</b>
-
-<br>
-
-<small style="
-color:#555;
-font-weight:bold;
-">
-#0468
-</small>
-
-<br><br>
-
-<img src="https://archives.bulbagarden.net/media/upload/c/c6/Fairy_icon_SwSh.png" width="18" alt="Hada" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada" style="vertical-align:middle;"><br><img src="https://archives.bulbagarden.net/media/upload/b/b5/Flying_icon_SwSh.png" width="18" alt="Volador" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador" style="vertical-align:middle;">
+<img src="https://archives.bulbagarden.net/media/upload/7/70/Dragon_icon_SwSh.png" width="18" alt="Dragón" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón" style="vertical-align:middle;"><br><img src="https://archives.bulbagarden.net/media/upload/1/15/Ice_icon_SwSh.png" width="18" alt="Hielo" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo" style="vertical-align:middle;">
 
 </div>
 
@@ -457,7 +286,7 @@ font-weight:bold;
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Cristal<br>🎮 Pokémon Diamante<br>🎮 Pokémon Esmeralda<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino<br>🎮 Pokémon Rojo Fuego<br>🎮 Pokémon Rubí<br>🎮 Pokémon Verde Hoja<br>🎮 Pokémon Zafiro</td>
+<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2</td>
 </tr>
 
 <tr>
@@ -466,46 +295,46 @@ font-weight:bold;
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>49</td>
+<td>297</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
 <td>
-💠 <b>800.000 XP</b><br>
+💠 <b>1.250.000 XP</b><br>
 <small>Necesaria para alcanzar el nivel 100</small>
 </td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/R%C3%A1pido-blue?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Lento-red?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜
 
-<b>245 puntos</b><br>
-🌱 Básico
+<b>660 puntos</b><br>
+💎 Pseudolegendario
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">❤️ PS 35<br>
-    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ⚔️ Ataque 20<br>
-    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Defensa 65<br>
-    🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ✨ At. Especial 40<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Def. Especial 65<br>
-    🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜<br><br>
-    💨 Velocidad 20<br>
-    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
+<td style="background:red">❤️ PS 125<br>
+    🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜<br><br>
+    ⚔️ Ataque 130<br>
+    🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜<br><br>
+    🛡️ Defensa 90<br>
+    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br><br>
+    ✨ At. Especial 130<br>
+    🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜<br><br>
+    🛡️ Def. Especial 90<br>
+    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br><br>
+    💨 Velocidad 95<br>
+    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜</td>
 </tr>
 
 </table>
@@ -515,15 +344,15 @@ font-weight:bold;
 
 ## 💡 Curiosidad oficial
 
-> El cascarón parece estar lleno de alegría. Dicen que trae buena suerte si es tratado con cariño.
+> Pokémon legendario que aguarda al héroe que compense el vacío de su cuerpo de hielo con verdad e ideales.
 
 ---
 
 ## 💡 Datos interesantes
 
-- ❤️ Amistad base: 70.
-- 📏 Mide 0.3 m.
-- 🧬 Introducido en la generación II (Johto).
+- 🥚 Pertenece al grupo huevo No-eggs.
+- 🎨 Su color en la Pokédex es gray.
+- 🧬 Introducido en la generación V (Teselia).
 
 ---
 
@@ -531,11 +360,11 @@ font-weight:bold;
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Togepi** en:
+Puedes consultar información completa y actualizada de **Kyurem** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Togepi)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/togepi)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Togepi_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Kyurem)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/kyurem)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Kyurem_(Pokémon))
 
 
 ---
@@ -1119,16 +948,22 @@ Puedes consultar información completa y actualizada de **Togepi** en:
 
 
 
+
+
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-20T14:43:20.259403 -->
+<!-- Generated: 2026-07-20T14:59:08.593417 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"La vida es como un videojuego: ¡haz tu movimiento!"*
+> *"Si no estás ganando, ¡estás aprendiendo!"*
 
 <!-- END_FRASE_GAMER -->
+
+
+
 
 
 
