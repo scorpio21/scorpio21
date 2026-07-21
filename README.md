@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-20T14:59:08.593417 -->
+<!-- Generated: 2026-07-21T01:51:38.931928 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/646.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/75.png" width="220">
 </td>
 
 </tr>
@@ -48,7 +48,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar%20Kyurem-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Graveler-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
 </a>
 </td>
 </tr>
@@ -59,39 +59,39 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟡✨ <b>Kyurem</b></td>
+<td>🔵 <b>Graveler</b></td>
 </tr>
 
 <tr>
 <td><b>🇯🇵 Nombre original</b></td>
-<td>キュレム</td>
+<td>ゴローン</td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/Legendario-gold?style=flat-square">
+<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#646</td>
+<td>#75</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>V (Teselia)</td>
+<td>I (Kanto)</td>
 </tr>
 
 <tr>
 <td><b>🗺️ Región</b></td>
-<td>🏝️ Teselia</td>
+<td>🏝️ Kanto</td>
 </tr>
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://archives.bulbagarden.net/media/upload/7/70/Dragon_icon_SwSh.png" width="22" alt="Dragón" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón" style="vertical-align:middle;"><br><img src="https://archives.bulbagarden.net/media/upload/1/15/Ice_icon_SwSh.png" width="22" alt="Hielo" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo" style="vertical-align:middle;"></td>
+<td><img src="https://archives.bulbagarden.net/media/upload/1/11/Rock_icon_SwSh.png" width="22" alt="Roca" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca" style="vertical-align:middle;"><br><img src="https://archives.bulbagarden.net/media/upload/2/27/Ground_icon_SwSh.png" width="22" alt="Tierra" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra" style="vertical-align:middle;"></td>
 </tr>
 
 <tr>
@@ -100,12 +100,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Kyurem</td>
+<td>Graveler</td>
 </tr>
 
 <tr>
 <td><b>⭐ Legendario</b></td>
-<td>✅ Sí</td>
+<td>❌ No</td>
 </tr>
 
 <tr>
@@ -125,37 +125,37 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Gris-9E9E9E?style=flat-square" alt="gray"></td>
+<td><img src="https://img.shields.io/badge/Marrón-795548?style=flat-square" alt="brown"></td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>3.0 m</td>
+<td>1.0 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>325.0 kg</td>
+<td>105.0 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ Sin género &nbsp;&nbsp;&nbsp; ♀️ Sin género</td>
+<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
 </tr>
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Desconocido</td>
+<td>Mountain</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>No-eggs</td>
+<td>Mineral</td>
 </tr>
 
 <tr>
 <td><b>❤️ Amistad base</b></td>
-<td>0</td>
+<td>70</td>
 </tr>
 
 <tr>
@@ -164,27 +164,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
+<td><img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td>Ninguna</td>
+<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"></td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜<br>1.2%</td>
+<td>🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜<br>47.1%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>3</td>
+<td>120</td>
 </tr>
 
 <tr>
@@ -194,17 +194,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Presión</b><br><small>Increases the PP cost of moves targetting the Pokémon by one.</small><br><br></td>
+<td>🟢 ⚡ <b>Cabeza Roca</b><br><small>Protects against recoil damage.</small><br><br>🟢 ⚡ <b>Robustez</b><br><small>Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.</small><br><br>⭐ ✨ <b>Velo Arena</b> (Oculta)<br><small>Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage.</small></td>
 </tr>
 
 <tr>
 <td><b>📦 Objetos</b></td>
-<td>No puede llevar objetos.</td>
+<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/everstone.png" width="28" height="28"> <b>Everstone</b> (5%)<br><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hard-stone.png" width="28" height="28"> <b>Hard Stone</b> (5%)</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Pantalla%20de%20Luz-F85888?style=flat-square"> <img src="https://img.shields.io/badge/Rugido%20de%20Guerra-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Poder%20Oculto-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Meteoros-A8A878?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Cuerpo%20Pesado-B8B8D0?style=flat-square"> <img src="https://img.shields.io/badge/Contraataque-C03028?style=flat-square"> <img src="https://img.shields.io/badge/Fortaleza-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Da%C3%B1o%20Secreto-A8A878?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -224,17 +224,24 @@ width:95px;
 
 <table align="center" cellspacing="0" cellpadding="0">
 <tr>
-<td
-align="center"
-width="78"
-height="78"
+<td align="center">
+
+<div style="position:relative;width:96px;height:96px;">
+
+<img
+src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/assets/evolution_circle.png"
+width="96">
+
+<img
+src="https://img.pokemondb.net/artwork/large/geodude.jpg"
+width="72"
 style="
-background:#98C2D1;
-border:2px solid #492A49;
-border-radius:50%;
+position:absolute;
+left:12px;
+top:12px;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/kyurem.jpg" width="62">
+</div>
 
 </td>
 </tr>
@@ -257,7 +264,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Kyurem
+Geodude
 </b>
 
 <br>
@@ -266,12 +273,206 @@ Kyurem
 color:#555;
 font-weight:bold;
 ">
-#0646
+#0074
 </small>
 
 <br><br>
 
-<img src="https://archives.bulbagarden.net/media/upload/7/70/Dragon_icon_SwSh.png" width="18" alt="Dragón" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón" style="vertical-align:middle;"><br><img src="https://archives.bulbagarden.net/media/upload/1/15/Ice_icon_SwSh.png" width="18" alt="Hielo" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo" style="vertical-align:middle;">
+<img src="https://archives.bulbagarden.net/media/upload/1/11/Rock_icon_SwSh.png" width="18" alt="Roca" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca" style="vertical-align:middle;"><br><img src="https://archives.bulbagarden.net/media/upload/2/27/Ground_icon_SwSh.png" width="18" alt="Tierra" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra" style="vertical-align:middle;">
+
+</div>
+
+</div>
+
+</td>
+
+<td align="center" valign="middle" width="110">
+
+<div style="
+font-size:14px;
+font-weight:bold;
+color:#FFD54F;
+margin-bottom:10px;
+">
+
+Nivel 25
+
+</div>
+
+<div style="
+font-size:32px;
+font-weight:bold;
+">
+
+➜
+
+</div>
+
+</td>
+
+<td align="center" valign="top">
+
+<div style="
+display:flex;
+flex-direction:column;
+align-items:center;
+width:95px;
+">
+
+<table align="center" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center">
+
+<div style="position:relative;width:96px;height:96px;">
+
+<img
+src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/assets/evolution_circle.png"
+width="96">
+
+<img
+src="https://img.pokemondb.net/artwork/large/graveler.jpg"
+width="72"
+style="
+position:absolute;
+left:12px;
+top:12px;
+">
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div style="
+margin-top:8px;
+font-size:12px;
+color:#9aa6b2;
+">
+
+</div>
+
+<div style="
+margin-top:6px;
+padding:6px 10px;
+background:#EAF4F7;
+border-radius:8px;
+min-width:95px;
+">
+
+<b style="font-size:15px;color:#000;">
+Graveler
+</b>
+
+<br>
+
+<small style="
+color:#555;
+font-weight:bold;
+">
+#0075
+</small>
+
+<br><br>
+
+<img src="https://archives.bulbagarden.net/media/upload/1/11/Rock_icon_SwSh.png" width="18" alt="Roca" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca" style="vertical-align:middle;"><br><img src="https://archives.bulbagarden.net/media/upload/2/27/Ground_icon_SwSh.png" width="18" alt="Tierra" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra" style="vertical-align:middle;">
+
+</div>
+
+</div>
+
+</td>
+
+<td align="center" valign="middle" width="110">
+
+<div style="
+font-size:14px;
+font-weight:bold;
+color:#FFD54F;
+margin-bottom:10px;
+">
+
+Intercambio
+
+</div>
+
+<div style="
+font-size:32px;
+font-weight:bold;
+">
+
+➜
+
+</div>
+
+</td>
+
+<td align="center" valign="top">
+
+<div style="
+display:flex;
+flex-direction:column;
+align-items:center;
+width:95px;
+">
+
+<table align="center" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center">
+
+<div style="position:relative;width:96px;height:96px;">
+
+<img
+src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/assets/evolution_circle.png"
+width="96">
+
+<img
+src="https://img.pokemondb.net/artwork/large/golem.jpg"
+width="72"
+style="
+position:absolute;
+left:12px;
+top:12px;
+">
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div style="
+margin-top:8px;
+font-size:12px;
+color:#9aa6b2;
+">
+
+</div>
+
+<div style="
+margin-top:6px;
+padding:6px 10px;
+background:#EAF4F7;
+border-radius:8px;
+min-width:95px;
+">
+
+<b style="font-size:15px;color:#000;">
+Golem
+</b>
+
+<br>
+
+<small style="
+color:#555;
+font-weight:bold;
+">
+#0076
+</small>
+
+<br><br>
+
+<img src="https://archives.bulbagarden.net/media/upload/1/11/Rock_icon_SwSh.png" width="18" alt="Roca" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca" style="vertical-align:middle;"><br><img src="https://archives.bulbagarden.net/media/upload/2/27/Ground_icon_SwSh.png" width="18" alt="Tierra" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra" style="vertical-align:middle;">
 
 </div>
 
@@ -286,7 +487,7 @@ font-weight:bold;
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2</td>
+<td>🎮 Pokémon Amarillo<br>🎮 Pokémon Azul<br>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Cristal<br>🎮 Pokémon Diamante<br>🎮 Pokémon Esmeralda<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino<br>🎮 Pokémon Rojo<br>🎮 Pokémon Rojo Fuego<br>🎮 Pokémon Rubí<br>🎮 Pokémon Verde Hoja<br>🎮 Pokémon Zafiro</td>
 </tr>
 
 <tr>
@@ -295,46 +496,46 @@ font-weight:bold;
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>297</td>
+<td>137</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
 <td>
-💠 <b>1.250.000 XP</b><br>
+💠 <b>1.059.860 XP</b><br>
 <small>Necesaria para alcanzar el nivel 100</small>
 </td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Lento-red?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Medio%20lento-yellow?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>660 puntos</b><br>
-💎 Pseudolegendario
+<b>390 puntos</b><br>
+👍 Normal
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">❤️ PS 125<br>
+<td style="background:red">❤️ PS 55<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    ⚔️ Ataque 95<br>
+    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Defensa 115<br>
     🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜<br><br>
-    ⚔️ Ataque 130<br>
-    🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜<br><br>
-    🛡️ Defensa 90<br>
-    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br><br>
-    ✨ At. Especial 130<br>
-    🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜<br><br>
-    🛡️ Def. Especial 90<br>
-    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br><br>
-    💨 Velocidad 95<br>
-    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜</td>
+    ✨ At. Especial 45<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Def. Especial 45<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    💨 Velocidad 35<br>
+    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
 </tr>
 
 </table>
@@ -344,15 +545,15 @@ font-weight:bold;
 
 ## 💡 Curiosidad oficial
 
-> Pokémon legendario que aguarda al héroe que compense el vacío de su cuerpo de hielo con verdad e ideales.
+> De naturaleza descuidada y libre, no le importa dañarse cuando baja rodando montañas.
 
 ---
 
 ## 💡 Datos interesantes
 
-- 🥚 Pertenece al grupo huevo No-eggs.
-- 🎨 Su color en la Pokédex es gray.
-- 🧬 Introducido en la generación V (Teselia).
+- 📏 Mide 1.0 m.
+- ❤️ Amistad base: 70.
+- 🥚 Pertenece al grupo huevo Mineral.
 
 ---
 
@@ -360,11 +561,11 @@ font-weight:bold;
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Kyurem** en:
+Puedes consultar información completa y actualizada de **Graveler** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Kyurem)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/kyurem)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Kyurem_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Graveler)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/graveler)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Graveler_(Pokémon))
 
 
 ---
@@ -373,7 +574,7 @@ Puedes consultar información completa y actualizada de **Kyurem** en:
 
 ⭐ Datos obtenidos de <b>PokéAPI</b><br>
 🤖 Generado automáticamente con Python<br>
-🗓️ Última actualización: <b>2026-07-20</b>
+🗓️ Última actualización: <b>2026-07-21</b>
 
 </p>
 
@@ -951,16 +1152,18 @@ Puedes consultar información completa y actualizada de **Kyurem** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-20T14:59:08.593417 -->
+<!-- Generated: 2026-07-21T01:51:38.931928 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"Si no estás ganando, ¡estás aprendiendo!"*
+> *"El verdadero juego comienza cuando apagas la consola."*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
