@@ -186,7 +186,7 @@ def render_table(
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td>{build_color_badge(color_pokedex)}</td>
+<td>{color_pokedex}</td>
 </tr>
 
 <tr>

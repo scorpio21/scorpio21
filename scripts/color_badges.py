@@ -1,5 +1,5 @@
     # ------------
-    # Color Badges
+    # Color Badges color_badges.py
     # ------------
 
 COLOR_BADGES = {
@@ -21,4 +21,4 @@ def build_color_badge(color):
     if not url:
         return color
 
-    return f'<img src="{url}" alt="{color}">'
+    return f'<img src="{url}" alt="{color}" style="vertical-align:middle;">'
