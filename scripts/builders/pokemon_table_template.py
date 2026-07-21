@@ -24,6 +24,7 @@ def render_table(
     resistencias_html,
     inmunidades_html,
     generation,
+    anio_generacion,
     juego_debut,
     musica_url,
     region,
@@ -117,7 +118,7 @@ def render_table(
 
 <tr>
 <td><b>🧬 Especie</b></td>
-<td>{especie}</td>
+<td>Pokémon {especie}</td>
 </tr>
 
 <tr>
@@ -134,7 +135,7 @@ def render_table(
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>{generation}</td>
+<td>{generation} <br><small>📅 {anio_generacion}</small></td>
 </tr>
 
 <tr>
