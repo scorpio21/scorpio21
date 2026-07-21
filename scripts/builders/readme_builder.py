@@ -150,7 +150,8 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <p align="center">
 
-⭐ Datos obtenidos de <b>PokéAPI</b><br>
+⭐ Datos oficiales obtenidos de <b>PokéAPI</b><br>
+📊 Aproximadamente el <b>90%</b> del contenido procede de datos oficiales y el <b>10%</b> corresponde a contenido generado automáticamente.<br>
 🤖 Generado automáticamente con Python<br>
 🗓️ Última actualización: <b>{fecha[:10]}</b>
 
