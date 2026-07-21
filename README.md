@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-21T11:08:06.668519 -->
+<!-- Generated: 2026-07-21T11:11:41.716377 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/373.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/735.png" width="220">
 </td>
 
 </tr>
@@ -48,7 +48,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar%20Salamence-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Gumshoos-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
 </a>
 </td>
 </tr>
@@ -59,45 +59,45 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟣 <b>Salamence</b></td>
+<td>🟢 <b>Gumshoos</b></td>
 </tr>
 
 <tr>
 <td><b>🇯🇵 Nombre original</b></td>
-<td>ボーマンダ</td>
+<td>デカグース</td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
+<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#373</td>
+<td>#735</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>III (Hoenn)</td>
+<td>VII (Alola)</td>
 </tr>
 
 <tr>
 <td><b>🗺️ Región</b></td>
-<td>🏝️ Hoenn</td>
+<td>🏝️ Alola</td>
 </tr>
 
 <tr>
 <td><b>🎮 Juego debut</b></td>
-<td>Pokémon Rubí / Zafiro</td>
+<td>Pokémon Sol / Luna</td>
 </tr>
 
 <tr>
 <td><b>🎵 Música</b></td>
 <td>
-<a href="https://www.youtube.com/results?search_query=Pokemon+Ruby+Sapphire+Wild+Pokemon+Theme">
+<a href="https://www.youtube.com/results?search_query=Pokemon+Sun+Moon+Wild+Pokemon+Theme" target="_blank">
 🎧 Escuchar en YouTube
 </a>
 </td>
@@ -105,7 +105,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://archives.bulbagarden.net/media/upload/7/70/Dragon_icon_SwSh.png" width="22" alt="Dragón" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón" style="vertical-align:middle;"><br><img src="https://archives.bulbagarden.net/media/upload/b/b5/Flying_icon_SwSh.png" width="22" alt="Volador" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador" style="vertical-align:middle;"></td>
+<td><img src="https://archives.bulbagarden.net/media/upload/8/89/Normal_icon_SwSh.png" width="22" alt="Normal" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal" style="vertical-align:middle;"></td>
 </tr>
 
 <tr>
@@ -114,7 +114,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Salamence</td>
+<td>Gumshoos</td>
 </tr>
 
 <tr>
@@ -139,17 +139,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Azul-2196F3?style=flat-square" alt="blue"></td>
+<td><img src="https://img.shields.io/badge/Marrón-795548?style=flat-square" alt="brown"></td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>1.5 m</td>
+<td>0.7 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>102.6 kg</td>
+<td>14.2 kg</td>
 </tr>
 
 <tr>
@@ -159,17 +159,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Rough-terrain</td>
+<td>Desconocido</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Dragon</td>
+<td>Ground</td>
 </tr>
 
 <tr>
 <td><b>❤️ Amistad base</b></td>
-<td>35</td>
+<td>70</td>
 </tr>
 
 <tr>
@@ -178,27 +178,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"></td>
+<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
+<td></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
+<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"></td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>17.6%</td>
+<td>🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜<br>49.8%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>45</td>
+<td>127</td>
 </tr>
 
 <tr>
@@ -208,17 +208,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Intimidación</b><br><small>Lowers opponents' Attack one stage upon entering battle.</small><br><br>⭐ ✨ <b>Autoestima</b> (Oculta)<br><small>Raises Attack one stage upon KOing a Pokémon.</small></td>
+<td>🟢 ⚡ <b>Vigilante</b><br><small>This Pokémon's moves have double power against Pokémon that switched in this turn.</small><br><br>🟢 ⚡ <b>Mandíbula Fuerte</b><br><small>Strengthens biting moves to 1.5× their power.</small><br><br>⭐ ✨ <b>Adaptable</b> (Oculta)<br><small>Increases the same-type attack bonus from 1.5× to 2×.</small></td>
 </tr>
 
 <tr>
 <td><b>📦 Objetos</b></td>
-<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-scale.png" width="28" height="28"> <b>Escama Dragón</b> (5%)<br><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-fang.png" width="28" height="28"> <b>Dragon Fang</b> (5%)</td>
+<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pecha-berry.png" width="28" height="28"> <b>Pecha Berry</b> (5%)</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Fuerza-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Colmillo%20Rayo-F8D030?style=flat-square"> <img src="https://img.shields.io/badge/Aguante-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Doble%20Filo-A8A878?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Abrecaminos-78C850?style=flat-square"> <img src="https://img.shields.io/badge/Fanfarronear-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Rastreo-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Bomba%20Germen-78C850?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -248,7 +248,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/bagon.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/yungoos.jpg" width="62">
 
 </td>
 </tr>
@@ -271,7 +271,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Bagon
+Yungoos
 </b>
 
 <br>
@@ -280,12 +280,12 @@ Bagon
 color:#555;
 font-weight:bold;
 ">
-#0371
+#0734
 </small>
 
 <br><br>
 
-<img src="https://archives.bulbagarden.net/media/upload/7/70/Dragon_icon_SwSh.png" width="18" alt="Dragón" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón" style="vertical-align:middle;">
+<img src="https://archives.bulbagarden.net/media/upload/8/89/Normal_icon_SwSh.png" width="18" alt="Normal" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal" style="vertical-align:middle;">
 
 </div>
 
@@ -302,7 +302,7 @@ color:#FFD54F;
 margin-bottom:10px;
 ">
 
-Nivel 30
+Nivel 20
 
 </div>
 
@@ -338,7 +338,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/shelgon.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/gumshoos.jpg" width="62">
 
 </td>
 </tr>
@@ -361,7 +361,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Shelgon
+Gumshoos
 </b>
 
 <br>
@@ -370,102 +370,12 @@ Shelgon
 color:#555;
 font-weight:bold;
 ">
-#0372
+#0735
 </small>
 
 <br><br>
 
-<img src="https://archives.bulbagarden.net/media/upload/7/70/Dragon_icon_SwSh.png" width="18" alt="Dragón" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón" style="vertical-align:middle;">
-
-</div>
-
-</div>
-
-</td>
-
-<td align="center" valign="middle" width="110">
-
-<div style="
-font-size:14px;
-font-weight:bold;
-color:#FFD54F;
-margin-bottom:10px;
-">
-
-Nivel 50
-
-</div>
-
-<div style="
-font-size:32px;
-font-weight:bold;
-">
-
-➜
-
-</div>
-
-</td>
-
-<td align="center" valign="top">
-
-<div style="
-display:flex;
-flex-direction:column;
-align-items:center;
-width:95px;
-">
-
-<table align="center" cellspacing="0" cellpadding="0">
-<tr>
-<td
-align="center"
-width="78"
-height="78"
-style="
-background:#98C2D1;
-border:2px solid #492A49;
-border-radius:50%;
-">
-
-<img src="https://img.pokemondb.net/artwork/large/salamence.jpg" width="62">
-
-</td>
-</tr>
-</table>
-
-<div style="
-margin-top:8px;
-font-size:12px;
-color:#9aa6b2;
-">
-
-</div>
-
-<div style="
-margin-top:6px;
-padding:6px 10px;
-background:#EAF4F7;
-border-radius:8px;
-min-width:95px;
-">
-
-<b style="font-size:15px;color:#000;">
-Salamence
-</b>
-
-<br>
-
-<small style="
-color:#555;
-font-weight:bold;
-">
-#0373
-</small>
-
-<br><br>
-
-<img src="https://archives.bulbagarden.net/media/upload/7/70/Dragon_icon_SwSh.png" width="18" alt="Dragón" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón" style="vertical-align:middle;"><br><img src="https://archives.bulbagarden.net/media/upload/b/b5/Flying_icon_SwSh.png" width="18" alt="Volador" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador" style="vertical-align:middle;">
+<img src="https://archives.bulbagarden.net/media/upload/8/89/Normal_icon_SwSh.png" width="18" alt="Normal" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal" style="vertical-align:middle;">
 
 </div>
 
@@ -480,7 +390,7 @@ font-weight:bold;
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Diamante<br>🎮 Pokémon Esmeralda<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino<br>🎮 Pokémon Rojo Fuego<br>🎮 Pokémon Rubí<br>🎮 Pokémon Verde Hoja<br>🎮 Pokémon Zafiro</td>
+<td></td>
 </tr>
 
 <tr>
@@ -489,46 +399,46 @@ font-weight:bold;
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>270</td>
+<td>146</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
 <td>
-💠 <b>1.250.000 XP</b><br>
+💠 <b>1.000.000 XP</b><br>
 <small>Necesaria para alcanzar el nivel 100</small>
 </td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Lento-red?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Medio-lightgrey?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>600 puntos</b><br>
-💎 Pseudolegendario
+<b>418 puntos</b><br>
+⚔️ Fuerte
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">❤️ PS 95<br>
-    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br><br>
-    ⚔️ Ataque 135<br>
-    🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜<br><br>
-    🛡️ Defensa 80<br>
+<td style="background:red">❤️ PS 88<br>
     🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ✨ At. Especial 110<br>
+    ⚔️ Ataque 110<br>
     🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Def. Especial 80<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
-    💨 Velocidad 100<br>
-    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜</td>
+    🛡️ Defensa 60<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    ✨ At. Especial 55<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Def. Especial 60<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    💨 Velocidad 45<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜</td>
 </tr>
 
 </table>
@@ -538,15 +448,15 @@ font-weight:bold;
 
 ## 💡 Curiosidad oficial
 
-> Si se enfada, no hay forma de calmarlo; lo destruye todo lanzando arañazos y llamas.
+> Al detectar el rastro de una presa, la acecha con tenacidad, pero al ponerse el sol le vence el sueño.
 
 ---
 
 ## 💡 Datos interesantes
 
-- ⚖️ Pesa 102.6 kg.
-- 📏 Mide 1.5 m.
-- 🥚 Pertenece al grupo huevo Dragon.
+- 🧬 Introducido en la generación VII (Alola).
+- ❤️ Amistad base: 70.
+- ⚖️ Pesa 14.2 kg.
 
 ---
 
@@ -554,11 +464,11 @@ font-weight:bold;
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Salamence** en:
+Puedes consultar información completa y actualizada de **Gumshoos** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Salamence)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/salamence)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Salamence_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Gumshoos)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/gumshoos)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gumshoos_(Pokémon))
 
 
 ---
@@ -1149,16 +1059,18 @@ Puedes consultar información completa y actualizada de **Salamence** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-21T11:08:06.668519 -->
+<!-- Generated: 2026-07-21T11:11:41.716377 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"Gamer de día, héroe de noche."*
+> *"La vida es como un videojuego: ¡haz tu movimiento!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
