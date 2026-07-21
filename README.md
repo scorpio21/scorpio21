@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-21T13:04:28.504389 -->
+<!-- Generated: 2026-07-21T13:12:15.136918 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/872.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/872.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/183.png" width="220">
 </td>
 
 </tr>
@@ -48,7 +48,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar%20Snom-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Marill-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
 </a>
 </td>
 </tr>
@@ -59,12 +59,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🔵 <b>Snom</b></td>
+<td>🔵 <b>Marill</b></td>
 </tr>
 
 <tr>
 <td><b>🇯🇵 Nombre original</b></td>
-<td>ユキハミ</td>
+<td>マリル</td>
 </tr>
 
 <tr>
@@ -76,28 +76,28 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#872</td>
+<td>#183</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>VIII (Galar)</td>
+<td>II (Johto)</td>
 </tr>
 
 <tr>
 <td><b>🗺️ Región</b></td>
-<td>🏝️ Galar</td>
+<td>🏝️ Johto</td>
 </tr>
 
 <tr>
 <td><b>🎮 Juego debut</b></td>
-<td>Pokémon Espada / Escudo</td>
+<td>Pokémon Oro / Plata</td>
 </tr>
 
 <tr>
 <td><b>🎵 Música</b></td>
 <td>
-<a href="https://www.youtube.com/results?search_query=Pokemon+Sword+Shield+Wild+Pokemon+Theme" target="_blank">
+<a href="https://www.youtube.com/results?search_query=Pokemon+Gold+Silver+Wild+Pokemon+Theme" target="_blank">
 🎧 Escuchar en YouTube
 </a>
 </td>
@@ -105,7 +105,37 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/a/a6/latest/20230128125423/Tipo_hielo_icono_EP.svg" width="23" alt="Hielo" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo" width="45" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/1/1a/latest/20230128124809/Tipo_bicho_icono_EP.svg" width="23" alt="Bicho" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho" width="45" style="vertical-align:middle;"><br></td>
+<td>
+        <div style="
+            display:inline-flex;
+            align-items:center;
+            background:#6890F0;
+            color:white;
+            padding:4px 10px;
+            border-radius:6px;
+            font-weight:bold;
+            font-size:14px;
+            margin-right:6px;
+        ">
+            <img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="20" style="margin-right:6px;">
+            Agua
+        </div>
+        
+        <div style="
+            display:inline-flex;
+            align-items:center;
+            background:#EE99AC;
+            color:white;
+            padding:4px 10px;
+            border-radius:6px;
+            font-weight:bold;
+            font-size:14px;
+            margin-right:6px;
+        ">
+            <img src="https://images.wikidexcdn.net/mwuploads/wikidex/b/b7/latest/20230128125233/Tipo_hada_icono_EP.svg" width="20" style="margin-right:6px;">
+            Hada
+        </div>
+        </td>
 </tr>
 
 <tr>
@@ -114,7 +144,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Snom</td>
+<td>Marill</td>
 </tr>
 
 <tr>
@@ -139,17 +169,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Blanco-FFFFFF?style=flat-square&logoColor=black" alt="white"></td>
+<td><img src="https://img.shields.io/badge/Azul-2196F3?style=flat-square" alt="blue"></td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>0.3 m</td>
+<td>0.4 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>3.8 kg</td>
+<td>8.5 kg</td>
 </tr>
 
 <tr>
@@ -159,17 +189,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Desconocido</td>
+<td>Waters-edge</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Bug</td>
+<td>Water1, Fairy</td>
 </tr>
 
 <tr>
 <td><b>❤️ Amistad base</b></td>
-<td>50</td>
+<td>70</td>
 </tr>
 
 <tr>
@@ -178,17 +208,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td>Ninguna</td>
+<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"></td>
 </tr>
 
 <tr>
@@ -208,7 +238,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Polvo Escudo</b><br><small>Protects against incoming moves' extra effects.</small><br><br>⭐ ✨ <b>Escama de Hielo</b> (Oculta)<br><small>Halves damage from Special moves.</small></td>
+<td>🟢 ⚡ <b>Sebo</b><br><small>Halves damage from Fire and Ice moves.</small><br><br>🟢 ⚡ <b>Potencia</b><br><small>Doubles Attack in battle.</small><br><br>⭐ ✨ <b>Herbívoro</b> (Oculta)<br><small>Absorbs Grass moves, raising Attack one stage.</small></td>
 </tr>
 
 <tr>
@@ -218,7 +248,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Viento%20Hielo-98D8D8?style=flat-square"> <img src="https://img.shields.io/badge/Car%C3%A1mbano-98D8D8?style=flat-square"> <img src="https://img.shields.io/badge/Canon-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Nieve%20Polvo-98D8D8?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Alivio-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Demolici%C3%B3n-C03028?style=flat-square"> <img src="https://img.shields.io/badge/Bofet%C3%B3n%20Lodo-E0C068?style=flat-square"> <img src="https://img.shields.io/badge/Excavar-E0C068?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -248,7 +278,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/snom.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/azurill.jpg" width="62">
 
 </td>
 </tr>
@@ -271,7 +301,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Snom
+Azurill
 </b>
 
 <br>
@@ -280,12 +310,42 @@ Snom
 color:#555;
 font-weight:bold;
 ">
-#0872
+#0298
 </small>
 
 <br><br>
 
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/a/a6/latest/20230128125423/Tipo_hielo_icono_EP.svg" width="23" alt="Hielo" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo" width="45" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/1/1a/latest/20230128124809/Tipo_bicho_icono_EP.svg" width="23" alt="Bicho" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho" width="45" style="vertical-align:middle;"><br>
+
+        <div style="
+            display:inline-flex;
+            align-items:center;
+            background:#A8A878;
+            color:white;
+            padding:4px 10px;
+            border-radius:6px;
+            font-weight:bold;
+            font-size:14px;
+            margin-right:6px;
+        ">
+            <img src="https://images.wikidexcdn.net/mwuploads/wikidex/c/c3/latest/20230128125621/Tipo_normal_icono_EP.svg" width="20" style="margin-right:6px;">
+            Normal
+        </div>
+        
+        <div style="
+            display:inline-flex;
+            align-items:center;
+            background:#EE99AC;
+            color:white;
+            padding:4px 10px;
+            border-radius:6px;
+            font-weight:bold;
+            font-size:14px;
+            margin-right:6px;
+        ">
+            <img src="https://images.wikidexcdn.net/mwuploads/wikidex/b/b7/latest/20230128125233/Tipo_hada_icono_EP.svg" width="20" style="margin-right:6px;">
+            Hada
+        </div>
+        
 
 </div>
 
@@ -338,7 +398,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/frosmoth.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/marill.jpg" width="62">
 
 </td>
 </tr>
@@ -361,7 +421,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Frosmoth
+Marill
 </b>
 
 <br>
@@ -370,12 +430,162 @@ Frosmoth
 color:#555;
 font-weight:bold;
 ">
-#0873
+#0183
 </small>
 
 <br><br>
 
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/a/a6/latest/20230128125423/Tipo_hielo_icono_EP.svg" width="23" alt="Hielo" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo" width="45" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/1/1a/latest/20230128124809/Tipo_bicho_icono_EP.svg" width="23" alt="Bicho" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho" width="45" style="vertical-align:middle;"><br>
+
+        <div style="
+            display:inline-flex;
+            align-items:center;
+            background:#6890F0;
+            color:white;
+            padding:4px 10px;
+            border-radius:6px;
+            font-weight:bold;
+            font-size:14px;
+            margin-right:6px;
+        ">
+            <img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="20" style="margin-right:6px;">
+            Agua
+        </div>
+        
+        <div style="
+            display:inline-flex;
+            align-items:center;
+            background:#EE99AC;
+            color:white;
+            padding:4px 10px;
+            border-radius:6px;
+            font-weight:bold;
+            font-size:14px;
+            margin-right:6px;
+        ">
+            <img src="https://images.wikidexcdn.net/mwuploads/wikidex/b/b7/latest/20230128125233/Tipo_hada_icono_EP.svg" width="20" style="margin-right:6px;">
+            Hada
+        </div>
+        
+
+</div>
+
+</div>
+
+</td>
+
+<td align="center" valign="middle" style="width:auto; padding:10px;">
+
+<div style="
+font-size:14px;
+font-weight:bold;
+color:#FFD54F;
+margin-bottom:10px;
+">
+
+Nivel 18
+
+</div>
+
+<div style="
+font-size:32px;
+font-weight:bold;
+">
+
+➜
+
+</div>
+
+</td>
+
+<td align="center" valign="top">
+
+<div style="
+display:flex;
+flex-direction:column;
+align-items:center;
+width:95px;
+">
+
+<table align="center" cellspacing="0" cellpadding="0">
+<tr>
+<td
+align="center"
+width="78"
+height="78"
+style="
+background:#98C2D1;
+border:2px solid #492A49;
+border-radius:50%;
+">
+
+<img src="https://img.pokemondb.net/artwork/large/azumarill.jpg" width="62">
+
+</td>
+</tr>
+</table>
+
+<div style="
+margin-top:8px;
+font-size:12px;
+color:#9aa6b2;
+">
+
+</div>
+
+<div style="
+margin-top:6px;
+padding:6px 10px;
+background:#EAF4F7;
+border-radius:8px;
+min-width:95px;
+">
+
+<b style="font-size:15px;color:#000;">
+Azumarill
+</b>
+
+<br>
+
+<small style="
+color:#555;
+font-weight:bold;
+">
+#0184
+</small>
+
+<br><br>
+
+
+        <div style="
+            display:inline-flex;
+            align-items:center;
+            background:#6890F0;
+            color:white;
+            padding:4px 10px;
+            border-radius:6px;
+            font-weight:bold;
+            font-size:14px;
+            margin-right:6px;
+        ">
+            <img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="20" style="margin-right:6px;">
+            Agua
+        </div>
+        
+        <div style="
+            display:inline-flex;
+            align-items:center;
+            background:#EE99AC;
+            color:white;
+            padding:4px 10px;
+            border-radius:6px;
+            font-weight:bold;
+            font-size:14px;
+            margin-right:6px;
+        ">
+            <img src="https://images.wikidexcdn.net/mwuploads/wikidex/b/b7/latest/20230128125233/Tipo_hada_icono_EP.svg" width="20" style="margin-right:6px;">
+            Hada
+        </div>
+        
 
 </div>
 
@@ -390,7 +600,7 @@ font-weight:bold;
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td></td>
+<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Cristal<br>🎮 Pokémon Diamante<br>🎮 Pokémon Esmeralda<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino<br>🎮 Pokémon Rojo Fuego<br>🎮 Pokémon Rubí<br>🎮 Pokémon Verde Hoja<br>🎮 Pokémon Zafiro</td>
 </tr>
 
 <tr>
@@ -399,46 +609,46 @@ font-weight:bold;
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>37</td>
+<td>88</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
 <td>
-💠 <b>1.000.000 XP</b><br>
+💠 <b>800.000 XP</b><br>
 <small>Necesaria para alcanzar el nivel 100</small>
 </td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Medio-lightgrey?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/R%C3%A1pido-blue?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>185 puntos</b><br>
+<b>250 puntos</b><br>
 🌱 Básico
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">❤️ PS 30<br>
+<td style="background:red">❤️ PS 70<br>
+    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
+    ⚔️ Ataque 20<br>
     🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ⚔️ Ataque 25<br>
-    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Defensa 35<br>
-    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ✨ At. Especial 45<br>
+    🛡️ Defensa 50<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Def. Especial 30<br>
+    ✨ At. Especial 20<br>
     🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    💨 Velocidad 20<br>
-    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
+    🛡️ Def. Especial 50<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    💨 Velocidad 40<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜</td>
 </tr>
 
 </table>
@@ -448,15 +658,15 @@ font-weight:bold;
 
 ## 💡 Curiosidad oficial
 
-> Teje un hilo gélido que le permite aferrarse a las ramas y simula ser un carámbano mientras duerme.
+> Tiene una piel que repele el agua. De hecho, puede pasarse horas jugando en el agua sin mojarse.
 
 ---
 
 ## 💡 Datos interesantes
 
-- 📏 Mide 0.3 m.
-- 🎯 Ratio de captura: 190.
-- ❤️ Amistad base: 50.
+- 📏 Mide 0.4 m.
+- ⚖️ Pesa 8.5 kg.
+- ❤️ Amistad base: 70.
 
 ---
 
@@ -464,11 +674,11 @@ font-weight:bold;
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Snom** en:
+Puedes consultar información completa y actualizada de **Marill** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Snom)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/snom)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Snom_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Marill)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/marill)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Marill_(Pokémon))
 
 
 ---
@@ -1081,16 +1291,18 @@ Puedes consultar información completa y actualizada de **Snom** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-21T13:04:28.504389 -->
+<!-- Generated: 2026-07-21T13:12:15.136918 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"¡Nunca subestimes el poder de un jugador con café!"*
+> *"En cada partida, hay un nuevo desafío esperando ser conquistado."*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
