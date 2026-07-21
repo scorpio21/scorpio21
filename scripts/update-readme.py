@@ -70,7 +70,9 @@ debilidades_html, resistencias_html, inmunidades_html = build_relations_html(tip
 bst, nivel_bst, bst_html, stats_md = compute_bst(stats)
 
 frase_del_dia = get_gamer_quote()
-fecha = datetime.datetime.utcnow().isoformat()
+from datetime import datetime, UTC
+
+fecha = datetime.now(UTC).isoformat()
 
 
 # Construir bloque README
