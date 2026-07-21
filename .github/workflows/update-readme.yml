@@ -29,7 +29,7 @@ jobs:
       - name: Guardar cambios
         run: |
           git config user.name "scorpio21"
-          git config user.email "sonscorpio@gmail.com"
+          git config user.email "12345678+scorpio21@users.noreply.github.com"
 
           echo "=== Contenido de cries ==="
           ls -la cries || true
