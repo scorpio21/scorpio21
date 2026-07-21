@@ -27,7 +27,7 @@ def get_pokemon_of_the_day():
 
     for genero in species["genera"]:
         if genero["language"]["name"] == "es":
-            clase = genero["genus"]
+            clase = genero["genus"].replace("Pokémon ", "")
             break
 
     if clase == "Desconocida":
@@ -107,20 +107,20 @@ def get_pokemon_of_the_day():
 
     # Generación
     generaciones = {
-        "generation-i": "I (Kanto)",
-        "generation-ii": "II (Johto)",
-        "generation-iii": "III (Hoenn)",
-        "generation-iv": "IV (Sinnoh)",
-        "generation-v": "V (Teselia)",
-        "generation-vi": "VI (Kalos)",
-        "generation-vii": "VII (Alola)",
-        "generation-viii": "VIII (Galar)",
-        "generation-ix": "IX (Paldea)"
+        "generation-i": ("I (Kanto)", 1996),
+        "generation-ii": ("II (Johto)", 1999),
+        "generation-iii": ("III (Hoenn)", 2002),
+        "generation-iv": ("IV (Sinnoh)", 2006),
+        "generation-v": ("V (Teselia)", 2010),
+        "generation-vi": ("VI (Kalos)", 2013),
+        "generation-vii": ("VII (Alola)", 2016),
+        "generation-viii": ("VIII (Galar)", 2019),
+        "generation-ix": ("IX (Paldea)", 2022),
     }
 
-    generation = generaciones.get(
+    generation, anio_generacion = generaciones.get(
         species["generation"]["name"],
-        species["generation"]["name"]
+        (species["generation"]["name"], "Desconocido")
     )
 
     juego_debut, musica_url = get_game_music(generation)
@@ -360,6 +360,7 @@ def get_pokemon_of_the_day():
         habitat,
         color_pokedex,
         generation,
+        anio_generacion,
         juego_debut,
         musica_url,
         capture_rate,
