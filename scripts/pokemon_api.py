@@ -19,7 +19,7 @@ def get_pokemon_of_the_day():
     data = response.json()
 
     species = requests.get(data["species"]["url"]).json()
-
+    
     # Nombre japonés
     nombre_japones = "Desconocido"
 
