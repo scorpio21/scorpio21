@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-21T17:31:04.307215+00:00 -->
+<!-- Generated: 2026-07-21T17:32:33.215145+00:00 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/772.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/772.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/422.png" width="220">
 </td>
 
 </tr>
@@ -48,7 +48,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar%20Type-null-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Shellos-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
 </a>
 </td>
 </tr>
@@ -59,45 +59,45 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟢 <b>Type-null</b></td>
+<td>🔵 <b>Shellos</b></td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🇯🇵 Nombre original</b></td>
-<td>タイプ：ヌル</td>
+<td>カラナクシ</td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
+<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#772</td>
+<td>#422</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>VII (Alola)</td>
+<td>IV (Sinnoh)</td>
 </tr>
 
 <tr>
 <td><b>🗺️ Región</b></td>
-<td>🏝️ Alola</td>
+<td>🏝️ Sinnoh</td>
 </tr>
 
 <tr>
 <td><b>🎮 Juego debut</b></td>
-<td>Pokémon Sol / Luna</td>
+<td>Pokémon Diamante / Perla</td>
 </tr>
 
 <tr>
 <td><b>🎵 Música</b></td>
 <td>
-<a href="https://www.youtube.com/results?search_query=Pokemon+Sun+Moon+Wild+Pokemon+Theme" target="_blank">
+<a href="https://www.youtube.com/results?search_query=Pokemon+Diamond+Pearl+Wild+Pokemon+Theme" target="_blank">
 🎧 Escuchar en YouTube
 </a>
 </td>
@@ -105,7 +105,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/c/c3/latest/20230128125621/Tipo_normal_icono_EP.svg" width="23" alt="Normal" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal" style="vertical-align:middle;"><br></td>
+<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="23" alt="Agua" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;"><br></td>
 </tr>
 
 <tr>
@@ -114,12 +114,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Type-null</td>
+<td>Shellos</td>
 </tr>
 
 <tr>
 <td><b>⭐ Legendario</b></td>
-<td>✅ Sí</td>
+<td>❌ No</td>
 </tr>
 
 <tr>
@@ -139,22 +139,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Gris-9E9E9E?style=flat-square" alt="gray" style="vertical-align:middle;"></td>
+<td><img src="https://img.shields.io/badge/Morado-9C27B0?style=flat-square" alt="purple" style="vertical-align:middle;"></td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>1.9 m</td>
+<td>0.3 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>120.5 kg</td>
+<td>6.3 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ Sin género &nbsp;&nbsp;&nbsp; ♀️ Sin género</td>
+<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
 </tr>
 
 <tr>
@@ -164,12 +164,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Desconocido</td>
+<td>Agua 1, Amorfo</td>
 </tr>
 
 <tr>
 <td><b>❤️ Amistad base</b></td>
-<td>0</td>
+<td>70</td>
 </tr>
 
 <tr>
@@ -178,27 +178,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/f/f2/latest/20230128125518/Tipo_lucha_icono_EP.svg" width="23" alt="Lucha" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha" style="vertical-align:middle;"><br></td>
+<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/8/84/latest/20230128125008/Tipo_el%C3%A9ctrico_icono_EP.svg" width="23" alt="Eléctrico" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/e/ed/latest/20230128125654/Tipo_planta_icono_EP.svg" width="23" alt="Planta" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta" style="vertical-align:middle;"><br></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td></td>
+<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/6/6c/latest/20230128124521/Tipo_acero_icono_EP.svg" width="23" alt="Acero" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="23" alt="Agua" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/5/55/latest/20230128125153/Tipo_fuego_icono_EP.svg" width="23" alt="Fuego" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/a/a6/latest/20230128125423/Tipo_hielo_icono_EP.svg" width="23" alt="Hielo" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo" style="vertical-align:middle;"><br></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/3/3d/latest/20230128125103/Tipo_fantasma_icono_EP.svg" width="23" alt="Fantasma" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma" style="vertical-align:middle;"><br></td>
+<td>Ninguna</td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜<br>1.2%</td>
+<td>🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜<br>74.5%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>3</td>
+<td>190</td>
 </tr>
 
 <tr>
@@ -208,7 +208,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Armadura Batalla</b><br><small>Protects against critical hits.</small><br><br></td>
+<td>🟢 ⚡ <b>Viscosidad</b><br><small>Prevents a held item from being removed by other Pokémon.</small><br><br>🟢 ⚡ <b>Colector</b><br><small>Redirects single-target Water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage.</small><br><br>⭐ ✨ <b>Poder Arena</b> (Oculta)<br><small>Strengthens Rock, Ground, and Steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage.</small></td>
 </tr>
 
 <tr>
@@ -218,7 +218,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Doble%20Golpe-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Canon-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Castigo-705848?style=flat-square"> <img src="https://img.shields.io/badge/Capa%20M%C3%A1gica-F85888?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Fortaleza-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Teraexplosi%C3%B3n-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Buceo-6890F0?style=flat-square"> <img src="https://img.shields.io/badge/Ronquido-A8A878?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -248,7 +248,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/type-null.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/shellos.jpg" width="62">
 
 </td>
 </tr>
@@ -271,7 +271,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Type-null
+Shellos
 </b>
 
 <br>
@@ -280,12 +280,12 @@ Type-null
 color:#555;
 font-weight:bold;
 ">
-#0772
+#0422
 </small>
 
 <br><br>
 
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/c/c3/latest/20230128125621/Tipo_normal_icono_EP.svg" width="23" alt="Normal" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal" style="vertical-align:middle;"><br>
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="23" alt="Agua" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;"><br>
 
 </div>
 
@@ -302,7 +302,7 @@ color:#FFD54F;
 margin-bottom:10px;
 ">
 
-Amistad
+Nivel 30
 
 </div>
 
@@ -338,7 +338,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/silvally.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/gastrodon.jpg" width="62">
 
 </td>
 </tr>
@@ -361,7 +361,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Silvally
+Gastrodon
 </b>
 
 <br>
@@ -370,12 +370,12 @@ Silvally
 color:#555;
 font-weight:bold;
 ">
-#0773
+#0423
 </small>
 
 <br><br>
 
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/c/c3/latest/20230128125621/Tipo_normal_icono_EP.svg" width="23" alt="Normal" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal" style="vertical-align:middle;"><br>
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="23" alt="Agua" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/c/c8/latest/20230128132625/Tipo_tierra_icono_EP.svg" width="23" alt="Tierra" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra" style="vertical-align:middle;"><br>
 
 </div>
 
@@ -390,7 +390,7 @@ font-weight:bold;
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td></td>
+<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Diamante<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino</td>
 </tr>
 
 <tr>
@@ -399,50 +399,50 @@ font-weight:bold;
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>107</td>
+<td>65</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
 <td>
-💠 <b>1.250.000 XP</b>
+💠 <b>1.000.000 XP</b>
 </td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Lento-red?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Medio-lightgrey?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>534 puntos</b><br>
-🔥 Muy fuerte
+<b>325 puntos</b><br>
+👍 Normal
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">❤️ PS 95<br>
-    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br>
-    ⚔️ Ataque 95<br>
-    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br>
-    🛡️ Defensa 95<br>
-    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br>
-    ✨ At. Especial 95<br>
-    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br>
-    🛡️ Def. Especial 95<br>
-    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br>
-    💨 Velocidad 59<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜
+<td style="background:red">❤️ PS 76<br>
+    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br>
+    ⚔️ Ataque 48<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br>
+    🛡️ Defensa 48<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br>
+    ✨ At. Especial 57<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br>
+    🛡️ Def. Especial 62<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br>
+    💨 Velocidad 34<br>
+    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜
     <hr>
 
-🏆 <b>Total Base:</b> 534<br>
-🥇 <b>Mejor atributo:</b> ❤️ PS (95)<br>
-🥉 <b>Atributo más bajo:</b> 💨 Velocidad (59)</td>
+🏆 <b>Total Base:</b> 325<br>
+🥇 <b>Mejor atributo:</b> ❤️ PS (76)<br>
+🥉 <b>Atributo más bajo:</b> 💨 Velocidad (34)</td>
 </tr>
 
 </table>
@@ -452,15 +452,15 @@ font-weight:bold;
 
 ## 💡 Curiosidad oficial
 
-> La pesada máscara le impide liberar toda su fuerza, que se cree que es extraordinaria.
+> No hay que apretarle muy fuerte, ya que, si lo haces, secreta un misterioso fluido morado.
 
 ---
 
 ## 💡 Datos interesantes
 
-- ⚖️ Pesa 120.5 kg.
-- ❤️ Amistad base: 0.
-- 📏 Mide 1.9 m.
+- 🎯 Ratio de captura: 190.
+- 📏 Mide 0.3 m.
+- 🎨 Su color en la Pokédex es <img src="https://img.shields.io/badge/Morado-9C27B0?style=flat-square" alt="purple" style="vertical-align:middle;">.
 
 ---
 
@@ -468,11 +468,11 @@ font-weight:bold;
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Type-null** en:
+Puedes consultar información completa y actualizada de **Shellos** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Type-null)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/type-null)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Type-null_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Shellos)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/shellos)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Shellos_(Pokémon))
 
 
 ---
@@ -1125,16 +1125,18 @@ Puedes consultar información completa y actualizada de **Type-null** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-21T17:31:04.307215+00:00 -->
+<!-- Generated: 2026-07-21T17:32:33.215145+00:00 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"Solo hay una regla: ¡Ganar es lo único que importa!"*
+> *"El verdadero juego comienza cuando apagas la consola."*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
