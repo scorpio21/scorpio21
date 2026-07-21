@@ -37,6 +37,18 @@ def barra_bst(valor, maximo=720, ancho=20):
 def compute_bst(stats):
     bst = sum(stats.values())
 
+    stat_names = {
+        "hp": "❤️ PS",
+        "attack": "⚔️ Ataque",
+        "defense": "🛡️ Defensa",
+        "special-attack": "✨ At. Especial",
+        "special-defense": "🛡️ Def. Especial",
+        "speed": "💨 Velocidad",
+    }
+
+    mejor = max(stats.items(), key=lambda x: x[1])
+    peor = min(stats.items(), key=lambda x: x[1])
+
     if bst >= 680:
         nivel_bst = "🌟 Legendario"
     elif bst >= 600:
@@ -58,15 +70,27 @@ def compute_bst(stats):
 """
     stats_md = f"""❤️ PS {stats['hp']}<br>
     {barra_stat(stats['hp'])}<br><br>
+
     ⚔️ Ataque {stats['attack']}<br>
     {barra_stat(stats['attack'])}<br><br>
+
     🛡️ Defensa {stats['defense']}<br>
     {barra_stat(stats['defense'])}<br><br>
+
     ✨ At. Especial {stats['special-attack']}<br>
     {barra_stat(stats['special-attack'])}<br><br>
+
     🛡️ Def. Especial {stats['special-defense']}<br>
     {barra_stat(stats['special-defense'])}<br><br>
+
     💨 Velocidad {stats['speed']}<br>
-    {barra_stat(stats['speed'])}"""
+    {barra_stat(stats['speed'])}<br><br>
+
+    <hr>
+
+    🏆 <b>Total Base:</b> {bst}<br>
+    🥇 <b>Mejor atributo:</b> {stat_names[mejor[0]]} ({mejor[1]})<br>
+    🥉 <b>Atributo más bajo:</b> {stat_names[peor[0]]} ({peor[1]})
+    """
     
     return bst, nivel_bst, bst_html, stats_md
