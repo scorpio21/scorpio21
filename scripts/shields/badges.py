@@ -54,7 +54,7 @@ def build_tipos_html(tipos_es):
         if icono:
             html.append(
                 f'<img src="{icono}" width="23" alt="{tipo}" '
-                f'style="vertical-align:middle;">'
+                f'style="vertical-align:middle;">&nbsp;'
             )
 
         if badge:
