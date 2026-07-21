@@ -84,6 +84,7 @@ pokemon_info_block = build_pokemon_info_block(
     pokemon_shiny_url=pokemon_shiny_url,
     nombre=nombre,
     nombre_japones=nombre_japones,
+    especie=especie,
     rareza=rareza,
     cry_url=cry_url,
         pokedex_num=pokedex_num,
