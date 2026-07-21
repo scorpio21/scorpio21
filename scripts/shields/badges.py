@@ -11,7 +11,7 @@ from config import (
     rareza_texto,
     rareza_colores,
 )
-from pokemon_types import obtener_tipo_info
+from translation.pokemon_types import obtener_tipo_info
 from urllib.parse import quote
 
 #------------------------------
