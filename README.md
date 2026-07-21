@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-21T11:23:17.261520 -->
+<!-- Generated: 2026-07-21T11:31:11.551536 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/86.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/646.png" width="220">
 </td>
 
 </tr>
@@ -48,7 +48,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar%20Seel-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Kyurem-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
 </a>
 </td>
 </tr>
@@ -59,45 +59,45 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🔵 <b>Seel</b></td>
+<td>🟡✨ <b>Kyurem</b></td>
 </tr>
 
 <tr>
 <td><b>🇯🇵 Nombre original</b></td>
-<td>パウワウ</td>
+<td>キュレム</td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Legendario-gold?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#86</td>
+<td>#646</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>I (Kanto)</td>
+<td>V (Teselia)</td>
 </tr>
 
 <tr>
 <td><b>🗺️ Región</b></td>
-<td>🏝️ Kanto</td>
+<td>🏝️ Teselia</td>
 </tr>
 
 <tr>
 <td><b>🎮 Juego debut</b></td>
-<td>Pokémon Rojo / Azul</td>
+<td>Pokémon Negro / Blanco</td>
 </tr>
 
 <tr>
 <td><b>🎵 Música</b></td>
 <td>
-<a href="https://www.youtube.com/results?search_query=Pokemon+Red+Blue+Wild+Pokemon+Theme" target="_blank">
+<a href="https://www.youtube.com/results?search_query=Pokemon+Black+White+Wild+Pokemon+Theme" target="_blank">
 🎧 Escuchar en YouTube
 </a>
 </td>
@@ -105,7 +105,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://archives.bulbagarden.net/media/upload/thumb/7/7f/Water_icon.png/20px-Water_icon.png" width="22" alt="Agua" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;"></td>
+<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/1/15/latest/20230128124905/Tipo_drag%C3%B3n_icono_EP.svg" width="22" alt="Dragón" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/a/a6/latest/20230128125423/Tipo_hielo_icono_EP.svg" width="22" alt="Hielo" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo" style="vertical-align:middle;"></td>
 </tr>
 
 <tr>
@@ -114,12 +114,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Seel</td>
+<td>Kyurem</td>
 </tr>
 
 <tr>
 <td><b>⭐ Legendario</b></td>
-<td>❌ No</td>
+<td>✅ Sí</td>
 </tr>
 
 <tr>
@@ -139,37 +139,37 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Blanco-FFFFFF?style=flat-square&logoColor=black" alt="white"></td>
+<td><img src="https://img.shields.io/badge/Gris-9E9E9E?style=flat-square" alt="gray"></td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>1.1 m</td>
+<td>3.0 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>90.0 kg</td>
+<td>325.0 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
+<td>♂️ Sin género &nbsp;&nbsp;&nbsp; ♀️ Sin género</td>
 </tr>
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Sea</td>
+<td>Desconocido</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Water1, Ground</td>
+<td>No-eggs</td>
 </tr>
 
 <tr>
 <td><b>❤️ Amistad base</b></td>
-<td>70</td>
+<td>0</td>
 </tr>
 
 <tr>
@@ -178,12 +178,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
 </tr>
 
 <tr>
@@ -193,12 +193,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜<br>74.5%</td>
+<td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜<br>1.2%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>190</td>
+<td>3</td>
 </tr>
 
 <tr>
@@ -208,17 +208,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Sebo</b><br><small>Halves damage from Fire and Ice moves.</small><br><br>🟢 ⚡ <b>Hidratación</b><br><small>Cures any major status ailment after each turn during rain.</small><br><br>⭐ ✨ <b>Gélido</b> (Oculta)<br><small>Heals for 1/16 max HP after each turn during hail.  Protects against hail damage.</small></td>
+<td>🟢 ⚡ <b>Presión</b><br><small>Increases the PP cost of moves targetting the Pokémon by one.</small><br><br></td>
 </tr>
 
 <tr>
 <td><b>📦 Objetos</b></td>
-<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aspear-berry.png" width="28" height="28"> <b>Aspear Berry</b> (50%)<br><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mystic-water.png" width="28" height="28"> <b>Mystic Water</b> (100%)</td>
+<td>No puede llevar objetos.</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Megacuerno-A8B820?style=flat-square"> <img src="https://img.shields.io/badge/Paisaje%20Nevado-98D8D8?style=flat-square"> <img src="https://img.shields.io/badge/Golpe%20Cabeza-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Agua%20Lodosa-6890F0?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/R%C3%A1faga%20Escamas-7038F8?style=flat-square"> <img src="https://img.shields.io/badge/Danza%20Drag%C3%B3n-7038F8?style=flat-square"> <img src="https://img.shields.io/badge/Descanso-F85888?style=flat-square"> <img src="https://img.shields.io/badge/Enfado-7038F8?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -248,7 +248,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/seel.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/kyurem.jpg" width="62">
 
 </td>
 </tr>
@@ -271,7 +271,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Seel
+Kyurem
 </b>
 
 <br>
@@ -280,102 +280,12 @@ Seel
 color:#555;
 font-weight:bold;
 ">
-#0086
+#0646
 </small>
 
 <br><br>
 
-<img src="https://archives.bulbagarden.net/media/upload/thumb/7/7f/Water_icon.png/20px-Water_icon.png" width="18" alt="Agua" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;">
-
-</div>
-
-</div>
-
-</td>
-
-<td align="center" valign="middle" width="110">
-
-<div style="
-font-size:14px;
-font-weight:bold;
-color:#FFD54F;
-margin-bottom:10px;
-">
-
-Nivel 34
-
-</div>
-
-<div style="
-font-size:32px;
-font-weight:bold;
-">
-
-➜
-
-</div>
-
-</td>
-
-<td align="center" valign="top">
-
-<div style="
-display:flex;
-flex-direction:column;
-align-items:center;
-width:95px;
-">
-
-<table align="center" cellspacing="0" cellpadding="0">
-<tr>
-<td
-align="center"
-width="78"
-height="78"
-style="
-background:#98C2D1;
-border:2px solid #492A49;
-border-radius:50%;
-">
-
-<img src="https://img.pokemondb.net/artwork/large/dewgong.jpg" width="62">
-
-</td>
-</tr>
-</table>
-
-<div style="
-margin-top:8px;
-font-size:12px;
-color:#9aa6b2;
-">
-
-</div>
-
-<div style="
-margin-top:6px;
-padding:6px 10px;
-background:#EAF4F7;
-border-radius:8px;
-min-width:95px;
-">
-
-<b style="font-size:15px;color:#000;">
-Dewgong
-</b>
-
-<br>
-
-<small style="
-color:#555;
-font-weight:bold;
-">
-#0087
-</small>
-
-<br><br>
-
-<img src="https://archives.bulbagarden.net/media/upload/thumb/7/7f/Water_icon.png/20px-Water_icon.png" width="18" alt="Agua" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;"><br><img src="https://archives.bulbagarden.net/media/upload/thumb/8/83/Ice_icon.png/20px-Ice_icon.png" width="18" alt="Hielo" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo" style="vertical-align:middle;">
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/1/15/latest/20230128124905/Tipo_drag%C3%B3n_icono_EP.svg" width="18" alt="Dragón" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/a/a6/latest/20230128125423/Tipo_hielo_icono_EP.svg" width="18" alt="Hielo" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo" style="vertical-align:middle;">
 
 </div>
 
@@ -390,7 +300,7 @@ font-weight:bold;
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td>🎮 Pokémon Amarillo<br>🎮 Pokémon Azul<br>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Cristal<br>🎮 Pokémon Diamante<br>🎮 Pokémon Esmeralda<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino<br>🎮 Pokémon Rojo<br>🎮 Pokémon Rojo Fuego<br>🎮 Pokémon Rubí<br>🎮 Pokémon Verde Hoja<br>🎮 Pokémon Zafiro</td>
+<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2</td>
 </tr>
 
 <tr>
@@ -399,46 +309,46 @@ font-weight:bold;
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>65</td>
+<td>297</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
 <td>
-💠 <b>1.000.000 XP</b><br>
+💠 <b>1.250.000 XP</b><br>
 <small>Necesaria para alcanzar el nivel 100</small>
 </td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Medio-lightgrey?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Lento-red?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜
 
-<b>325 puntos</b><br>
-👍 Normal
+<b>660 puntos</b><br>
+💎 Pseudolegendario
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">❤️ PS 65<br>
-    🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ⚔️ Ataque 45<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Defensa 55<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ✨ At. Especial 45<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Def. Especial 70<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
-    💨 Velocidad 45<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜</td>
+<td style="background:red">❤️ PS 125<br>
+    🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜<br><br>
+    ⚔️ Ataque 130<br>
+    🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜<br><br>
+    🛡️ Defensa 90<br>
+    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br><br>
+    ✨ At. Especial 130<br>
+    🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜<br><br>
+    🛡️ Def. Especial 90<br>
+    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br><br>
+    💨 Velocidad 95<br>
+    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜</td>
 </tr>
 
 </table>
@@ -448,15 +358,15 @@ font-weight:bold;
 
 ## 💡 Curiosidad oficial
 
-> Este Pokémon vive en icebergs. Nada en el mar y usa el cuerno de su cabeza para romper el hielo.
+> Pokémon legendario que aguarda al héroe que compense el vacío de su cuerpo de hielo con verdad e ideales.
 
 ---
 
 ## 💡 Datos interesantes
 
-- 🥚 Pertenece al grupo huevo Water1, Ground.
-- ⚖️ Pesa 90.0 kg.
-- 🎯 Ratio de captura: 190.
+- ⚖️ Pesa 325.0 kg.
+- 📏 Mide 3.0 m.
+- 🎨 Su color en la Pokédex es gray.
 
 ---
 
@@ -464,11 +374,11 @@ font-weight:bold;
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Seel** en:
+Puedes consultar información completa y actualizada de **Kyurem** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Seel)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/seel)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Seel_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Kyurem)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/kyurem)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Kyurem_(Pokémon))
 
 
 ---
@@ -1063,16 +973,18 @@ Puedes consultar información completa y actualizada de **Seel** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-21T11:23:17.261520 -->
+<!-- Generated: 2026-07-21T11:31:11.551536 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"*
+> *"La vida es como un videojuego: ¡haz tu movimiento!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
