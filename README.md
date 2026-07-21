@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-21T11:11:41.716377 -->
+<!-- Generated: 2026-07-21T11:23:17.261520 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/735.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/86.png" width="220">
 </td>
 
 </tr>
@@ -48,7 +48,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar%20Gumshoos-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Seel-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
 </a>
 </td>
 </tr>
@@ -59,45 +59,45 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟢 <b>Gumshoos</b></td>
+<td>🔵 <b>Seel</b></td>
 </tr>
 
 <tr>
 <td><b>🇯🇵 Nombre original</b></td>
-<td>デカグース</td>
+<td>パウワウ</td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
+<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#735</td>
+<td>#86</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>VII (Alola)</td>
+<td>I (Kanto)</td>
 </tr>
 
 <tr>
 <td><b>🗺️ Región</b></td>
-<td>🏝️ Alola</td>
+<td>🏝️ Kanto</td>
 </tr>
 
 <tr>
 <td><b>🎮 Juego debut</b></td>
-<td>Pokémon Sol / Luna</td>
+<td>Pokémon Rojo / Azul</td>
 </tr>
 
 <tr>
 <td><b>🎵 Música</b></td>
 <td>
-<a href="https://www.youtube.com/results?search_query=Pokemon+Sun+Moon+Wild+Pokemon+Theme" target="_blank">
+<a href="https://www.youtube.com/results?search_query=Pokemon+Red+Blue+Wild+Pokemon+Theme" target="_blank">
 🎧 Escuchar en YouTube
 </a>
 </td>
@@ -105,7 +105,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://archives.bulbagarden.net/media/upload/8/89/Normal_icon_SwSh.png" width="22" alt="Normal" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal" style="vertical-align:middle;"></td>
+<td><img src="https://archives.bulbagarden.net/media/upload/thumb/7/7f/Water_icon.png/20px-Water_icon.png" width="22" alt="Agua" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;"></td>
 </tr>
 
 <tr>
@@ -114,7 +114,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Gumshoos</td>
+<td>Seel</td>
 </tr>
 
 <tr>
@@ -139,17 +139,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Marrón-795548?style=flat-square" alt="brown"></td>
+<td><img src="https://img.shields.io/badge/Blanco-FFFFFF?style=flat-square&logoColor=black" alt="white"></td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>0.7 m</td>
+<td>1.1 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>14.2 kg</td>
+<td>90.0 kg</td>
 </tr>
 
 <tr>
@@ -159,12 +159,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Desconocido</td>
+<td>Sea</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Ground</td>
+<td>Water1, Ground</td>
 </tr>
 
 <tr>
@@ -178,27 +178,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"></td>
+<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"></td>
+<td>Ninguna</td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜<br>49.8%</td>
+<td>🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜<br>74.5%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>127</td>
+<td>190</td>
 </tr>
 
 <tr>
@@ -208,17 +208,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Vigilante</b><br><small>This Pokémon's moves have double power against Pokémon that switched in this turn.</small><br><br>🟢 ⚡ <b>Mandíbula Fuerte</b><br><small>Strengthens biting moves to 1.5× their power.</small><br><br>⭐ ✨ <b>Adaptable</b> (Oculta)<br><small>Increases the same-type attack bonus from 1.5× to 2×.</small></td>
+<td>🟢 ⚡ <b>Sebo</b><br><small>Halves damage from Fire and Ice moves.</small><br><br>🟢 ⚡ <b>Hidratación</b><br><small>Cures any major status ailment after each turn during rain.</small><br><br>⭐ ✨ <b>Gélido</b> (Oculta)<br><small>Heals for 1/16 max HP after each turn during hail.  Protects against hail damage.</small></td>
 </tr>
 
 <tr>
 <td><b>📦 Objetos</b></td>
-<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pecha-berry.png" width="28" height="28"> <b>Pecha Berry</b> (5%)</td>
+<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aspear-berry.png" width="28" height="28"> <b>Aspear Berry</b> (50%)<br><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mystic-water.png" width="28" height="28"> <b>Mystic Water</b> (100%)</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Abrecaminos-78C850?style=flat-square"> <img src="https://img.shields.io/badge/Fanfarronear-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Rastreo-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Bomba%20Germen-78C850?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Megacuerno-A8B820?style=flat-square"> <img src="https://img.shields.io/badge/Paisaje%20Nevado-98D8D8?style=flat-square"> <img src="https://img.shields.io/badge/Golpe%20Cabeza-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Agua%20Lodosa-6890F0?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -248,7 +248,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/yungoos.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/seel.jpg" width="62">
 
 </td>
 </tr>
@@ -271,7 +271,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Yungoos
+Seel
 </b>
 
 <br>
@@ -280,12 +280,12 @@ Yungoos
 color:#555;
 font-weight:bold;
 ">
-#0734
+#0086
 </small>
 
 <br><br>
 
-<img src="https://archives.bulbagarden.net/media/upload/8/89/Normal_icon_SwSh.png" width="18" alt="Normal" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal" style="vertical-align:middle;">
+<img src="https://archives.bulbagarden.net/media/upload/thumb/7/7f/Water_icon.png/20px-Water_icon.png" width="18" alt="Agua" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;">
 
 </div>
 
@@ -302,7 +302,7 @@ color:#FFD54F;
 margin-bottom:10px;
 ">
 
-Nivel 20
+Nivel 34
 
 </div>
 
@@ -338,7 +338,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/gumshoos.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/dewgong.jpg" width="62">
 
 </td>
 </tr>
@@ -361,7 +361,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Gumshoos
+Dewgong
 </b>
 
 <br>
@@ -370,12 +370,12 @@ Gumshoos
 color:#555;
 font-weight:bold;
 ">
-#0735
+#0087
 </small>
 
 <br><br>
 
-<img src="https://archives.bulbagarden.net/media/upload/8/89/Normal_icon_SwSh.png" width="18" alt="Normal" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal" style="vertical-align:middle;">
+<img src="https://archives.bulbagarden.net/media/upload/thumb/7/7f/Water_icon.png/20px-Water_icon.png" width="18" alt="Agua" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;"><br><img src="https://archives.bulbagarden.net/media/upload/thumb/8/83/Ice_icon.png/20px-Ice_icon.png" width="18" alt="Hielo" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo" style="vertical-align:middle;">
 
 </div>
 
@@ -390,7 +390,7 @@ font-weight:bold;
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td></td>
+<td>🎮 Pokémon Amarillo<br>🎮 Pokémon Azul<br>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Cristal<br>🎮 Pokémon Diamante<br>🎮 Pokémon Esmeralda<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino<br>🎮 Pokémon Rojo<br>🎮 Pokémon Rojo Fuego<br>🎮 Pokémon Rubí<br>🎮 Pokémon Verde Hoja<br>🎮 Pokémon Zafiro</td>
 </tr>
 
 <tr>
@@ -399,7 +399,7 @@ font-weight:bold;
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>146</td>
+<td>65</td>
 </tr>
 
 <tr>
@@ -418,25 +418,25 @@ font-weight:bold;
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>418 puntos</b><br>
-⚔️ Fuerte
+<b>325 puntos</b><br>
+👍 Normal
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">❤️ PS 88<br>
+<td style="background:red">❤️ PS 65<br>
+    🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜<br><br>
+    ⚔️ Ataque 45<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Defensa 55<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    ✨ At. Especial 45<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Def. Especial 70<br>
     🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ⚔️ Ataque 110<br>
-    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Defensa 60<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ✨ At. Especial 55<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Def. Especial 60<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
     💨 Velocidad 45<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜</td>
 </tr>
@@ -448,15 +448,15 @@ font-weight:bold;
 
 ## 💡 Curiosidad oficial
 
-> Al detectar el rastro de una presa, la acecha con tenacidad, pero al ponerse el sol le vence el sueño.
+> Este Pokémon vive en icebergs. Nada en el mar y usa el cuerno de su cabeza para romper el hielo.
 
 ---
 
 ## 💡 Datos interesantes
 
-- 🧬 Introducido en la generación VII (Alola).
-- ❤️ Amistad base: 70.
-- ⚖️ Pesa 14.2 kg.
+- 🥚 Pertenece al grupo huevo Water1, Ground.
+- ⚖️ Pesa 90.0 kg.
+- 🎯 Ratio de captura: 190.
 
 ---
 
@@ -464,11 +464,11 @@ font-weight:bold;
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Gumshoos** en:
+Puedes consultar información completa y actualizada de **Seel** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Gumshoos)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/gumshoos)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gumshoos_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Seel)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/seel)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Seel_(Pokémon))
 
 
 ---
@@ -1060,16 +1060,22 @@ Puedes consultar información completa y actualizada de **Gumshoos** en:
 
 
 
+
+
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-21T11:11:41.716377 -->
+<!-- Generated: 2026-07-21T11:23:17.261520 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"La vida es como un videojuego: ¡haz tu movimiento!"*
+> *"Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"*
 
 <!-- END_FRASE_GAMER -->
+
+
+
 
 
 
