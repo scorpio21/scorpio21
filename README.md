@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-21T13:15:53.243578 -->
+<!-- Generated: 2026-07-21T13:18:43.343735 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/611.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/500.png" width="220">
 </td>
 
 </tr>
@@ -48,7 +48,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar%20Fraxure-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Emboar-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
 </a>
 </td>
 </tr>
@@ -59,24 +59,24 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟣 <b>Fraxure</b></td>
+<td>🔵 <b>Emboar</b></td>
 </tr>
 
 <tr>
 <td><b>🇯🇵 Nombre original</b></td>
-<td>オノンド</td>
+<td>エンブオー</td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
+<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#611</td>
+<td>#500</td>
 </tr>
 
 <tr>
@@ -105,7 +105,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/1/15/latest/20230128124905/Tipo_drag%C3%B3n_icono_EP.svg" width="23" alt="Dragón" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón" width="47" style="vertical-align:middle;"><br></td>
+<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/5/55/latest/20230128125153/Tipo_fuego_icono_EP.svg" width="23" alt="Fuego" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/f/f2/latest/20230128125518/Tipo_lucha_icono_EP.svg" width="23" alt="Lucha" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"style="vertical-align:middle;"><br></td>
 </tr>
 
 <tr>
@@ -114,7 +114,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Fraxure</td>
+<td>Emboar</td>
 </tr>
 
 <tr>
@@ -139,22 +139,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Verde-4CAF50?style=flat-square" alt="green"></td>
+<td><img src="https://img.shields.io/badge/Rojo-F44336?style=flat-square" alt="red" width="47"></td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>1.0 m</td>
+<td>1.6 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>36.0 kg</td>
+<td>150.0 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
+<td>♂️ 87.5% &nbsp;&nbsp;&nbsp; ♀️ 12.5%</td>
 </tr>
 
 <tr>
@@ -164,12 +164,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Monster, Dragon</td>
+<td>Ground</td>
 </tr>
 
 <tr>
 <td><b>❤️ Amistad base</b></td>
-<td>35</td>
+<td>70</td>
 </tr>
 
 <tr>
@@ -178,12 +178,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
 </tr>
 
 <tr>
@@ -193,12 +193,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>23.5%</td>
+<td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>17.6%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>60</td>
+<td>45</td>
 </tr>
 
 <tr>
@@ -208,7 +208,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Rivalidad</b><br><small>Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender.</small><br><br>🟢 ⚡ <b>Rompemoldes</b><br><small>Bypasses targets' abilities if they could hinder or prevent a move.</small><br><br>⭐ ✨ <b>Nerviosismo</b> (Oculta)<br><small>Prevents opposing Pokémon from eating held Berries.</small></td>
+<td>🟢 ⚡ <b>Mar Llamas</b><br><small>Strengthens Fire moves to inflict 1.5× damage at 1/3 max HP or less.</small><br><br>⭐ ✨ <b>Audaz</b> (Oculta)<br><small>Strengthens recoil moves to 1.2× their power.</small></td>
 </tr>
 
 <tr>
@@ -218,7 +218,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Calcinaci%C3%B3n-F08030?style=flat-square"> <img src="https://img.shields.io/badge/Descanso-F85888?style=flat-square"> <img src="https://img.shields.io/badge/Danza%20Espada-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Inversi%C3%B3n-C03028?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Desarme-705848?style=flat-square"> <img src="https://img.shields.io/badge/Retribuci%C3%B3n-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Escaldar-6890F0?style=flat-square"> <img src="https://img.shields.io/badge/Abrecaminos-78C850?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -248,7 +248,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/axew.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/tepig.jpg" width="62">
 
 </td>
 </tr>
@@ -271,7 +271,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Axew
+Tepig
 </b>
 
 <br>
@@ -280,12 +280,12 @@ Axew
 color:#555;
 font-weight:bold;
 ">
-#0610
+#0498
 </small>
 
 <br><br>
 
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/1/15/latest/20230128124905/Tipo_drag%C3%B3n_icono_EP.svg" width="23" alt="Dragón" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón" width="47" style="vertical-align:middle;"><br>
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/5/55/latest/20230128125153/Tipo_fuego_icono_EP.svg" width="23" alt="Fuego" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"style="vertical-align:middle;"><br>
 
 </div>
 
@@ -302,7 +302,7 @@ color:#FFD54F;
 margin-bottom:10px;
 ">
 
-Nivel 38
+Nivel 17
 
 </div>
 
@@ -338,7 +338,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/fraxure.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/pignite.jpg" width="62">
 
 </td>
 </tr>
@@ -361,7 +361,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Fraxure
+Pignite
 </b>
 
 <br>
@@ -370,12 +370,12 @@ Fraxure
 color:#555;
 font-weight:bold;
 ">
-#0611
+#0499
 </small>
 
 <br><br>
 
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/1/15/latest/20230128124905/Tipo_drag%C3%B3n_icono_EP.svg" width="23" alt="Dragón" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón" width="47" style="vertical-align:middle;"><br>
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/5/55/latest/20230128125153/Tipo_fuego_icono_EP.svg" width="23" alt="Fuego" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/f/f2/latest/20230128125518/Tipo_lucha_icono_EP.svg" width="23" alt="Lucha" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"style="vertical-align:middle;"><br>
 
 </div>
 
@@ -392,7 +392,7 @@ color:#FFD54F;
 margin-bottom:10px;
 ">
 
-Nivel 48
+Nivel 36
 
 </div>
 
@@ -428,7 +428,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/haxorus.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/emboar.jpg" width="62">
 
 </td>
 </tr>
@@ -451,7 +451,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Haxorus
+Emboar
 </b>
 
 <br>
@@ -460,12 +460,12 @@ Haxorus
 color:#555;
 font-weight:bold;
 ">
-#0612
+#0500
 </small>
 
 <br><br>
 
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/1/15/latest/20230128124905/Tipo_drag%C3%B3n_icono_EP.svg" width="23" alt="Dragón" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón" width="47" style="vertical-align:middle;"><br>
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/5/55/latest/20230128125153/Tipo_fuego_icono_EP.svg" width="23" alt="Fuego" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/f/f2/latest/20230128125518/Tipo_lucha_icono_EP.svg" width="23" alt="Lucha" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"style="vertical-align:middle;"><br>
 
 </div>
 
@@ -489,45 +489,45 @@ font-weight:bold;
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>144</td>
+<td>238</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
 <td>
-💠 <b>1.250.000 XP</b><br>
+💠 <b>1.059.860 XP</b><br>
 <small>Necesaria para alcanzar el nivel 100</small>
 </td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Lento-red?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Medio%20lento-yellow?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜
 
-<b>410 puntos</b><br>
-⚔️ Fuerte
+<b>528 puntos</b><br>
+🔥 Muy fuerte
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">❤️ PS 66<br>
-    🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ⚔️ Ataque 117<br>
+<td style="background:red">❤️ PS 110<br>
+    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
+    ⚔️ Ataque 123<br>
     🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜<br><br>
-    🛡️ Defensa 70<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ✨ At. Especial 40<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Def. Especial 50<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    💨 Velocidad 67<br>
+    🛡️ Defensa 65<br>
+    🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜<br><br>
+    ✨ At. Especial 100<br>
+    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Def. Especial 65<br>
+    🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜<br><br>
+    💨 Velocidad 65<br>
     🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜</td>
 </tr>
 
@@ -538,15 +538,15 @@ font-weight:bold;
 
 ## 💡 Curiosidad oficial
 
-> Sus colmillos pueden hacer añicos rocas inmensas. Las luchas territoriales de los Fraxure son encarnizadas.
+> Calienta sus puños con las llamas de su barbilla para propinar puñetazos ardientes. Es muy fiel a sus compañeros.
 
 ---
 
 ## 💡 Datos interesantes
 
-- ❤️ Amistad base: 35.
-- 🧬 Introducido en la generación V (Teselia).
-- 📏 Mide 1.0 m.
+- 🎯 Ratio de captura: 45.
+- ❤️ Amistad base: 70.
+- ⚖️ Pesa 150.0 kg.
 
 ---
 
@@ -554,11 +554,11 @@ font-weight:bold;
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Fraxure** en:
+Puedes consultar información completa y actualizada de **Emboar** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Fraxure)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/fraxure)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Fraxure_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Emboar)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/emboar)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Emboar_(Pokémon))
 
 
 ---
@@ -1175,16 +1175,18 @@ Puedes consultar información completa y actualizada de **Fraxure** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-21T13:15:53.243578 -->
+<!-- Generated: 2026-07-21T13:18:43.343735 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"Si no estás ganando, ¡estás aprendiendo!"*
+> *"¡Nunca subestimes el poder de un jugador con café!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
