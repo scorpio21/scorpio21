@@ -297,7 +297,8 @@ def get_pokemon_of_the_day():
             .replace("-", " ")
             .title()
         )
-
+        print(data["game_indices"])
+        
         nombre_juego = GAME_TRANSLATIONS.get(
             nombre_juego,
             nombre_juego
