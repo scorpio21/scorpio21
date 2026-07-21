@@ -4,7 +4,7 @@ from pokemon_api import get_pokemon_of_the_day
 from evolution import get_evolution_chain
 from rarity import get_rarity
 from stats import compute_bst
-from badges import (
+from shields.badges import (
     build_tipos_html,
     build_relations_html,
 )

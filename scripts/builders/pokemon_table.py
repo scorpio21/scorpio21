@@ -10,7 +10,7 @@ from config import (
     rareza_iconos,
 )
 
-from color_badges import COLOR_BADGES
+from shields.color_badges import COLOR_BADGES
 from move_colors import MOVE_COLORS
 from urllib.parse import quote
 from builders.pokemon_table_template import render_table

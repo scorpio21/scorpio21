@@ -4,12 +4,12 @@ import os
 import shutil
 
 
-from pokemon_types import get_pokemon_type_translation
+from translation.pokemon_types import get_pokemon_type_translation
 from experience_growth import EXPERIENCE_GROWTH
 from translation.item_translations import ITEM_TRANSLATIONS
 from translation.game_translations import GAME_TRANSLATIONS
 from music.game_music import get_game_music
-from color_badges import build_color_badge
+from shields.color_badges import build_color_badge
 from translation.habitat_translations import HABITAT_TRANSLATIONS
 
 # Función para obtener el Pokémon del día
