@@ -22,6 +22,20 @@ def get_pokemon_of_the_day():
 
     species = requests.get(data["species"]["url"]).json()
     
+    # Clase del Pokémon
+    clase = "Desconocida"
+
+    for genero in species["genera"]:
+        if genero["language"]["name"] == "es":
+            clase = genero["genus"]
+            break
+
+    if clase == "Desconocida":
+        for genero in species["genera"]:
+            if genero["language"]["name"] == "en":
+                clase = genero["genus"]
+                break
+
     # Nombre japonés
     nombre_japones = "Desconocido"
 
@@ -37,17 +51,16 @@ def get_pokemon_of_the_day():
     forma_regional = "No"
 
     formas = requests.get(species["varieties"][0]["pokemon"]["url"]).json()
-
     nombre_forma = formas["name"].lower()
 
-    if any(x in nombre_forma for x in [
-        "alola",
-        "galar",
-        "hisui",
-        "paldea"
-    ]):
-        
-        forma_regional = "Sí"
+    if "alola" in nombre_forma:
+        forma_regional = "Alola"
+    elif "galar" in nombre_forma:
+        forma_regional = "Galar"
+    elif "hisui" in nombre_forma:
+        forma_regional = "Hisui"
+    elif "paldea" in nombre_forma:
+        forma_regional = "Paldea"
     
     # Curiosidad oficial
     curiosidad = "No disponible"
@@ -73,6 +86,8 @@ def get_pokemon_of_the_day():
 
     nombre = data["name"].capitalize()
 
+    especie = species["name"].replace("-", " ").title()
+
     tipos = [tipo["type"]["name"] for tipo in data["types"]]
     tipos_es = [get_pokemon_type_translation(tipo) for tipo in tipos]
 
@@ -87,7 +102,6 @@ def get_pokemon_of_the_day():
         cry_url = data["cries"]["legacy"]
 
     pokedex_num = data["id"]
-    clase = data["species"]["name"]
 
     color_pokedex = build_color_badge(species["color"]["name"])
 
@@ -164,6 +178,9 @@ def get_pokemon_of_the_day():
         growth["name"].capitalize()
     )
 
+    # ID de la tasa de crecimiento
+    growth_rate_id = growth["name"]
+
     # Sexo
     gender_rate = species["gender_rate"]
 
@@ -187,6 +204,7 @@ def get_pokemon_of_the_day():
         f"🥚 Pertenece al grupo huevo {egg_groups}.",
         f"❤️ Amistad base: {base_happiness}.",
         f"🎯 Ratio de captura: {capture_rate}.",
+        f"📈 Crecimiento: {tipo_crecimiento}.",
     ]
 
     random.shuffle(datos_interesantes)
@@ -326,6 +344,7 @@ def get_pokemon_of_the_day():
     return (
         nombre,
         nombre_japones,
+        especie,
         tipos_es,
         imagen,
         imagen_shiny,

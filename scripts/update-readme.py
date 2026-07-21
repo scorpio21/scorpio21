@@ -20,6 +20,7 @@ from download_cry import download_cry
 (
     nombre,
     nombre_japones,
+    especie,
     tipos_es,
     pokemon_img_url,
     pokemon_shiny_url,
