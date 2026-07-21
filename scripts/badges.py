@@ -59,7 +59,7 @@ def build_tipos_html(tipos_es):
 
         if badge:
             html.append(
-                f'<img src="{badge}" alt="{tipo}" '
+                f'<img src="{badge}" alt="{tipo}" width="23" '
                 f'style="vertical-align:middle;">'
             )
 
