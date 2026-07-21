@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-21T13:18:43.343735 -->
+<!-- Generated: 2026-07-21T13:21:13.390177 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/500.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/200.png" width="220">
 </td>
 
 </tr>
@@ -48,7 +48,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar%20Emboar-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Misdreavus-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
 </a>
 </td>
 </tr>
@@ -59,45 +59,45 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🔵 <b>Emboar</b></td>
+<td>🟣 <b>Misdreavus</b></td>
 </tr>
 
 <tr>
 <td><b>🇯🇵 Nombre original</b></td>
-<td>エンブオー</td>
+<td>ムウマ</td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#500</td>
+<td>#200</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>V (Teselia)</td>
+<td>II (Johto)</td>
 </tr>
 
 <tr>
 <td><b>🗺️ Región</b></td>
-<td>🏝️ Teselia</td>
+<td>🏝️ Johto</td>
 </tr>
 
 <tr>
 <td><b>🎮 Juego debut</b></td>
-<td>Pokémon Negro / Blanco</td>
+<td>Pokémon Oro / Plata</td>
 </tr>
 
 <tr>
 <td><b>🎵 Música</b></td>
 <td>
-<a href="https://www.youtube.com/results?search_query=Pokemon+Black+White+Wild+Pokemon+Theme" target="_blank">
+<a href="https://www.youtube.com/results?search_query=Pokemon+Gold+Silver+Wild+Pokemon+Theme" target="_blank">
 🎧 Escuchar en YouTube
 </a>
 </td>
@@ -105,7 +105,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/5/55/latest/20230128125153/Tipo_fuego_icono_EP.svg" width="23" alt="Fuego" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/f/f2/latest/20230128125518/Tipo_lucha_icono_EP.svg" width="23" alt="Lucha" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"style="vertical-align:middle;"><br></td>
+<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/3/3d/latest/20230128125103/Tipo_fantasma_icono_EP.svg" width="23" alt="Fantasma" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"style="vertical-align:middle;"><br></td>
 </tr>
 
 <tr>
@@ -114,7 +114,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Emboar</td>
+<td>Misdreavus</td>
 </tr>
 
 <tr>
@@ -139,37 +139,37 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Rojo-F44336?style=flat-square" alt="red" width="47"></td>
+<td><img src="https://img.shields.io/badge/Gris-9E9E9E?style=flat-square" alt="gray"></td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>1.6 m</td>
+<td>0.7 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>150.0 kg</td>
+<td>1.0 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ 87.5% &nbsp;&nbsp;&nbsp; ♀️ 12.5%</td>
+<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
 </tr>
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Desconocido</td>
+<td>Cave</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Ground</td>
+<td>Indeterminate</td>
 </tr>
 
 <tr>
 <td><b>❤️ Amistad base</b></td>
-<td>70</td>
+<td>35</td>
 </tr>
 
 <tr>
@@ -178,17 +178,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
+<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td>Ninguna</td>
+<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal"></td>
 </tr>
 
 <tr>
@@ -208,17 +208,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Mar Llamas</b><br><small>Strengthens Fire moves to inflict 1.5× damage at 1/3 max HP or less.</small><br><br>⭐ ✨ <b>Audaz</b> (Oculta)<br><small>Strengthens recoil moves to 1.2× their power.</small></td>
+<td>🟢 ⚡ <b>Levitación</b><br><small>Evades Ground moves.</small><br><br></td>
 </tr>
 
 <tr>
 <td><b>📦 Objetos</b></td>
-<td>No puede llevar objetos.</td>
+<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/spell-tag.png" width="28" height="28"> <b>Spell Tag</b> (5%)<br><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/spell-tag.png" width="28" height="28"> <b>Spell Tag</b> (100%)</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Desarme-705848?style=flat-square"> <img src="https://img.shields.io/badge/Retribuci%C3%B3n-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Escaldar-6890F0?style=flat-square"> <img src="https://img.shields.io/badge/Abrecaminos-78C850?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/T%C3%B3xico-A040A0?style=flat-square"> <img src="https://img.shields.io/badge/Danza%20Lluvia-6890F0?style=flat-square"> <img src="https://img.shields.io/badge/Ladr%C3%B3n-705848?style=flat-square"> <img src="https://img.shields.io/badge/Mofa-705848?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -248,7 +248,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/tepig.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/misdreavus.jpg" width="62">
 
 </td>
 </tr>
@@ -271,7 +271,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Tepig
+Misdreavus
 </b>
 
 <br>
@@ -280,12 +280,12 @@ Tepig
 color:#555;
 font-weight:bold;
 ">
-#0498
+#0200
 </small>
 
 <br><br>
 
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/5/55/latest/20230128125153/Tipo_fuego_icono_EP.svg" width="23" alt="Fuego" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"style="vertical-align:middle;"><br>
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/3/3d/latest/20230128125103/Tipo_fantasma_icono_EP.svg" width="23" alt="Fantasma" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"style="vertical-align:middle;"><br>
 
 </div>
 
@@ -302,7 +302,7 @@ color:#FFD54F;
 margin-bottom:10px;
 ">
 
-Nivel 17
+Piedra Noche
 
 </div>
 
@@ -338,7 +338,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/pignite.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/mismagius.jpg" width="62">
 
 </td>
 </tr>
@@ -361,7 +361,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Pignite
+Mismagius
 </b>
 
 <br>
@@ -370,102 +370,12 @@ Pignite
 color:#555;
 font-weight:bold;
 ">
-#0499
+#0429
 </small>
 
 <br><br>
 
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/5/55/latest/20230128125153/Tipo_fuego_icono_EP.svg" width="23" alt="Fuego" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/f/f2/latest/20230128125518/Tipo_lucha_icono_EP.svg" width="23" alt="Lucha" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"style="vertical-align:middle;"><br>
-
-</div>
-
-</div>
-
-</td>
-
-<td align="center" valign="middle" style="width:auto; padding:10px;">
-
-<div style="
-font-size:14px;
-font-weight:bold;
-color:#FFD54F;
-margin-bottom:10px;
-">
-
-Nivel 36
-
-</div>
-
-<div style="
-font-size:32px;
-font-weight:bold;
-">
-
-➜
-
-</div>
-
-</td>
-
-<td align="center" valign="top">
-
-<div style="
-display:flex;
-flex-direction:column;
-align-items:center;
-width:95px;
-">
-
-<table align="center" cellspacing="0" cellpadding="0">
-<tr>
-<td
-align="center"
-width="78"
-height="78"
-style="
-background:#98C2D1;
-border:2px solid #492A49;
-border-radius:50%;
-">
-
-<img src="https://img.pokemondb.net/artwork/large/emboar.jpg" width="62">
-
-</td>
-</tr>
-</table>
-
-<div style="
-margin-top:8px;
-font-size:12px;
-color:#9aa6b2;
-">
-
-</div>
-
-<div style="
-margin-top:6px;
-padding:6px 10px;
-background:#EAF4F7;
-border-radius:8px;
-min-width:95px;
-">
-
-<b style="font-size:15px;color:#000;">
-Emboar
-</b>
-
-<br>
-
-<small style="
-color:#555;
-font-weight:bold;
-">
-#0500
-</small>
-
-<br><br>
-
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/5/55/latest/20230128125153/Tipo_fuego_icono_EP.svg" width="23" alt="Fuego" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/f/f2/latest/20230128125518/Tipo_lucha_icono_EP.svg" width="23" alt="Lucha" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"style="vertical-align:middle;"><br>
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/3/3d/latest/20230128125103/Tipo_fantasma_icono_EP.svg" width="23" alt="Fantasma" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"style="vertical-align:middle;"><br>
 
 </div>
 
@@ -480,7 +390,7 @@ font-weight:bold;
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2</td>
+<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Cristal<br>🎮 Pokémon Diamante<br>🎮 Pokémon Esmeralda<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino<br>🎮 Pokémon Rojo Fuego<br>🎮 Pokémon Rubí<br>🎮 Pokémon Verde Hoja<br>🎮 Pokémon Zafiro</td>
 </tr>
 
 <tr>
@@ -489,46 +399,46 @@ font-weight:bold;
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>238</td>
+<td>87</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
 <td>
-💠 <b>1.059.860 XP</b><br>
+💠 <b>800.000 XP</b><br>
 <small>Necesaria para alcanzar el nivel 100</small>
 </td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Medio%20lento-yellow?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/R%C3%A1pido-blue?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>528 puntos</b><br>
-🔥 Muy fuerte
+<b>435 puntos</b><br>
+⚔️ Fuerte
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">❤️ PS 110<br>
-    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
-    ⚔️ Ataque 123<br>
-    🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜<br><br>
-    🛡️ Defensa 65<br>
-    🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ✨ At. Especial 100<br>
-    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Def. Especial 65<br>
-    🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜<br><br>
-    💨 Velocidad 65<br>
-    🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜</td>
+<td style="background:red">❤️ PS 60<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    ⚔️ Ataque 60<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Defensa 60<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    ✨ At. Especial 85<br>
+    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Def. Especial 85<br>
+    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
+    💨 Velocidad 85<br>
+    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜</td>
 </tr>
 
 </table>
@@ -538,15 +448,15 @@ font-weight:bold;
 
 ## 💡 Curiosidad oficial
 
-> Calienta sus puños con las llamas de su barbilla para propinar puñetazos ardientes. Es muy fiel a sus compañeros.
+> Se deleita con el miedo, que absorbe con sus esferas rojas. Por el día, duerme en la oscuridad.
 
 ---
 
 ## 💡 Datos interesantes
 
-- 🎯 Ratio de captura: 45.
-- ❤️ Amistad base: 70.
-- ⚖️ Pesa 150.0 kg.
+- 🥚 Pertenece al grupo huevo Indeterminate.
+- 🧬 Introducido en la generación II (Johto).
+- 📏 Mide 0.7 m.
 
 ---
 
@@ -554,11 +464,11 @@ font-weight:bold;
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Emboar** en:
+Puedes consultar información completa y actualizada de **Misdreavus** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Emboar)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/emboar)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Emboar_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Misdreavus)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/misdreavus)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Misdreavus_(Pokémon))
 
 
 ---
@@ -1176,16 +1086,18 @@ Puedes consultar información completa y actualizada de **Emboar** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-21T13:18:43.343735 -->
+<!-- Generated: 2026-07-21T13:21:13.390177 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"¡Nunca subestimes el poder de un jugador con café!"*
+> *"Gamer de día, héroe de noche."*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
