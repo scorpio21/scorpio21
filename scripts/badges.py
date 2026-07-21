@@ -63,7 +63,7 @@ def build_tipos_html(tipos_es):
                 f'style="vertical-align:middle;">'
             )
 
-    return "<br>".join(html)
+    return "".join(html)
 
 #------------------------------
 # Debilidades, resistencias e inmunidades en HTML
