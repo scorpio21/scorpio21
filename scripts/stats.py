@@ -70,27 +70,20 @@ def compute_bst(stats):
 """
     stats_md = f"""❤️ PS {stats['hp']}<br>
     {barra_stat(stats['hp'])}<br><br>
-
     ⚔️ Ataque {stats['attack']}<br>
     {barra_stat(stats['attack'])}<br><br>
-
     🛡️ Defensa {stats['defense']}<br>
     {barra_stat(stats['defense'])}<br><br>
-
     ✨ At. Especial {stats['special-attack']}<br>
     {barra_stat(stats['special-attack'])}<br><br>
-
     🛡️ Def. Especial {stats['special-defense']}<br>
     {barra_stat(stats['special-defense'])}<br><br>
-
     💨 Velocidad {stats['speed']}<br>
-    {barra_stat(stats['speed'])}<br><br>
-
+    {barra_stat(stats['speed'])}
     <hr>
 
-    🏆 <b>Total Base:</b> {bst}<br>
-    🥇 <b>Mejor atributo:</b> {stat_names[mejor[0]]} ({mejor[1]})<br>
-    🥉 <b>Atributo más bajo:</b> {stat_names[peor[0]]} ({peor[1]})
-    """
+🏆 <b>Total Base:</b> {bst}<br>
+🥇 <b>Mejor atributo:</b> {stat_names[mejor[0]]} ({mejor[1]})<br>
+🥉 <b>Atributo más bajo:</b> {stat_names[peor[0]]} ({peor[1]})"""
     
     return bst, nivel_bst, bst_html, stats_md
