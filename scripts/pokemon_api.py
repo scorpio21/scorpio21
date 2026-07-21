@@ -308,6 +308,9 @@ def get_pokemon_of_the_day():
     #==========================
     # Retornar todos los datos
     #==========================
+    
+    print("🎮 game_indices:", data["game_indices"])
+    print("🎮 juegos traducidos:", juegos)
 
     return (
         nombre,
