@@ -6,10 +6,11 @@ import shutil
 
 from pokemon_types import get_pokemon_type_translation
 from experience_growth import EXPERIENCE_GROWTH
-from item_translations import ITEM_TRANSLATIONS
-from game_translations import GAME_TRANSLATIONS
+from translation.item_translations import ITEM_TRANSLATIONS
+from translation.game_translations import GAME_TRANSLATIONS
 from music.game_music import get_game_music
 from color_badges import build_color_badge
+from translation.habitat_translations import HABITAT_TRANSLATIONS
 
 # Función para obtener el Pokémon del día
 def get_pokemon_of_the_day():
@@ -110,11 +111,13 @@ def get_pokemon_of_the_day():
 
     juego_debut, musica_url = get_game_music(generation)
 
-    habitat = (
-        species["habitat"]["name"].capitalize()
-        if species["habitat"]
-        else "Desconocido"
-    )
+    if species["habitat"]:
+        habitat = HABITAT_TRANSLATIONS.get(
+            species["habitat"]["name"],
+            species["habitat"]["name"].replace("-", " ").title()
+        )
+    else:
+        habitat = "❓ Desconocido"
 
     capture_rate = species["capture_rate"]
 
