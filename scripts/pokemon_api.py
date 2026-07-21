@@ -126,14 +126,16 @@ def get_pokemon_of_the_day():
     captura_porcentaje = round((capture_rate / 255) * 100, 1)
 
     base_happiness = species["base_happiness"]
+    
+    print([g["name"] for g in species["egg_groups"]])
 
     egg_groups = ", ".join(
-    EGG_GROUP_TRANSLATIONS.get(
-        grupo["name"],
-        grupo["name"].capitalize()
+        EGG_GROUP_TRANSLATIONS.get(
+            grupo["name"],
+            grupo["name"].capitalize()
+        )
+        for grupo in species["egg_groups"]
     )
-    for grupo in species["egg_groups"]
-)
 
     stats = {
         stat["stat"]["name"]: stat["base_stat"]
