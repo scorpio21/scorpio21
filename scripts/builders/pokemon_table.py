@@ -135,7 +135,7 @@ def build_pokemon_table(
 
     juegos_html = "<br>".join(
         f"🎮 {juego}"
-        for juego in juegos_
+        for juego in juegos
     )
 
     badge = EXPERIENCE_GROWTH_BADGES.get(
