@@ -49,19 +49,24 @@ def build_tipos_html(tipos_es):
 
     for tipo in tipos_es:
         icono = TYPE_ICONS.get(tipo)
-        badge = tipo_badges.get(tipo)
+        color = TYPE_COLORS.get(tipo, "#999")
 
-        if icono:
-            html.append(
-                f'<img src="{icono}" width="23" alt="{tipo}" '
-                f'style="vertical-align:middle;">'
-            )
-
-        if badge:
-            html.append(
-                f'<img src="{badge}" alt="{tipo}" width="45" '
-                f'style="vertical-align:middle;"><br>'
-            )
+        html.append(f"""
+        <div style="
+            display:inline-flex;
+            align-items:center;
+            background:{color};
+            color:white;
+            padding:4px 10px;
+            border-radius:6px;
+            font-weight:bold;
+            font-size:14px;
+            margin-right:6px;
+        ">
+            <img src="{icono}" width="20" style="margin-right:6px;">
+            {tipo}
+        </div>
+        """)
 
     return "".join(html)
 
