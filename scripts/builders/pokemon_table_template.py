@@ -144,7 +144,7 @@ def render_table(
 <tr>
 <td><b>🎵 Música</b></td>
 <td>
-<a href="{musica_url}">
+<a href="{musica_url}" target="_blank">
 🎧 Escuchar en YouTube
 </a>
 </td>
