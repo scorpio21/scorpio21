@@ -1,5 +1,5 @@
 import requests
-from item_translations import ITEM_TRANSLATIONS
+from translation.item_translations import ITEM_TRANSLATIONS
 from pokemon_types import get_pokemon_type_translation
 from badges import build_tipos_html
 
