@@ -72,29 +72,8 @@ def build_tipos_html(tipos_es):
 def build_relations_html(tipos_es):
     debilidades, resistencias, inmunidades = obtener_tipo_info(tipos_es)
 
-    def generar_html(lista):
-        html = []
-
-        for tipo in lista:
-            icono = TYPE_ICONS.get(tipo)
-            badge = tipo_badges.get(tipo)
-
-            if icono:
-                html.append(
-                    f'<img src="{icono}" width="23" alt="{tipo}" '
-                    f'style="vertical-align:middle;">'
-                )
-
-            if badge:
-                html.append(
-                    f'<img src="{badge}" alt="{tipo}" '
-                    f'style="vertical-align:middle;"><br>'
-                )
-
-        return "".join(html)
-
     return (
-        generar_html(debilidades),
-        generar_html(resistencias),
-        generar_html(inmunidades),
+        build_tipos_html(debilidades),
+        build_tipos_html(resistencias),
+        build_tipos_html(inmunidades),
     )
