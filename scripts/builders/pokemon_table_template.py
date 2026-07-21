@@ -16,6 +16,7 @@ def render_table(
     cry_url,
     nombre,
     nombre_japones,
+    especie,
     rareza,
     pokedex_num,
     tipos_html,
@@ -112,6 +113,11 @@ def render_table(
 <tr>
 <td style="white-space: nowrap;"><b>🇯🇵 Nombre original</b></td>
 <td>{nombre_japones}</td>
+</tr>
+
+<tr>
+<td><b>🧬 Especie</b></td>
+<td>{especie}</td>
 </tr>
 
 <tr>
