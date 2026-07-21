@@ -8,6 +8,7 @@ from pokemon_types import get_pokemon_type_translation
 from experience_growth import EXPERIENCE_GROWTH
 from item_translations import ITEM_TRANSLATIONS
 from game_translations import GAME_TRANSLATIONS
+from music.game_music import get_game_music
 
 # Función para obtener el Pokémon del día
 def get_pokemon_of_the_day():
@@ -105,6 +106,8 @@ def get_pokemon_of_the_day():
         species["generation"]["name"],
         species["generation"]["name"]
     )
+
+    juego_debut, musica_url = get_game_music(generation)
 
     habitat = (
         species["habitat"]["name"].capitalize()
@@ -304,6 +307,8 @@ def get_pokemon_of_the_day():
         habitat,
         color_pokedex,
         generation,
+        juego_debut,
+        musica_url,
         capture_rate,
         captura_porcentaje,
         shiny_odds,

@@ -23,6 +23,8 @@ def render_table(
     resistencias_html,
     inmunidades_html,
     generation,
+    juego_debut,
+    musica_url,
     region,
     clase,
     color_pokedex,
@@ -132,6 +134,20 @@ def render_table(
 <tr>
 <td><b>🗺️ Región</b></td>
 <td>🏝️ {region}</td>
+</tr>
+
+<tr>
+<td><b>🎮 Juego debut</b></td>
+<td>{juego_debut}</td>
+</tr>
+
+<tr>
+<td><b>🎵 Música</b></td>
+<td>
+<a href="{musica_url}">
+🎧 Escuchar en YouTube
+</a>
+</td>
 </tr>
 
 <tr>
