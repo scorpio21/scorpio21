@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-21T13:12:15.136918 -->
+<!-- Generated: 2026-07-21T13:13:23.497213 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/183.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/520.png" width="220">
 </td>
 
 </tr>
@@ -48,7 +48,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar%20Marill-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Tranquill-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
 </a>
 </td>
 </tr>
@@ -59,45 +59,45 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🔵 <b>Marill</b></td>
+<td>🟢 <b>Tranquill</b></td>
 </tr>
 
 <tr>
 <td><b>🇯🇵 Nombre original</b></td>
-<td>マリル</td>
+<td>ハトーボー</td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#183</td>
+<td>#520</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>II (Johto)</td>
+<td>V (Teselia)</td>
 </tr>
 
 <tr>
 <td><b>🗺️ Región</b></td>
-<td>🏝️ Johto</td>
+<td>🏝️ Teselia</td>
 </tr>
 
 <tr>
 <td><b>🎮 Juego debut</b></td>
-<td>Pokémon Oro / Plata</td>
+<td>Pokémon Negro / Blanco</td>
 </tr>
 
 <tr>
 <td><b>🎵 Música</b></td>
 <td>
-<a href="https://www.youtube.com/results?search_query=Pokemon+Gold+Silver+Wild+Pokemon+Theme" target="_blank">
+<a href="https://www.youtube.com/results?search_query=Pokemon+Black+White+Wild+Pokemon+Theme" target="_blank">
 🎧 Escuchar en YouTube
 </a>
 </td>
@@ -105,37 +105,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td>
-        <div style="
-            display:inline-flex;
-            align-items:center;
-            background:#6890F0;
-            color:white;
-            padding:4px 10px;
-            border-radius:6px;
-            font-weight:bold;
-            font-size:14px;
-            margin-right:6px;
-        ">
-            <img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="20" style="margin-right:6px;">
-            Agua
-        </div>
-        
-        <div style="
-            display:inline-flex;
-            align-items:center;
-            background:#EE99AC;
-            color:white;
-            padding:4px 10px;
-            border-radius:6px;
-            font-weight:bold;
-            font-size:14px;
-            margin-right:6px;
-        ">
-            <img src="https://images.wikidexcdn.net/mwuploads/wikidex/b/b7/latest/20230128125233/Tipo_hada_icono_EP.svg" width="20" style="margin-right:6px;">
-            Hada
-        </div>
-        </td>
+<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/c/c3/latest/20230128125621/Tipo_normal_icono_EP.svg" width="23" alt="Normal" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal" width="45" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/6/6b/latest/20230128132815/Tipo_volador_icono_EP.svg" width="23" alt="Volador" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador" width="45" style="vertical-align:middle;"><br></td>
 </tr>
 
 <tr>
@@ -144,7 +114,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Marill</td>
+<td>Tranquill</td>
 </tr>
 
 <tr>
@@ -169,17 +139,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Azul-2196F3?style=flat-square" alt="blue"></td>
+<td><img src="https://img.shields.io/badge/Gris-9E9E9E?style=flat-square" alt="gray"></td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>0.4 m</td>
+<td>0.6 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>8.5 kg</td>
+<td>15.0 kg</td>
 </tr>
 
 <tr>
@@ -189,12 +159,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Waters-edge</td>
+<td>Desconocido</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Water1, Fairy</td>
+<td>Flying</td>
 </tr>
 
 <tr>
@@ -208,27 +178,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
+<td><img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"></td>
+<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜<br>74.5%</td>
+<td>🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜<br>47.1%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>190</td>
+<td>120</td>
 </tr>
 
 <tr>
@@ -238,7 +208,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Sebo</b><br><small>Halves damage from Fire and Ice moves.</small><br><br>🟢 ⚡ <b>Potencia</b><br><small>Doubles Attack in battle.</small><br><br>⭐ ✨ <b>Herbívoro</b> (Oculta)<br><small>Absorbs Grass moves, raising Attack one stage.</small></td>
+<td>🟢 ⚡ <b>Sacapecho</b><br><small>Protects against Defense drops.</small><br><br>🟢 ⚡ <b>Afortunado</b><br><small>Raises moves' critical hit rates one stage.</small><br><br>⭐ ✨ <b>Rivalidad</b> (Oculta)<br><small>Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender.</small></td>
 </tr>
 
 <tr>
@@ -248,7 +218,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Alivio-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Demolici%C3%B3n-C03028?style=flat-square"> <img src="https://img.shields.io/badge/Bofet%C3%B3n%20Lodo-E0C068?style=flat-square"> <img src="https://img.shields.io/badge/Excavar-E0C068?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Fanfarronear-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Eco%20Voz-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Mofa-705848?style=flat-square"> <img src="https://img.shields.io/badge/Frustraci%C3%B3n-A8A878?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -278,7 +248,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/azurill.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/pidove.jpg" width="62">
 
 </td>
 </tr>
@@ -301,7 +271,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Azurill
+Pidove
 </b>
 
 <br>
@@ -310,42 +280,12 @@ Azurill
 color:#555;
 font-weight:bold;
 ">
-#0298
+#0519
 </small>
 
 <br><br>
 
-
-        <div style="
-            display:inline-flex;
-            align-items:center;
-            background:#A8A878;
-            color:white;
-            padding:4px 10px;
-            border-radius:6px;
-            font-weight:bold;
-            font-size:14px;
-            margin-right:6px;
-        ">
-            <img src="https://images.wikidexcdn.net/mwuploads/wikidex/c/c3/latest/20230128125621/Tipo_normal_icono_EP.svg" width="20" style="margin-right:6px;">
-            Normal
-        </div>
-        
-        <div style="
-            display:inline-flex;
-            align-items:center;
-            background:#EE99AC;
-            color:white;
-            padding:4px 10px;
-            border-radius:6px;
-            font-weight:bold;
-            font-size:14px;
-            margin-right:6px;
-        ">
-            <img src="https://images.wikidexcdn.net/mwuploads/wikidex/b/b7/latest/20230128125233/Tipo_hada_icono_EP.svg" width="20" style="margin-right:6px;">
-            Hada
-        </div>
-        
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/c/c3/latest/20230128125621/Tipo_normal_icono_EP.svg" width="23" alt="Normal" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal" width="45" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/6/6b/latest/20230128132815/Tipo_volador_icono_EP.svg" width="23" alt="Volador" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador" width="45" style="vertical-align:middle;"><br>
 
 </div>
 
@@ -362,7 +302,7 @@ color:#FFD54F;
 margin-bottom:10px;
 ">
 
-Amistad
+Nivel 21
 
 </div>
 
@@ -398,7 +338,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/marill.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/tranquill.jpg" width="62">
 
 </td>
 </tr>
@@ -421,7 +361,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Marill
+Tranquill
 </b>
 
 <br>
@@ -430,42 +370,12 @@ Marill
 color:#555;
 font-weight:bold;
 ">
-#0183
+#0520
 </small>
 
 <br><br>
 
-
-        <div style="
-            display:inline-flex;
-            align-items:center;
-            background:#6890F0;
-            color:white;
-            padding:4px 10px;
-            border-radius:6px;
-            font-weight:bold;
-            font-size:14px;
-            margin-right:6px;
-        ">
-            <img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="20" style="margin-right:6px;">
-            Agua
-        </div>
-        
-        <div style="
-            display:inline-flex;
-            align-items:center;
-            background:#EE99AC;
-            color:white;
-            padding:4px 10px;
-            border-radius:6px;
-            font-weight:bold;
-            font-size:14px;
-            margin-right:6px;
-        ">
-            <img src="https://images.wikidexcdn.net/mwuploads/wikidex/b/b7/latest/20230128125233/Tipo_hada_icono_EP.svg" width="20" style="margin-right:6px;">
-            Hada
-        </div>
-        
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/c/c3/latest/20230128125621/Tipo_normal_icono_EP.svg" width="23" alt="Normal" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal" width="45" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/6/6b/latest/20230128132815/Tipo_volador_icono_EP.svg" width="23" alt="Volador" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador" width="45" style="vertical-align:middle;"><br>
 
 </div>
 
@@ -482,7 +392,7 @@ color:#FFD54F;
 margin-bottom:10px;
 ">
 
-Nivel 18
+Nivel 32
 
 </div>
 
@@ -518,7 +428,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/azumarill.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/unfezant.jpg" width="62">
 
 </td>
 </tr>
@@ -541,7 +451,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Azumarill
+Unfezant
 </b>
 
 <br>
@@ -550,42 +460,12 @@ Azumarill
 color:#555;
 font-weight:bold;
 ">
-#0184
+#0521
 </small>
 
 <br><br>
 
-
-        <div style="
-            display:inline-flex;
-            align-items:center;
-            background:#6890F0;
-            color:white;
-            padding:4px 10px;
-            border-radius:6px;
-            font-weight:bold;
-            font-size:14px;
-            margin-right:6px;
-        ">
-            <img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="20" style="margin-right:6px;">
-            Agua
-        </div>
-        
-        <div style="
-            display:inline-flex;
-            align-items:center;
-            background:#EE99AC;
-            color:white;
-            padding:4px 10px;
-            border-radius:6px;
-            font-weight:bold;
-            font-size:14px;
-            margin-right:6px;
-        ">
-            <img src="https://images.wikidexcdn.net/mwuploads/wikidex/b/b7/latest/20230128125233/Tipo_hada_icono_EP.svg" width="20" style="margin-right:6px;">
-            Hada
-        </div>
-        
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/c/c3/latest/20230128125621/Tipo_normal_icono_EP.svg" width="23" alt="Normal" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal" width="45" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/6/6b/latest/20230128132815/Tipo_volador_icono_EP.svg" width="23" alt="Volador" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador" width="45" style="vertical-align:middle;"><br>
 
 </div>
 
@@ -600,7 +480,7 @@ font-weight:bold;
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Cristal<br>🎮 Pokémon Diamante<br>🎮 Pokémon Esmeralda<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino<br>🎮 Pokémon Rojo Fuego<br>🎮 Pokémon Rubí<br>🎮 Pokémon Verde Hoja<br>🎮 Pokémon Zafiro</td>
+<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2</td>
 </tr>
 
 <tr>
@@ -609,46 +489,46 @@ font-weight:bold;
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>88</td>
+<td>125</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
 <td>
-💠 <b>800.000 XP</b><br>
+💠 <b>1.059.860 XP</b><br>
 <small>Necesaria para alcanzar el nivel 100</small>
 </td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/R%C3%A1pido-blue?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Medio%20lento-yellow?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>250 puntos</b><br>
-🌱 Básico
+<b>358 puntos</b><br>
+👍 Normal
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">❤️ PS 70<br>
+<td style="background:red">❤️ PS 62<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    ⚔️ Ataque 77<br>
     🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ⚔️ Ataque 20<br>
-    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Defensa 50<br>
+    🛡️ Defensa 62<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ✨ At. Especial 20<br>
-    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Def. Especial 50<br>
+    ✨ At. Especial 50<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    💨 Velocidad 40<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜</td>
+    🛡️ Def. Especial 42<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    💨 Velocidad 65<br>
+    🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜</td>
 </tr>
 
 </table>
@@ -658,15 +538,15 @@ font-weight:bold;
 
 ## 💡 Curiosidad oficial
 
-> Tiene una piel que repele el agua. De hecho, puede pasarse horas jugando en el agua sin mojarse.
+> Según los rumores, en lo más profundo del bosque donde mora Tranquill, hay un mundo pacífico y exento de luchas.
 
 ---
 
 ## 💡 Datos interesantes
 
-- 📏 Mide 0.4 m.
-- ⚖️ Pesa 8.5 kg.
-- ❤️ Amistad base: 70.
+- 🎯 Ratio de captura: 120.
+- 🧬 Introducido en la generación V (Teselia).
+- 🥚 Pertenece al grupo huevo Flying.
 
 ---
 
@@ -674,11 +554,11 @@ font-weight:bold;
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Marill** en:
+Puedes consultar información completa y actualizada de **Tranquill** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Marill)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/marill)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Marill_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Tranquill)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/tranquill)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Tranquill_(Pokémon))
 
 
 ---
@@ -1292,16 +1172,18 @@ Puedes consultar información completa y actualizada de **Marill** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-21T13:12:15.136918 -->
+<!-- Generated: 2026-07-21T13:13:23.497213 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"En cada partida, hay un nuevo desafío esperando ser conquistado."*
+> *"Gamer de día, héroe de noche."*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
