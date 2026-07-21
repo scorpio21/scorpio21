@@ -43,54 +43,27 @@ def build_badge_rareza(nombre, rareza):
 #------------------------------
 # Tipos Html
 #------------------------------
-TYPE_COLORS = {
-    "Normal": "#A8A878",
-    "Fuego": "#F08030",
-    "Agua": "#6890F0",
-    "Eléctrico": "#F8D030",
-    "Planta": "#78C850",
-    "Hielo": "#98D8D8",
-    "Lucha": "#C03028",
-    "Veneno": "#A040A0",
-    "Tierra": "#E0C068",
-    "Volador": "#A890F0",
-    "Psíquico": "#F85888",
-    "Bicho": "#A8B820",
-    "Roca": "#B8A038",
-    "Fantasma": "#705898",
-    "Dragón": "#7038F8",
-    "Siniestro": "#705848",
-    "Acero": "#B8B8D0",
-    "Hada": "#EE99AC",
-    "Astral": "#5A4FFF",
-}
 
 def build_tipos_html(tipos_es):
     html = []
 
     for tipo in tipos_es:
         icono = TYPE_ICONS.get(tipo)
-        color = TYPE_COLORS.get(tipo, "#999")
+        badge = tipo_badges.get(tipo)
 
-        html.append(f"""
-        <div style="
-            display:inline-flex;
-            align-items:center;
-            background:{color};
-            color:white;
-            padding:4px 10px;
-            border-radius:6px;
-            font-weight:bold;
-            font-size:14px;
-            margin-right:6px;
-        ">
-            <img src="{icono}" width="20" style="margin-right:6px;">
-            {tipo}
-        </div>
-        """)
+        if icono:
+            html.append(
+                f'<img src="{icono}" width="23" alt="{tipo}" '
+                f'style="vertical-align:middle;">'
+            )
+
+        if badge:
+            html.append(
+                f'<img src="{badge}" alt="{tipo}" width="45" '
+                f'style="vertical-align:middle;"><br>'
+            )
 
     return "".join(html)
-
 
 #------------------------------
 # Debilidades, resistencias e inmunidades en HTML
