@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-21T12:24:10.816213 -->
+<!-- Generated: 2026-07-21T12:25:11.494573 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/670.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/144.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/670.png" width="220">
 </td>
 
 </tr>
@@ -48,7 +48,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar%20Articuno-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Floette-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
 </a>
 </td>
 </tr>
@@ -59,45 +59,45 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟡✨ <b>Articuno</b></td>
+<td>🟣 <b>Floette</b></td>
 </tr>
 
 <tr>
 <td><b>🇯🇵 Nombre original</b></td>
-<td>フリーザー</td>
+<td>フラエッテ</td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/Legendario-gold?style=flat-square">
+<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#144</td>
+<td>#670</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>I (Kanto)</td>
+<td>VI (Kalos)</td>
 </tr>
 
 <tr>
 <td><b>🗺️ Región</b></td>
-<td>🏝️ Kanto</td>
+<td>🏝️ Kalos</td>
 </tr>
 
 <tr>
 <td><b>🎮 Juego debut</b></td>
-<td>Pokémon Rojo / Azul</td>
+<td>Pokémon X / Y</td>
 </tr>
 
 <tr>
 <td><b>🎵 Música</b></td>
 <td>
-<a href="https://www.youtube.com/results?search_query=Pokemon+Red+Blue+Wild+Pokemon+Theme" target="_blank">
+<a href="https://www.youtube.com/results?search_query=Pokemon+X+Y+Wild+Pokemon+Theme" target="_blank">
 🎧 Escuchar en YouTube
 </a>
 </td>
@@ -105,7 +105,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/a/a6/latest/20230128125423/Tipo_hielo_icono_EP.svg" width="22" alt="Hielo" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/6/6b/latest/20230128132815/Tipo_volador_icono_EP.svg" width="22" alt="Volador" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador" style="vertical-align:middle;"></td>
+<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/b/b7/latest/20230128125233/Tipo_hada_icono_EP.svg" width="22" alt="Hada" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada" style="vertical-align:middle;"></td>
 </tr>
 
 <tr>
@@ -114,12 +114,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Articuno</td>
+<td>Floette</td>
 </tr>
 
 <tr>
 <td><b>⭐ Legendario</b></td>
-<td>✅ Sí</td>
+<td>❌ No</td>
 </tr>
 
 <tr>
@@ -139,37 +139,37 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Azul-2196F3?style=flat-square" alt="blue"></td>
+<td><img src="https://img.shields.io/badge/Blanco-FFFFFF?style=flat-square&logoColor=black" alt="white"></td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>1.7 m</td>
+<td>0.2 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>55.4 kg</td>
+<td>0.9 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ Sin género &nbsp;&nbsp;&nbsp; ♀️ Sin género</td>
+<td>♂️ 0.0% &nbsp;&nbsp;&nbsp; ♀️ 100.0%</td>
 </tr>
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Rare</td>
+<td>Desconocido</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>No-eggs</td>
+<td>Fairy</td>
 </tr>
 
 <tr>
 <td><b>❤️ Amistad base</b></td>
-<td>35</td>
+<td>70</td>
 </tr>
 
 <tr>
@@ -178,27 +178,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"></td>
+<td><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
+<td><img src="https://img.shields.io/badge/Dragón-6F35FC?style=flat-square" alt="Dragón"></td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜<br>1.2%</td>
+<td>🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜<br>47.1%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>3</td>
+<td>120</td>
 </tr>
 
 <tr>
@@ -208,7 +208,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Presión</b><br><small>Increases the PP cost of moves targetting the Pokémon by one.</small><br><br>⭐ ✨ <b>Manto Níveo</b> (Oculta)<br><small>Increases evasion to 1.25× during hail.  Protects against hail damage.</small></td>
+<td>🟢 ⚡ <b>Velo Flor</b><br><small>Protects friendly Grass Pokémon from having their stats lowered by other Pokémon.</small><br><br>⭐ ✨ <b>Simbiosis</b> (Oculta)<br><small>Passes the bearer's held item to an ally when the ally uses up its item.</small></td>
 </tr>
 
 <tr>
@@ -218,7 +218,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Velo%20Aurora-98D8D8?style=flat-square"> <img src="https://img.shields.io/badge/Furia-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Meteorobola-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Ronquido-A8A878?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Cascabel%20Cura-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Esfuerzo-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Pantalla%20de%20Luz-F85888?style=flat-square"> <img src="https://img.shields.io/badge/Fanfarronear-A8A878?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -247,7 +247,7 @@ display: flex;
 align-items: center;
 justify-content: center;
 ">
-    <img src="https://img.pokemondb.net/artwork/large/articuno.jpg" style="width: 62px; height: auto;">
+    <img src="https://img.pokemondb.net/artwork/large/flabebe.jpg" style="width: 62px; height: auto;">
 </div>
 
 
@@ -268,7 +268,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Articuno
+Flabebe
 </b>
 
 <br>
@@ -277,12 +277,186 @@ Articuno
 color:#555;
 font-weight:bold;
 ">
-#0144
+#0669
 </small>
 
 <br><br>
 
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/a/a6/latest/20230128125423/Tipo_hielo_icono_EP.svg" width="18" alt="Hielo" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/6/6b/latest/20230128132815/Tipo_volador_icono_EP.svg" width="18" alt="Volador" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador" style="vertical-align:middle;">
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/b/b7/latest/20230128125233/Tipo_hada_icono_EP.svg" width="18" alt="Hada" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada" style="vertical-align:middle;">
+
+</div>
+
+</div>
+
+</td>
+
+<td align="center" valign="middle" style="width:auto; padding:10px;">
+
+<div style="
+font-size:14px;
+font-weight:bold;
+color:#FFD54F;
+margin-bottom:10px;
+">
+
+Nivel 19
+
+</div>
+
+<div style="
+font-size:32px;
+font-weight:bold;
+">
+
+➜
+
+</div>
+
+</td>
+
+<td align="center" valign="top">
+
+<div style="
+display:flex;
+flex-direction:column;
+align-items:center;
+width:95px;
+">
+
+<div style="
+width: 78px;
+height: 78px;
+border-radius: 50%;
+overflow: hidden;
+background: #98C2D1;
+border: 2px solid #492A49;
+display: flex;
+align-items: center;
+justify-content: center;
+">
+    <img src="https://img.pokemondb.net/artwork/large/floette.jpg" style="width: 62px; height: auto;">
+</div>
+
+
+<div style="
+margin-top:8px;
+font-size:12px;
+color:#9aa6b2;
+">
+
+</div>
+
+<div style="
+margin-top:6px;
+padding:6px 10px;
+background:#EAF4F7;
+border-radius:8px;
+min-width:95px;
+">
+
+<b style="font-size:15px;color:#000;">
+Floette
+</b>
+
+<br>
+
+<small style="
+color:#555;
+font-weight:bold;
+">
+#0670
+</small>
+
+<br><br>
+
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/b/b7/latest/20230128125233/Tipo_hada_icono_EP.svg" width="18" alt="Hada" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada" style="vertical-align:middle;">
+
+</div>
+
+</div>
+
+</td>
+
+<td align="center" valign="middle" style="width:auto; padding:10px;">
+
+<div style="
+font-size:14px;
+font-weight:bold;
+color:#FFD54F;
+margin-bottom:10px;
+">
+
+Piedra Día
+
+</div>
+
+<div style="
+font-size:32px;
+font-weight:bold;
+">
+
+➜
+
+</div>
+
+</td>
+
+<td align="center" valign="top">
+
+<div style="
+display:flex;
+flex-direction:column;
+align-items:center;
+width:95px;
+">
+
+<div style="
+width: 78px;
+height: 78px;
+border-radius: 50%;
+overflow: hidden;
+background: #98C2D1;
+border: 2px solid #492A49;
+display: flex;
+align-items: center;
+justify-content: center;
+">
+    <img src="https://img.pokemondb.net/artwork/large/florges.jpg" style="width: 62px; height: auto;">
+</div>
+
+
+<div style="
+margin-top:8px;
+font-size:12px;
+color:#9aa6b2;
+">
+
+</div>
+
+<div style="
+margin-top:6px;
+padding:6px 10px;
+background:#EAF4F7;
+border-radius:8px;
+min-width:95px;
+">
+
+<b style="font-size:15px;color:#000;">
+Florges
+</b>
+
+<br>
+
+<small style="
+color:#555;
+font-weight:bold;
+">
+#0671
+</small>
+
+<br><br>
+
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/b/b7/latest/20230128125233/Tipo_hada_icono_EP.svg" width="18" alt="Hada" style="vertical-align:middle;"><br><img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada" style="vertical-align:middle;">
 
 </div>
 
@@ -297,7 +471,7 @@ font-weight:bold;
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td>🎮 Pokémon Amarillo<br>🎮 Pokémon Azul<br>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Cristal<br>🎮 Pokémon Diamante<br>🎮 Pokémon Esmeralda<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino<br>🎮 Pokémon Rojo<br>🎮 Pokémon Rojo Fuego<br>🎮 Pokémon Rubí<br>🎮 Pokémon Verde Hoja<br>🎮 Pokémon Zafiro</td>
+<td></td>
 </tr>
 
 <tr>
@@ -306,46 +480,46 @@ font-weight:bold;
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>261</td>
+<td>130</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
 <td>
-💠 <b>1.250.000 XP</b><br>
+💠 <b>1.000.000 XP</b><br>
 <small>Necesaria para alcanzar el nivel 100</small>
 </td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Lento-red?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Medio-lightgrey?style=flat-square"></td>
 </tr>
 
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>580 puntos</b><br>
-🔥 Muy fuerte
+<b>371 puntos</b><br>
+👍 Normal
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">❤️ PS 90<br>
-    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br><br>
-    ⚔️ Ataque 85<br>
+<td style="background:red">❤️ PS 54<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    ⚔️ Ataque 45<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    🛡️ Defensa 47<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+    ✨ At. Especial 75<br>
     🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Defensa 100<br>
-    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br><br>
-    ✨ At. Especial 95<br>
+    🛡️ Def. Especial 98<br>
     🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Def. Especial 125<br>
-    🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜<br><br>
-    💨 Velocidad 85<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜</td>
+    💨 Velocidad 52<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜</td>
 </tr>
 
 </table>
@@ -355,15 +529,15 @@ font-weight:bold;
 
 ## 💡 Curiosidad oficial
 
-> Legendario Pokémon pájaro capaz de generar ventiscas congelando la humedad del aire.
+> Revolotea alrededor de campos de flores y cuida de aquellas que empiezan a marchitarse. Usa en combate el poder oculto de las flores.
 
 ---
 
 ## 💡 Datos interesantes
 
-- 🎨 Su color en la Pokédex es blue.
-- ⚖️ Pesa 55.4 kg.
-- 🥚 Pertenece al grupo huevo No-eggs.
+- ⚖️ Pesa 0.9 kg.
+- 🎨 Su color en la Pokédex es white.
+- 🧬 Introducido en la generación VI (Kalos).
 
 ---
 
@@ -371,11 +545,11 @@ font-weight:bold;
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Articuno** en:
+Puedes consultar información completa y actualizada de **Floette** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Articuno)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/articuno)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Articuno_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Floette)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/floette)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Floette_(Pokémon))
 
 
 ---
@@ -977,16 +1151,18 @@ Puedes consultar información completa y actualizada de **Articuno** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-21T12:24:10.816213 -->
+<!-- Generated: 2026-07-21T12:25:11.494573 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"En cada partida, hay un nuevo desafío esperando ser conquistado."*
+> *"¡Nunca subestimes el poder de un jugador con café!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
