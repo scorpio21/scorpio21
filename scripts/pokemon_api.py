@@ -11,7 +11,6 @@ from translation.game_translations import GAME_TRANSLATIONS
 from music.game_music import get_game_music
 from shields.color_badges import build_color_badge
 from translation.habitat_translations import HABITAT_TRANSLATIONS
-from translation.egg_group_translations import EGG_GROUP_TRANSLATIONS
 
 # Función para obtener el Pokémon del día
 def get_pokemon_of_the_day():
@@ -129,13 +128,22 @@ def get_pokemon_of_the_day():
     
     print([g["name"] for g in species["egg_groups"]])
 
-    egg_groups = ", ".join(
-        EGG_GROUP_TRANSLATIONS.get(
-            grupo["name"],
-            grupo["name"].capitalize()
-        )
-        for grupo in species["egg_groups"]
-    )
+    egg_groups = []
+
+    for grupo in species["egg_groups"]:
+
+        grupo_data = requests.get(grupo["url"]).json()
+
+        nombre_grupo = grupo["name"].capitalize()
+
+        for n in grupo_data["names"]:
+            if n["language"]["name"] == "es":
+                nombre_grupo = n["name"]
+                break
+
+        egg_groups.append(nombre_grupo)
+
+    egg_groups = ", ".join(egg_groups)
 
     stats = {
         stat["stat"]["name"]: stat["base_stat"]
