@@ -17,4 +17,6 @@ TYPE_ICONS = {
     "Siniestro": "https://images.wikidexcdn.net/mwuploads/wikidex/e/e0/latest/20230128132504/Tipo_siniestro_icono_EP.svg",
     "Acero": "https://images.wikidexcdn.net/mwuploads/wikidex/6/6c/latest/20230128124521/Tipo_acero_icono_EP.svg",
     "Hada": "https://images.wikidexcdn.net/mwuploads/wikidex/b/b7/latest/20230128125233/Tipo_hada_icono_EP.svg",
+    # Teratipo exclusivo de Pokémon Escarlata y Púrpura
+    "Astral": "https://images.wikidexcdn.net/mwuploads/wikidex/e/e9/latest/20231216092816/Tipo_astral_icono_EP.png",
 }

@@ -7,10 +7,10 @@ def get_pokemon_type_translation(tipo):
         "bug": "Bicho", "poison": "Veneno", "ghost": "Fantasma", "steel": "Acero",
         "psychic": "Psíquico", "normal": "Normal", "flying": "Volador", "fighting": "Lucha",
         "rock": "Roca", "fairy": "Hada", "ice": "Hielo", "dragon": "Dragón",
-        "dark": "Siniestro", "ground": "Tierra", "shadow": "Sombra"
+        "dark": "Siniestro", "ground": "Tierra", "shadow": "Sombra",
+        "stellar": "Astral"
     }
     return traducciones.get(tipo, tipo)
-
 
 # Obtener tipo
 def obtener_tipo_info(tipos):
