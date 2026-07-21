@@ -9,6 +9,7 @@ from experience_growth import EXPERIENCE_GROWTH
 from item_translations import ITEM_TRANSLATIONS
 from game_translations import GAME_TRANSLATIONS
 from music.game_music import get_game_music
+from color_badges import build_color_badge
 
 # Función para obtener el Pokémon del día
 def get_pokemon_of_the_day():
@@ -87,7 +88,7 @@ def get_pokemon_of_the_day():
     pokedex_num = data["id"]
     clase = data["species"]["name"]
 
-    color_pokedex = species["color"]["name"]
+    color_pokedex = build_color_badge(species["color"]["name"])
 
     # Generación
     generaciones = {
