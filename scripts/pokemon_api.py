@@ -304,6 +304,9 @@ def get_pokemon_of_the_day():
 
     # Eliminar duplicados y ordenar
     juegos = sorted(list(set(juegos)))
+    # Si la API no devuelve juegos, usar al menos el juego de debut
+    if not juegos:
+        juegos = [juego_debut]
 
     #==========================
     # Retornar todos los datos
