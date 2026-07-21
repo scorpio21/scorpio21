@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-21T14:01:23.958026 -->
+<!-- Generated: 2026-07-21T14:18:44.113615 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/287.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/287.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/850.png" width="220">
 </td>
 
 </tr>
@@ -48,7 +48,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar%20Slakoth-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Sizzlipede-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
 </a>
 </td>
 </tr>
@@ -59,45 +59,45 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟢 <b>Slakoth</b></td>
+<td>🔵 <b>Sizzlipede</b></td>
 </tr>
 
 <tr>
 <td><b>🇯🇵 Nombre original</b></td>
-<td>ナマケロ</td>
+<td>ヤクデ</td>
 </tr>
 
 <tr>
 <td><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
+<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#287</td>
+<td>#850</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>III (Hoenn)</td>
+<td>VIII (Galar)</td>
 </tr>
 
 <tr>
 <td><b>🗺️ Región</b></td>
-<td>🏝️ Hoenn</td>
+<td>🏝️ Galar</td>
 </tr>
 
 <tr>
 <td><b>🎮 Juego debut</b></td>
-<td>Pokémon Rubí / Zafiro</td>
+<td>Pokémon Espada / Escudo</td>
 </tr>
 
 <tr>
 <td><b>🎵 Música</b></td>
 <td>
-<a href="https://www.youtube.com/results?search_query=Pokemon+Ruby+Sapphire+Wild+Pokemon+Theme" target="_blank">
+<a href="https://www.youtube.com/results?search_query=Pokemon+Sword+Shield+Wild+Pokemon+Theme" target="_blank">
 🎧 Escuchar en YouTube
 </a>
 </td>
@@ -105,7 +105,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Tipo(s)</b></td>
-<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/c/c3/latest/20230128125621/Tipo_normal_icono_EP.svg" width="23" alt="Normal" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal" style="vertical-align:middle;"><br></td>
+<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/5/55/latest/20230128125153/Tipo_fuego_icono_EP.svg" width="23" alt="Fuego" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/1/1a/latest/20230128124809/Tipo_bicho_icono_EP.svg" width="23" alt="Bicho" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho" style="vertical-align:middle;"><br></td>
 </tr>
 
 <tr>
@@ -114,7 +114,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Slakoth</td>
+<td>Sizzlipede</td>
 </tr>
 
 <tr>
@@ -139,17 +139,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Marrón-795548?style=flat-square" alt="brown"></td>
+<td><img src="https://img.shields.io/badge/Rojo-F44336?style=flat-square" alt="red"></td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>0.8 m</td>
+<td>0.7 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>24.0 kg</td>
+<td>1.0 kg</td>
 </tr>
 
 <tr>
@@ -159,17 +159,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🌍 Hábitat</b></td>
-<td>Forest</td>
+<td>Desconocido</td>
 </tr>
 
 <tr>
 <td><b>🥚 Grupo huevo</b></td>
-<td>Ground</td>
+<td>Bug</td>
 </tr>
 
 <tr>
 <td><b>❤️ Amistad base</b></td>
-<td>70</td>
+<td>50</td>
 </tr>
 
 <tr>
@@ -178,27 +178,27 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>⚔️ Débil contra</b></td>
-<td><img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"></td>
+<td><img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"> <img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador"></td>
 </tr>
 
 <tr>
 <td><b>🛡️ Resiste</b></td>
-<td></td>
+<td><img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero"> <img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho"> <img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego"> <img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada"> <img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo"> <img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha"> <img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta"> <img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra"></td>
 </tr>
 
 <tr>
 <td><b>✨ Inmune a</b></td>
-<td><img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma"></td>
+<td>Ninguna</td>
 </tr>
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩<br>100.0%</td>
+<td>🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜<br>74.5%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>255</td>
+<td>190</td>
 </tr>
 
 <tr>
@@ -208,7 +208,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Ausente</b><br><small>Skips every second turn.</small><br><br></td>
+<td>🟢 ⚡ <b>Absorbe Fuego</b><br><small>Protects against Fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle.</small><br><br>🟢 ⚡ <b>Humo Blanco</b><br><small>Prevents stats from being lowered by other Pokémon.</small><br><br>⭐ ✨ <b>Cuerpo Llama</b> (Oculta)<br><small>Has a 30% chance of burning attacking Pokémon on contact.</small></td>
 </tr>
 
 <tr>
@@ -218,7 +218,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Antojo-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Golpe%20Bajo-705848?style=flat-square"> <img src="https://img.shields.io/badge/Tajo%20Umbr%C3%ADo-705848?style=flat-square"> <img src="https://img.shields.io/badge/Bostezo-A8A878?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Llama%20Final-F08030?style=flat-square"> <img src="https://img.shields.io/badge/Plancha-A8B820?style=flat-square"> <img src="https://img.shields.io/badge/Descanso-F85888?style=flat-square"> <img src="https://img.shields.io/badge/Sustituto-A8A878?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -248,7 +248,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/slakoth.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/sizzlipede.jpg" width="62">
 
 </td>
 </tr>
@@ -271,7 +271,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Slakoth
+Sizzlipede
 </b>
 
 <br>
@@ -280,12 +280,12 @@ Slakoth
 color:#555;
 font-weight:bold;
 ">
-#0287
+#0850
 </small>
 
 <br><br>
 
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/c/c3/latest/20230128125621/Tipo_normal_icono_EP.svg" width="23" alt="Normal" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal" style="vertical-align:middle;"><br>
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/5/55/latest/20230128125153/Tipo_fuego_icono_EP.svg" width="23" alt="Fuego" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/1/1a/latest/20230128124809/Tipo_bicho_icono_EP.svg" width="23" alt="Bicho" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho" style="vertical-align:middle;"><br>
 
 </div>
 
@@ -302,7 +302,7 @@ color:#FFD54F;
 margin-bottom:10px;
 ">
 
-Nivel 18
+Nivel 28
 
 </div>
 
@@ -338,7 +338,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/vigoroth.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/centiskorch.jpg" width="62">
 
 </td>
 </tr>
@@ -361,7 +361,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Vigoroth
+Centiskorch
 </b>
 
 <br>
@@ -370,102 +370,12 @@ Vigoroth
 color:#555;
 font-weight:bold;
 ">
-#0288
+#0851
 </small>
 
 <br><br>
 
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/c/c3/latest/20230128125621/Tipo_normal_icono_EP.svg" width="23" alt="Normal" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal" style="vertical-align:middle;"><br>
-
-</div>
-
-</div>
-
-</td>
-
-<td align="center" valign="middle" style="width:auto; padding:10px;">
-
-<div style="
-font-size:14px;
-font-weight:bold;
-color:#FFD54F;
-margin-bottom:10px;
-">
-
-Nivel 36
-
-</div>
-
-<div style="
-font-size:32px;
-font-weight:bold;
-">
-
-➜
-
-</div>
-
-</td>
-
-<td align="center" valign="top">
-
-<div style="
-display:flex;
-flex-direction:column;
-align-items:center;
-width:95px;
-">
-
-<table align="center" cellspacing="0" cellpadding="0">
-<tr>
-<td
-align="center"
-width="78"
-height="78"
-style="
-background:#98C2D1;
-border:2px solid #492A49;
-border-radius:50%;
-">
-
-<img src="https://img.pokemondb.net/artwork/large/slaking.jpg" width="62">
-
-</td>
-</tr>
-</table>
-
-<div style="
-margin-top:8px;
-font-size:12px;
-color:#9aa6b2;
-">
-
-</div>
-
-<div style="
-margin-top:6px;
-padding:6px 10px;
-background:#EAF4F7;
-border-radius:8px;
-min-width:95px;
-">
-
-<b style="font-size:15px;color:#000;">
-Slaking
-</b>
-
-<br>
-
-<small style="
-color:#555;
-font-weight:bold;
-">
-#0289
-</small>
-
-<br><br>
-
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/c/c3/latest/20230128125621/Tipo_normal_icono_EP.svg" width="23" alt="Normal" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal" style="vertical-align:middle;"><br>
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/5/55/latest/20230128125153/Tipo_fuego_icono_EP.svg" width="23" alt="Fuego" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/1/1a/latest/20230128124809/Tipo_bicho_icono_EP.svg" width="23" alt="Bicho" style="vertical-align:middle;"><img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho" style="vertical-align:middle;"><br>
 
 </div>
 
@@ -480,7 +390,7 @@ font-weight:bold;
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Diamante<br>🎮 Pokémon Esmeralda<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino<br>🎮 Pokémon Rojo Fuego<br>🎮 Pokémon Rubí<br>🎮 Pokémon Verde Hoja<br>🎮 Pokémon Zafiro</td>
+<td></td>
 </tr>
 
 <tr>
@@ -489,20 +399,20 @@ font-weight:bold;
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>56</td>
+<td>61</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
 <td>
-💠 <b>1.250.000 XP</b><br>
+💠 <b>1.000.000 XP</b><br>
 <small>Necesaria para alcanzar el nivel 100</small>
 </td>
 </tr>
 
 <tr>
 <td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Lento-red?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Medio-lightgrey?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -510,25 +420,37 @@ font-weight:bold;
 <td>
 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>280 puntos</b><br>
-🌱 Básico
+<b>305 puntos</b><br>
+👍 Normal
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">❤️ PS 60<br>
+<td style="background:red">❤️ PS 50<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ⚔️ Ataque 60<br>
+
+    ⚔️ Ataque 65<br>
+    🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜<br><br>
+
+    🛡️ Defensa 45<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Defensa 60<br>
+
+    ✨ At. Especial 50<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    ✨ At. Especial 35<br>
-    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    🛡️ Def. Especial 35<br>
-    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
-    💨 Velocidad 30<br>
-    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
+
+    🛡️ Def. Especial 50<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+
+    💨 Velocidad 45<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br><br>
+
+    <hr>
+
+    🏆 <b>Total Base:</b> 305<br>
+    🥇 <b>Mejor atributo:</b> ⚔️ Ataque (65)<br>
+    🥉 <b>Atributo más bajo:</b> 🛡️ Defensa (45)
+    </td>
 </tr>
 
 </table>
@@ -538,15 +460,15 @@ font-weight:bold;
 
 ## 💡 Curiosidad oficial
 
-> Slakoth se pasa todo el día holgazaneando y solo con verlo a uno le entra mucha pereza.
+> Genera calor consumiendo el gas inflamable que almacena en su cuerpo. Los círculos amarillos del abdomen están particularmente calientes.
 
 ---
 
 ## 💡 Datos interesantes
 
-- 🥚 Pertenece al grupo huevo Ground.
-- ⚖️ Pesa 24.0 kg.
-- 🧬 Introducido en la generación III (Hoenn).
+- ❤️ Amistad base: 50.
+- ⚖️ Pesa 1.0 kg.
+- 🎯 Ratio de captura: 190.
 
 ---
 
@@ -554,11 +476,11 @@ font-weight:bold;
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Slakoth** en:
+Puedes consultar información completa y actualizada de **Sizzlipede** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Slakoth)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/slakoth)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Slakoth_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Sizzlipede)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/sizzlipede)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Sizzlipede_(Pokémon))
 
 
 ---
@@ -1180,16 +1102,18 @@ Puedes consultar información completa y actualizada de **Slakoth** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-21T14:01:23.958026 -->
+<!-- Generated: 2026-07-21T14:18:44.113615 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"¡Nunca subestimes el poder de un jugador con café!"*
+> *"Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
