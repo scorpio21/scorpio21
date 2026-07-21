@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-21T17:29:54.292858+00:00 -->
+<!-- Generated: 2026-07-21T17:31:04.307215+00:00 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/446.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/772.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/446.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/772.png" width="220">
 </td>
 
 </tr>
@@ -48,7 +48,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar%20Munchlax-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Type-null-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
 </a>
 </td>
 </tr>
@@ -59,12 +59,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nombre</b></td>
-<td>🟢 <b>Munchlax</b></td>
+<td>🟢 <b>Type-null</b></td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🇯🇵 Nombre original</b></td>
-<td>ゴンベ</td>
+<td>タイプ：ヌル</td>
 </tr>
 
 <tr>
@@ -76,28 +76,28 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Nº Pokédex</b></td>
-<td>#446</td>
+<td>#772</td>
 </tr>
 
 <tr>
 <td><b>🧬 Generación</b></td>
-<td>IV (Sinnoh)</td>
+<td>VII (Alola)</td>
 </tr>
 
 <tr>
 <td><b>🗺️ Región</b></td>
-<td>🏝️ Sinnoh</td>
+<td>🏝️ Alola</td>
 </tr>
 
 <tr>
 <td><b>🎮 Juego debut</b></td>
-<td>Pokémon Diamante / Perla</td>
+<td>Pokémon Sol / Luna</td>
 </tr>
 
 <tr>
 <td><b>🎵 Música</b></td>
 <td>
-<a href="https://www.youtube.com/results?search_query=Pokemon+Diamond+Pearl+Wild+Pokemon+Theme" target="_blank">
+<a href="https://www.youtube.com/results?search_query=Pokemon+Sun+Moon+Wild+Pokemon+Theme" target="_blank">
 🎧 Escuchar en YouTube
 </a>
 </td>
@@ -114,12 +114,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>Clase</b></td>
-<td>Munchlax</td>
+<td>Type-null</td>
 </tr>
 
 <tr>
 <td><b>⭐ Legendario</b></td>
-<td>❌ No</td>
+<td>✅ Sí</td>
 </tr>
 
 <tr>
@@ -129,7 +129,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>👶 Bebé</b></td>
-<td>✅ Sí</td>
+<td>❌ No</td>
 </tr>
 
 <tr>
@@ -139,22 +139,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Negro-000000?style=flat-square" alt="black" style="vertical-align:middle;"></td>
+<td><img src="https://img.shields.io/badge/Gris-9E9E9E?style=flat-square" alt="gray" style="vertical-align:middle;"></td>
 </tr>
 
 <tr>
 <td><b>📏 Altura</b></td>
-<td>0.6 m</td>
+<td>1.9 m</td>
 </tr>
 
 <tr>
 <td><b>⚖️ Peso</b></td>
-<td>105.0 kg</td>
+<td>120.5 kg</td>
 </tr>
 
 <tr>
 <td><b>♂️ / ♀️</b></td>
-<td>♂️ 87.5% &nbsp;&nbsp;&nbsp; ♀️ 12.5%</td>
+<td>♂️ Sin género &nbsp;&nbsp;&nbsp; ♀️ Sin género</td>
 </tr>
 
 <tr>
@@ -169,7 +169,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>❤️ Amistad base</b></td>
-<td>70</td>
+<td>0</td>
 </tr>
 
 <tr>
@@ -193,12 +193,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>19.6%</td>
+<td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜<br>1.2%</td>
 </tr>
 
 <tr>
 <td><b>🎲 Ratio captura</b></td>
-<td>50</td>
+<td>3</td>
 </tr>
 
 <tr>
@@ -208,17 +208,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Recogida</b><br><small>Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle.</small><br><br>🟢 ⚡ <b>Sebo</b><br><small>Halves damage from Fire and Ice moves.</small><br><br>⭐ ✨ <b>Gula</b> (Oculta)<br><small>Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.</small></td>
+<td>🟢 ⚡ <b>Armadura Batalla</b><br><small>Protects against critical hits.</small><br><br></td>
 </tr>
 
 <tr>
 <td><b>📦 Objetos</b></td>
-<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png" width="28" height="28"> <b>Leftovers</b> (100%)<br><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png" width="28" height="28"> <b>Leftovers</b> (5%)</td>
+<td>No puede llevar objetos.</td>
 </tr>
 
 <tr>
 <td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Danza%20Lluvia-6890F0?style=flat-square"> <img src="https://img.shields.io/badge/Terremoto-E0C068?style=flat-square"> <img src="https://img.shields.io/badge/Demolici%C3%B3n-C03028?style=flat-square"> <img src="https://img.shields.io/badge/Guardia%20Baja-A8A878?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Doble%20Golpe-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Canon-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Castigo-705848?style=flat-square"> <img src="https://img.shields.io/badge/Capa%20M%C3%A1gica-F85888?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -248,7 +248,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/munchlax.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/type-null.jpg" width="62">
 
 </td>
 </tr>
@@ -271,7 +271,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Munchlax
+Type-null
 </b>
 
 <br>
@@ -280,7 +280,7 @@ Munchlax
 color:#555;
 font-weight:bold;
 ">
-#0446
+#0772
 </small>
 
 <br><br>
@@ -338,7 +338,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/snorlax.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/silvally.jpg" width="62">
 
 </td>
 </tr>
@@ -361,7 +361,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Snorlax
+Silvally
 </b>
 
 <br>
@@ -370,7 +370,7 @@ Snorlax
 color:#555;
 font-weight:bold;
 ">
-#0143
+#0773
 </small>
 
 <br><br>
@@ -390,7 +390,7 @@ font-weight:bold;
 
 <tr>
 <td><b>🎮 Juegos</b></td>
-<td>🎮 Pokémon Blanco<br>🎮 Pokémon Blanco 2<br>🎮 Pokémon Diamante<br>🎮 Pokémon Negro<br>🎮 Pokémon Negro 2<br>🎮 Pokémon Oro HeartGold<br>🎮 Pokémon Perla<br>🎮 Pokémon Plata SoulSilver<br>🎮 Pokémon Platino</td>
+<td></td>
 </tr>
 
 <tr>
@@ -399,7 +399,7 @@ font-weight:bold;
 
 <tr>
 <td><b>⭐ Experiencia Base</b></td>
-<td>78</td>
+<td>107</td>
 </tr>
 
 <tr>
@@ -417,32 +417,32 @@ font-weight:bold;
 <tr>
 <td><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜
 
-<b>390 puntos</b><br>
-👍 Normal
+<b>534 puntos</b><br>
+🔥 Muy fuerte
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">❤️ PS 135<br>
-    🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜<br>
-    ⚔️ Ataque 85<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br>
-    🛡️ Defensa 40<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br>
-    ✨ At. Especial 40<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br>
-    🛡️ Def. Especial 85<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br>
-    💨 Velocidad 5<br>
-    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+<td style="background:red">❤️ PS 95<br>
+    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br>
+    ⚔️ Ataque 95<br>
+    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br>
+    🛡️ Defensa 95<br>
+    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br>
+    ✨ At. Especial 95<br>
+    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br>
+    🛡️ Def. Especial 95<br>
+    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br>
+    💨 Velocidad 59<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜
     <hr>
 
-🏆 <b>Total Base:</b> 390<br>
-🥇 <b>Mejor atributo:</b> ❤️ PS (135)<br>
-🥉 <b>Atributo más bajo:</b> 💨 Velocidad (5)</td>
+🏆 <b>Total Base:</b> 534<br>
+🥇 <b>Mejor atributo:</b> ❤️ PS (95)<br>
+🥉 <b>Atributo más bajo:</b> 💨 Velocidad (59)</td>
 </tr>
 
 </table>
@@ -452,15 +452,15 @@ font-weight:bold;
 
 ## 💡 Curiosidad oficial
 
-> Esconde comida bajo el largo pelo de su cuerpo, pero más tarde lo olvida.
+> La pesada máscara le impide liberar toda su fuerza, que se cree que es extraordinaria.
 
 ---
 
 ## 💡 Datos interesantes
 
-- 🥚 Pertenece al grupo huevo Desconocido.
-- ⚖️ Pesa 105.0 kg.
-- 🎨 Su color en la Pokédex es <img src="https://img.shields.io/badge/Negro-000000?style=flat-square" alt="black" style="vertical-align:middle;">.
+- ⚖️ Pesa 120.5 kg.
+- ❤️ Amistad base: 0.
+- 📏 Mide 1.9 m.
 
 ---
 
@@ -468,11 +468,11 @@ font-weight:bold;
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Munchlax** en:
+Puedes consultar información completa y actualizada de **Type-null** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Munchlax)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/munchlax)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Munchlax_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Type-null)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/type-null)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Type-null_(Pokémon))
 
 
 ---
@@ -1124,16 +1124,18 @@ Puedes consultar información completa y actualizada de **Munchlax** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-21T17:29:54.292858+00:00 -->
+<!-- Generated: 2026-07-21T17:31:04.307215+00:00 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"Gamer de día, héroe de noche."*
+> *"Solo hay una regla: ¡Ganar es lo único que importa!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
