@@ -130,10 +130,12 @@ def build_pokemon_table(
         objetos_html = "No puede llevar objetos."
 
     captura_barra = barra_porcentaje(capture_text)
+    
+    print("🎮 juegos =", juegos)
 
     juegos_html = "<br>".join(
         f"🎮 {juego}"
-        for juego in juegos
+        for juego in juegos_
     )
 
     badge = EXPERIENCE_GROWTH_BADGES.get(
