@@ -21,4 +21,4 @@ def build_color_badge(color):
     if not url:
         return color
 
-    return f'<img src="{url}" alt="{color}" width="47">'
+    return f'<img src="{url}" alt="{color}">'
