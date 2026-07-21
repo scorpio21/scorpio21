@@ -290,19 +290,16 @@ def get_pokemon_of_the_day():
     # Juegos donde aparece
     juegos = []
 
-    for indice in data["game_indices"]:
-        nombre_juego = (
-            indice["version"]["name"]
-            .replace("-", " ")
-            .title()
-        )
+    version_data = requests.get(indice["version"]["url"]).json()
 
-        nombre_juego = GAME_TRANSLATIONS.get(
-            nombre_juego,
-            nombre_juego
-        )
+    nombre_juego = indice["version"]["name"]
 
-        juegos.append(nombre_juego)
+    for n in version_data["names"]:
+        if n["language"]["name"] == "es":
+            nombre_juego = n["name"]
+            break
+
+    juegos.append(nombre_juego)
 
     # Eliminar duplicados y ordenar
     juegos = sorted(list(set(juegos)))
