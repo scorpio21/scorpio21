@@ -291,17 +291,13 @@ def get_pokemon_of_the_day():
     juegos = []
 
     for indice in data["game_indices"]:
+        clave = indice["version"]["name"]
 
-        nombre_juego = (
-            indice["version"]["name"]
-            .replace("-", " ")
-            .title()
-        )
-        print(data["game_indices"])
-        
+        print(clave)  # <-- para ver qué nombres llegan
+
         nombre_juego = GAME_TRANSLATIONS.get(
-            nombre_juego,
-            nombre_juego
+            clave.replace("-", " ").title(),
+            clave.replace("-", " ").title()
         )
 
         juegos.append(nombre_juego)
