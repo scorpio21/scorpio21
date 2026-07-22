@@ -135,6 +135,12 @@ def build_pokemon_table(
 
     captura_barra = barra_porcentaje(capture_text)
 
+    def corazones_amistad(valor):
+        llenos = round(valor / 51)
+        return "❤️" * llenos + "🤍" * (5 - llenos)
+
+    amistad_corazones = corazones_amistad(base_happiness)
+
     texto, color = captura_dificultad
 
     captura_dificultad = (
@@ -197,6 +203,7 @@ def build_pokemon_table(
         habitat=habitat,
         egg_groups=egg_groups,
         base_happiness=base_happiness,
+        amistad_corazones=amistad_corazones,
         capture_rate=capture_rate,
         capture_text=capture_text,
         captura_dificultad=captura_dificultad,

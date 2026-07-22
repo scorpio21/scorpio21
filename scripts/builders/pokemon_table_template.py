@@ -35,6 +35,7 @@ def render_table(
     habitat,
     egg_groups,
     base_happiness,
+    amistad_corazones,
     capture_rate,
     capture_text,
     captura_dificultad,
@@ -221,7 +222,10 @@ def render_table(
 
 <tr>
 <td><b>❤️ Amistad base</b></td>
-<td>{base_happiness}</td>
+<td>
+{base_happiness}<br>
+{amistad_corazones}
+</td>
 </tr>
 
 <tr>
