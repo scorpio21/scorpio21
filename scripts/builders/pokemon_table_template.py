@@ -6,9 +6,6 @@
 
 from shields.color_badges import build_color_badge
 from shields.badges import build_cry_badge
-#==========================
-# FUNCIONES
-#=========================
 
 def render_table(
     pokemon_img_url,
@@ -40,6 +37,7 @@ def render_table(
     base_happiness,
     capture_rate,
     capture_text,
+    captura_dificultad,
     captura_barra,
     shiny_odds,
     male_rate,
@@ -247,7 +245,11 @@ def render_table(
 
 <tr>
 <td><b>🎯 Captura</b></td>
-<td>{captura_barra}<br>{capture_text}</td>
+<td>
+{captura_dificultad}<br>
+{captura_barra}<br>
+{capture_text}
+</td>
 </tr>
 
 <tr>

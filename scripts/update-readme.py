@@ -41,6 +41,7 @@ from download_cry import download_cry
     musica_url,
     capture_rate,
     captura_porcentaje,
+    captura_dificultad,
     shiny_odds,
     macho,
     hembra,
