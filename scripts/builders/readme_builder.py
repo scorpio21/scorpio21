@@ -140,7 +140,15 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 💡 Curiosidad oficial
 
-> {curiosidad}
+<table>
+<tr>
+<td>
+
+> 💬 **{curiosidad}**
+
+</td>
+</tr>
+</table>
 
 ---
 
