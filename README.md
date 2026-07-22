@@ -94,10 +94,11 @@ Descubre cada día un Pokémon diferente con su información completa.
 <td>🏝️ Kanto</td>
 </tr>
 
-<tr>
 <td><b>🎮 Juego debut</b></td>
-<td>Pokémon Rojo / Azul</td>
-</tr>
+<td>
+{consola_debut}<br>
+{juego_debut}
+</td>
 
 <tr>
 <td><b>🎵 Música</b></td>

@@ -18,7 +18,8 @@ from item_icons import ITEM_ICON_URL
 from experience_growth_badges import EXPERIENCE_GROWTH_BADGES
 from translation.game_translations import (
     GAME_TRANSLATIONS,
-    GAME_BADGE_COLORS
+    GAME_BADGE_COLORS,
+    GAME_CONSOLES,
 )
 
 #==========================
@@ -82,7 +83,8 @@ def build_pokemon_table(
     bst_html,
     stats_md,
 ):
-
+    consola_debut = GAME_CONSOLES.get(juego_debut, "🎮 Desconocida")
+    
     # ==========================
     # HABILIDADES
     # ==========================

@@ -97,3 +97,48 @@ GAME_BADGE_COLORS = {
     "Pokémon Escarlata": "ff2400",
     "Pokémon Púrpura": "800080",
 }
+
+GAME_CONSOLES = {
+    "Pokémon Rojo": "🟩 Game Boy",
+    "Pokémon Azul": "🟩 Game Boy",
+    "Pokémon Amarillo": "🟩 Game Boy",
+
+    "Pokémon Oro": "🟨 Game Boy Color",
+    "Pokémon Plata": "🟨 Game Boy Color",
+    "Pokémon Cristal": "🟨 Game Boy Color",
+
+    "Pokémon Rubí": "🟪 Game Boy Advance",
+    "Pokémon Zafiro": "🟪 Game Boy Advance",
+    "Pokémon Esmeralda": "🟪 Game Boy Advance",
+    "Pokémon Rojo Fuego": "🟪 Game Boy Advance",
+    "Pokémon Verde Hoja": "🟪 Game Boy Advance",
+
+    "Pokémon Diamante": "🟥 Nintendo DS",
+    "Pokémon Perla": "🟥 Nintendo DS",
+    "Pokémon Platino": "🟥 Nintendo DS",
+    "Pokémon Oro HeartGold": "🟥 Nintendo DS",
+    "Pokémon Plata SoulSilver": "🟥 Nintendo DS",
+    "Pokémon Negro": "🟥 Nintendo DS",
+    "Pokémon Blanco": "🟥 Nintendo DS",
+    "Pokémon Negro 2": "🟥 Nintendo DS",
+    "Pokémon Blanco 2": "🟥 Nintendo DS",
+
+    "Pokémon X": "🔷 Nintendo 3DS",
+    "Pokémon Y": "🔷 Nintendo 3DS",
+    "Pokémon Rubí Omega": "🔷 Nintendo 3DS",
+    "Pokémon Zafiro Alfa": "🔷 Nintendo 3DS",
+    "Pokémon Sol": "🔷 Nintendo 3DS",
+    "Pokémon Luna": "🔷 Nintendo 3DS",
+    "Pokémon Ultrasol": "🔷 Nintendo 3DS",
+    "Pokémon Ultraluna": "🔷 Nintendo 3DS",
+
+    "Pokémon Let's Go Pikachu": "🟥 Nintendo Switch",
+    "Pokémon Let's Go Eevee": "🟥 Nintendo Switch",
+    "Pokémon Espada": "🟥 Nintendo Switch",
+    "Pokémon Escudo": "🟥 Nintendo Switch",
+    "Pokémon Diamante Brillante": "🟥 Nintendo Switch",
+    "Pokémon Perla Reluciente": "🟥 Nintendo Switch",
+    "Pokémon Leyendas Arceus": "🟥 Nintendo Switch",
+    "Pokémon Escarlata": "🟥 Nintendo Switch",
+    "Pokémon Púrpura": "🟥 Nintendo Switch",
+}
