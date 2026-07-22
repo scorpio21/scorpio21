@@ -154,7 +154,15 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 💡 Datos interesantes
 
+<table>
+<tr>
+<td>
+
 {datos_interesantes_html}
+
+</td>
+</tr>
+</table>
 
 ---
 
