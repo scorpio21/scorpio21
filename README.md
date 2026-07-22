@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-22T12:59:55.474375+00:00 -->
+<!-- Generated: 2026-07-22T13:11:14.144284+00:00 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/433.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/60.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/433.png" width="220">
 </td>
 
 </tr>
@@ -48,7 +48,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar%20Poliwag-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Chingling-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
 </a>
 </td>
 </tr>
@@ -58,59 +58,59 @@ Descubre cada día un Pokémon diferente con su información completa.
 </tr>
 
 <tr>
-<td><b>Nombre</b></td>
-<td>🔵 <b>Poliwag</b></td>
+<td style="white-space: nowrap;"><b>Nombre</b></td>
+<td>🟣 <b>Chingling</b></td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🇯🇵 Nombre original</b></td>
-<td>ニョロモ</td>
+<td>リーシャン</td>
 </tr>
 
 <tr>
-<td><b>🧬 Especie</b></td>
-<td>Pokémon Poliwag</td>
+<td style="white-space: nowrap;"><b>🧬 Especie</b></td>
+<td>Pokémon Chingling</td>
 </tr>
 
 <tr>
-<td><b>Rareza</b></td>
+<td style="white-space: nowrap;"><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
 </td>
 </tr>
 
 <tr>
-<td><b>Nº Pokédex</b></td>
-<td>#60</td>
+<td style="white-space: nowrap;"><b>Nº Pokédex</b></td>
+<td>#433</td>
 </tr>
 
 <tr>
-<td><b>🧬 Generación</b></td>
-<td>I (Kanto) <br><small>📅 1996</small></td>
+<td style="white-space: nowrap;"><b>🧬 Generación</b></td>
+<td>IV (Sinnoh) <br><small>📅 2006</small></td>
 </tr>
 
 <tr>
-<td><b>🗺️ Región</b></td>
-<td>🏝️ Kanto</td>
+<td style="white-space: nowrap;"><b>🗺️ Región</b></td>
+<td>🏝️ Sinnoh</td>
 </tr>
 
 <tr>
-<td><b>🎮 Juego debut</b></td>
-<td>Pokémon Rojo / Azul</td>
+<td style="white-space: nowrap;"><b>🎮 Juego debut</b></td>
+<td>Pokémon Diamante / Perla</td>
 </tr>
 
 <tr>
-<td><b>🎵 Música</b></td>
+<td style="white-space: nowrap;"><b>🎵 Música</b></td>
 <td>
-<a href="https://www.youtube.com/results?search_query=Pokemon+Red+Blue+Wild+Pokemon+Theme" target="_blank">
+<a href="https://www.youtube.com/results?search_query=Pokemon+Diamond+Pearl+Wild+Pokemon+Theme" target="_blank">
 🎧 Escuchar en YouTube
 </a>
 </td>
 </tr>
 
 <tr>
-<td><b>Tipo(s)</b></td>
-<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="23" alt="Agua" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;"><br></td>
+<td style="white-space: nowrap;"><b>Tipo(s)</b></td>
+<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/2/22/latest/20230128125735/Tipo_ps%C3%ADquico_icono_EP.svg" width="23" alt="Psíquico" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico" style="vertical-align:middle;"><br></td>
 </tr>
 
 <tr>
@@ -118,62 +118,70 @@ Descubre cada día un Pokémon diferente con su información completa.
 </tr>
 
 <tr>
-<td><b>Clase</b></td>
-<td>Renacuajo</td>
+<td style="white-space: nowrap;"><b>Clase</b></td>
+<td>Campana</td>
 </tr>
 
 <tr>
-<td><b>⭐ Legendario</b></td>
-<td>❌ No</td>
+<td style="white-space: nowrap;"><b>⭐ Legendario</b></td>
+<td>
+<img src="https://img.shields.io/badge/No Legendario-555555?style=flat-square">
+</td>
 </tr>
 
 <tr>
-<td><b>🌟 Mítico</b></td>
-<td>❌ No</td>
+<td style="white-space: nowrap;"><b>🌟 Mítico</b></td>
+<td>
+<img src="https://img.shields.io/badge/No-555555?style=flat-square">
+</td>
 </tr>
 
 <tr>
-<td><b>👶 Bebé</b></td>
-<td>❌ No</td>
+<td style="white-space: nowrap;"><b>👶 Bebé</b></td>
+<td>
+<img src="https://img.shields.io/badge/Bebé-yellow?style=flat-square">
+</td>
 </tr>
 
 <tr>
-<td><b>🌍 Forma regional</b></td>
-<td>No</td>
+<td style="white-space: nowrap;"><b>🌍 Forma regional</b></td>
+<td>
+<img src="https://img.shields.io/badge/No-blue?style=flat-square">
+</td>
 </tr>
 
 <tr>
-<td><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Azul-2196F3?style=flat-square" alt="blue" style="vertical-align:middle;"></td>
+<td style="white-space: nowrap;"><b>🎨 Color</b></td>
+<td><img src="https://img.shields.io/badge/Amarillo-FFEB3B?style=flat-square&logoColor=black" alt="yellow" style="vertical-align:middle;"></td>
 </tr>
 
 <tr>
-<td><b>📏 Altura</b></td>
-<td>0.6 m</td>
+<td style="white-space: nowrap;"><b>📏 Altura</b></td>
+<td>0.2 m</td>
 </tr>
 
 <tr>
-<td><b>⚖️ Peso</b></td>
-<td>12.4 kg</td>
+<td style="white-space: nowrap;"><b>⚖️ Peso</b></td>
+<td>0.6 kg</td>
 </tr>
 
 <tr>
-<td><b>♂️ / ♀️</b></td>
+<td style="white-space: nowrap;"><b>♂️ / ♀️</b></td>
 <td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
 </tr>
 
 <tr>
-<td><b>🌍 Hábitat</b></td>
-<td>🌊 Orilla del agua</td>
+<td style="white-space: nowrap;"><b>🌍 Hábitat</b></td>
+<td>❓ Desconocido</td>
 </tr>
 
 <tr>
-<td><b>🥚 Grupo huevo</b></td>
-<td>Agua 1</td>
+<td style="white-space: nowrap;"><b>🥚 Grupo huevo</b></td>
+<td>Desconocido</td>
 </tr>
 
 <tr>
-<td><b>❤️ Amistad base</b></td>
+<td style="white-space: nowrap;"><b>❤️ Amistad base</b></td>
 <td>
 70<br>
 ❤️🤍🤍🤍🤍
@@ -185,32 +193,32 @@ Descubre cada día un Pokémon diferente con su información completa.
 </tr>
 
 <tr>
-<td><b>⚔️ Débil contra</b></td>
-<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/8/84/latest/20230128125008/Tipo_el%C3%A9ctrico_icono_EP.svg" width="23" alt="Eléctrico" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/e/ed/latest/20230128125654/Tipo_planta_icono_EP.svg" width="23" alt="Planta" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta" style="vertical-align:middle;"><br></td>
+<td style="white-space: nowrap;"><b>⚔️ Débil contra</b></td>
+<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/1/1a/latest/20230128124809/Tipo_bicho_icono_EP.svg" width="23" alt="Bicho" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/3/3d/latest/20230128125103/Tipo_fantasma_icono_EP.svg" width="23" alt="Fantasma" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/e/e0/latest/20230128132504/Tipo_siniestro_icono_EP.svg" width="23" alt="Siniestro" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro" style="vertical-align:middle;"><br></td>
 </tr>
 
 <tr>
-<td><b>🛡️ Resiste</b></td>
-<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/6/6c/latest/20230128124521/Tipo_acero_icono_EP.svg" width="23" alt="Acero" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="23" alt="Agua" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/5/55/latest/20230128125153/Tipo_fuego_icono_EP.svg" width="23" alt="Fuego" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/a/a6/latest/20230128125423/Tipo_hielo_icono_EP.svg" width="23" alt="Hielo" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo" style="vertical-align:middle;"><br></td>
+<td style="white-space: nowrap;"><b>🛡️ Resiste</b></td>
+<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/f/f2/latest/20230128125518/Tipo_lucha_icono_EP.svg" width="23" alt="Lucha" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/2/22/latest/20230128125735/Tipo_ps%C3%ADquico_icono_EP.svg" width="23" alt="Psíquico" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico" style="vertical-align:middle;"><br></td>
 </tr>
 
 <tr>
-<td><b>✨ Inmune a</b></td>
+<td style="white-space: nowrap;"><b>✨ Inmune a</b></td>
 <td>Ninguna</td>
 </tr>
 
 <tr>
-<td><b>🎯 Captura</b></td>
+<td style="white-space: nowrap;"><b>🎯 Captura</b></td>
 <td>
-<img src="https://img.shields.io/badge/Muy%20f%C3%A1cil-brightgreen?style=flat-square"><br>
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩<br>
-100.0%
+<img src="https://img.shields.io/badge/F%C3%A1cil-green?style=flat-square"><br>
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜<br>
+47.1%
 </td>
 </tr>
 
 <tr>
-<td><b>🎲 Ratio captura</b></td>
-<td>255</td>
+<td style="white-space: nowrap;"><b>🎲 Ratio captura</b></td>
+<td>120</td>
 </tr>
 
 <tr>
@@ -219,22 +227,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 </tr>
 
 <tr>
-<td><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Absorbe Agua</b><br><small>Absorbs Water moves, healing for 1/4 max HP.</small><br><br>🟢 ⚡ <b>Humedad</b><br><small>Prevents Self-Destruct, Explosion, and Aftermath from working while the Pokémon is in battle.</small><br><br>⭐ ✨ <b>Nado Rápido</b> (Oculta)<br><small>Doubles Speed during rain.</small></td>
+<td style="white-space: nowrap;"><b>💪 Habilidades</b></td>
+<td>🟢 ⚡ <b>Levitación</b><br><small>Evades Ground moves.</small><br><br></td>
 </tr>
 
 <tr>
-<td><b>📦 Objetos</b></td>
-<td>No puede llevar objetos.</td>
+<td style="white-space: nowrap;"><b>📦 Objetos</b></td>
+<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/colbur-berry.png" width="28" height="28"> <b>Colbur Berry</b> (5%)<br><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cleanse-tag.png" width="28" height="28"> <b>Cleanse Tag</b> (5%)</td>
 </tr>
 
 <tr>
-<td><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Amnesia-F85888?style=flat-square"> <img src="https://img.shields.io/badge/Furia-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Descanso-F85888?style=flat-square"> <img src="https://img.shields.io/badge/Sustituto-A8A878?style=flat-square"></td>
+<td style="white-space: nowrap;"><b>🥊 Movimientos</b></td>
+<td><img src="https://img.shields.io/badge/Danza%20Amiga-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Mofa-705848?style=flat-square"> <img src="https://img.shields.io/badge/Tormento-705848?style=flat-square"> <img src="https://img.shields.io/badge/D%C3%ADa%20Soleado-F08030?style=flat-square"></td>
 </tr>
 
 <tr>
-<td><b>🔄 Evolución</b></td>
+<td style="white-space: nowrap;"><b>🔄 Evolución</b></td>
 <td>
 <table align="center">
 <tr>
@@ -260,7 +268,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/poliwag.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/chingling.jpg" width="62">
 
 </td>
 </tr>
@@ -283,7 +291,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Poliwag
+Chingling
 </b>
 
 <br>
@@ -292,12 +300,12 @@ Poliwag
 color:#555;
 font-weight:bold;
 ">
-#0060
+#0433
 </small>
 
 <br><br>
 
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="23" alt="Agua" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;"><br>
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/2/22/latest/20230128125735/Tipo_ps%C3%ADquico_icono_EP.svg" width="23" alt="Psíquico" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico" style="vertical-align:middle;"><br>
 
 </div>
 
@@ -314,7 +322,7 @@ color:#FFD54F;
 margin-bottom:10px;
 ">
 
-Nivel 25
+Amistad
 
 </div>
 
@@ -350,7 +358,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/poliwhirl.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/chimecho.jpg" width="62">
 
 </td>
 </tr>
@@ -373,7 +381,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Poliwhirl
+Chimecho
 </b>
 
 <br>
@@ -382,192 +390,12 @@ Poliwhirl
 color:#555;
 font-weight:bold;
 ">
-#0061
+#0358
 </small>
 
 <br><br>
 
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="23" alt="Agua" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;"><br>
-
-</div>
-
-</div>
-
-</td>
-
-<td align="center" valign="middle" style="width:auto; padding:10px;">
-
-<div style="
-font-size:14px;
-font-weight:bold;
-color:#FFD54F;
-margin-bottom:10px;
-">
-
-Piedra Agua
-
-</div>
-
-<div style="
-font-size:32px;
-font-weight:bold;
-">
-
-➜
-
-</div>
-
-</td>
-
-<td align="center" valign="top">
-
-<div style="
-display:flex;
-flex-direction:column;
-align-items:center;
-width:95px;
-">
-
-<table align="center" cellspacing="0" cellpadding="0">
-<tr>
-<td
-align="center"
-width="78"
-height="78"
-style="
-background:#98C2D1;
-border:2px solid #492A49;
-border-radius:50%;
-">
-
-<img src="https://img.pokemondb.net/artwork/large/poliwrath.jpg" width="62">
-
-</td>
-</tr>
-</table>
-
-<div style="
-margin-top:8px;
-font-size:12px;
-color:#9aa6b2;
-">
-
-</div>
-
-<div style="
-margin-top:6px;
-padding:6px 10px;
-background:#EAF4F7;
-border-radius:8px;
-min-width:95px;
-">
-
-<b style="font-size:15px;color:#000;">
-Poliwrath
-</b>
-
-<br>
-
-<small style="
-color:#555;
-font-weight:bold;
-">
-#0062
-</small>
-
-<br><br>
-
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="23" alt="Agua" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/f/f2/latest/20230128125518/Tipo_lucha_icono_EP.svg" width="23" alt="Lucha" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha" style="vertical-align:middle;"><br>
-
-</div>
-
-</div>
-
-</td>
-
-<td align="center" valign="middle" style="width:auto; padding:10px;">
-
-<div style="
-font-size:14px;
-font-weight:bold;
-color:#FFD54F;
-margin-bottom:10px;
-">
-
-Intercambio
-
-</div>
-
-<div style="
-font-size:32px;
-font-weight:bold;
-">
-
-➜
-
-</div>
-
-</td>
-
-<td align="center" valign="top">
-
-<div style="
-display:flex;
-flex-direction:column;
-align-items:center;
-width:95px;
-">
-
-<table align="center" cellspacing="0" cellpadding="0">
-<tr>
-<td
-align="center"
-width="78"
-height="78"
-style="
-background:#98C2D1;
-border:2px solid #492A49;
-border-radius:50%;
-">
-
-<img src="https://img.pokemondb.net/artwork/large/politoed.jpg" width="62">
-
-</td>
-</tr>
-</table>
-
-<div style="
-margin-top:8px;
-font-size:12px;
-color:#9aa6b2;
-">
-
-</div>
-
-<div style="
-margin-top:6px;
-padding:6px 10px;
-background:#EAF4F7;
-border-radius:8px;
-min-width:95px;
-">
-
-<b style="font-size:15px;color:#000;">
-Politoed
-</b>
-
-<br>
-
-<small style="
-color:#555;
-font-weight:bold;
-">
-#0186
-</small>
-
-<br><br>
-
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="23" alt="Agua" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;"><br>
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/2/22/latest/20230128125735/Tipo_ps%C3%ADquico_icono_EP.svg" width="23" alt="Psíquico" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico" style="vertical-align:middle;"><br>
 
 </div>
 
@@ -581,8 +409,8 @@ font-weight:bold;
 </tr>
 
 <tr>
-<td><b>🎮 Juegos</b></td>
-<td><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Escudo-dc143c?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Espada-1e90ff?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Let%27s%20Go%20Eevee-8b4513?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Let%27s%20Go%20Pikachu-ffd700?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Luna-4b0082?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Rub%C3%AD%20Omega-b22222?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Sol-ff8c00?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Ultraluna-6a5acd?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Ultrasol-ff4500?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20X-4169e1?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Y-dc143c?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Zafiro%20Alfa-1e90ff?style=flat-square"></td>
+<td style="white-space: nowrap;"><b>🎮 Juegos</b></td>
+<td><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Rub%C3%AD%20Omega-b22222?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20X-4169e1?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Y-dc143c?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Zafiro%20Alfa-1e90ff?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -591,50 +419,50 @@ font-weight:bold;
 
 <tr>
 <td style="white-space: nowrap;"><b>⭐ Experiencia Base</b></td>
-<td>60</td>
+<td>57</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
 <td>
-💠 <b>1.059.860 XP</b>
+💠 <b>800.000 XP</b>
 </td>
 </tr>
 
 <tr>
-<td><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Medio%20lento-yellow?style=flat-square"></td>
+<td style="white-space: nowrap;"><b>📚 Crecimiento</b></td>
+<td><img src="https://img.shields.io/badge/R%C3%A1pido-blue?style=flat-square"></td>
 </tr>
 
 <tr>
-<td><b>🏆 Poder Total (BST)</b></td>
+<td style="white-space: nowrap;"><b>🏆 Poder Total (BST)</b></td>
 <td>
 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>300 puntos</b><br>
-👍 Normal
+<b>285 puntos</b><br>
+🌱 Básico
 </td>
 </tr>
 
 <tr>
-<td><b>📊 Estadísticas Base</b></td>
-<td style="background:red">❤️ PS 40<br>
+<td style="white-space: nowrap;"><b>📊 Estadísticas Base</b></td>
+<td style="background:red">❤️ PS 45<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br>
-    ⚔️ Ataque 50<br>
+    ⚔️ Ataque 30<br>
+    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br>
+    🛡️ Defensa 50<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br>
-    🛡️ Defensa 40<br>
+    ✨ At. Especial 65<br>
+    🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜<br>
+    🛡️ Def. Especial 50<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br>
-    ✨ At. Especial 40<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br>
-    🛡️ Def. Especial 40<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br>
-    💨 Velocidad 90<br>
-    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜
+    💨 Velocidad 45<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜
     <hr>
 
-🏆 <b>Total Base:</b> 300<br>
-🥇 <b>Mejor atributo:</b> 💨 Velocidad (90)<br>
-🥉 <b>Atributo más bajo:</b> ❤️ PS (40)</td>
+🏆 <b>Total Base:</b> 285<br>
+🥇 <b>Mejor atributo:</b> ✨ At. Especial (65)<br>
+🥉 <b>Atributo más bajo:</b> ⚔️ Ataque (30)</td>
 </tr>
 
 </table>
@@ -644,15 +472,15 @@ font-weight:bold;
 
 ## 💡 Curiosidad oficial
 
-> Tiene una piel extraordinaria, fina y húmeda, que deja entrever las vísceras que tiene dispuestas en espiral.
+> Emite un tintineo cada vez que salta. Ensordece a sus rivales con sonidos de alta frecuencia.
 
 ---
 
 ## 💡 Datos interesantes
 
-- 📏 Mide 0.6 m.
-- ⚖️ Pesa 12.4 kg.
-- 🎯 Ratio de captura: 255.
+- 📈 Crecimiento: Rápido.
+- 🧬 Introducido en la generación IV (Sinnoh).
+- ❤️ Amistad base: 70.
 
 ---
 
@@ -660,11 +488,11 @@ font-weight:bold;
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Poliwag** en:
+Puedes consultar información completa y actualizada de **Chingling** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Poliwag)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/poliwag)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Poliwag_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Chingling)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/chingling)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Chingling_(Pokémon))
 
 
 ---
@@ -1338,16 +1166,18 @@ Puedes consultar información completa y actualizada de **Poliwag** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-22T12:59:55.474375+00:00 -->
+<!-- Generated: 2026-07-22T13:11:14.144284+00:00 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"El verdadero juego comienza cuando apagas la consola."*
+> *"Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
