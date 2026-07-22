@@ -112,8 +112,8 @@ def build_pokemon_info_block(
     # print(table_html)
     # print("=========== FIN TABLE_HTML =======")
 
-    datos_interesantes_html = "\n".join(
-        f"- {dato}"
+    datos_interesantes_html = "<br>".join(
+        dato
         for dato in datos_interesantes
     )
 
