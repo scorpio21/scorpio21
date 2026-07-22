@@ -106,7 +106,7 @@ def render_table(
 </tr>
 
 <tr>
-<td><b>Nombre</b></td>
+<td style="white-space: nowrap;"><b>Nombre</b></td>
 <td>{rareza_iconos[rareza]} <b>{nombre}</b></td>
 </tr>
 
@@ -116,39 +116,39 @@ def render_table(
 </tr>
 
 <tr>
-<td><b>🧬 Especie</b></td>
+<td style="white-space: nowrap;"><b>🧬 Especie</b></td>
 <td>Pokémon {especie}</td>
 </tr>
 
 <tr>
-<td><b>Rareza</b></td>
+<td style="white-space: nowrap;"><b>Rareza</b></td>
 <td>
 <img src="https://img.shields.io/badge/{rareza_texto[rareza]}-{rareza_colores[rareza]}?style=flat-square">
 </td>
 </tr>
 
 <tr>
-<td><b>Nº Pokédex</b></td>
+<td style="white-space: nowrap;"><b>Nº Pokédex</b></td>
 <td>#{pokedex_num}</td>
 </tr>
 
 <tr>
-<td><b>🧬 Generación</b></td>
+<td style="white-space: nowrap;"><b>🧬 Generación</b></td>
 <td>{generation} <br><small>📅 {anio_generacion}</small></td>
 </tr>
 
 <tr>
-<td><b>🗺️ Región</b></td>
+<td style="white-space: nowrap;"><b>🗺️ Región</b></td>
 <td>🏝️ {region}</td>
 </tr>
 
 <tr>
-<td><b>🎮 Juego debut</b></td>
+<td style="white-space: nowrap;"><b>🎮 Juego debut</b></td>
 <td>{juego_debut}</td>
 </tr>
 
 <tr>
-<td><b>🎵 Música</b></td>
+<td style="white-space: nowrap;"><b>🎵 Música</b></td>
 <td>
 <a href="{musica_url}" target="_blank">
 🎧 Escuchar en YouTube
@@ -157,7 +157,7 @@ def render_table(
 </tr>
 
 <tr>
-<td><b>Tipo(s)</b></td>
+<td style="white-space: nowrap;"><b>Tipo(s)</b></td>
 <td>{tipos_html}</td>
 </tr>
 
@@ -166,62 +166,70 @@ def render_table(
 </tr>
 
 <tr>
-<td><b>Clase</b></td>
+<td style="white-space: nowrap;"><b>Clase</b></td>
 <td>{clase.capitalize()}</td>
 </tr>
 
 <tr>
-<td><b>⭐ Legendario</b></td>
-<td>{"✅ Sí" if legendario else "❌ No"}</td>
+<td style="white-space: nowrap;"><b>⭐ Legendario</b></td>
+<td>
+<img src="https://img.shields.io/badge/{'Legendario' if legendario else 'No Legendario'}-{'gold' if legendario else '555555'}?style=flat-square">
+</td>
 </tr>
 
 <tr>
-<td><b>🌟 Mítico</b></td>
-<td>{"✅ Sí" if mitico else "❌ No"}</td>
+<td style="white-space: nowrap;"><b>🌟 Mítico</b></td>
+<td>
+<img src="https://img.shields.io/badge/{'Mítico' if mitico else 'No'}-{'purple' if mitico else '555555'}?style=flat-square">
+</td>
 </tr>
 
 <tr>
-<td><b>👶 Bebé</b></td>
-<td>{"✅ Sí" if bebe else "❌ No"}</td>
+<td style="white-space: nowrap;"><b>👶 Bebé</b></td>
+<td>
+<img src="https://img.shields.io/badge/{'Bebé' if bebe else 'No'}-{'yellow' if bebe else '555555'}?style=flat-square">
+</td>
 </tr>
 
 <tr>
-<td><b>🌍 Forma regional</b></td>
-<td>{forma_regional}</td>
+<td style="white-space: nowrap;"><b>🌍 Forma regional</b></td>
+<td>
+<img src="https://img.shields.io/badge/{forma_regional}-blue?style=flat-square">
+</td>
 </tr>
 
 <tr>
-<td><b>🎨 Color</b></td>
+<td style="white-space: nowrap;"><b>🎨 Color</b></td>
 <td>{color_pokedex}</td>
 </tr>
 
 <tr>
-<td><b>📏 Altura</b></td>
+<td style="white-space: nowrap;"><b>📏 Altura</b></td>
 <td>{altura} m</td>
 </tr>
 
 <tr>
-<td><b>⚖️ Peso</b></td>
+<td style="white-space: nowrap;"><b>⚖️ Peso</b></td>
 <td>{peso} kg</td>
 </tr>
 
 <tr>
-<td><b>♂️ / ♀️</b></td>
+<td style="white-space: nowrap;"><b>♂️ / ♀️</b></td>
 <td>♂️ {male_rate} &nbsp;&nbsp;&nbsp; ♀️ {female_rate}</td>
 </tr>
 
 <tr>
-<td><b>🌍 Hábitat</b></td>
+<td style="white-space: nowrap;"><b>🌍 Hábitat</b></td>
 <td>{habitat}</td>
 </tr>
 
 <tr>
-<td><b>🥚 Grupo huevo</b></td>
+<td style="white-space: nowrap;"><b>🥚 Grupo huevo</b></td>
 <td>{egg_groups}</td>
 </tr>
 
 <tr>
-<td><b>❤️ Amistad base</b></td>
+<td style="white-space: nowrap;"><b>❤️ Amistad base</b></td>
 <td>
 {base_happiness}<br>
 {amistad_corazones}
@@ -233,22 +241,22 @@ def render_table(
 </tr>
 
 <tr>
-<td><b>⚔️ Débil contra</b></td>
+<td style="white-space: nowrap;"><b>⚔️ Débil contra</b></td>
 <td>{debilidades_html}</td>
 </tr>
 
 <tr>
-<td><b>🛡️ Resiste</b></td>
+<td style="white-space: nowrap;"><b>🛡️ Resiste</b></td>
 <td>{resistencias_html}</td>
 </tr>
 
 <tr>
-<td><b>✨ Inmune a</b></td>
+<td style="white-space: nowrap;"><b>✨ Inmune a</b></td>
 <td>{inmunidades_html if inmunidades_html else "Ninguna"}</td>
 </tr>
 
 <tr>
-<td><b>🎯 Captura</b></td>
+<td style="white-space: nowrap;"><b>🎯 Captura</b></td>
 <td>
 {captura_dificultad}<br>
 {captura_barra}<br>
@@ -257,7 +265,7 @@ def render_table(
 </tr>
 
 <tr>
-<td><b>🎲 Ratio captura</b></td>
+<td style="white-space: nowrap;"><b>🎲 Ratio captura</b></td>
 <td>{capture_rate}</td>
 </tr>
 
@@ -267,27 +275,27 @@ def render_table(
 </tr>
 
 <tr>
-<td><b>💪 Habilidades</b></td>
+<td style="white-space: nowrap;"><b>💪 Habilidades</b></td>
 <td>{habilidades_html}</td>
 </tr>
 
 <tr>
-<td><b>📦 Objetos</b></td>
+<td style="white-space: nowrap;"><b>📦 Objetos</b></td>
 <td>{objetos_html}</td>
 </tr>
 
 <tr>
-<td><b>🥊 Movimientos</b></td>
+<td style="white-space: nowrap;"><b>🥊 Movimientos</b></td>
 <td>{movimientos_html}</td>
 </tr>
 
 <tr>
-<td><b>🔄 Evolución</b></td>
+<td style="white-space: nowrap;"><b>🔄 Evolución</b></td>
 <td>{cadena_evolucion}</td>
 </tr>
 
 <tr>
-<td><b>🎮 Juegos</b></td>
+<td style="white-space: nowrap;"><b>🎮 Juegos</b></td>
 <td>{juegos_html}</td>
 </tr>
 
@@ -308,17 +316,17 @@ def render_table(
 </tr>
 
 <tr>
-<td><b>📚 Crecimiento</b></td>
+<td style="white-space: nowrap;"><b>📚 Crecimiento</b></td>
 <td>{experience_growth}</td>
 </tr>
 
 <tr>
-<td><b>🏆 Poder Total (BST)</b></td>
+<td style="white-space: nowrap;"><b>🏆 Poder Total (BST)</b></td>
 <td>{bst_html}</td>
 </tr>
 
 <tr>
-<td><b>📊 Estadísticas Base</b></td>
+<td style="white-space: nowrap;"><b>📊 Estadísticas Base</b></td>
 <td style="background:red">{stats_md}</td>
 </tr>
 
