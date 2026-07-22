@@ -193,7 +193,7 @@ def build_pokemon_table(
         capture_rate=capture_rate,
         capture_text=capture_text,
         captura_dificultad=captura_dificultad,
-        captura_barra=captura_barra,
+        captura_barra=barra_porcentaje(capture_text),
         shiny_odds=shiny_odds,
         male_rate=male_rate,
         female_rate=female_rate,
