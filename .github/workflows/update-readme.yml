@@ -46,7 +46,16 @@ jobs:
             echo "No hay cambios."
             exit 0
           fi
+          
+          echo "===== GIT CONFIG ====="
+          git config --list
 
+          echo "===== AUTHOR ====="
+          git var GIT_AUTHOR_IDENT
+
+          echo "===== COMMITTER ====="
+          git var GIT_COMMITTER_IDENT
+          
           git commit \
             --author="scorpio21 <12345678+scorpio21@users.noreply.github.com>" \
             -m "🪄 Actualización diaria automática: Pokémon y frase gamer"
