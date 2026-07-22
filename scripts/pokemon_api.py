@@ -139,15 +139,15 @@ def get_pokemon_of_the_day():
     captura_porcentaje = round((capture_rate / 255) * 100, 1)
 
     if capture_rate >= 200:
-        captura_dificultad = "🟢 Muy fácil"
+        captura_dificultad = ("Muy fácil", "brightgreen")
     elif capture_rate >= 120:
-        captura_dificultad = "🟡 Fácil"
+        captura_dificultad = ("Fácil", "green")
     elif capture_rate >= 60:
-        captura_dificultad = "🟠 Normal"
+        captura_dificultad = ("Normal", "yellow")
     elif capture_rate >= 20:
-        captura_dificultad = "🔴 Difícil"
+        captura_dificultad = ("Difícil", "orange")
     else:
-        captura_dificultad = "⚫ Muy difícil"
+        captura_dificultad = ("Muy difícil", "red")
 
     base_happiness = species["base_happiness"]
     
