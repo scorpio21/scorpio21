@@ -16,6 +16,10 @@ from urllib.parse import quote
 from builders.pokemon_table_template import render_table
 from item_icons import ITEM_ICON_URL
 from experience_growth_badges import EXPERIENCE_GROWTH_BADGES
+from translation.game_translations import (
+    GAME_TRANSLATIONS,
+    GAME_BADGE_COLORS
+)
 
 #==========================
 # FUNCIONES
@@ -151,7 +155,8 @@ def build_pokemon_table(
     print("🎮 juegos =", juegos)
 
     juegos_html = "<br>".join(
-        f"🎮 {juego}"
+        f'<img src="https://img.shields.io/badge/'
+        f'{quote(juego)}-{GAME_BADGE_COLORS.get(juego, "blue")}?style=flat-square">'
         for juego in juegos
     )
 

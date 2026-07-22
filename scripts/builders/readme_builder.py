@@ -55,7 +55,7 @@ def build_pokemon_info_block(
     # JUEGOS
     #==========================
 
-    juegos_html = "<br>".join(f"🎮 {j}" for j in juegos) if juegos else "No disponible"
+    # juegos_html = "<br>".join(f"🎮 {j}" for j in juegos) if juegos else "No disponible"
 
     #==========================
     # TABLA DE INFORMACIÓN
