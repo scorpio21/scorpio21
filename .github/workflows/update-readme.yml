@@ -31,6 +31,11 @@ jobs:
           git config user.name "scorpio21"
           git config user.email "12345678+scorpio21@users.noreply.github.com"
 
+          export GIT_AUTHOR_NAME="scorpio21"
+          export GIT_AUTHOR_EMAIL="12345678+scorpio21@users.noreply.github.com"
+          export GIT_COMMITTER_NAME="scorpio21"
+          export GIT_COMMITTER_EMAIL="12345678+scorpio21@users.noreply.github.com"
+
           echo "=== Contenido de cries ==="
           ls -la cries || true
 
@@ -42,5 +47,8 @@ jobs:
             exit 0
           fi
 
-          git commit -m "🪄 Actualización diaria automática: Pokémon y frase gamer"
+          git commit \
+            --author="scorpio21 <12345678+scorpio21@users.noreply.github.com>" \
+            -m "🪄 Actualización diaria automática: Pokémon y frase gamer"
+
           git push
