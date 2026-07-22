@@ -13,3 +13,6 @@ env/
 
 # Archivos temporales
 *.log
+
+# Codebase Memory UI local assets
+codebase-memory-ui/
