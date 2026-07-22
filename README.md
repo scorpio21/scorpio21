@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-22T20:06:37.078413+00:00 -->
+<!-- Generated: 2026-07-22T20:34:05.334451+00:00 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/364.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/364.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/838.png" width="220">
 </td>
 
 </tr>
@@ -48,7 +48,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar%20Sealeo-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Carkol-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
 </a>
 </td>
 </tr>
@@ -59,17 +59,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td style="white-space: nowrap;"><b>Nombre</b></td>
-<td>🔵 <b>Sealeo</b></td>
+<td>🔵 <b>Carkol</b></td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🇯🇵 Nombre original</b></td>
-<td>トドグラー</td>
+<td>トロッゴン</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🧬 Especie</b></td>
-<td>Pokémon Sealeo</td>
+<td>Pokémon Carkol</td>
 </tr>
 
 <tr>
@@ -81,28 +81,28 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td style="white-space: nowrap;"><b>Nº Pokédex</b></td>
-<td>#364</td>
+<td>#838</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🧬 Generación</b></td>
-<td>III (Hoenn) <br><small>📅 2002</small></td>
+<td>VIII (Galar) <br><small>📅 2019</small></td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🗺️ Región</b></td>
-<td>🏝️ Hoenn</td>
+<td>🏝️ Galar</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🎮 Juego debut</b></td>
-<td>Pokémon Rubí / Zafiro</td>
+<td>Pokémon Espada / Escudo</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🎵 Música</b></td>
 <td>
-<a href="https://www.youtube.com/results?search_query=Pokemon+Ruby+Sapphire+Wild+Pokemon+Theme" target="_blank">
+<a href="https://www.youtube.com/results?search_query=Pokemon+Sword+Shield+Wild+Pokemon+Theme" target="_blank">
 🎧 Escuchar en YouTube
 </a>
 </td>
@@ -110,7 +110,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td style="white-space: nowrap;"><b>Tipo(s)</b></td>
-<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/a/a6/latest/20230128125423/Tipo_hielo_icono_EP.svg" width="23" alt="Hielo" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="23" alt="Agua" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;"><br></td>
+<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/1/14/latest/20230128125805/Tipo_roca_icono_EP.svg" width="23" alt="Roca" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/5/55/latest/20230128125153/Tipo_fuego_icono_EP.svg" width="23" alt="Fuego" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego" style="vertical-align:middle;"><br></td>
 </tr>
 
 <tr>
@@ -119,7 +119,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td style="white-space: nowrap;"><b>Clase</b></td>
-<td>Rodabola</td>
+<td>Carbón</td>
 </tr>
 
 <tr>
@@ -152,7 +152,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td style="white-space: nowrap;"><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Azul-2196F3?style=flat-square" alt="blue" style="vertical-align:middle;"></td>
+<td><img src="https://img.shields.io/badge/Negro-000000?style=flat-square" alt="black" style="vertical-align:middle;"></td>
 </tr>
 
 <tr>
@@ -162,7 +162,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td style="white-space: nowrap;"><b>⚖️ Peso</b></td>
-<td>87.6 kg</td>
+<td>78.0 kg</td>
 </tr>
 
 <tr>
@@ -172,18 +172,18 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td style="white-space: nowrap;"><b>🌍 Hábitat</b></td>
-<td>🌊 Mar</td>
+<td>❓ Desconocido</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🥚 Grupo huevo</b></td>
-<td>Agua 1, Campo</td>
+<td>Mineral</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>❤️ Amistad base</b></td>
 <td>
-70<br>
+50<br>
 ❤️🤍🤍🤍🤍
 </td>
 </tr>
@@ -194,12 +194,12 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td style="white-space: nowrap;"><b>⚔️ Débil contra</b></td>
-<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/6/6c/latest/20230128124521/Tipo_acero_icono_EP.svg" width="23" alt="Acero" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/8/84/latest/20230128125008/Tipo_el%C3%A9ctrico_icono_EP.svg" width="23" alt="Eléctrico" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/5/55/latest/20230128125153/Tipo_fuego_icono_EP.svg" width="23" alt="Fuego" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/f/f2/latest/20230128125518/Tipo_lucha_icono_EP.svg" width="23" alt="Lucha" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/e/ed/latest/20230128125654/Tipo_planta_icono_EP.svg" width="23" alt="Planta" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/1/14/latest/20230128125805/Tipo_roca_icono_EP.svg" width="23" alt="Roca" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca" style="vertical-align:middle;"><br></td>
+<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/6/6c/latest/20230128124521/Tipo_acero_icono_EP.svg" width="23" alt="Acero" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="23" alt="Agua" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/f/f2/latest/20230128125518/Tipo_lucha_icono_EP.svg" width="23" alt="Lucha" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/e/ed/latest/20230128125654/Tipo_planta_icono_EP.svg" width="23" alt="Planta" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/1/14/latest/20230128125805/Tipo_roca_icono_EP.svg" width="23" alt="Roca" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/c/c8/latest/20230128132625/Tipo_tierra_icono_EP.svg" width="23" alt="Tierra" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra" style="vertical-align:middle;"><br></td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🛡️ Resiste</b></td>
-<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/6/6c/latest/20230128124521/Tipo_acero_icono_EP.svg" width="23" alt="Acero" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="23" alt="Agua" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/5/55/latest/20230128125153/Tipo_fuego_icono_EP.svg" width="23" alt="Fuego" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/a/a6/latest/20230128125423/Tipo_hielo_icono_EP.svg" width="23" alt="Hielo" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo" style="vertical-align:middle;"><br></td>
+<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/6/6c/latest/20230128124521/Tipo_acero_icono_EP.svg" width="23" alt="Acero" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/1/1a/latest/20230128124809/Tipo_bicho_icono_EP.svg" width="23" alt="Bicho" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/5/55/latest/20230128125153/Tipo_fuego_icono_EP.svg" width="23" alt="Fuego" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/b/b7/latest/20230128125233/Tipo_hada_icono_EP.svg" width="23" alt="Hada" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/a/a6/latest/20230128125423/Tipo_hielo_icono_EP.svg" width="23" alt="Hielo" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/c/c3/latest/20230128125621/Tipo_normal_icono_EP.svg" width="23" alt="Normal" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/e/ed/latest/20230128125654/Tipo_planta_icono_EP.svg" width="23" alt="Planta" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/f/fa/latest/20230128132735/Tipo_veneno_icono_EP.svg" width="23" alt="Veneno" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Veneno-A33EA1?style=flat-square" alt="Veneno" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/6/6b/latest/20230128132815/Tipo_volador_icono_EP.svg" width="23" alt="Volador" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador" style="vertical-align:middle;"><br></td>
 </tr>
 
 <tr>
@@ -228,7 +228,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td style="white-space: nowrap;"><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Sebo</b><br><small>Halves damage from Fire and Ice moves.</small><br><br>🟢 ⚡ <b>Gélido</b><br><small>Heals for 1/16 max HP after each turn during hail.  Protects against hail damage.</small><br><br>⭐ ✨ <b>Despiste</b> (Oculta)<br><small>Prevents infatuation and protects against Captivate.</small></td>
+<td>🟢 ⚡ <b>Combustible</b><br><small>Boosts the Speed stat drastically when the Pokémon is hit by a Fire- or Water-type move.</small><br><br>🟢 ⚡ <b>Cuerpo Llama</b><br><small>Has a 30% chance of burning attacking Pokémon on contact.</small><br><br>⭐ ✨ <b>Absorbe Fuego</b> (Oculta)<br><small>Protects against Fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle.</small></td>
 </tr>
 
 <tr>
@@ -238,7 +238,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td style="white-space: nowrap;"><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Fuerza-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Nieve%20Polvo-98D8D8?style=flat-square"> <img src="https://img.shields.io/badge/Hidroariete-6890F0?style=flat-square"> <img src="https://img.shields.io/badge/Rizo%20Defensa-A8A878?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Tormenta%20de%20Arena-B8A038?style=flat-square"> <img src="https://img.shields.io/badge/Joya%20de%20Luz-B8A038?style=flat-square"> <img src="https://img.shields.io/badge/Bucle%20Arena-E0C068?style=flat-square"> <img src="https://img.shields.io/badge/Escaldar-6890F0?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -268,7 +268,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/spheal.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/rolycoly.jpg" width="62">
 
 </td>
 </tr>
@@ -291,7 +291,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Spheal
+Rolycoly
 </b>
 
 <br>
@@ -300,12 +300,12 @@ Spheal
 color:#555;
 font-weight:bold;
 ">
-#0363
+#0837
 </small>
 
 <br><br>
 
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/a/a6/latest/20230128125423/Tipo_hielo_icono_EP.svg" width="23" alt="Hielo" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="23" alt="Agua" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;"><br>
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/1/14/latest/20230128125805/Tipo_roca_icono_EP.svg" width="23" alt="Roca" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca" style="vertical-align:middle;"><br>
 
 </div>
 
@@ -322,7 +322,7 @@ color:#FFD54F;
 margin-bottom:10px;
 ">
 
-Nivel 32
+Nivel 18
 
 </div>
 
@@ -358,7 +358,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/sealeo.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/carkol.jpg" width="62">
 
 </td>
 </tr>
@@ -381,7 +381,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Sealeo
+Carkol
 </b>
 
 <br>
@@ -390,12 +390,12 @@ Sealeo
 color:#555;
 font-weight:bold;
 ">
-#0364
+#0838
 </small>
 
 <br><br>
 
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/a/a6/latest/20230128125423/Tipo_hielo_icono_EP.svg" width="23" alt="Hielo" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="23" alt="Agua" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;"><br>
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/1/14/latest/20230128125805/Tipo_roca_icono_EP.svg" width="23" alt="Roca" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/5/55/latest/20230128125153/Tipo_fuego_icono_EP.svg" width="23" alt="Fuego" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego" style="vertical-align:middle;"><br>
 
 </div>
 
@@ -412,7 +412,7 @@ color:#FFD54F;
 margin-bottom:10px;
 ">
 
-Nivel 44
+Nivel 34
 
 </div>
 
@@ -448,7 +448,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/walrein.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/coalossal.jpg" width="62">
 
 </td>
 </tr>
@@ -471,7 +471,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Walrein
+Coalossal
 </b>
 
 <br>
@@ -480,12 +480,12 @@ Walrein
 color:#555;
 font-weight:bold;
 ">
-#0365
+#0839
 </small>
 
 <br><br>
 
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/a/a6/latest/20230128125423/Tipo_hielo_icono_EP.svg" width="23" alt="Hielo" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="23" alt="Agua" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;"><br>
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/1/14/latest/20230128125805/Tipo_roca_icono_EP.svg" width="23" alt="Roca" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca" style="vertical-align:middle;"><br><img src="https://images.wikidexcdn.net/mwuploads/wikidex/5/55/latest/20230128125153/Tipo_fuego_icono_EP.svg" width="23" alt="Fuego" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego" style="vertical-align:middle;"><br>
 
 </div>
 
@@ -500,7 +500,7 @@ font-weight:bold;
 
 <tr>
 <td style="white-space: nowrap;"><b>🎮 Juegos</b></td>
-<td><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Escudo-dc143c?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Espada-1e90ff?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Rub%C3%AD%20Omega-b22222?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20X-4169e1?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Y-dc143c?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Zafiro%20Alfa-1e90ff?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Escudo-dc143c?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Espada-1e90ff?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -538,23 +538,23 @@ font-weight:bold;
 <td style="white-space: nowrap;">
 <b style="white-space: nowrap;">📊 Estadísticas Base</b>
 </td>
-<td>❤️ PS 90<br>
-    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br>
+<td>❤️ PS 80<br>
+    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br>
     ⚔️ Ataque 60<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br>
-    🛡️ Defensa 70<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br>
-    ✨ At. Especial 75<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br>
+    🛡️ Defensa 90<br>
+    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br>
+    ✨ At. Especial 60<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br>
     🛡️ Def. Especial 70<br>
     🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br>
-    💨 Velocidad 45<br>
+    💨 Velocidad 50<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜
     <hr>
 
 🏆 <b>Total Base:</b> 410<br>
-🥇 <b>Mejor atributo:</b> ❤️ PS (90)<br>
-🥉 <b>Atributo más bajo:</b> 💨 Velocidad (45)</td>
+🥇 <b>Mejor atributo:</b> 🛡️ Defensa (90)<br>
+🥉 <b>Atributo más bajo:</b> 💨 Velocidad (50)</td>
 </tr>
 </table>
 
@@ -563,15 +563,23 @@ font-weight:bold;
 
 ## 💡 Curiosidad oficial
 
-> Su nariz es muy sensible. Cuando ve algo por primera vez, lo toca con ella para recordarlo después.
+<table>
+<tr>
+<td>
+
+> 💬 **Forma carbón en el interior de su cuerpo. Los antiguos habitantes de Galar lo aprovechaban para sus labores diarias.**
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💡 Datos interesantes
 
-- ⚖️ Pesa 87.6 kg.
-- 🎨 Su color en la Pokédex es <img src="https://img.shields.io/badge/Azul-2196F3?style=flat-square" alt="blue" style="vertical-align:middle;">.
-- 📈 Crecimiento: Medio lento.
+- 🥚 Pertenece al grupo huevo Mineral.
+- 🎯 Ratio de captura: 120.
+- 🧬 Introducido en la generación VIII (Galar).
 
 ---
 
@@ -579,11 +587,11 @@ font-weight:bold;
 
 ## 🌐 Más información
 
-Puedes consultar información completa y actualizada de **Sealeo** en:
+Puedes consultar información completa y actualizada de **Carkol** en:
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Sealeo)
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/sealeo)
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Sealeo_(Pokémon))
+- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/Carkol)
+- 📖 [Pokémon Database](https://pokemondb.net/pokedex/carkol)
+- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Carkol_(Pokémon))
 
 
 ---
@@ -1260,16 +1268,18 @@ Puedes consultar información completa y actualizada de **Sealeo** en:
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-22T20:06:37.078413+00:00 -->
+<!-- Generated: 2026-07-22T20:34:05.334451+00:00 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"Jugar es una forma de vida, ¡y siempre es un buen momento para empezar!"*
+> *"Solo hay una regla: ¡Ganar es lo único que importa!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
