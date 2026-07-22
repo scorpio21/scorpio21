@@ -326,9 +326,10 @@ def render_table(
 </tr>
 
 <tr>
-<td style="white-space: nowrap;"><b>📊 Estadísticas Base</b></td>
-<td style="background:red">{stats_md}</td>
+<td style="white-space: nowrap;">
+<b style="white-space: nowrap;">📊 Estadísticas Base</b>
+</td>
+<td>{stats_md}</td>
 </tr>
-
 </table>
 """
