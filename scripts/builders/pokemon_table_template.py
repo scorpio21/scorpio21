@@ -262,7 +262,7 @@ def render_table(
 </tr>
 
 <tr>
-<td><b>✨ Probabilidad Shiny</b></td>
+<td style="white-space: nowrap;"><b>✨ Probabilidad Shiny</b></td>
 <td>{shiny_odds}</td>
 </tr>
 
