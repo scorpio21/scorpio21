@@ -138,6 +138,17 @@ def get_pokemon_of_the_day():
     # Probabilidad de captura
     captura_porcentaje = round((capture_rate / 255) * 100, 1)
 
+    if capture_rate >= 200:
+        captura_dificultad = "🟢 Muy fácil"
+    elif capture_rate >= 120:
+        captura_dificultad = "🟡 Fácil"
+    elif capture_rate >= 60:
+        captura_dificultad = "🟠 Normal"
+    elif capture_rate >= 20:
+        captura_dificultad = "🔴 Difícil"
+    else:
+        captura_dificultad = "⚫ Muy difícil"
+
     base_happiness = species["base_happiness"]
     
     print([g["name"] for g in species["egg_groups"]])
@@ -365,6 +376,7 @@ def get_pokemon_of_the_day():
         musica_url,
         capture_rate,
         captura_porcentaje,
+        captura_dificultad,
         shiny_odds,
         macho,
         hembra,
