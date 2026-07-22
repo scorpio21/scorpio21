@@ -134,7 +134,14 @@ def build_pokemon_table(
         objetos_html = "No puede llevar objetos."
 
     captura_barra = barra_porcentaje(capture_text)
-    
+
+    texto, color = captura_dificultad
+
+    captura_dificultad = (
+        f'<img src="https://img.shields.io/badge/'
+        f'{quote(texto)}-{color}?style=flat-square">'
+    )
+
     print("🎮 juegos =", juegos)
 
     juegos_html = "<br>".join(
