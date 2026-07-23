@@ -80,12 +80,12 @@ def compute_bst(stats):
 {nivel_bst}
 """
     perfil_competitivo = f"""
-    🏆 Poder total: {estrellas_stat(bst)}<br>
-    ⚔️ Ataque: {estrellas_stat(stats['attack'])}<br>
-    🛡️ Defensa: {estrellas_stat(stats['defense'])}<br>
-    ✨ At. Especial: {estrellas_stat(stats['special-attack'])}<br>
-    🛡️ Def. Especial: {estrellas_stat(stats['special-defense'])}<br>
-    💨 Velocidad: {estrellas_stat(stats['speed'])}
+    🏆 <b>Poder total</b>: {estrellas_stat(bst)}<br>
+    ⚔️ <b>Ataque</b>: {estrellas_stat(stats['attack'])}<br>
+    🛡️ <b>Defensa</b>: {estrellas_stat(stats['defense'])}<br>
+    ✨ <b>At. Especial</b>: {estrellas_stat(stats['special-attack'])}<br>
+    🛡️ <b>Def. Especial</b>: {estrellas_stat(stats['special-defense'])}<br>
+    💨 <b>Velocidad</b>: {estrellas_stat(stats['speed'])}
     """
     
     stats_md = f"""❤️ PS {stats['hp']}<br>
