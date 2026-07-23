@@ -50,6 +50,7 @@ def render_table(
     juegos_html,
     bst_html,
     stats_md,
+    perfil_competitivo,
     rareza_iconos,
     rareza_texto,
     rareza_colores,
@@ -330,6 +331,14 @@ def render_table(
 <b style="white-space: nowrap;">📊 Estadísticas Base</b>
 </td>
 <td>{stats_md}</td>
+
+<hr>
+
+<h4>📈 Perfil competitivo</h4>
+
+{perfil_competitivo}
+
+</td>
 </tr>
 </table>
 """

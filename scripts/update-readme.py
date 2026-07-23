@@ -42,6 +42,7 @@ from download_cry import download_cry
     capture_rate,
     captura_porcentaje,
     captura_dificultad,
+    captura_barra,
     shiny_odds,
     macho,
     hembra,

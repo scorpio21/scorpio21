@@ -82,6 +82,7 @@ def build_pokemon_table(
     cadena_evolucion,
     bst_html,
     stats_md,
+    perfil_competitivo,
 ):
     consola_debut = GAME_CONSOLES.get(juego_debut, "🎮 Desconocida")
     
@@ -225,6 +226,7 @@ def build_pokemon_table(
         juegos_html=juegos_html,
         bst_html=bst_html,
         stats_md=stats_md,
+        perfil_competitivo=perfil_competitivo,
         rareza_iconos=rareza_iconos,
         rareza_texto=rareza_texto,
         rareza_colores=rareza_colores,

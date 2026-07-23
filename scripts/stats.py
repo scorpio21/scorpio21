@@ -17,6 +17,17 @@ def barra_stat(valor, maximo=255, ancho=10):
 
     return color * bloques + "⬜" * (ancho - bloques)
 
+def estrellas_stat(valor):
+    if valor >= 150:
+        return "⭐⭐⭐⭐⭐"
+    elif valor >= 120:
+        return "⭐⭐⭐⭐☆"
+    elif valor >= 90:
+        return "⭐⭐⭐☆☆"
+    elif valor >= 60:
+        return "⭐⭐☆☆☆"
+    else:
+        return "⭐☆☆☆☆"
 
 def barra_bst(valor, maximo=720, ancho=20):
     bloques = round(valor / maximo * ancho)
@@ -68,6 +79,15 @@ def compute_bst(stats):
 <b>{bst} puntos</b><br>
 {nivel_bst}
 """
+    perfil_competitivo = f"""
+    🏆 Poder total: {estrellas_stat(bst)}<br>
+    ⚔️ Ataque: {estrellas_stat(stats['attack'])}<br>
+    🛡️ Defensa: {estrellas_stat(stats['defense'])}<br>
+    ✨ At. Especial: {estrellas_stat(stats['special-attack'])}<br>
+    🛡️ Def. Especial: {estrellas_stat(stats['special-defense'])}<br>
+    💨 Velocidad: {estrellas_stat(stats['speed'])}
+    """
+    
     stats_md = f"""❤️ PS {stats['hp']}<br>
     {barra_stat(stats['hp'])}<br>
     ⚔️ Ataque {stats['attack']}<br>

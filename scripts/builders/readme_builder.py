@@ -46,10 +46,11 @@ def build_pokemon_info_block(
     objetos,
     juegos,
     datos_interesantes,
+    curiosidad,
     cadena_evolucion,
     bst_html,
     stats_md,
-    curiosidad,
+    perfil_competitivo,
 ):
     #==========================
     # JUEGOS
@@ -104,9 +105,12 @@ def build_pokemon_info_block(
         movimientos=movimientos,
         objetos=objetos,
         juegos=juegos,
+        datos_interesantes=datos_interesantes,
+        curiosidad=curiosidad,
         cadena_evolucion=cadena_evolucion,
         bst_html=bst_html,
         stats_md=stats_md,
+        perfil_competitivo=perfil_competitivo
     )
     # print("=========== TABLE_HTML ===========")
     # print(table_html)
@@ -118,6 +122,16 @@ def build_pokemon_info_block(
     )
 
     go_info = build_pokemon_go(nombre)
+
+    curiosidad_html = f"""
+    > 💬 **{curiosidad}**
+
+    ---
+
+    🎮 **Juego de debut:** {juego_debut}
+
+    🌍 **Región:** {generation.split("(")[1].replace(")", "")}
+    """
 
     # print("=========== POKEMON_INFO_BLOCK ===========")
     # print(table_html)
@@ -144,7 +158,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td>
 
-> 💬 **{curiosidad}**
+{curiosidad_html}
 
 </td>
 </tr>
@@ -154,7 +168,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ## 💡 Datos interesantes
 
-<table>
+<table width="100%">
 <tr>
 <td>
 
