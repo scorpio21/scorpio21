@@ -1,5 +1,8 @@
 from pogo_api import get_pokemon_go_data
-from shields.badges import build_tipos_html
+from shields.badges import (
+    build_tipos_html,
+    build_moves_html,
+)
 
 def build_pokemon_go(nombre):
 
@@ -9,6 +12,14 @@ def build_pokemon_go(nombre):
         return "No hay datos de Pokémon GO."
 
     tipos_html = build_tipos_html(pokemon["types"])
+
+    fast_moves_html = build_moves_html(
+        pokemon["fast_moves"]
+    )
+
+    charged_moves_html = build_moves_html(
+        pokemon["charged_moves"]
+    )
 
     return f"""
 <table>
@@ -40,12 +51,12 @@ def build_pokemon_go(nombre):
 
 <tr>
 <td><b>⚡ Ataques rápidos</b></td>
-<td>{", ".join(pokemon["fast_moves"])}</td>
+<td>{fast_moves_html}</td>
 </tr>
 
 <tr>
 <td><b>💥 Ataques cargados</b></td>
-<td>{", ".join(pokemon["charged_moves"])}</td>
+<td>{charged_moves_html}</td>
 </tr>
 
 </table>

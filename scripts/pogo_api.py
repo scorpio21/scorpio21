@@ -27,14 +27,24 @@ def load_types():
     url = "https://pogoapi.net/api/v1/pokemon_types.json"
 
     return requests.get(url, timeout=20).json()
-#-----------------------------------
-# Cargar estadísticas de movimientos
-#-----------------------------------
-def load_move_types():
+#------------------------------
+# Cargar ataques rápidos
+#------------------------------
+def load_fast_moves():
 
-    url = "https://pogoapi.net/api/v1/move_stats.json"
+    url = "https://pogoapi.net/api/v1/fast_moves.json"
 
     return requests.get(url, timeout=20).json()
+
+#------------------------------
+# Cargar ataques cargados
+#------------------------------
+def load_charged_moves():
+
+    url = "https://pogoapi.net/api/v1/charged_moves.json"
+
+    return requests.get(url, timeout=20).json()
+
 #------------------------------
 # Cargar multiplicadores de PC
 #------------------------------
@@ -46,9 +56,10 @@ def load_cp_multiplier():
 #------------------------------
 # Buscar tipo de movimiento
 #------------------------------
-def buscar_tipo_movimiento(nombre_movimiento, move_types):
+def buscar_tipo_movimiento(nombre_movimiento, movimientos):
 
-    for move in move_types:
+    for move in movimientos:
+
         if move["name"] == nombre_movimiento:
             return move["type"]
 
@@ -62,7 +73,8 @@ def get_pokemon_go_data(nombre):
     stats = load_stats()
     moves = load_moves()
     types = load_types()
-    move_types = load_move_types()
+    fast_move_types = load_fast_moves()
+    charged_move_types = load_charged_moves()
     nombre = nombre.lower()
     cp_multiplier = load_cp_multiplier()
 
@@ -108,7 +120,7 @@ def get_pokemon_go_data(nombre):
         "fast_moves": [
             {
                 "nombre": m,
-                "tipo": buscar_tipo_movimiento(m, move_types)
+                "tipo": buscar_tipo_movimiento(m, fast_move_types)
             }
             for m in pokemon_moves["fast_moves"]
         ],
@@ -116,7 +128,7 @@ def get_pokemon_go_data(nombre):
         "charged_moves": [
             {
                 "nombre": m,
-                "tipo": buscar_tipo_movimiento(m, move_types)
+                "tipo": buscar_tipo_movimiento(m, charged_move_types)
             }
             for m in pokemon_moves["charged_moves"]
         ],
@@ -141,3 +153,4 @@ if __name__ == "__main__":
     print("PC máximo:", pokemon["pc_max"])
     print("Tipos:", pokemon["types"])
     print(pokemon["fast_moves"])
+    print(pokemon["charged_moves"])

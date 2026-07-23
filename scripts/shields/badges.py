@@ -1,7 +1,7 @@
 #------------------------------
 # scripts/badges.py
 #------------------------------
-
+from config import pokemon_type_colors
 from urllib.parse import quote
 from type_icons import TYPE_ICONS
 
@@ -77,3 +77,24 @@ def build_relations_html(tipos_es):
         build_tipos_html(resistencias),
         build_tipos_html(inmunidades),
     )
+
+def build_moves_html(moves):
+
+    html = []
+
+    for move in moves:
+
+        color = pokemon_type_colors.get(
+            move["tipo"].lower(),
+            "lightgrey"
+        )
+
+        badge = (
+            f"https://img.shields.io/badge/"
+            f"{move['nombre'].replace(' ', '%20')}-"
+            f"{color}?style=flat-square"
+        )
+
+        html.append(f'<img src="{badge}">')
+
+    return "<br>".join(html)
