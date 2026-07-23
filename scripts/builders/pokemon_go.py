@@ -1,56 +1,44 @@
-import requests
-from bs4 import BeautifulSoup
+from pogo_api import get_pokemon_go_data
 
 
 def build_pokemon_go(nombre):
 
-    url = f"https://pokemondb.net/pokedex/{nombre.lower()}"
+    pokemon = get_pokemon_go_data(nombre)
 
-    headers = {
-        "User-Agent": "Mozilla/5.0"
-    }
+    if pokemon is None:
+        return "No hay datos de Pokémon GO."
 
-    try:
-        r = requests.get(url, headers=headers, timeout=10)
-
-        if r.status_code != 200:
-            raise Exception()
-
-        soup = BeautifulSoup(r.text, "html.parser")
-
-        pc_max = "No disponible"
-
-        for tabla in soup.select("table.vitals-table"):
-            texto = tabla.get_text(" ", strip=True)
-
-            if "Max CP" in texto:
-                for fila in tabla.select("tr"):
-                    th = fila.find("th")
-                    td = fila.find("td")
-
-                    if th and td and "Max CP" in th.text:
-                        pc_max = td.get_text(" ", strip=True)
-                        break
-
-                break
-
-        return f"""## 📱 Pokémon GO
-
+    return f"""
 🏆 <b>PC máximo</b><br>
-{pc_max}
+{pokemon["pc_max"]}
 
 <br>
 
-🌐 <a href="{url}">Ver ficha completa</a>
-"""
+⚔️ <b>Ataque</b><br>
+{pokemon["base_attack"]}
 
-    except Exception:
+<br>
 
-        return f"""## 🌐 Más información
+🛡️ <b>Defensa</b><br>
+{pokemon["base_defense"]}
 
-Puedes consultar información completa y actualizada de **{nombre}** en:
+<br>
 
-- 🇪🇸 [WikiDex](https://www.wikidex.net/wiki/{nombre})
-- 📖 [Pokémon Database](https://pokemondb.net/pokedex/{nombre.lower()})
-- 🧬 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/{nombre}_(Pokémon))
+❤️ <b>Resistencia</b><br>
+{pokemon["base_stamina"]}
+
+<br>
+
+🏷️ <b>Tipos</b><br>
+{", ".join(pokemon["types"])}
+
+<br>
+
+⚡ <b>Ataques rápidos</b><br>
+{", ".join(pokemon["fast_moves"])}
+
+<br>
+
+💥 <b>Ataques cargados</b><br>
+{", ".join(pokemon["charged_moves"])}
 """
