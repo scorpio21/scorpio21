@@ -106,4 +106,10 @@ def compute_bst(stats):
 🥇 <b>Mejor atributo:</b> {stat_names[mejor[0]]} ({mejor[1]})<br>
 🥉 <b>Atributo más bajo:</b> {stat_names[peor[0]]} ({peor[1]})"""
     
-    return bst, nivel_bst, bst_html, stats_md
+    return (
+    bst,
+    nivel_bst,
+    bst_html,
+    stats_md,
+    perfil_competitivo,
+)
