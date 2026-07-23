@@ -332,13 +332,10 @@ def render_table(
 </td>
 <td>{stats_md}</td>
 
-<hr>
-
-<h4>📈 Perfil competitivo</h4>
-
-{perfil_competitivo}
-
-</td>
+<tr>
+<td style="white-space: nowrap;"><b>📈 Perfil competitivo</b></td>
+<td>{perfil_competitivo}</td>
 </tr>
+
 </table>
 """
