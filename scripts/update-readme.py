@@ -70,7 +70,7 @@ rareza = get_rarity(tipos_es[0], pokedex_num)
 tipos_html = build_tipos_html(tipos_es)
 debilidades_html, resistencias_html, inmunidades_html = build_relations_html(tipos_es)
 
-bst, nivel_bst, bst_html, stats_md = compute_bst(stats)
+bst, nivel_bst, bst_html, stats_md, perfil_competitivo = compute_bst(stats)
 
 # Obtener frase del día
 frase_del_dia = get_gamer_quote()
@@ -127,6 +127,7 @@ pokemon_info_block = build_pokemon_info_block(
     cadena_evolucion=cadena_evolucion,
     bst_html=bst_html,
     stats_md=stats_md,
+    perfil_competitivo=perfil_competitivo,
     datos_interesantes=datos_interesantes,
     curiosidad=curiosidad,
 )
