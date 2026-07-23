@@ -1,6 +1,7 @@
 #------------------------------
 # scripts/badges.py
 #------------------------------
+from translation.pokemon_types import get_pokemon_type_translation
 from config import tipo_badges, tipo_colores
 from urllib.parse import quote
 from type_icons import TYPE_ICONS
@@ -87,7 +88,7 @@ def build_moves_html(moves):
     for move in moves:
 
         color = tipo_colores.get(
-            move["tipo"],
+            get_pokemon_type_translation(move["tipo"].lower()),
             "lightgrey"
         )
 
@@ -97,6 +98,11 @@ def build_moves_html(moves):
             f"{color}?style=flat-square"
         )
 
-        html.append(f'<img src="{badge}">')
+        html.append(
+            f'<img src="{badge}">'
+            f' ⚔️{move["power"]}'
+            f' ⚡{move["energy"]}'
+            f' ⏱️{move["duration"]/1000:.1f}s'
+        )
 
     return "<br>".join(html)

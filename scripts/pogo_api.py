@@ -56,14 +56,12 @@ def load_cp_multiplier():
 #------------------------------
 # Buscar tipo de movimiento
 #------------------------------
-def buscar_tipo_movimiento(nombre_movimiento, movimientos):
+def buscar_movimiento(nombre_movimiento, movimientos):
 
     for move in movimientos:
 
         if move["name"] == nombre_movimiento:
-            return move["type"]
-
-    return "Normal"
+            return move
 
 #------------------------------
 # Obtener datos de Pokémon GO
@@ -119,18 +117,28 @@ def get_pokemon_go_data(nombre):
         "base_stamina": pokemon["base_stamina"],
         "fast_moves": [
             {
-                "nombre": m,
-                "tipo": buscar_tipo_movimiento(m, fast_move_types)
+                "nombre": move["name"],
+                "tipo": move["type"],
+                "power": move["power"],
+                "energy": move["energy_delta"],
+                "duration": move["duration"]
             }
             for m in pokemon_moves["fast_moves"]
+            for move in [buscar_movimiento(m, fast_move_types)]
+            if move
         ],
 
         "charged_moves": [
             {
-                "nombre": m,
-                "tipo": buscar_tipo_movimiento(m, charged_move_types)
+                "nombre": move["name"],
+                "tipo": move["type"],
+                "power": move["power"],
+                "energy": abs(move["energy_delta"]),
+                "duration": move["duration"]
             }
             for m in pokemon_moves["charged_moves"]
+            for move in [buscar_movimiento(m, charged_move_types)]
+            if move
         ],
 
         "types": [
@@ -144,6 +152,7 @@ def get_pokemon_go_data(nombre):
                     + pokemon["base_stamina"]
                 )
             }
+
     return None
 
 if __name__ == "__main__":
@@ -154,3 +163,21 @@ if __name__ == "__main__":
     print("Tipos:", pokemon["types"])
     print(pokemon["fast_moves"])
     print(pokemon["charged_moves"])
+
+    print("\n=== FAST MOVE ===")
+
+    fast = load_fast_moves()
+
+    for m in fast:
+        if m["name"] == "Poison Jab":
+            print(m)
+            break
+
+    print("\n=== CHARGED MOVE ===")
+
+    charged = load_charged_moves()
+
+    for m in charged:
+        if m["name"] == "Sludge Wave":
+            print(m)
+            break
