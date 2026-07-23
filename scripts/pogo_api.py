@@ -1,27 +1,51 @@
 import requests
 
+# fichero pogo_api.py
+
 from translation.pokemon_types import get_pokemon_type_translation
 # ------------------------------
-# Cargar estadísticas de Pokémon
+# Cargar estadísticas de Pokémon pogo_api.py
 # ------------------------------
 def load_stats():
 
     url = "https://pogoapi.net/api/v1/pokemon_stats.json"
 
     return requests.get(url, timeout=20).json()
-
+#------------------------------
+# Cargar movimientos de Pokémon
+#------------------------------
 def load_moves():
 
     url = "https://pogoapi.net/api/v1/current_pokemon_moves.json"
 
     return requests.get(url, timeout=20).json()
-
+#------------------------------
+# Cargar tipos de Pokémon
+#------------------------------
 def load_types():
 
     url = "https://pogoapi.net/api/v1/pokemon_types.json"
 
     return requests.get(url, timeout=20).json()
+#-----------------------------------
+# Cargar estadísticas de movimientos
+#-----------------------------------
+def load_move_types():
 
+    url = "https://pogoapi.net/api/v1/move_stats.json"
+
+    return requests.get(url, timeout=20).json()
+#------------------------------
+# Cargar multiplicadores de PC
+#------------------------------
+def load_cp_multiplier():
+
+    url = "https://pogoapi.net/api/v1/cp_multiplier.json"
+
+    return requests.get(url, timeout=20).json()
+#------------------------------
+# Buscar tipo de movimiento
+#------------------------------
 def buscar_tipo_movimiento(nombre_movimiento, move_types):
 
     for move in move_types:
@@ -30,12 +54,9 @@ def buscar_tipo_movimiento(nombre_movimiento, move_types):
 
     return "Normal"
 
-def load_cp_multiplier():
-
-    url = "https://pogoapi.net/api/v1/cp_multiplier.json"
-
-    return requests.get(url, timeout=20).json()
-
+#------------------------------
+# Obtener datos de Pokémon GO
+#------------------------------
 def get_pokemon_go_data(nombre):
 
     stats = load_stats()
@@ -78,11 +99,6 @@ def get_pokemon_go_data(nombre):
         if cp["level"] == 50:
            cp_max = cp["multiplier"]
            break
-    def load_move_types():
-
-        url = "https://pogoapi.net/api/v1/move_stats.json"
-
-        return requests.get(url, timeout=20).json()
     
     return {
         "pokemon_name": pokemon["pokemon_name"],
@@ -117,7 +133,6 @@ def get_pokemon_go_data(nombre):
                 )
             }
     return None
-
 
 if __name__ == "__main__":
 
