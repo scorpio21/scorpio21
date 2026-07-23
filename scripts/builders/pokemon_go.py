@@ -18,9 +18,30 @@ def build_pokemon_go(nombre):
 
         soup = BeautifulSoup(r.text, "html.parser")
 
-        return f"""Página encontrada ✅
+        pc_max = "No disponible"
 
-🌐 {url}
+        for tabla in soup.select("table.vitals-table"):
+            texto = tabla.get_text(" ", strip=True)
+
+            if "Max CP" in texto:
+                for fila in tabla.select("tr"):
+                    th = fila.find("th")
+                    td = fila.find("td")
+
+                    if th and td and "Max CP" in th.text:
+                        pc_max = td.get_text(" ", strip=True)
+                        break
+
+                break
+
+        return f"""## 📱 Pokémon GO
+
+🏆 <b>PC máximo</b><br>
+{pc_max}
+
+<br>
+
+🌐 <a href="{url}">Ver ficha completa</a>
 """
 
     except Exception:
