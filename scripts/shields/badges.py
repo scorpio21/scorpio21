@@ -1,7 +1,7 @@
 #------------------------------
 # scripts/badges.py
 #------------------------------
-from config import pokemon_type_colors
+from config import tipo_badges
 from urllib.parse import quote
 from type_icons import TYPE_ICONS
 
@@ -84,16 +84,18 @@ def build_moves_html(moves):
 
     for move in moves:
 
-        color = pokemon_type_colors.get(
-            move["tipo"].lower(),
-            "lightgrey"
-        )
+        badge = tipo_badges.get(move["tipo"])
 
-        badge = (
-            f"https://img.shields.io/badge/"
-            f"{move['nombre'].replace(' ', '%20')}-"
-            f"{color}?style=flat-square"
-        )
+        if badge:
+            badge = badge.replace(
+                move["tipo"],
+                move["nombre"].replace(" ", "%20")
+            )
+        else:
+            badge = (
+                f"https://img.shields.io/badge/"
+                f"{move['nombre'].replace(' ', '%20')}-lightgrey?style=flat-square"
+            )
 
         html.append(f'<img src="{badge}">')
 
