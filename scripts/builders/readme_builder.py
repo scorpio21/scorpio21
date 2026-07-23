@@ -105,8 +105,6 @@ def build_pokemon_info_block(
         movimientos=movimientos,
         objetos=objetos,
         juegos=juegos,
-        datos_interesantes=datos_interesantes,
-        curiosidad=curiosidad,
         cadena_evolucion=cadena_evolucion,
         bst_html=bst_html,
         stats_md=stats_md,
