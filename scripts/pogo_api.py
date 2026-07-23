@@ -22,6 +22,14 @@ def load_types():
 
     return requests.get(url, timeout=20).json()
 
+def buscar_tipo_movimiento(nombre_movimiento, move_types):
+
+    for move in move_types:
+        if move["name"] == nombre_movimiento:
+            return move["type"]
+
+    return "Normal"
+
 def load_cp_multiplier():
 
     url = "https://pogoapi.net/api/v1/cp_multiplier.json"
@@ -33,6 +41,7 @@ def get_pokemon_go_data(nombre):
     stats = load_stats()
     moves = load_moves()
     types = load_types()
+    move_types = load_move_types()
     nombre = nombre.lower()
     cp_multiplier = load_cp_multiplier()
 
@@ -69,14 +78,33 @@ def get_pokemon_go_data(nombre):
         if cp["level"] == 50:
            cp_max = cp["multiplier"]
            break
+    def load_move_types():
 
+        url = "https://pogoapi.net/api/v1/move_stats.json"
+
+        return requests.get(url, timeout=20).json()
+    
     return {
         "pokemon_name": pokemon["pokemon_name"],
         "base_attack": pokemon["base_attack"],
         "base_defense": pokemon["base_defense"],
         "base_stamina": pokemon["base_stamina"],
-        "fast_moves": pokemon_moves["fast_moves"],
-        "charged_moves": pokemon_moves["charged_moves"],
+        "fast_moves": [
+            {
+                "nombre": m,
+                "tipo": buscar_tipo_movimiento(m, move_types)
+            }
+            for m in pokemon_moves["fast_moves"]
+        ],
+
+        "charged_moves": [
+            {
+                "nombre": m,
+                "tipo": buscar_tipo_movimiento(m, move_types)
+            }
+            for m in pokemon_moves["charged_moves"]
+        ],
+
         "types": [
            get_pokemon_type_translation(t.lower())
            for t in pokemon_types["type"]
@@ -97,3 +125,4 @@ if __name__ == "__main__":
 
     print("PC máximo:", pokemon["pc_max"])
     print("Tipos:", pokemon["types"])
+    print(pokemon["fast_moves"])

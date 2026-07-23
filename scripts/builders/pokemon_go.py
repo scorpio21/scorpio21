@@ -1,44 +1,52 @@
 from pogo_api import get_pokemon_go_data
-
+from shields.badges import build_tipos_html
 
 def build_pokemon_go(nombre):
 
     pokemon = get_pokemon_go_data(nombre)
-
+    
     if pokemon is None:
         return "No hay datos de Pokémon GO."
 
+    tipos_html = build_tipos_html(pokemon["types"])
+
     return f"""
-🏆 <b>PC máximo</b><br>
-{pokemon["pc_max"]}
+<table>
 
-<br>
+<tr>
+<td><b>🏆 PC máximo</b></td>
+<td>{pokemon["pc_max"]}</td>
+</tr>
 
-⚔️ <b>Ataque</b><br>
-{pokemon["base_attack"]}
+<tr>
+<td><b>⚔️ Ataque</b></td>
+<td>{pokemon["base_attack"]}</td>
+</tr>
 
-<br>
+<tr>
+<td><b>🛡️ Defensa</b></td>
+<td>{pokemon["base_defense"]}</td>
+</tr>
 
-🛡️ <b>Defensa</b><br>
-{pokemon["base_defense"]}
+<tr>
+<td><b>❤️ Resistencia</b></td>
+<td>{pokemon["base_stamina"]}</td>
+</tr>
 
-<br>
+<tr>
+<td><b>🏷️ Tipos</b></td>
+<td>{tipos_html}</td>
+</tr>
 
-❤️ <b>Resistencia</b><br>
-{pokemon["base_stamina"]}
+<tr>
+<td><b>⚡ Ataques rápidos</b></td>
+<td>{", ".join(pokemon["fast_moves"])}</td>
+</tr>
 
-<br>
+<tr>
+<td><b>💥 Ataques cargados</b></td>
+<td>{", ".join(pokemon["charged_moves"])}</td>
+</tr>
 
-🏷️ <b>Tipos</b><br>
-{", ".join(pokemon["types"])}
-
-<br>
-
-⚡ <b>Ataques rápidos</b><br>
-{", ".join(pokemon["fast_moves"])}
-
-<br>
-
-💥 <b>Ataques cargados</b><br>
-{", ".join(pokemon["charged_moves"])}
+</table>
 """
