@@ -1,7 +1,7 @@
 #------------------------------
 # scripts/badges.py
 #------------------------------
-from config import tipo_badges
+from config import tipo_badges, tipo_colores
 from urllib.parse import quote
 from type_icons import TYPE_ICONS
 
@@ -77,25 +77,25 @@ def build_relations_html(tipos_es):
         build_tipos_html(resistencias),
         build_tipos_html(inmunidades),
     )
-
+#------------------------------
+# colores de ataques en HTML
+#------------------------------
 def build_moves_html(moves):
 
     html = []
 
     for move in moves:
 
-        badge = tipo_badges.get(move["tipo"])
+        color = tipo_colores.get(
+            move["tipo"],
+            "lightgrey"
+        )
 
-        if badge:
-            badge = badge.replace(
-                move["tipo"],
-                move["nombre"].replace(" ", "%20")
-            )
-        else:
-            badge = (
-                f"https://img.shields.io/badge/"
-                f"{move['nombre'].replace(' ', '%20')}-lightgrey?style=flat-square"
-            )
+        badge = (
+            f"https://img.shields.io/badge/"
+            f"{move['nombre'].replace(' ', '%20')}-"
+            f"{color}?style=flat-square"
+        )
 
         html.append(f'<img src="{badge}">')
 

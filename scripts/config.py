@@ -87,3 +87,24 @@ rareza_texto = {
     "legendario": "Legendario"
 }
 
+# Colores de tipos
+tipo_colores = {
+    "Normal": "A8A77A",
+    "Fuego": "EE8130",
+    "Agua": "6390F0",
+    "Planta": "7AC74C",
+    "Eléctrico": "F7D02C",
+    "Hielo": "96D9D6",
+    "Lucha": "C22E28",
+    "Veneno": "A33EA1",
+    "Tierra": "E2BF65",
+    "Volador": "A98FF3",
+    "Psíquico": "F95587",
+    "Bicho": "A6B91A",
+    "Roca": "B6A136",
+    "Fantasma": "735797",
+    "Dragón": "6F35FC",
+    "Siniestro": "705746",
+    "Acero": "B7B7CE",
+    "Hada": "D685AD"
+}
