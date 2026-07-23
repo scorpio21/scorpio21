@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-23T12:03:34.302424+00:00 -->
+<!-- Generated: 2026-07-23T12:09:12.898306+00:00 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/522.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/894.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/522.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/894.png" width="220">
 </td>
 
 </tr>
@@ -48,7 +48,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar%20Blitzle-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Regieleki-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
 </a>
 </td>
 </tr>
@@ -59,17 +59,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td style="white-space: nowrap;"><b>Nombre</b></td>
-<td>🔵 <b>Blitzle</b></td>
+<td>🔵 <b>Regieleki</b></td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🇯🇵 Nombre original</b></td>
-<td>シママ</td>
+<td>レジエレキ</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🧬 Especie</b></td>
-<td>Pokémon Blitzle</td>
+<td>Pokémon Regieleki</td>
 </tr>
 
 <tr>
@@ -81,28 +81,28 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td style="white-space: nowrap;"><b>Nº Pokédex</b></td>
-<td>#522</td>
+<td>#894</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🧬 Generación</b></td>
-<td>V (Teselia) <br><small>📅 2010</small></td>
+<td>VIII (Galar) <br><small>📅 2019</small></td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🗺️ Región</b></td>
-<td>🏝️ Teselia</td>
+<td>🏝️ Galar</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🎮 Juego debut</b></td>
-<td>Pokémon Negro / Blanco</td>
+<td>Pokémon Espada / Escudo</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🎵 Música</b></td>
 <td>
-<a href="https://www.youtube.com/results?search_query=Pokemon+Black+White+Wild+Pokemon+Theme" target="_blank">
+<a href="https://www.youtube.com/results?search_query=Pokemon+Sword+Shield+Wild+Pokemon+Theme" target="_blank">
 🎧 Escuchar en YouTube
 </a>
 </td>
@@ -119,13 +119,13 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td style="white-space: nowrap;"><b>Clase</b></td>
-<td>Electrizado</td>
+<td>Electrón</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>⭐ Legendario</b></td>
 <td>
-<img src="https://img.shields.io/badge/No Legendario-555555?style=flat-square">
+<img src="https://img.shields.io/badge/Legendario-gold?style=flat-square">
 </td>
 </tr>
 
@@ -152,22 +152,22 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td style="white-space: nowrap;"><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Negro-000000?style=flat-square" alt="black" style="vertical-align:middle;"></td>
+<td><img src="https://img.shields.io/badge/Amarillo-FFEB3B?style=flat-square&logoColor=black" alt="yellow" style="vertical-align:middle;"></td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>📏 Altura</b></td>
-<td>0.8 m</td>
+<td>1.2 m</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>⚖️ Peso</b></td>
-<td>29.8 kg</td>
+<td>145.0 kg</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>♂️ / ♀️</b></td>
-<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
+<td>♂️ Sin género &nbsp;&nbsp;&nbsp; ♀️ Sin género</td>
 </tr>
 
 <tr>
@@ -177,13 +177,13 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td style="white-space: nowrap;"><b>🥚 Grupo huevo</b></td>
-<td>Campo</td>
+<td>Desconocido</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>❤️ Amistad base</b></td>
 <td>
-70<br>
+35<br>
 ❤️🤍🤍🤍🤍
 </td>
 </tr>
@@ -210,15 +210,15 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td style="white-space: nowrap;"><b>🎯 Captura</b></td>
 <td>
-<img src="https://img.shields.io/badge/F%C3%A1cil-green?style=flat-square"><br>
-🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜<br>
-74.5%
+<img src="https://img.shields.io/badge/Muy%20dif%C3%ADcil-red?style=flat-square"><br>
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜<br>
+1.2%
 </td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🎲 Ratio captura</b></td>
-<td>190</td>
+<td>3</td>
 </tr>
 
 <tr>
@@ -228,17 +228,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td style="white-space: nowrap;"><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Pararrayos</b><br><small>Redirects single-target Electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.</small><br><br>🟢 ⚡ <b>Electromotor</b><br><small>Absorbs Electric moves, raising Speed one stage.</small><br><br>⭐ ✨ <b>Herbívoro</b> (Oculta)<br><small>Absorbs Grass moves, raising Attack one stage.</small></td>
+<td>🟢 ⚡ <b>Transistor</b><br><small>Powers up Electric-type moves.</small><br><br></td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>📦 Objetos</b></td>
-<td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cheri-berry.png" width="28" height="28"> <b>Cheri Berry</b> (50%)</td>
+<td>No puede llevar objetos.</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Carga-F8D030?style=flat-square"> <img src="https://img.shields.io/badge/Chispazo-F8D030?style=flat-square"> <img src="https://img.shields.io/badge/Onda%20An%C3%B3mala-F8D030?style=flat-square"> <img src="https://img.shields.io/badge/Onda%20Trueno-F8D030?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Sustituto-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Bote-A890F0?style=flat-square"> <img src="https://img.shields.io/badge/Aguante-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Bola%20Voltio-F8D030?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -268,7 +268,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/blitzle.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/regieleki.jpg" width="62">
 
 </td>
 </tr>
@@ -291,7 +291,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Blitzle
+Regieleki
 </b>
 
 <br>
@@ -300,97 +300,7 @@ Blitzle
 color:#555;
 font-weight:bold;
 ">
-#0522
-</small>
-
-<br><br>
-
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/8/84/latest/20230128125008/Tipo_el%C3%A9ctrico_icono_EP.svg" width="23" alt="Eléctrico" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico" style="vertical-align:middle;"><br>
-
-</div>
-
-</div>
-
-</td>
-
-<td align="center" valign="middle" style="width:auto; padding:10px;">
-
-<div style="
-font-size:14px;
-font-weight:bold;
-color:#FFD54F;
-margin-bottom:10px;
-">
-
-Nivel 27
-
-</div>
-
-<div style="
-font-size:32px;
-font-weight:bold;
-">
-
-➜
-
-</div>
-
-</td>
-
-<td align="center" valign="top">
-
-<div style="
-display:flex;
-flex-direction:column;
-align-items:center;
-width:95px;
-">
-
-<table align="center" cellspacing="0" cellpadding="0">
-<tr>
-<td
-align="center"
-width="78"
-height="78"
-style="
-background:#98C2D1;
-border:2px solid #492A49;
-border-radius:50%;
-">
-
-<img src="https://img.pokemondb.net/artwork/large/zebstrika.jpg" width="62">
-
-</td>
-</tr>
-</table>
-
-<div style="
-margin-top:8px;
-font-size:12px;
-color:#9aa6b2;
-">
-
-</div>
-
-<div style="
-margin-top:6px;
-padding:6px 10px;
-background:#EAF4F7;
-border-radius:8px;
-min-width:95px;
-">
-
-<b style="font-size:15px;color:#000;">
-Zebstrika
-</b>
-
-<br>
-
-<small style="
-color:#555;
-font-weight:bold;
-">
-#0523
+#0894
 </small>
 
 <br><br>
@@ -410,7 +320,7 @@ font-weight:bold;
 
 <tr>
 <td style="white-space: nowrap;"><b>🎮 Juegos</b></td>
-<td><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Rub%C3%AD%20Omega-b22222?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20X-4169e1?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Y-dc143c?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Zafiro%20Alfa-1e90ff?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Escudo-dc143c?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Espada-1e90ff?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -419,28 +329,28 @@ font-weight:bold;
 
 <tr>
 <td style="white-space: nowrap;"><b>⭐ Experiencia Base</b></td>
-<td>59</td>
+<td>290</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
 <td>
-💠 <b>1.000.000 XP</b>
+💠 <b>1.250.000 XP</b>
 </td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Medio-lightgrey?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Lento-red?style=flat-square"></td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜
 
-<b>295 puntos</b><br>
-🌱 Básico
+<b>580 puntos</b><br>
+🔥 Muy fuerte
 </td>
 </tr>
 
@@ -448,33 +358,33 @@ font-weight:bold;
 <td style="white-space: nowrap;">
 <b style="white-space: nowrap;">📊 Estadísticas Base</b>
 </td>
-<td>❤️ PS 45<br>
+<td>❤️ PS 80<br>
+    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br>
+    ⚔️ Ataque 100<br>
+    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br>
+    🛡️ Defensa 50<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br>
-    ⚔️ Ataque 60<br>
+    ✨ At. Especial 100<br>
+    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br>
+    🛡️ Def. Especial 50<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br>
-    🛡️ Defensa 32<br>
-    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br>
-    ✨ At. Especial 50<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br>
-    🛡️ Def. Especial 32<br>
-    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜<br>
-    💨 Velocidad 76<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜
+    💨 Velocidad 200<br>
+    🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜
     <hr>
 
-🏆 <b>Total Base:</b> 295<br>
-🥇 <b>Mejor atributo:</b> 💨 Velocidad (76)<br>
-🥉 <b>Atributo más bajo:</b> 🛡️ Defensa (32)</td>
+🏆 <b>Total Base:</b> 580<br>
+🥇 <b>Mejor atributo:</b> 💨 Velocidad (200)<br>
+🥉 <b>Atributo más bajo:</b> 🛡️ Defensa (50)</td>
 
 <tr>
 <td style="white-space: nowrap;"><b>📈 Perfil competitivo</b></td>
 <td>
     🏆 <b>Poder total</b>: ⭐⭐⭐⭐⭐<br>
-    ⚔️ <b>Ataque</b>: ⭐⭐☆☆☆<br>
+    ⚔️ <b>Ataque</b>: ⭐⭐⭐☆☆<br>
     🛡️ <b>Defensa</b>: ⭐☆☆☆☆<br>
-    ✨ <b>At. Especial</b>: ⭐☆☆☆☆<br>
+    ✨ <b>At. Especial</b>: ⭐⭐⭐☆☆<br>
     🛡️ <b>Def. Especial</b>: ⭐☆☆☆☆<br>
-    💨 <b>Velocidad</b>: ⭐⭐☆☆☆
+    💨 <b>Velocidad</b>: ⭐⭐⭐⭐⭐
     </td>
 </tr>
 
@@ -490,13 +400,13 @@ font-weight:bold;
 <td>
 
 
-    > 💬 **Aparece cuando nubes envueltas en rayos encapotan el cielo. Atrapa rayos con su crin y almacena electricidad.**
+    > 💬 **Su cuerpo entero es energía eléctrica. Por lo visto, quitarle los anillos que lleva libera su poder oculto.**
 
     ---
 
-    🎮 **Juego de debut:** Pokémon Negro / Blanco
+    🎮 **Juego de debut:** Pokémon Espada / Escudo
 
-    🌍 **Región:** Teselia
+    🌍 **Región:** Galar
     
 
 </td>
@@ -511,7 +421,7 @@ font-weight:bold;
 <tr>
 <td>
 
-🥚 Pertenece al grupo huevo Campo.<br>🎯 Ratio de captura: 190.<br>📈 Crecimiento: Medio.
+🎨 Su color en la Pokédex es <img src="https://img.shields.io/badge/Amarillo-FFEB3B?style=flat-square&logoColor=black" alt="yellow" style="vertical-align:middle;">.<br>🧬 Introducido en la generación VIII (Galar).<br>❤️ Amistad base: 35.
 
 </td>
 </tr>
@@ -521,9 +431,14 @@ font-weight:bold;
 
 ## 📱 Pokémon GO
 
-Página encontrada ✅
+## 📱 Pokémon GO
 
-🌐 https://pokemondb.net/pokedex/blitzle
+🏆 <b>PC máximo</b><br>
+No disponible
+
+<br>
+
+🌐 <a href="https://pokemondb.net/pokedex/regieleki">Ver ficha completa</a>
 
 
 ---
@@ -1211,16 +1126,18 @@ Página encontrada ✅
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-23T12:03:34.302424+00:00 -->
+<!-- Generated: 2026-07-23T12:09:12.898306+00:00 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"La vida es como un videojuego: ¡haz tu movimiento!"*
+> *"En cada partida, hay un nuevo desafío esperando ser conquistado."*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
