@@ -1,5 +1,3 @@
-#print(">>> EJECUTANDO pokemon_table_template.py <<<")
-
 #==========================
 # FUNCIONES
 #==========================
@@ -59,10 +57,6 @@ def render_table(
     bebe,
     forma_regional,
 ):
-    # print(">>> render_table:", repr(stats_md))
-
-    # print(repr(stats_md))
-
     #==========================
     # TABLA DE INFORMACIÓN
     #==========================

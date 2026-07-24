@@ -110,9 +110,6 @@ def build_pokemon_info_block(
         stats_md=stats_md,
         perfil_competitivo=perfil_competitivo
     )
-    # print("=========== TABLE_HTML ===========")
-    # print(table_html)
-    # print("=========== FIN TABLE_HTML =======")
 
     datos_interesantes_html = "<br>".join(
         dato
@@ -130,10 +127,6 @@ def build_pokemon_info_block(
 
     🌍 **Región:** {generation.split("(")[1].replace(")", "")}
     """
-
-    # print("=========== POKEMON_INFO_BLOCK ===========")
-    # print(table_html)
-    # print("=========== FIN POKEMON_INFO_BLOCK =======")
 
     return f"""<!-- POKEMON_INFO -->
 <!-- Generated: {fecha} -->

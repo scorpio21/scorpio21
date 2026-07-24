@@ -1,5 +1,3 @@
-# print(">>> EJECUTANDO builders/pokemon_table.py <<<")
-
 #==========================
 # FUNCIONES
 #=========================
@@ -174,8 +172,6 @@ def build_pokemon_table(
     )
     
     region = generation.split("(")[1].replace(")", "")
-    
-    # print(">>> stats_md =", repr(stats_md))
     
     print("info de tablas - juegos_html =", repr(juegos_html))
 

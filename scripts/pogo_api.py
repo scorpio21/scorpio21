@@ -1,8 +1,28 @@
 import requests
-
+import time
 # fichero pogo_api.py
-
 from translation.pokemon_types import get_pokemon_type_translation
+
+def get_json(url):
+
+    for intento in range(3):
+
+        try:
+            respuesta = requests.get(url, timeout=20)
+            respuesta.raise_for_status()
+            return respuesta.json()
+
+        except Exception as e:
+
+            print(f"⚠️ Error descargando {url}")
+            print(f"Intento {intento + 1}/3")
+
+            if intento < 2:
+                time.sleep(2)
+
+    raise Exception(f"No se pudo descargar {url}")
+
+
 # ------------------------------
 # Cargar estadísticas de Pokémon pogo_api.py
 # ------------------------------
@@ -10,7 +30,7 @@ def load_stats():
 
     url = "https://pogoapi.net/api/v1/pokemon_stats.json"
 
-    return requests.get(url, timeout=20).json()
+    return get_json(url)
 #------------------------------
 # Cargar movimientos de Pokémon
 #------------------------------
@@ -18,7 +38,7 @@ def load_moves():
 
     url = "https://pogoapi.net/api/v1/current_pokemon_moves.json"
 
-    return requests.get(url, timeout=20).json()
+    return get_json(url)
 #------------------------------
 # Cargar tipos de Pokémon
 #------------------------------
@@ -26,7 +46,7 @@ def load_types():
 
     url = "https://pogoapi.net/api/v1/pokemon_types.json"
 
-    return requests.get(url, timeout=20).json()
+    return get_json(url)
 #------------------------------
 # Cargar ataques rápidos
 #------------------------------
@@ -34,7 +54,7 @@ def load_fast_moves():
 
     url = "https://pogoapi.net/api/v1/fast_moves.json"
 
-    return requests.get(url, timeout=20).json()
+    return get_json(url)
 
 #------------------------------
 # Cargar ataques cargados
@@ -43,7 +63,7 @@ def load_charged_moves():
 
     url = "https://pogoapi.net/api/v1/charged_moves.json"
 
-    return requests.get(url, timeout=20).json()
+    return get_json(url)
 
 #------------------------------
 # Cargar multiplicadores de PC
@@ -52,7 +72,7 @@ def load_cp_multiplier():
 
     url = "https://pogoapi.net/api/v1/cp_multiplier.json"
 
-    return requests.get(url, timeout=20).json()
+    return get_json(url)
 #------------------------------
 # Buscar tipo de movimiento
 #------------------------------
@@ -76,8 +96,6 @@ def get_pokemon_go_data(nombre):
     nombre = nombre.lower()
     cp_multiplier = load_cp_multiplier()
 
-    # print(cp_multiplier)
-
     pokemon_moves = None
 
     cpm = None
@@ -97,16 +115,11 @@ def get_pokemon_go_data(nombre):
             break
 
     if "pokemon_types" not in locals():
-        print(f"⚠️ No se encontraron tipos para {nombre}")
+       
         pokemon_types = {
             "type": []
         }
-    print(f"🔍 Buscando movimientos para: {nombre}")
-
     for move in moves:
-
-        if nombre in move["pokemon_name"].lower():
-            print(move["pokemon_name"], "-", move["form"])
 
         if (
             move["pokemon_name"].lower() == nombre
@@ -116,7 +129,7 @@ def get_pokemon_go_data(nombre):
             break
 
     if pokemon_moves is None:
-        print(f"⚠️ No se encontraron movimientos para {nombre}")
+        
         pokemon_moves = {
             "fast_moves": [],
             "charged_moves": []
@@ -128,7 +141,6 @@ def get_pokemon_go_data(nombre):
             pokemon["pokemon_name"].lower() == nombre
             and pokemon["form"] == "Normal"
         ):
-            # print("CPM:", cpm)
 
             return {
         "pokemon_name": pokemon["pokemon_name"],
@@ -173,31 +185,3 @@ def get_pokemon_go_data(nombre):
                 )
             }
     return None
-
-
-if __name__ == "__main__":
-
-    pokemon = get_pokemon_go_data("Pikachu")
-
-    print("PC máximo:", pokemon["pc_max"])
-    print("Tipos:", pokemon["types"])
-    print(pokemon["fast_moves"])
-    print(pokemon["charged_moves"])
-    
-    print("\n=== FAST MOVE ===")
-
-    fast = load_fast_moves()
-    
-    for m in fast:
-        if m["name"] == "Poison Jab":
-            print(m)
-            break
-
-    print("\n=== CHARGED MOVE ===")
-
-    charged = load_charged_moves()
-
-    for m in charged:
-        if m["name"] == "Sludge Wave":
-            print(m)
-            break
