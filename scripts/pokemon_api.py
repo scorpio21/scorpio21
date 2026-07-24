@@ -154,8 +154,6 @@ def get_pokemon_of_the_day():
 
     base_happiness = species["base_happiness"]
     
-    print([g["name"] for g in species["egg_groups"]])
-
     egg_groups = []
 
     for grupo in species["egg_groups"]:
@@ -330,8 +328,6 @@ def get_pokemon_of_the_day():
     
         clave = entrada["version"]["name"]
 
-        print(clave)  # <-- para ver qué nombres llegan
-
         nombre_juego = GAME_TRANSLATIONS.get(
             clave.replace("-", " ").title(),
             clave.replace("-", " ").title()
@@ -352,9 +348,6 @@ def get_pokemon_of_the_day():
     # Retornar todos los datos
     #==========================
     
-    print("🎮 game_indices:", data["game_indices"])
-    print("🎮 juegos traducidos:", juegos)
-
     return (
         nombre,
         nombre_japones,

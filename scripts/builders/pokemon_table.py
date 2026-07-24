@@ -153,8 +153,6 @@ def build_pokemon_table(
         f'{quote(texto)}-{color}?style=flat-square">'
     )
 
-    print("🎮 juegos =", juegos)
-
     juegos_html = "<br>".join(
         f'<img src="https://img.shields.io/badge/'
         f'{quote(juego)}-{GAME_BADGE_COLORS.get(juego, "blue")}?style=flat-square">'
@@ -173,8 +171,6 @@ def build_pokemon_table(
     
     region = generation.split("(")[1].replace(")", "")
     
-    print("info de tablas - juegos_html =", repr(juegos_html))
-
     #==========================
     # TABLA DE INFORMACIÓN
     #==========================
