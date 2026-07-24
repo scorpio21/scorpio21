@@ -76,7 +76,16 @@ def get_pokemon_go_data(nombre):
     nombre = nombre.lower()
     cp_multiplier = load_cp_multiplier()
 
+    print(cp_multiplier)
+
     pokemon_moves = None
+
+    cpm = None
+
+    for cp in cp_multiplier:
+        if cp["level"] == 50:
+            cpm = cp["multiplier"]
+            break
 
     for tipo in types:
 
@@ -87,6 +96,12 @@ def get_pokemon_go_data(nombre):
             pokemon_types = tipo
             break
 
+        if "pokemon_types" not in locals():
+            print(f"⚠️ No se encontraron tipos para {nombre}")
+            pokemon_types = {
+                "type": []
+            }
+
     for move in moves:
 
         if (
@@ -96,21 +111,22 @@ def get_pokemon_go_data(nombre):
             pokemon_moves = move
             break
 
+        if pokemon_moves is None:
+            print(f"⚠️ No se encontraron movimientos para {nombre}")
+            pokemon_moves = {
+                "fast_moves": [],
+                "charged_moves": []
+            }
+    
     for pokemon in stats:
 
         if (
             pokemon["pokemon_name"].lower() == nombre
             and pokemon["form"] == "Normal"
         ):
+            print("CPM:", cpm)
 
-            cp_max = None
-
-    for cp in cp_multiplier:
-        if cp["level"] == 50:
-           cp_max = cp["multiplier"]
-           break
-    
-    return {
+            return {
         "pokemon_name": pokemon["pokemon_name"],
         "base_attack": pokemon["base_attack"],
         "base_defense": pokemon["base_defense"],
@@ -123,7 +139,7 @@ def get_pokemon_go_data(nombre):
                 "energy": move["energy_delta"],
                 "duration": move["duration"]
             }
-            for m in pokemon_moves["fast_moves"]
+            for m in pokemon_moves.get("fast_moves", [])
             for move in [buscar_movimiento(m, fast_move_types)]
             if move
         ],
@@ -136,7 +152,7 @@ def get_pokemon_go_data(nombre):
                 "energy": abs(move["energy_delta"]),
                 "duration": move["duration"]
             }
-            for m in pokemon_moves["charged_moves"]
+            for m in pokemon_moves.get("charged_moves", [])
             for move in [buscar_movimiento(m, charged_move_types)]
             if move
         ],
@@ -152,8 +168,8 @@ def get_pokemon_go_data(nombre):
                     + pokemon["base_stamina"]
                 )
             }
-
     return None
+
 
 if __name__ == "__main__":
 
@@ -163,11 +179,11 @@ if __name__ == "__main__":
     print("Tipos:", pokemon["types"])
     print(pokemon["fast_moves"])
     print(pokemon["charged_moves"])
-
+    
     print("\n=== FAST MOVE ===")
 
     fast = load_fast_moves()
-
+    
     for m in fast:
         if m["name"] == "Poison Jab":
             print(m)

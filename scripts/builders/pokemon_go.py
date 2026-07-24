@@ -8,17 +8,19 @@ def build_pokemon_go(nombre):
 
     pokemon = get_pokemon_go_data(nombre)
     
-    if pokemon is None:
-        return "No hay datos de Pokémon GO."
+    if not pokemon:
+        return "⚠️ Información de Pokémon GO no disponible."
 
-    tipos_html = build_tipos_html(pokemon["types"])
+    tipos_html = build_tipos_html(
+        pokemon.get("types", [])
+    )
 
     fast_moves_html = build_moves_html(
-        pokemon["fast_moves"]
+        pokemon.get("fast_moves", [])
     )
 
     charged_moves_html = build_moves_html(
-        pokemon["charged_moves"]
+        pokemon.get("charged_moves", [])
     )
 
     return f"""
