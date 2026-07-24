@@ -76,7 +76,7 @@ def get_pokemon_go_data(nombre):
     nombre = nombre.lower()
     cp_multiplier = load_cp_multiplier()
 
-    print(cp_multiplier)
+    # print(cp_multiplier)
 
     pokemon_moves = None
 
@@ -96,13 +96,17 @@ def get_pokemon_go_data(nombre):
             pokemon_types = tipo
             break
 
-        if "pokemon_types" not in locals():
-            print(f"⚠️ No se encontraron tipos para {nombre}")
-            pokemon_types = {
-                "type": []
-            }
+    if "pokemon_types" not in locals():
+        print(f"⚠️ No se encontraron tipos para {nombre}")
+        pokemon_types = {
+            "type": []
+        }
+    print(f"🔍 Buscando movimientos para: {nombre}")
 
     for move in moves:
+
+        if nombre in move["pokemon_name"].lower():
+            print(move["pokemon_name"], "-", move["form"])
 
         if (
             move["pokemon_name"].lower() == nombre
@@ -111,12 +115,12 @@ def get_pokemon_go_data(nombre):
             pokemon_moves = move
             break
 
-        if pokemon_moves is None:
-            print(f"⚠️ No se encontraron movimientos para {nombre}")
-            pokemon_moves = {
-                "fast_moves": [],
-                "charged_moves": []
-            }
+    if pokemon_moves is None:
+        print(f"⚠️ No se encontraron movimientos para {nombre}")
+        pokemon_moves = {
+            "fast_moves": [],
+            "charged_moves": []
+        }
     
     for pokemon in stats:
 
@@ -124,7 +128,7 @@ def get_pokemon_go_data(nombre):
             pokemon["pokemon_name"].lower() == nombre
             and pokemon["form"] == "Normal"
         ):
-            print("CPM:", cpm)
+            # print("CPM:", cpm)
 
             return {
         "pokemon_name": pokemon["pokemon_name"],
