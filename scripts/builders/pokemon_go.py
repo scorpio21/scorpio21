@@ -24,42 +24,55 @@ def build_pokemon_go(nombre):
     )
 
     return f"""
-<table>
-
+<table width="100%">
 <tr>
-<td><b>🏆 PC máximo</b></td>
-<td>{pokemon["pc_max"]}</td>
+<th align="left">📊 Estadísticas</th>
+<th align="left">⚔️ Combate</th>
 </tr>
 
 <tr>
-<td><b>⚔️ Ataque</b></td>
-<td>{pokemon["base_attack"]}</td>
-</tr>
 
-<tr>
-<td><b>🛡️ Defensa</b></td>
-<td>{pokemon["base_defense"]}</td>
-</tr>
+<td valign="top">
 
-<tr>
-<td><b>❤️ Resistencia</b></td>
-<td>{pokemon["base_stamina"]}</td>
-</tr>
+🏆 <b>PC máximo (Nivel 50)</b><br>
+{pokemon["pc_max"]}
 
-<tr>
-<td><b>🏷️ Tipos</b></td>
-<td>{tipos_html}</td>
-</tr>
+<br><br>
 
-<tr>
-<td><b>⚡ Ataques rápidos</b></td>
-<td>{fast_moves_html}</td>
-</tr>
+⚔️ <b>Ataque</b><br>
+{pokemon["base_attack"]}
 
-<tr>
-<td><b>💥 Ataques cargados</b></td>
-<td>{charged_moves_html}</td>
-</tr>
+<br><br>
 
+🛡️ <b>Defensa</b><br>
+{pokemon["base_defense"]}
+
+<br><br>
+
+❤️ <b>Resistencia</b><br>
+{pokemon["base_stamina"]}
+
+<br><br>
+
+🏷️ <b>Tipos</b><br>
+{tipos_html}
+
+</td>
+
+<td valign="top">
+
+<b>⚡ Ataques rápidos</b><br><br>
+
+{fast_moves_html}
+
+<br><br>
+
+<b>💥 Ataques cargados</b><br><br>
+
+{charged_moves_html}
+
+</td>
+
+</tr>
 </table>
 """
