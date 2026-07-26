@@ -27,10 +27,9 @@ def get_json(url):
 # Cargar estadísticas de Pokémon pogo_api.py
 # ------------------------------
 def load_stats():
-
     url = "https://pogoapi.net/api/v1/pokemon_stats.json"
-
-    return get_json(url)
+    datos = get_json(url)
+    return datos
 #------------------------------
 # Cargar movimientos de Pokémon
 #------------------------------
@@ -88,25 +87,29 @@ def buscar_movimiento(nombre_movimiento, movimientos):
 #------------------------------
 def get_pokemon_go_data(nombre):
 
+    
     stats = load_stats()
+
+    nombres = {p["pokemon_name"] for p in stats}
+    
     moves = load_moves()
+
     types = load_types()
+    
     fast_move_types = load_fast_moves()
+ 
     charged_move_types = load_charged_moves()
-    nombre = nombre.lower()
+
     cp_multiplier = load_cp_multiplier()
+   
+    nombre = nombre.lower()
+    
+    cpm = cp_multiplier[-1]["multiplier"]
 
-    pokemon_moves = None
-
-    cpm = None
-
-    for cp in cp_multiplier:
-        if cp["level"] == 50:
-            cpm = cp["multiplier"]
-            break
+    # Buscar tipos
+    pokemon_types = {"type": []}
 
     for tipo in types:
-
         if (
             tipo["pokemon_name"].lower() == nombre
             and tipo["form"] == "Normal"
@@ -114,74 +117,77 @@ def get_pokemon_go_data(nombre):
             pokemon_types = tipo
             break
 
-    if "pokemon_types" not in locals():
-       
-        pokemon_types = {
-            "type": []
-        }
+    # Buscar movimientos
+    pokemon_moves = {
+        "fast_moves": [],
+        "charged_moves": []
+    }
+    
     for move in moves:
-
         if (
             move["pokemon_name"].lower() == nombre
             and move["form"] == "Normal"
         ):
             pokemon_moves = move
             break
-
-    if pokemon_moves is None:
-        
-        pokemon_moves = {
-            "fast_moves": [],
-            "charged_moves": []
-        }
-    
+    # Buscar estadísticas
     for pokemon in stats:
-
+        
         if (
             pokemon["pokemon_name"].lower() == nombre
             and pokemon["form"] == "Normal"
         ):
 
+            atk = pokemon["base_attack"] + 15
+            deff = pokemon["base_defense"] + 15
+            sta = pokemon["base_stamina"] + 15
+
+            pc_max = int(
+                (atk * (deff ** 0.5) * (sta ** 0.5) * (cpm ** 2)) / 10
+            )
+
             return {
-        "pokemon_name": pokemon["pokemon_name"],
-        "base_attack": pokemon["base_attack"],
-        "base_defense": pokemon["base_defense"],
-        "base_stamina": pokemon["base_stamina"],
-        "fast_moves": [
-            {
-                "nombre": move["name"],
-                "tipo": move["type"],
-                "power": move["power"],
-                "energy": move["energy_delta"],
-                "duration": move["duration"]
-            }
-            for m in pokemon_moves.get("fast_moves", [])
-            for move in [buscar_movimiento(m, fast_move_types)]
-            if move
-        ],
+                "pokemon_name": pokemon["pokemon_name"],
+                "base_attack": pokemon["base_attack"],
+                "base_defense": pokemon["base_defense"],
+                "base_stamina": pokemon["base_stamina"],
 
-        "charged_moves": [
-            {
-                "nombre": move["name"],
-                "tipo": move["type"],
-                "power": move["power"],
-                "energy": abs(move["energy_delta"]),
-                "duration": move["duration"]
-            }
-            for m in pokemon_moves.get("charged_moves", [])
-            for move in [buscar_movimiento(m, charged_move_types)]
-            if move
-        ],
+                "fast_moves": [
+                    {
+                        "nombre": move["name"],
+                        "tipo": move["type"],
+                        "power": move["power"],
+                        "energy": move["energy_delta"],
+                        "duration": move["duration"]
+                    }
+                    for m in pokemon_moves["fast_moves"]
+                    for move in [buscar_movimiento(m, fast_move_types)]
+                    if move
+                ],
 
-        "types": [
-           get_pokemon_type_translation(t.lower())
-           for t in pokemon_types["type"]
-        ],
+                "charged_moves": [
+                    {
+                        "nombre": move["name"],
+                        "tipo": move["type"],
+                        "power": move["power"],
+                        "energy": abs(move["energy_delta"]),
+                        "duration": move["duration"]
+                    }
+                    for m in pokemon_moves["charged_moves"]
+                    for move in [buscar_movimiento(m, charged_move_types)]
+                    if move
+                ],
 
-                "pc_max": (
-                    pokemon["base_attack"]
-                    + pokemon["base_defense"]
-                    + pokemon["base_stamina"]
-                )
+                "types": [
+                    get_pokemon_type_translation(t.lower())
+                    for t in pokemon_types["type"]
+                ],
+
+                "pc_max": pc_max,
             }
+
     return None
+
+if __name__ == "__main__":
+    pass
+   
