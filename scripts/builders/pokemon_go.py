@@ -27,12 +27,10 @@ def build_pokemon_go(nombre):
 <table width="100%">
 <tr>
 <th align="left">📊 Estadísticas</th>
-<th align="left">⚔️ Combate</th>
+
 </tr>
 
 <tr>
-
-<td valign="top">
 
 🏆 <b>PC máximo (Nivel 50)</b><br>
 {pokemon["pc_max"]}
