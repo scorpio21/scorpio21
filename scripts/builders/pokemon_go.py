@@ -61,9 +61,6 @@ def build_pokemon_go(nombre):
 
 </tr>
 </table>
-</table>
-
-<br>
 
 ### ⚡ Ataques rápidos
 
