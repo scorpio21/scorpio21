@@ -59,20 +59,19 @@ def build_pokemon_go(nombre):
 
 </td>
 
-<td valign="top">
+</tr>
+</table>
+</table>
 
-<b>⚡ Ataques rápidos</b><br><br>
+<br>
+
+### ⚡ Ataques rápidos
 
 {fast_moves_html}
 
-<br><br>
+<br>
 
-<b>💥 Ataques cargados</b><br><br>
+### 💥 Ataques cargados
 
 {charged_moves_html}
-
-</td>
-
-</tr>
-</table>
 """
