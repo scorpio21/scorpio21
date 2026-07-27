@@ -171,7 +171,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 ---
 
-## 📱 Pokémon GO
+## 🎮 Pokémon GO
 
 {go_info}
 

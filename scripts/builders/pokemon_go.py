@@ -25,7 +25,6 @@ def build_pokemon_go(nombre):
     )
 
     return f"""
-### 📊 Estadísticas
 
 🏆 **PC máximo (Nivel 50):** {pokemon["pc_max"]}
 
