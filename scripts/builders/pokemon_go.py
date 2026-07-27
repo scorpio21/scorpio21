@@ -4,10 +4,11 @@ from shields.badges import (
     build_moves_html,
 )
 
+
 def build_pokemon_go(nombre):
 
     pokemon = get_pokemon_go_data(nombre)
-    
+
     if not pokemon:
         return "⚠️ Información de Pokémon GO no disponible."
 
@@ -24,47 +25,25 @@ def build_pokemon_go(nombre):
     )
 
     return f"""
-<table width="100%">
-<tr>
-<th align="left">📊 Estadísticas</th>
+### 📊 Estadísticas
 
-</tr>
+🏆 **PC máximo (Nivel 50):** {pokemon["pc_max"]}
 
-<tr>
+⚔️ **Ataque:** {pokemon["base_attack"]}
 
-🏆 <b>PC máximo (Nivel 50)</b><br>
-{pokemon["pc_max"]}
+🛡️ **Defensa:** {pokemon["base_defense"]}
 
-<br><br>
+❤️ **Resistencia:** {pokemon["base_stamina"]}
 
-⚔️ <b>Ataque</b><br>
-{pokemon["base_attack"]}
+🏷️ **Tipos:** {tipos_html}
 
-<br><br>
-
-🛡️ <b>Defensa</b><br>
-{pokemon["base_defense"]}
-
-<br><br>
-
-❤️ <b>Resistencia</b><br>
-{pokemon["base_stamina"]}
-
-<br><br>
-
-🏷️ <b>Tipos</b><br>
-{tipos_html}
-
-</td>
-
-</tr>
-</table>
+---
 
 ### ⚡ Ataques rápidos
 
 {fast_moves_html}
 
-<br>
+---
 
 ### 💥 Ataques cargados
 
