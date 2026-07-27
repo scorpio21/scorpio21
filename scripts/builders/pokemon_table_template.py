@@ -332,17 +332,5 @@ def render_table(
 <td>{perfil_competitivo}</td>
 </tr>
 
-<tr>
-<td colspan="2"><h3>🎮 Pokémon GO</h3></td>
-</tr>
-
-<tr>
-<td colspan="2">
-
-{go_info}
-
-</td>
-</tr>
-
 </table>
 """
