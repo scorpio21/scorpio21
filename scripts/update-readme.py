@@ -58,6 +58,7 @@ from download_cry import download_cry
     juegos,
     datos_interesantes,
     curiosidad,
+    go_info,
 ) = get_pokemon_of_the_day()
 
 download_cry(cry_url)
@@ -130,6 +131,7 @@ pokemon_info_block = build_pokemon_info_block(
     perfil_competitivo=perfil_competitivo,
     datos_interesantes=datos_interesantes,
     curiosidad=curiosidad,
+    go_info=go_info,
 )
 
 # Frase del día
