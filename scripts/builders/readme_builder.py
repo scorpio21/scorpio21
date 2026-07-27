@@ -120,13 +120,11 @@ def build_pokemon_info_block(
     )
 
     curiosidad_html = f"""
-    > 💬 **{curiosidad}**
+    💬 <b>{curiosidad}</b><br><br>
 
-    ---
+    🎮 <b>Juego de debut:</b> {juego_debut}<br>
 
-    🎮 **Juego de debut:** {juego_debut}
-
-    🌍 **Región:** {generation.split("(")[1].replace(")", "")}
+    🌍 <b>Región:</b> {generation.split("(")[1].replace(")", "")}
     """
 
     return f"""<!-- POKEMON_INFO -->
