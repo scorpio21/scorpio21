@@ -1572,9 +1572,6 @@ font-weight:bold;
 
 ---
 
-![GitHub Stats](https://github-readme-stats-fw5wxztic-sonscorpio-gmailcoms-projects.vercel.app/api?username=scorpio21&show_icons=true&theme=tokyonight&cache_seconds=86400)
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=scorpio21&label=Visitas%20al%20perfil&color=27ae60&style=plastic" alt="Visitas al perfil" />
 </p>
