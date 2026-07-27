@@ -1483,8 +1483,6 @@ font-weight:bold;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scorpio21)
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scorpio21&show_icons=true&theme=tokyonight&cache_seconds=86400)
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=scorpio21&label=Visitas%20al%20perfil&color=27ae60&style=plastic" alt="Visitas al perfil" />
