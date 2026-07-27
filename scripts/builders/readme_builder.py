@@ -51,6 +51,7 @@ def build_pokemon_info_block(
     bst_html,
     stats_md,
     perfil_competitivo,
+    go_info,
 ):
     #==========================
     # JUEGOS

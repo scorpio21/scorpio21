@@ -227,4 +227,5 @@ def build_pokemon_table(
         mitico=mitico,
         bebe=bebe,
         forma_regional=forma_regional,
+        go_info=go_info
     )
