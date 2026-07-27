@@ -1,5 +1,6 @@
 import datetime
 
+from builders.pokemon_go import build_pokemon_go
 from pokemon_api import get_pokemon_of_the_day
 from evolution import get_evolution_chain
 from rarity import get_rarity
@@ -58,7 +59,6 @@ from download_cry import download_cry
     juegos,
     datos_interesantes,
     curiosidad,
-    go_info,
 ) = get_pokemon_of_the_day()
 
 download_cry(cry_url)
@@ -80,6 +80,7 @@ frase_del_dia = get_gamer_quote()
 fecha = datetime.datetime.now(datetime.timezone.utc).isoformat()
 
 
+go_info = build_pokemon_go(nombre)
 # Construir bloque README
 pokemon_info_block = build_pokemon_info_block(
     fecha=fecha,
@@ -131,7 +132,7 @@ pokemon_info_block = build_pokemon_info_block(
     perfil_competitivo=perfil_competitivo,
     datos_interesantes=datos_interesantes,
     curiosidad=curiosidad,
-    go_info=go_info,
+    go_info = go_info
 )
 
 # Frase del día
