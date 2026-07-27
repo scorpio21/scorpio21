@@ -81,6 +81,7 @@ def build_pokemon_table(
     bst_html,
     stats_md,
     perfil_competitivo,
+    go_info
 ):
     consola_debut = GAME_CONSOLES.get(juego_debut, "🎮 Desconocida")
     

@@ -61,6 +61,7 @@ def build_pokemon_info_block(
     #==========================
     # TABLA DE INFORMACIÓN
     #==========================
+    go_info = build_pokemon_go(nombre)
 
     table_html = build_pokemon_table(
         pokemon_img_url=pokemon_img_url,
@@ -108,15 +109,14 @@ def build_pokemon_info_block(
         cadena_evolucion=cadena_evolucion,
         bst_html=bst_html,
         stats_md=stats_md,
-        perfil_competitivo=perfil_competitivo
+        perfil_competitivo=perfil_competitivo,
+        go_info = go_info
     )
 
     datos_interesantes_html = "<br>".join(
         dato
         for dato in datos_interesantes
     )
-
-    go_info = build_pokemon_go(nombre)
 
     curiosidad_html = f"""
     > 💬 **{curiosidad}**
@@ -168,12 +168,6 @@ Descubre cada día un Pokémon diferente con su información completa.
 </td>
 </tr>
 </table>
-
----
-
-## 🎮 Pokémon GO
-
-{go_info}
 
 ---
 

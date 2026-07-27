@@ -56,6 +56,7 @@ def render_table(
     mitico,
     bebe,
     forma_regional,
+    go_info,
 ):
     #==========================
     # TABLA DE INFORMACIÓN
@@ -329,6 +330,18 @@ def render_table(
 <tr>
 <td style="white-space: nowrap;"><b>📈 Perfil competitivo</b></td>
 <td>{perfil_competitivo}</td>
+</tr>
+
+<tr>
+<td colspan="2"><h3>🎮 Pokémon GO</h3></td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+{go_info}
+
+</td>
 </tr>
 
 </table>
