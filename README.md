@@ -8,7 +8,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-29T11:13:55.459704+00:00 -->
+<!-- Generated: 2026-07-30T10:57:57.121733+00:00 -->
 
 <h2 align="center">🐱‍👤 Pokémon del día</h2>
 
@@ -29,14 +29,14 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/198.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/620.png" width="220">
 </td>
 
 </tr>
@@ -48,7 +48,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar%20Murkrow-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Mienshao-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
 </a>
 </td>
 </tr>
@@ -59,50 +59,50 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td style="white-space: nowrap;"><b>Nombre</b></td>
-<td>🟣 <b>Murkrow</b></td>
+<td>🔵 <b>Mienshao</b></td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🇯🇵 Nombre original</b></td>
-<td>ヤミカラス</td>
+<td>コジョンド</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🧬 Especie</b></td>
-<td>Pokémon Murkrow</td>
+<td>Pokémon Mienshao</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/Raro-purple?style=flat-square">
+<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>Nº Pokédex</b></td>
-<td>#198</td>
+<td>#620</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🧬 Generación</b></td>
-<td>II (Johto) <br><small>📅 1999</small></td>
+<td>V (Teselia) <br><small>📅 2010</small></td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🗺️ Región</b></td>
-<td>🏝️ Johto</td>
+<td>🏝️ Teselia</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🎮 Juego debut</b></td>
-<td>Pokémon Oro / Plata</td>
+<td>Pokémon Negro / Blanco</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🎵 Música</b></td>
 <td>
-<a href="https://www.youtube.com/results?search_query=Pokemon+Gold+Silver+Wild+Pokemon+Theme" target="_blank">
+<a href="https://www.youtube.com/results?search_query=Pokemon+Black+White+Wild+Pokemon+Theme" target="_blank">
 🎧 Escuchar en YouTube
 </a>
 </td>
@@ -110,7 +110,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td style="white-space: nowrap;"><b>Tipo(s)</b></td>
-<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/e/e0/latest/20230128132504/Tipo_siniestro_icono_EP.svg" width="23" alt="Siniestro" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro" style="vertical-align:middle;">&nbsp;<img src="https://images.wikidexcdn.net/mwuploads/wikidex/6/6b/latest/20230128132815/Tipo_volador_icono_EP.svg" width="23" alt="Volador" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador" style="vertical-align:middle;">&nbsp;</td>
+<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/f/f2/latest/20230128125518/Tipo_lucha_icono_EP.svg" width="23" alt="Lucha" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha" style="vertical-align:middle;">&nbsp;</td>
 </tr>
 
 <tr>
@@ -119,7 +119,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td style="white-space: nowrap;"><b>Clase</b></td>
-<td>Oscuridad</td>
+<td>Arte marcial</td>
 </tr>
 
 <tr>
@@ -152,17 +152,17 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td style="white-space: nowrap;"><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Negro-000000?style=flat-square" alt="black" style="vertical-align:middle;"></td>
+<td><img src="https://img.shields.io/badge/Morado-9C27B0?style=flat-square" alt="purple" style="vertical-align:middle;"></td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>📏 Altura</b></td>
-<td>0.5 m</td>
+<td>1.4 m</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>⚖️ Peso</b></td>
-<td>2.1 kg</td>
+<td>35.5 kg</td>
 </tr>
 
 <tr>
@@ -172,18 +172,18 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td style="white-space: nowrap;"><b>🌍 Hábitat</b></td>
-<td>🌲 Bosque</td>
+<td>❓ Desconocido</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🥚 Grupo huevo</b></td>
-<td>Volador</td>
+<td>Campo, Humanoide</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>❤️ Amistad base</b></td>
 <td>
-35<br>
+70<br>
 ❤️🤍🤍🤍🤍
 </td>
 </tr>
@@ -194,31 +194,31 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td style="white-space: nowrap;"><b>⚔️ Débil contra</b></td>
-<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/1/1a/latest/20230128124809/Tipo_bicho_icono_EP.svg" width="23" alt="Bicho" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho" style="vertical-align:middle;">&nbsp;<img src="https://images.wikidexcdn.net/mwuploads/wikidex/8/84/latest/20230128125008/Tipo_el%C3%A9ctrico_icono_EP.svg" width="23" alt="Eléctrico" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico" style="vertical-align:middle;">&nbsp;<img src="https://images.wikidexcdn.net/mwuploads/wikidex/b/b7/latest/20230128125233/Tipo_hada_icono_EP.svg" width="23" alt="Hada" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada" style="vertical-align:middle;">&nbsp;<img src="https://images.wikidexcdn.net/mwuploads/wikidex/a/a6/latest/20230128125423/Tipo_hielo_icono_EP.svg" width="23" alt="Hielo" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo" style="vertical-align:middle;">&nbsp;<img src="https://images.wikidexcdn.net/mwuploads/wikidex/f/f2/latest/20230128125518/Tipo_lucha_icono_EP.svg" width="23" alt="Lucha" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha" style="vertical-align:middle;">&nbsp;<img src="https://images.wikidexcdn.net/mwuploads/wikidex/1/14/latest/20230128125805/Tipo_roca_icono_EP.svg" width="23" alt="Roca" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca" style="vertical-align:middle;">&nbsp;</td>
+<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/b/b7/latest/20230128125233/Tipo_hada_icono_EP.svg" width="23" alt="Hada" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Hada-D685AD?style=flat-square" alt="Hada" style="vertical-align:middle;">&nbsp;<img src="https://images.wikidexcdn.net/mwuploads/wikidex/2/22/latest/20230128125735/Tipo_ps%C3%ADquico_icono_EP.svg" width="23" alt="Psíquico" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico" style="vertical-align:middle;">&nbsp;<img src="https://images.wikidexcdn.net/mwuploads/wikidex/6/6b/latest/20230128132815/Tipo_volador_icono_EP.svg" width="23" alt="Volador" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador" style="vertical-align:middle;">&nbsp;</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🛡️ Resiste</b></td>
-<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/1/1a/latest/20230128124809/Tipo_bicho_icono_EP.svg" width="23" alt="Bicho" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho" style="vertical-align:middle;">&nbsp;<img src="https://images.wikidexcdn.net/mwuploads/wikidex/3/3d/latest/20230128125103/Tipo_fantasma_icono_EP.svg" width="23" alt="Fantasma" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma" style="vertical-align:middle;">&nbsp;<img src="https://images.wikidexcdn.net/mwuploads/wikidex/f/f2/latest/20230128125518/Tipo_lucha_icono_EP.svg" width="23" alt="Lucha" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha" style="vertical-align:middle;">&nbsp;<img src="https://images.wikidexcdn.net/mwuploads/wikidex/e/ed/latest/20230128125654/Tipo_planta_icono_EP.svg" width="23" alt="Planta" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta" style="vertical-align:middle;">&nbsp;<img src="https://images.wikidexcdn.net/mwuploads/wikidex/e/e0/latest/20230128132504/Tipo_siniestro_icono_EP.svg" width="23" alt="Siniestro" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro" style="vertical-align:middle;">&nbsp;</td>
+<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/1/1a/latest/20230128124809/Tipo_bicho_icono_EP.svg" width="23" alt="Bicho" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Bicho-A6B91A?style=flat-square" alt="Bicho" style="vertical-align:middle;">&nbsp;<img src="https://images.wikidexcdn.net/mwuploads/wikidex/1/14/latest/20230128125805/Tipo_roca_icono_EP.svg" width="23" alt="Roca" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Roca-B6A136?style=flat-square" alt="Roca" style="vertical-align:middle;">&nbsp;<img src="https://images.wikidexcdn.net/mwuploads/wikidex/e/e0/latest/20230128132504/Tipo_siniestro_icono_EP.svg" width="23" alt="Siniestro" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro" style="vertical-align:middle;">&nbsp;</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>✨ Inmune a</b></td>
-<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/2/22/latest/20230128125735/Tipo_ps%C3%ADquico_icono_EP.svg" width="23" alt="Psíquico" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Psíquico-F95587?style=flat-square" alt="Psíquico" style="vertical-align:middle;">&nbsp;<img src="https://images.wikidexcdn.net/mwuploads/wikidex/c/c8/latest/20230128132625/Tipo_tierra_icono_EP.svg" width="23" alt="Tierra" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Tierra-E2BF65?style=flat-square" alt="Tierra" style="vertical-align:middle;">&nbsp;</td>
+<td>Ninguna</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🎯 Captura</b></td>
 <td>
 <img src="https://img.shields.io/badge/Dif%C3%ADcil-orange?style=flat-square"><br>
-🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜<br>
-11.8%
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>
+17.6%
 </td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🎲 Ratio captura</b></td>
-<td>30</td>
+<td>45</td>
 </tr>
 
 <tr>
@@ -228,7 +228,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td style="white-space: nowrap;"><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Insomnio</b><br><small>Prevents sleep.</small><br><br>🟢 ⚡ <b>Afortunado</b><br><small>Raises moves' critical hit rates one stage.</small><br><br>⭐ ✨ <b>Bromista</b> (Oculta)<br><small>Raises non-damaging moves' priority by one stage.</small></td>
+<td>🟢 ⚡ <b>Fuerza Mental</b><br><small>Prevents flinching.</small><br><br>🟢 ⚡ <b>Regeneración</b><br><small>Heals for 1/3 max HP upon switching out.</small><br><br>⭐ ✨ <b>Audaz</b> (Oculta)<br><small>Strengthens recoil moves to 1.2× their power.</small></td>
 </tr>
 
 <tr>
@@ -238,7 +238,7 @@ Descubre cada día un Pokémon diferente con su información completa.
 
 <tr>
 <td style="white-space: nowrap;"><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Picoteo-A890F0?style=flat-square"> <img src="https://img.shields.io/badge/T%C3%B3xico-A040A0?style=flat-square"> <img src="https://img.shields.io/badge/Alarido-705848?style=flat-square"> <img src="https://img.shields.io/badge/Vuelo-A890F0?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Puya%20Nociva-A040A0?style=flat-square"> <img src="https://img.shields.io/badge/Canon-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Detecci%C3%B3n-C03028?style=flat-square"> <img src="https://img.shields.io/badge/Pu%C3%B1o%20Drenaje-C03028?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -268,7 +268,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/murkrow.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/mienfoo.jpg" width="62">
 
 </td>
 </tr>
@@ -291,7 +291,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Murkrow
+Mienfoo
 </b>
 
 <br>
@@ -300,12 +300,12 @@ Murkrow
 color:#555;
 font-weight:bold;
 ">
-#0198
+#0619
 </small>
 
 <br><br>
 
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/e/e0/latest/20230128132504/Tipo_siniestro_icono_EP.svg" width="23" alt="Siniestro" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro" style="vertical-align:middle;">&nbsp;<img src="https://images.wikidexcdn.net/mwuploads/wikidex/6/6b/latest/20230128132815/Tipo_volador_icono_EP.svg" width="23" alt="Volador" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador" style="vertical-align:middle;">&nbsp;
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/f/f2/latest/20230128125518/Tipo_lucha_icono_EP.svg" width="23" alt="Lucha" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha" style="vertical-align:middle;">&nbsp;
 
 </div>
 
@@ -322,7 +322,7 @@ color:#FFD54F;
 margin-bottom:10px;
 ">
 
-Piedra Noche
+Nivel 50
 
 </div>
 
@@ -358,7 +358,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/honchkrow.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/mienshao.jpg" width="62">
 
 </td>
 </tr>
@@ -381,7 +381,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Honchkrow
+Mienshao
 </b>
 
 <br>
@@ -390,12 +390,12 @@ Honchkrow
 color:#555;
 font-weight:bold;
 ">
-#0430
+#0620
 </small>
 
 <br><br>
 
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/e/e0/latest/20230128132504/Tipo_siniestro_icono_EP.svg" width="23" alt="Siniestro" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro" style="vertical-align:middle;">&nbsp;<img src="https://images.wikidexcdn.net/mwuploads/wikidex/6/6b/latest/20230128132815/Tipo_volador_icono_EP.svg" width="23" alt="Volador" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador" style="vertical-align:middle;">&nbsp;
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/f/f2/latest/20230128125518/Tipo_lucha_icono_EP.svg" width="23" alt="Lucha" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha" style="vertical-align:middle;">&nbsp;
 
 </div>
 
@@ -410,7 +410,7 @@ font-weight:bold;
 
 <tr>
 <td style="white-space: nowrap;"><b>🎮 Juegos</b></td>
-<td><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Luna-4b0082?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Rub%C3%AD%20Omega-b22222?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Sol-ff8c00?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Ultraluna-6a5acd?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Ultrasol-ff4500?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20X-4169e1?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Y-dc143c?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Zafiro%20Alfa-1e90ff?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Escudo-dc143c?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Espada-1e90ff?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Rub%C3%AD%20Omega-b22222?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Ultraluna-6a5acd?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Ultrasol-ff4500?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20X-4169e1?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Y-dc143c?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Zafiro%20Alfa-1e90ff?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -419,7 +419,7 @@ font-weight:bold;
 
 <tr>
 <td style="white-space: nowrap;"><b>⭐ Experiencia Base</b></td>
-<td>81</td>
+<td>179</td>
 </tr>
 
 <tr>
@@ -437,10 +437,10 @@ font-weight:bold;
 <tr>
 <td style="white-space: nowrap;"><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜
 
-<b>405 puntos</b><br>
-⚔️ Fuerte
+<b>510 puntos</b><br>
+🔥 Muy fuerte
 </td>
 </tr>
 
@@ -448,32 +448,32 @@ font-weight:bold;
 <td style="white-space: nowrap;">
 <b style="white-space: nowrap;">📊 Estadísticas Base</b>
 </td>
-<td>❤️ PS 60<br>
+<td>❤️ PS 65<br>
+    🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜<br>
+    ⚔️ Ataque 125<br>
+    🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜<br>
+    🛡️ Defensa 60<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br>
-    ⚔️ Ataque 85<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br>
-    🛡️ Defensa 42<br>
+    ✨ At. Especial 95<br>
+    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br>
+    🛡️ Def. Especial 60<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br>
-    ✨ At. Especial 85<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br>
-    🛡️ Def. Especial 42<br>
-    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br>
-    💨 Velocidad 91<br>
-    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜
+    💨 Velocidad 105<br>
+    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜
     <hr>
 
-🏆 <b>Total Base:</b> 405<br>
-🥇 <b>Mejor atributo:</b> 💨 Velocidad (91)<br>
-🥉 <b>Atributo más bajo:</b> 🛡️ Defensa (42)</td>
+🏆 <b>Total Base:</b> 510<br>
+🥇 <b>Mejor atributo:</b> ⚔️ Ataque (125)<br>
+🥉 <b>Atributo más bajo:</b> 🛡️ Defensa (60)</td>
 
 <tr>
 <td style="white-space: nowrap;"><b>📈 Perfil competitivo</b></td>
 <td>
     🏆 <b>Poder total</b>: ⭐⭐⭐⭐⭐<br>
-    ⚔️ <b>Ataque</b>: ⭐⭐☆☆☆<br>
-    🛡️ <b>Defensa</b>: ⭐☆☆☆☆<br>
-    ✨ <b>At. Especial</b>: ⭐⭐☆☆☆<br>
-    🛡️ <b>Def. Especial</b>: ⭐☆☆☆☆<br>
+    ⚔️ <b>Ataque</b>: ⭐⭐⭐⭐☆<br>
+    🛡️ <b>Defensa</b>: ⭐⭐☆☆☆<br>
+    ✨ <b>At. Especial</b>: ⭐⭐⭐☆☆<br>
+    🛡️ <b>Def. Especial</b>: ⭐⭐☆☆☆<br>
     💨 <b>Velocidad</b>: ⭐⭐⭐☆☆
     </td>
 </tr>
@@ -487,27 +487,27 @@ font-weight:bold;
 
 
 
-🏆 **PC máximo (Nivel 50):** 1663
+🏆 **PC máximo (Nivel 50):** 2885
 
-⚔️ **Ataque:** 175
+⚔️ **Ataque:** 258
 
-🛡️ **Defensa:** 87
+🛡️ **Defensa:** 127
 
-❤️ **Resistencia:** 155
+❤️ **Resistencia:** 163
 
-🏷️ **Tipos:** <img src="https://images.wikidexcdn.net/mwuploads/wikidex/e/e0/latest/20230128132504/Tipo_siniestro_icono_EP.svg" width="23" alt="Siniestro" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro" style="vertical-align:middle;">&nbsp;<img src="https://images.wikidexcdn.net/mwuploads/wikidex/6/6b/latest/20230128132815/Tipo_volador_icono_EP.svg" width="23" alt="Volador" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Volador-A98FF3?style=flat-square" alt="Volador" style="vertical-align:middle;">&nbsp;
+🏷️ **Tipos:** <img src="https://images.wikidexcdn.net/mwuploads/wikidex/f/f2/latest/20230128125518/Tipo_lucha_icono_EP.svg" width="23" alt="Lucha" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha" style="vertical-align:middle;">&nbsp;
 
 ---
 
 ### ⚡ Ataques rápidos
 
-<img src="https://img.shields.io/badge/Feint%20Attack-705746?style=flat-square"> ⚔️11 ⚡10 ⏱️1.0s<br><img src="https://img.shields.io/badge/Peck-A98FF3?style=flat-square"> ⚔️10 ⚡10 ⏱️1.0s
+<img src="https://img.shields.io/badge/Poison%20Jab-A33EA1?style=flat-square"> ⚔️13 ⚡9 ⏱️1.0s<br><img src="https://img.shields.io/badge/Force%20Palm-C22E28?style=flat-square"> ⚔️10 ⚡16 ⏱️1.0s<br><img src="https://img.shields.io/badge/Low%20Kick-C22E28?style=flat-square"> ⚔️5 ⚡5 ⏱️0.5s
 
 ---
 
 ### 💥 Ataques cargados
 
-<img src="https://img.shields.io/badge/Dark%20Pulse-705746?style=flat-square"> ⚔️80 ⚡50 ⏱️3.0s<br><img src="https://img.shields.io/badge/Drill%20Peck-A98FF3?style=flat-square"> ⚔️70 ⚡33 ⏱️2.5s<br><img src="https://img.shields.io/badge/Foul%20Play-705746?style=flat-square"> ⚔️70 ⚡50 ⏱️2.0s
+<img src="https://img.shields.io/badge/Stone%20Edge-B6A136?style=flat-square"> ⚔️105 ⚡100 ⏱️2.5s<br><img src="https://img.shields.io/badge/Grass%20Knot-7AC74C?style=flat-square"> ⚔️90 ⚡50 ⏱️2.5s<br><img src="https://img.shields.io/badge/Brutal%20Swing-705746?style=flat-square"> ⚔️65 ⚡33 ⏱️2.0s<br><img src="https://img.shields.io/badge/Drain%20Punch-C22E28?style=flat-square"> ⚔️50 ⚡33 ⏱️2.5s<br><img src="https://img.shields.io/badge/Brick%20Break-C22E28?style=flat-square"> ⚔️40 ⚡33 ⏱️1.5s<br><img src="https://img.shields.io/badge/Blaze%20Kick-EE8130?style=flat-square"> ⚔️40 ⚡33 ⏱️1.0s
 
 
 ---
@@ -519,11 +519,11 @@ font-weight:bold;
 <td>
 
 
-    💬 Esconde objetos brillantes en un lugar secreto. Meowth y Murkrow suelen saquear su escondite.
+    💬 Usa el pelaje de sus brazos a manera de látigos. Sus ataques alcanzan velocidades de vértigo.
 
-    🎮 Juego de debut: Pokémon Oro / Plata
+    🎮 Juego de debut: Pokémon Negro / Blanco
 
-    🌍 Región: Johto
+    🌍 Región: Teselia
     
 
 </td>
@@ -538,7 +538,7 @@ font-weight:bold;
 <tr>
 <td>
 
-⚖️ Pesa 2.1 kg.<br>🧬 Introducido en la generación II (Johto).<br>🥚 Pertenece al grupo huevo Volador.
+⚖️ Pesa 35.5 kg.<br>🎯 Ratio de captura: 45.<br>❤️ Amistad base: 70.
 
 </td>
 </tr>
@@ -550,7 +550,7 @@ font-weight:bold;
 
 ⭐ Datos oficiales obtenidos de <b>PokéAPI</b><br>
 🤖 Generado automáticamente con Python<br>
-🗓️ Última actualización: <b>2026-07-29</b>
+🗓️ Última actualización: <b>2026-07-30</b>
 
 </p>
 
@@ -1262,16 +1262,18 @@ font-weight:bold;
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-29T11:13:55.459704+00:00 -->
+<!-- Generated: 2026-07-30T10:57:57.121733+00:00 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"En cada partida, hay un nuevo desafío esperando ser conquistado."*
+> *"El verdadero juego comienza cuando apagas la consola."*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
