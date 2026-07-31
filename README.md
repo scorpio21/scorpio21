@@ -6,9 +6,6 @@
 Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=38&duration=3500&pause=1200&color=E53935&center=true&vCenter=true&width=900&lines=Pok%C3%A9dex+Diaria;Pok%C3%A9mon+del+D%C3%ADa;%F0%9F%94%8D+Analizando...;%E2%AD%90+%C2%A1Que+empiece+la+aventura!" alt="Pokédex Diaria" />
-</p>
 
 <!-- POKEMON_INFO -->
 <!-- Generated: 2026-07-31T11:38:46.679559+00:00 -->
