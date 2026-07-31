@@ -8,10 +8,10 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 ---
 
 <!-- POKEMON_INFO -->
-<!-- Generated: 2026-07-31T11:38:46.679559+00:00 -->
+<!-- Generated: 2026-07-31T11:41:28.558229+00:00 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=38&duration=3500&pause=1200&color=E53935&center=true&vCenter=true&width=900&lines=Pok%C3%A9dex+Diaria;Pok%C3%A9mon+del+D%C3%ADa;%F0%9F%94%8D+Analizando...;%E2%AD%90+Greedent" alt="Pokédex Diaria" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=38&duration=3500&pause=1200&color=E53935&center=true&vCenter=true&width=900&lines=Pok%C3%A9dex+Diaria;Pok%C3%A9mon+del+D%C3%ADa;%F0%9F%94%8D+Analizando...;%E2%AD%90+Froakie+%C2%A1Que+empiece+la+aventura!" alt="Pokédex Diaria" />
 </p>
 
 ---
@@ -27,14 +27,14 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 <td align="center">
 <b>Normal</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png" width="220">
 </td>
 
 <td width="40"></td>
 
 <td align="center">
 <b>✨ Shiny</b><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/820.png" width="220">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/656.png" width="220">
 </td>
 
 </tr>
@@ -46,7 +46,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 <tr>
 <td colspan="2" align="center">
 <a href="https://raw.githubusercontent.com/scorpio21/scorpio21/main/cries/cry.ogg">
-<img src="https://img.shields.io/badge/▶️%20Escuchar%20Greedent-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
+<img src="https://img.shields.io/badge/▶️%20Escuchar%20Froakie-Grito%20Oficial-4CAF50?style=for-the-badge" alt="Escuchar grito">
 </a>
 </td>
 </tr>
@@ -57,50 +57,50 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 <tr>
 <td style="white-space: nowrap;"><b>Nombre</b></td>
-<td>🟢 <b>Greedent</b></td>
+<td>🔵 <b>Froakie</b></td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🇯🇵 Nombre original</b></td>
-<td>ヨクバリス</td>
+<td>ケロマツ</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🧬 Especie</b></td>
-<td>Pokémon Greedent</td>
+<td>Pokémon Froakie</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>Rareza</b></td>
 <td>
-<img src="https://img.shields.io/badge/Común-brightgreen?style=flat-square">
+<img src="https://img.shields.io/badge/No común-blue?style=flat-square">
 </td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>Nº Pokédex</b></td>
-<td>#820</td>
+<td>#656</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🧬 Generación</b></td>
-<td>VIII (Galar) <br><small>📅 2019</small></td>
+<td>VI (Kalos) <br><small>📅 2013</small></td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🗺️ Región</b></td>
-<td>🏝️ Galar</td>
+<td>🏝️ Kalos</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🎮 Juego debut</b></td>
-<td>Pokémon Espada / Escudo</td>
+<td>Pokémon X / Y</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🎵 Música</b></td>
 <td>
-<a href="https://www.youtube.com/results?search_query=Pokemon+Sword+Shield+Wild+Pokemon+Theme" target="_blank">
+<a href="https://www.youtube.com/results?search_query=Pokemon+X+Y+Wild+Pokemon+Theme" target="_blank">
 🎧 Escuchar en YouTube
 </a>
 </td>
@@ -108,7 +108,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 <tr>
 <td style="white-space: nowrap;"><b>Tipo(s)</b></td>
-<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/c/c3/latest/20230128125621/Tipo_normal_icono_EP.svg" width="23" alt="Normal" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal" style="vertical-align:middle;">&nbsp;</td>
+<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="23" alt="Agua" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;">&nbsp;</td>
 </tr>
 
 <tr>
@@ -117,7 +117,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 <tr>
 <td style="white-space: nowrap;"><b>Clase</b></td>
-<td>Avaricia</td>
+<td>Burburrana</td>
 </tr>
 
 <tr>
@@ -150,22 +150,22 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 <tr>
 <td style="white-space: nowrap;"><b>🎨 Color</b></td>
-<td><img src="https://img.shields.io/badge/Marrón-795548?style=flat-square" alt="brown" style="vertical-align:middle;"></td>
+<td><img src="https://img.shields.io/badge/Azul-2196F3?style=flat-square" alt="blue" style="vertical-align:middle;"></td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>📏 Altura</b></td>
-<td>0.6 m</td>
+<td>0.3 m</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>⚖️ Peso</b></td>
-<td>6.0 kg</td>
+<td>7.0 kg</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>♂️ / ♀️</b></td>
-<td>♂️ 50.0% &nbsp;&nbsp;&nbsp; ♀️ 50.0%</td>
+<td>♂️ 87.5% &nbsp;&nbsp;&nbsp; ♀️ 12.5%</td>
 </tr>
 
 <tr>
@@ -175,13 +175,13 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 <tr>
 <td style="white-space: nowrap;"><b>🥚 Grupo huevo</b></td>
-<td>Campo</td>
+<td>Agua 1</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>❤️ Amistad base</b></td>
 <td>
-50<br>
+70<br>
 ❤️🤍🤍🤍🤍
 </td>
 </tr>
@@ -192,31 +192,31 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 <tr>
 <td style="white-space: nowrap;"><b>⚔️ Débil contra</b></td>
-<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/f/f2/latest/20230128125518/Tipo_lucha_icono_EP.svg" width="23" alt="Lucha" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Lucha-C22E28?style=flat-square" alt="Lucha" style="vertical-align:middle;">&nbsp;</td>
+<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/8/84/latest/20230128125008/Tipo_el%C3%A9ctrico_icono_EP.svg" width="23" alt="Eléctrico" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Eléctrico-F7D02C?style=flat-square" alt="Eléctrico" style="vertical-align:middle;">&nbsp;<img src="https://images.wikidexcdn.net/mwuploads/wikidex/e/ed/latest/20230128125654/Tipo_planta_icono_EP.svg" width="23" alt="Planta" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Planta-7AC74C?style=flat-square" alt="Planta" style="vertical-align:middle;">&nbsp;</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🛡️ Resiste</b></td>
-<td></td>
+<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/6/6c/latest/20230128124521/Tipo_acero_icono_EP.svg" width="23" alt="Acero" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Acero-B7B7CE?style=flat-square" alt="Acero" style="vertical-align:middle;">&nbsp;<img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="23" alt="Agua" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;">&nbsp;<img src="https://images.wikidexcdn.net/mwuploads/wikidex/5/55/latest/20230128125153/Tipo_fuego_icono_EP.svg" width="23" alt="Fuego" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Fuego-EE8130?style=flat-square" alt="Fuego" style="vertical-align:middle;">&nbsp;<img src="https://images.wikidexcdn.net/mwuploads/wikidex/a/a6/latest/20230128125423/Tipo_hielo_icono_EP.svg" width="23" alt="Hielo" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Hielo-96D9D6?style=flat-square" alt="Hielo" style="vertical-align:middle;">&nbsp;</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>✨ Inmune a</b></td>
-<td><img src="https://images.wikidexcdn.net/mwuploads/wikidex/3/3d/latest/20230128125103/Tipo_fantasma_icono_EP.svg" width="23" alt="Fantasma" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Fantasma-735797?style=flat-square" alt="Fantasma" style="vertical-align:middle;">&nbsp;</td>
+<td>Ninguna</td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🎯 Captura</b></td>
 <td>
-<img src="https://img.shields.io/badge/Normal-yellow?style=flat-square"><br>
-🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br>
-35.3%
+<img src="https://img.shields.io/badge/Dif%C3%ADcil-orange?style=flat-square"><br>
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>
+17.6%
 </td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🎲 Ratio captura</b></td>
-<td>90</td>
+<td>45</td>
 </tr>
 
 <tr>
@@ -226,7 +226,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 <tr>
 <td style="white-space: nowrap;"><b>💪 Habilidades</b></td>
-<td>🟢 ⚡ <b>Carrillo</b><br><small>Restores HP upon eating a Berry, in addition to the Berry's effect.</small><br><br>⭐ ✨ <b>Gula</b> (Oculta)<br><small>Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.</small></td>
+<td>🟢 ⚡ <b>Torrente</b><br><small>Strengthens Water moves to inflict 1.5× damage at 1/3 max HP or less.</small><br><br>⭐ ✨ <b>Mutatipo</b> (Oculta)<br><small>Changes the bearer's type to match each move it uses.</small></td>
 </tr>
 
 <tr>
@@ -236,7 +236,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 <tr>
 <td style="white-space: nowrap;"><b>🥊 Movimientos</b></td>
-<td><img src="https://img.shields.io/badge/Colmillo%20Rayo-F8D030?style=flat-square"> <img src="https://img.shields.io/badge/Triturar-705848?style=flat-square"> <img src="https://img.shields.io/badge/Atiborramiento-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Cola%20F%C3%A9rrea-B8B8D0?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Confidencia-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Hidropulso-6890F0?style=flat-square"> <img src="https://img.shields.io/badge/Ronquido-A8A878?style=flat-square"> <img src="https://img.shields.io/badge/Viento%20Hielo-98D8D8?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -266,7 +266,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/skwovet.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/froakie.jpg" width="62">
 
 </td>
 </tr>
@@ -289,7 +289,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Skwovet
+Froakie
 </b>
 
 <br>
@@ -298,12 +298,12 @@ Skwovet
 color:#555;
 font-weight:bold;
 ">
-#0819
+#0656
 </small>
 
 <br><br>
 
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/c/c3/latest/20230128125621/Tipo_normal_icono_EP.svg" width="23" alt="Normal" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal" style="vertical-align:middle;">&nbsp;
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="23" alt="Agua" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;">&nbsp;
 
 </div>
 
@@ -320,7 +320,7 @@ color:#FFD54F;
 margin-bottom:10px;
 ">
 
-Nivel 24
+Nivel 16
 
 </div>
 
@@ -356,7 +356,7 @@ border:2px solid #492A49;
 border-radius:50%;
 ">
 
-<img src="https://img.pokemondb.net/artwork/large/greedent.jpg" width="62">
+<img src="https://img.pokemondb.net/artwork/large/frogadier.jpg" width="62">
 
 </td>
 </tr>
@@ -379,7 +379,7 @@ min-width:95px;
 ">
 
 <b style="font-size:15px;color:#000;">
-Greedent
+Frogadier
 </b>
 
 <br>
@@ -388,12 +388,102 @@ Greedent
 color:#555;
 font-weight:bold;
 ">
-#0820
+#0657
 </small>
 
 <br><br>
 
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/c/c3/latest/20230128125621/Tipo_normal_icono_EP.svg" width="23" alt="Normal" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal" style="vertical-align:middle;">&nbsp;
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="23" alt="Agua" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;">&nbsp;
+
+</div>
+
+</div>
+
+</td>
+
+<td align="center" valign="middle" style="width:auto; padding:10px;">
+
+<div style="
+font-size:14px;
+font-weight:bold;
+color:#FFD54F;
+margin-bottom:10px;
+">
+
+Nivel 36
+
+</div>
+
+<div style="
+font-size:32px;
+font-weight:bold;
+">
+
+➜
+
+</div>
+
+</td>
+
+<td align="center" valign="top">
+
+<div style="
+display:flex;
+flex-direction:column;
+align-items:center;
+width:95px;
+">
+
+<table align="center" cellspacing="0" cellpadding="0">
+<tr>
+<td
+align="center"
+width="78"
+height="78"
+style="
+background:#98C2D1;
+border:2px solid #492A49;
+border-radius:50%;
+">
+
+<img src="https://img.pokemondb.net/artwork/large/greninja.jpg" width="62">
+
+</td>
+</tr>
+</table>
+
+<div style="
+margin-top:8px;
+font-size:12px;
+color:#9aa6b2;
+">
+
+</div>
+
+<div style="
+margin-top:6px;
+padding:6px 10px;
+background:#EAF4F7;
+border-radius:8px;
+min-width:95px;
+">
+
+<b style="font-size:15px;color:#000;">
+Greninja
+</b>
+
+<br>
+
+<small style="
+color:#555;
+font-weight:bold;
+">
+#0658
+</small>
+
+<br><br>
+
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="23" alt="Agua" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;">&nbsp;<img src="https://images.wikidexcdn.net/mwuploads/wikidex/e/e0/latest/20230128132504/Tipo_siniestro_icono_EP.svg" width="23" alt="Siniestro" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Siniestro-705746?style=flat-square" alt="Siniestro" style="vertical-align:middle;">&nbsp;
 
 </div>
 
@@ -408,7 +498,7 @@ font-weight:bold;
 
 <tr>
 <td style="white-space: nowrap;"><b>🎮 Juegos</b></td>
-<td><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Escudo-dc143c?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Espada-1e90ff?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Rub%C3%AD%20Omega-b22222?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20X-4169e1?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Y-dc143c?style=flat-square"><br><img src="https://img.shields.io/badge/Pok%C3%A9mon%20Zafiro%20Alfa-1e90ff?style=flat-square"></td>
 </tr>
 
 <tr>
@@ -417,28 +507,28 @@ font-weight:bold;
 
 <tr>
 <td style="white-space: nowrap;"><b>⭐ Experiencia Base</b></td>
-<td>161</td>
+<td>63</td>
 </tr>
 
 <tr>
 <td><b>📈 Nivel 100</b></td>
 <td>
-💠 <b>1.000.000 XP</b>
+💠 <b>1.059.860 XP</b>
 </td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>📚 Crecimiento</b></td>
-<td><img src="https://img.shields.io/badge/Medio-lightgrey?style=flat-square"></td>
+<td><img src="https://img.shields.io/badge/Medio%20lento-yellow?style=flat-square"></td>
 </tr>
 
 <tr>
 <td style="white-space: nowrap;"><b>🏆 Poder Total (BST)</b></td>
 <td>
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜
+🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<b>460 puntos</b><br>
-⚔️ Fuerte
+<b>314 puntos</b><br>
+👍 Normal
 </td>
 </tr>
 
@@ -446,33 +536,33 @@ font-weight:bold;
 <td style="white-space: nowrap;">
 <b style="white-space: nowrap;">📊 Estadísticas Base</b>
 </td>
-<td>❤️ PS 120<br>
-    🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜<br>
-    ⚔️ Ataque 95<br>
-    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br>
-    🛡️ Defensa 95<br>
-    🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜<br>
-    ✨ At. Especial 55<br>
+<td>❤️ PS 41<br>
     🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br>
-    🛡️ Def. Especial 75<br>
-    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜<br>
-    💨 Velocidad 20<br>
-    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜
+    ⚔️ Ataque 56<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br>
+    🛡️ Defensa 40<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br>
+    ✨ At. Especial 62<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br>
+    🛡️ Def. Especial 44<br>
+    🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜<br>
+    💨 Velocidad 71<br>
+    🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜
     <hr>
 
-🏆 <b>Total Base:</b> 460<br>
-🥇 <b>Mejor atributo:</b> ❤️ PS (120)<br>
-🥉 <b>Atributo más bajo:</b> 💨 Velocidad (20)</td>
+🏆 <b>Total Base:</b> 314<br>
+🥇 <b>Mejor atributo:</b> 💨 Velocidad (71)<br>
+🥉 <b>Atributo más bajo:</b> 🛡️ Defensa (40)</td>
 
 <tr>
 <td style="white-space: nowrap;"><b>📈 Perfil competitivo</b></td>
 <td>
     🏆 <b>Poder total</b>: ⭐⭐⭐⭐⭐<br>
-    ⚔️ <b>Ataque</b>: ⭐⭐⭐☆☆<br>
-    🛡️ <b>Defensa</b>: ⭐⭐⭐☆☆<br>
-    ✨ <b>At. Especial</b>: ⭐☆☆☆☆<br>
-    🛡️ <b>Def. Especial</b>: ⭐⭐☆☆☆<br>
-    💨 <b>Velocidad</b>: ⭐☆☆☆☆
+    ⚔️ <b>Ataque</b>: ⭐☆☆☆☆<br>
+    🛡️ <b>Defensa</b>: ⭐☆☆☆☆<br>
+    ✨ <b>At. Especial</b>: ⭐⭐☆☆☆<br>
+    🛡️ <b>Def. Especial</b>: ⭐☆☆☆☆<br>
+    💨 <b>Velocidad</b>: ⭐⭐☆☆☆
     </td>
 </tr>
 
@@ -485,27 +575,27 @@ font-weight:bold;
 
 
 
-🏆 **PC máximo (Nivel 50):** 2522
+🏆 **PC máximo (Nivel 50):** 1056
 
-⚔️ **Ataque:** 160
+⚔️ **Ataque:** 122
 
-🛡️ **Defensa:** 156
+🛡️ **Defensa:** 84
 
-❤️ **Resistencia:** 260
+❤️ **Resistencia:** 121
 
-🏷️ **Tipos:** <img src="https://images.wikidexcdn.net/mwuploads/wikidex/c/c3/latest/20230128125621/Tipo_normal_icono_EP.svg" width="23" alt="Normal" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Normal-A8A77A?style=flat-square" alt="Normal" style="vertical-align:middle;">&nbsp;
+🏷️ **Tipos:** <img src="https://images.wikidexcdn.net/mwuploads/wikidex/d/d6/latest/20230128124702/Tipo_agua_icono_EP.svg" width="23" alt="Agua" style="vertical-align:middle;">&nbsp;<img src="https://img.shields.io/badge/Agua-6390F0?style=flat-square" alt="Agua" style="vertical-align:middle;">&nbsp;
 
 ---
 
 ### ⚡ Ataques rápidos
 
-<img src="https://img.shields.io/badge/Bullet%20Seed-7AC74C?style=flat-square"> ⚔️7 ⚡13 ⏱️1.0s<br><img src="https://img.shields.io/badge/Bite-705746?style=flat-square"> ⚔️6 ⚡4 ⏱️0.5s<br><img src="https://img.shields.io/badge/Tackle-A8A77A?style=flat-square"> ⚔️5 ⚡5 ⏱️0.5s<br><img src="https://img.shields.io/badge/Mud%20Shot-E2BF65?style=flat-square"> ⚔️4 ⚡6 ⏱️0.5s
+<img src="https://img.shields.io/badge/Bubble-6390F0?style=flat-square"> ⚔️10 ⚡12 ⏱️1.0s<br><img src="https://img.shields.io/badge/Pound-A8A77A?style=flat-square"> ⚔️6 ⚡5 ⏱️0.5s
 
 ---
 
 ### 💥 Ataques cargados
 
-<img src="https://img.shields.io/badge/Crunch-705746?style=flat-square"> ⚔️65 ⚡33 ⏱️3.0s<br><img src="https://img.shields.io/badge/Trailblaze-7AC74C?style=flat-square"> ⚔️65 ⚡50 ⏱️2.0s<br><img src="https://img.shields.io/badge/Body%20Slam-A8A77A?style=flat-square"> ⚔️50 ⚡33 ⏱️2.0s
+<img src="https://img.shields.io/badge/Water%20Pulse-6390F0?style=flat-square"> ⚔️65 ⚡50 ⏱️3.0s<br><img src="https://img.shields.io/badge/Surf-6390F0?style=flat-square"> ⚔️60 ⚡50 ⏱️1.5s<br><img src="https://img.shields.io/badge/Aerial%20Ace-A98FF3?style=flat-square"> ⚔️55 ⚡33 ⏱️2.5s
 
 
 ---
@@ -517,11 +607,11 @@ font-weight:bold;
 <td>
 
 
-    💬 Se obceca tanto en acumular bayas en la cola que no se da ni cuenta de cuando tiene demasiadas y se le acaban cayendo.
+    💬 Secreta burbujas tanto por la espalda como por el pecho. Gracias a la elasticidad de estas, puede parar ataques y reducir el daño recibido.
 
-    🎮 Juego de debut: Pokémon Espada / Escudo
+    🎮 Juego de debut: Pokémon X / Y
 
-    🌍 Región: Galar
+    🌍 Región: Kalos
     
 
 </td>
@@ -536,7 +626,7 @@ font-weight:bold;
 <tr>
 <td>
 
-🎨 Su color en la Pokédex es <img src="https://img.shields.io/badge/Marrón-795548?style=flat-square" alt="brown" style="vertical-align:middle;">.<br>📏 Mide 0.6 m.<br>🥚 Pertenece al grupo huevo Campo.
+🧬 Introducido en la generación VI (Kalos).<br>🥚 Pertenece al grupo huevo Agua 1.<br>🎯 Ratio de captura: 45.
 
 </td>
 </tr>
@@ -1263,16 +1353,18 @@ font-weight:bold;
 
 
 
+
 <!-- FRASE_GAMER -->
-<!-- Generated: 2026-07-31T11:38:46.679559+00:00 -->
+<!-- Generated: 2026-07-31T11:41:28.558229+00:00 -->
 
 ---
 
 ## 💬 Frase Gamer del día
 
-> *"El verdadero juego comienza cuando apagas la consola."*
+> *"Si no estás ganando, ¡estás aprendiendo!"*
 
 <!-- END_FRASE_GAMER -->
+
 
 
 
