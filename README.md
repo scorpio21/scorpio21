@@ -6,6 +6,9 @@
 Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=38&duration=3500&pause=1200&color=FFCB05&center=true&vCenter=true&width=900&lines=Pok%C3%A9mon+del+D%C3%ADa;%F0%9F%8E%AF+Descubre+el+elegido+de+hoy;%F0%9F%93%96+Datos%2C+estad%C3%ADsticas+y+curiosidades;%E2%9C%A8+%C2%A1Atr%C3%A1palos+a+todos!" alt="Pokémon del Día" />
+</p>
 
 <!-- POKEMON_INFO -->
 <!-- Generated: 2026-07-31T11:18:39.714359+00:00 -->
