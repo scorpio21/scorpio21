@@ -7,7 +7,7 @@ Estoy constantemente aprendiendo y experimentando con nuevas tecnologías.
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=38&duration=3500&pause=1200&color=FFCB05&center=true&vCenter=true&width=900&lines=Pok%C3%A9mon+del+D%C3%ADa;%F0%9F%8E%AF+Descubre+el+elegido+de+hoy;%F0%9F%93%96+Datos%2C+estad%C3%ADsticas+y+curiosidades;%E2%9C%A8+%C2%A1Atr%C3%A1palos+a+todos!" alt="Pokémon del Día" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=38&duration=3500&pause=1200&color=E53935&center=true&vCenter=true&width=900&lines=Pok%C3%A9dex+Diaria;Pok%C3%A9mon+del+D%C3%ADa;%F0%9F%94%8D+Analizando...;%E2%AD%90+%C2%A1Que+empiece+la+aventura!" alt="Pokédex Diaria" />
 </p>
 
 <!-- POKEMON_INFO -->
