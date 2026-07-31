@@ -1,5 +1,6 @@
 from builders.pokemon_table import build_pokemon_table
 from builders.pokemon_go import build_pokemon_go
+from urllib.parse import quote
 
 def build_pokemon_info_block(
     fecha,
@@ -126,14 +127,13 @@ def build_pokemon_info_block(
 
     🌍 Región: {generation.split("(")[1].replace(")", "")}
     """
+    nombre_url = quote(nombre)
 
     return f"""<!-- POKEMON_INFO -->
 <!-- Generated: {fecha} -->
 
-<h2 align="center">🐱‍👤 Pokémon del día</h2>
-
 <p align="center">
-Descubre cada día un Pokémon diferente con su información completa.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=38&duration=3500&pause=1200&color=E53935&center=true&vCenter=true&width=900&lines=Pok%C3%A9dex+Diaria;Pok%C3%A9mon+del+D%C3%ADa;%F0%9F%94%8D+Analizando...;%E2%AD%90+{nombre_url}" alt="Pokédex Diaria" />
 </p>
 
 ---
