@@ -1579,14 +1579,17 @@ font-weight:bold;
 | Lenguaje / Tecnología | Nivel |
 |------------------------|-------|
 | ![VB6](https://img.shields.io/badge/-VB6-blueviolet) Visual Basic 6.0 | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/vb6-progress.svg" width="250" /> |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) Python | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/python-progress.svg" width="250" /> |
 | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff) PHP | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/php-progress.svg" width="250" /> |
+| ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=fff) C# / .NET | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/csharp-progress.svg" width="250" /> |
 | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff) MySQL | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/mysql-progress.svg" width="250" /> |
 | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) HTML | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/html-progress.svg" width="250" /> |
 | ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff) CSS | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/css-progress.svg" width="250" /> |
-| ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) JavaScript | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/js-progress.svg" width="250" /> |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) JavaScript | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/js-progress.svg" width="250" /> |
+| ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) Git | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/git-progress.svg" width="250" /> |
+| ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff) GitHub Actions | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/actions-progress.svg" width="250" /> |
 
 ---
-
 ### 📌 Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías | Enlace |

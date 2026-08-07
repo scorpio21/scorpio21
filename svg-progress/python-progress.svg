@@ -1,0 +1,48 @@
+<svg width="100%" height="20" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pythonGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2d5fa4"/>
+      <stop offset="100%" stop-color="#4da3ff"/>
+    </linearGradient>
+
+    <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0)"/>
+      <stop offset="50%" stop-color="rgba(255,255,255,0.7)"/>
+      <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+    </linearGradient>
+
+    <clipPath id="clip">
+      <rect width="95%" height="20" rx="10"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .bg { fill:#ddd; }
+    .fg { fill:url(#pythonGrad); }
+    .label { fill:#000; font-size:12px; font-family:sans-serif; font-weight:bold; }
+
+    @media (prefers-color-scheme: dark){
+      .bg{ fill:#444; }
+      .label{ fill:#fff; }
+    }
+  </style>
+
+  <rect class="bg" width="100%" height="20" rx="10"/>
+
+  <rect class="fg" width="95%" height="20" rx="10">
+    <animate attributeName="width" from="0" to="95%" dur="1s" fill="freeze"/>
+  </rect>
+
+  <!-- Brillo -->
+  <rect x="-40" width="40" height="20"
+        fill="url(#shine)"
+        clip-path="url(#clip)">
+    <animate attributeName="x"
+             from="-40"
+             to="250"
+             dur="2.5s"
+             repeatCount="indefinite"/>
+  </rect>
+
+  <text class="label" x="95%" y="15" text-anchor="end">95%</text>
+</svg>
