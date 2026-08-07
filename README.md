@@ -1632,7 +1632,7 @@ font-weight:bold;
 ![XML](https://img.shields.io/badge/-XML-orange)
 
 </td>
-    <td><a href="https://github.com/scorpio21/ao-spell-editor">🔗 GitHub</a></td>
+    <td><a href="https://github.com/scorpio21/ao-spell-editor">🔗</a></td>
   </tr>
 
   <tr>
@@ -1644,7 +1644,7 @@ font-weight:bold;
 ![Actions](https://img.shields.io/badge/-Actions-2088FF?logo=githubactions&logoColor=fff)
 
 </td>
-    <td><a href="https://github.com/scorpio21">🔗 GitHub</a></td>
+    <td><a href="https://github.com/scorpio21">🔗</a></td>
   </tr>
 
   <tr>
@@ -1656,7 +1656,7 @@ font-weight:bold;
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=fff)
 
 </td>
-    <td><a href="https://github.com/scorpio21">🔗 GitHub</a></td>
+    <td><a href="https://github.com/scorpio21">🔗</a></td>
   </tr>
 
   <tr>
@@ -1668,7 +1668,7 @@ font-weight:bold;
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=fff)
 
 </td>
-    <td><a href="https://github.com/scorpio21/zx-spectrum-extractor">🔗 GitHub</a></td>
+    <td><a href="https://github.com/scorpio21/zx-spectrum-extractor">🔗</a></td>
   </tr>
 
   <tr>
@@ -1679,7 +1679,7 @@ font-weight:bold;
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godotengine&logoColor=fff)
 
 </td>
-    <td><a href="https://github.com/scorpio21">🔗 GitHub</a></td>
+    <td><a href="https://github.com/scorpio21">🔗</a></td>
   </tr>
 
 </table>
