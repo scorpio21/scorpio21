@@ -1588,14 +1588,14 @@ font-weight:bold;
 | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff) **PHP** | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/php-progress.svg" width="250" /> |
 | ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=fff) **C# / .NET** | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/csharp-progress.svg" width="250" /> |
 | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff) **MySQL** | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/mysql-progress.svg" width="250" /> |
-| ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) **HTML5** | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/html-progress.svg" width="250" /> |
-| ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff) **CSS3** | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/css-progress.svg" width="250" /> |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) **HTML5** | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/html-progress.svg" width="250" /> |
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff) **CSS3** | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/css-progress.svg" width="250" /> |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) **JavaScript** | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/js-progress.svg" width="250" /> |
 | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) **Git** | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/git-progress.svg" width="250" /> |
 | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff) **GitHub Actions** | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/actions-progress.svg" width="250" /> |
 | ![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godotengine&logoColor=fff) **Godot Engine** | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/godot-progress.svg" width="250" /> |
 
-> 🚀 **Tecnologías principales:** Visual Basic 6, Python, PHP, C#/.NET, MySQL, HTML5, CSS3, JavaScript, Git, GitHub Actions y Godot Engine.
+> 💡 **Tecnologías principales:** Visual Basic 6 • Python • PHP • C#/.NET • MySQL • HTML5 • CSS3 • JavaScript • Git • GitHub Actions • Godot Engine
 
 ---
 
