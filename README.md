@@ -1599,16 +1599,88 @@ font-weight:bold;
 
 ---
 
-### 📌 Proyectos destacados
+<h3>📌 Proyectos destacados</h3>
 
-| Proyecto | Descripción | Tecnologías | Enlace |
-|---------|-------------|-------------|--------|
-| ![AO](https://img.shields.io/badge/AO-6F42C1?style=flat-square&logo=gamejolt&logoColor=white) **Argentum Online Revival** | Servidor MMORPG basado en Argentum Online con nuevas funciones, corrección de errores y mejoras para sistemas modernos. | ![VB6](https://img.shields.io/badge/-VB6-blueviolet) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff) | [🔗 GitHub](https://github.com/scorpio21/argentum-online-revival) |
-| ![Spell](https://img.shields.io/badge/AO-2196F3?style=flat-square&logo=magic&logoColor=white) **AO Spell Editor** | Editor visual de hechizos para Argentum Online con exportación automática y herramientas de edición avanzadas. | ![VB6](https://img.shields.io/badge/-VB6-blueviolet) ![XML](https://img.shields.io/badge/-XML-orange) | [🔗 GitHub](https://github.com/scorpio21/ao-spell-editor) |
-| ![Pokemon](https://img.shields.io/badge/PKMN-FFCB05?style=flat-square&logo=pokemon&logoColor=black) **Pokémon del Día** | Generador automático para GitHub README que muestra un Pokémon diario con estadísticas, evolución, curiosidades y GitHub Actions. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) ![Actions](https://img.shields.io/badge/-Actions-2088FF?logo=githubactions&logoColor=fff) | [🔗 GitHub](https://github.com/scorpio21) |
-| ![CIMA](https://img.shields.io/badge/CIMA-E91E63?style=flat-square) **Control de Medicación** | Aplicación para gestionar medicamentos utilizando la API oficial CIMA de la AEMPS con interfaz moderna en .NET. | ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=fff) ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=fff) | [🔗 GitHub](https://github.com/scorpio21) |
-| ![ZX](https://img.shields.io/badge/ZX-795548?style=flat-square) **ZX Spectrum Game Extractor** | Herramienta en Python para extraer información del World of Spectrum y exportarla a Excel automáticamente. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=fff) | [🔗 GitHub](https://github.com/scorpio21/zx-spectrum-extractor) |
-| ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) **Herramientas para Godot** | Utilidades y proyectos desarrollados con Godot Engine para automatizar tareas y facilitar el desarrollo de videojuegos. | ![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godotengine&logoColor=fff) | [🔗 GitHub](https://github.com/scorpio21) |
+<table>
+  <tr>
+    <th width="28%">Proyecto</th>
+    <th width="47%">Descripción</th>
+    <th width="15%">Tecnologías</th>
+    <th width="10%">Enlace</th>
+  </tr>
+
+  <tr>
+    <td><b>🎮 Argentum Online Revival</b></td>
+    <td>Servidor MMORPG basado en Argentum Online con nuevas funciones, corrección de errores y mejoras para sistemas modernos.</td>
+    <td>
+
+![VB6](https://img.shields.io/badge/-VB6-blueviolet)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+
+</td>
+    <td><a href="https://github.com/scorpio21/argentum-online-revival">🔗 GitHub</a></td>
+  </tr>
+
+  <tr>
+    <td><b>🧙 AO Spell Editor</b></td>
+    <td>Editor visual de hechizos para Argentum Online con exportación automática y herramientas de edición avanzadas.</td>
+    <td>
+
+![VB6](https://img.shields.io/badge/-VB6-blueviolet)
+![XML](https://img.shields.io/badge/-XML-orange)
+
+</td>
+    <td><a href="https://github.com/scorpio21/ao-spell-editor">🔗 GitHub</a></td>
+  </tr>
+
+  <tr>
+    <td><b>🐍 Pokémon del Día</b></td>
+    <td>Generador automático para GitHub README que muestra un Pokémon diario con estadísticas, evolución, curiosidades y GitHub Actions.</td>
+    <td>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![Actions](https://img.shields.io/badge/-Actions-2088FF?logo=githubactions&logoColor=fff)
+
+</td>
+    <td><a href="https://github.com/scorpio21">🔗 GitHub</a></td>
+  </tr>
+
+  <tr>
+    <td><b>💊 Control de Medicación</b></td>
+    <td>Aplicación para gestionar medicamentos utilizando la API oficial CIMA de la AEMPS con interfaz moderna en .NET.</td>
+    <td>
+
+![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=fff)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=fff)
+
+</td>
+    <td><a href="https://github.com/scorpio21">🔗 GitHub</a></td>
+  </tr>
+
+  <tr>
+    <td><b>📊 ZX Spectrum Game Extractor</b></td>
+    <td>Herramienta en Python para extraer información del World of Spectrum y exportarla a Excel automáticamente.</td>
+    <td>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=fff)
+
+</td>
+    <td><a href="https://github.com/scorpio21/zx-spectrum-extractor">🔗 GitHub</a></td>
+  </tr>
+
+  <tr>
+    <td><b>🎲 Herramientas para Godot</b></td>
+    <td>Utilidades y proyectos desarrollados con Godot Engine para automatizar tareas y facilitar el desarrollo de videojuegos.</td>
+    <td>
+
+![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godotengine&logoColor=fff)
+
+</td>
+    <td><a href="https://github.com/scorpio21">🔗 GitHub</a></td>
+  </tr>
+
+</table>
 
 ---
 
