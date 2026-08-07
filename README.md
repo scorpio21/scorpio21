@@ -1618,9 +1618,9 @@ font-weight:bold;
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 
 </td>
-    <td><a href="https://github.com/scorpio21/argentum-online-revival">
-<img src="https://img.shields.io/badge/Ver%20en-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a></td>
+    <td align="center">
+<a href="https://github.com/scorpio21/argentum-online-revival">🐙</a>
+</td>
   </tr>
 
   <tr>
