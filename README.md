@@ -1588,6 +1588,7 @@ font-weight:bold;
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) JavaScript | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/js-progress.svg" width="250" /> |
 | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) Git | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/git-progress.svg" width="250" /> |
 | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff) GitHub Actions | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/actions-progress.svg" width="250" /> |
+| ![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godotengine&logoColor=fff) Godot | <img src="https://raw.githubusercontent.com/scorpio21/scorpio21/main/svg-progress/godot-progress.svg" width="250" /> |
 
 ---
 ### 📌 Proyectos destacados
